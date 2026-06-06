@@ -351,6 +351,8 @@ let myPubkey = null; // NIP-07 ユーザ（無ければ null）
 let myName = null;
 let myConsented = false;
 let myConsentEventId = null; // 自分の kind:30078 承諾イベント id（削除用）
+let consentSettled = false; // kind:30078 探索の EOSE が来たか
+let consentEoseSub = null; // EOSE 監視の購読
 let writeRelays = []; // 投稿・承諾の送信先
 
 const consenters = new Set(); // 改変を承諾した pubkey
@@ -363,6 +365,33 @@ let nostrWatch = null; // window.nostr の遅延注入を監視するタイマ
 // ---------------------------------------------------------------------------
 // consent gated kind:1 collection
 // ---------------------------------------------------------------------------
+// kind:30078 探索の EOSE を監視し、全 relay 分（or タイムアウト）で確定する
+function watchConsentEose(relays) {
+  consentSettled = false;
+  const need = new Set(relays.map(normalizeRelay));
+  const got = new Set();
+  let settled = false;
+  const settle = () => {
+    if (settled) return;
+    settled = true;
+    clearTimeout(timer);
+    if (consentEoseSub) {
+      consentEoseSub.unsubscribe();
+      consentEoseSub = null;
+    }
+    consentSettled = true;
+    renderUser();
+  };
+  consentEoseSub = rxNostr.createAllMessageObservable().subscribe((pkt) => {
+    if (pkt.type !== "EOSE") return;
+    got.add(normalizeRelay(pkt.from));
+    for (const r of need) if (!got.has(r)) return;
+    settle();
+  });
+  // どこかの relay が EOSE を返さなくても進めるための保険
+  const timer = setTimeout(settle, 6000);
+}
+
 function onConsentEvent(ev) {
   if (!isConsentEvent(ev)) return;
   if (ev.pubkey === myPubkey) {
@@ -411,7 +440,7 @@ function restartForwardSub() {
   if (authors.length === 0) return;
   const req = createRxForwardReq();
   k1Sub = rxNostr.use(req).subscribe({ next: (p) => renderPost(p.event) });
-  req.emit({ kinds: [1], authors, limit: 100 });
+  req.emit({ kinds: [1], authors, limit: 20 });
 }
 
 // ---------------------------------------------------------------------------
@@ -441,6 +470,16 @@ function renderUser() {
     ok.title = "クリックで承諾を取り消すのだ";
     ok.addEventListener("click", onRevokeClick);
     $user.append(ok);
+    return;
+  }
+
+  if (!consentSettled) {
+    // 承諾状況の確認が済むまで（kind:30078 の EOSE 前）はボタンを出さない。
+    // でないと承諾済みの人にもロード中に承諾ボタンが見えてしまう。
+    const wait = document.createElement("span");
+    wait.className = "consent-text";
+    wait.textContent = "確認中なのだ";
+    $user.append(wait);
     return;
   }
 
@@ -610,6 +649,10 @@ function teardown() {
     consentSub.unsubscribe();
     consentSub = null;
   }
+  if (consentEoseSub) {
+    consentEoseSub.unsubscribe();
+    consentEoseSub = null;
+  }
   if (rebuildTimer) {
     clearTimeout(rebuildTimer);
     rebuildTimer = null;
@@ -620,6 +663,7 @@ function teardown() {
   profileMap.clear();
   myConsented = false;
   myConsentEventId = null;
+  consentSettled = false;
   $timeline.replaceChildren();
 }
 
@@ -670,6 +714,8 @@ async function startPersonal() {
 
   // phase 3: 承諾(kind:30078)を forward strategy で購読
   //  フォローが居ればその範囲、居なければ全体から承諾者を探す
+  //  EOSE が来るまでは承諾ボタンを出さない（承諾済み判定が確定するまで隠す）
+  watchConsentEose(readRelays);
   const consentReq = createRxForwardReq();
   consentSub = rxNostr.use(consentReq).subscribe({ next: (p) => onConsentEvent(p.event) });
   if (follows.length > 0) {
