@@ -33,6 +33,10 @@ body {
   padding: 10px 16px;
   border-bottom: 1px solid var(--fg-dim);
   letter-spacing: 2px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
 }
 
 #header .logo {
@@ -41,9 +45,39 @@ body {
   text-transform: lowercase;
 }
 
-#header .cursor {
+.cursor {
   animation: blink 1s steps(1) infinite;
   color: var(--fg);
+}
+
+#user {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  letter-spacing: 0;
+  margin-left: auto;
+  font-size: 13px;
+  flex-wrap: wrap;
+}
+
+#user .uname {
+  color: var(--fg-bright);
+}
+#user .uname::before {
+  content: "@ ";
+  color: var(--fg-dim);
+}
+
+#user .consent-text {
+  color: var(--fg-dim);
+}
+
+#user .consent-ok {
+  color: var(--fg);
+}
+
+#consent-btn {
+  padding: 2px 8px;
 }
 
 @keyframes blink {
@@ -150,6 +184,25 @@ input:focus {
   border-top: 1px solid var(--fg-dim);
   color: var(--fg-dim);
   font-size: 12px;
+}
+
+/* ---- composer (kind:1 post) ---- */
+#composer {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px;
+  border-top: 1px solid var(--fg-dim);
+}
+
+#composer .composer-prompt {
+  color: var(--fg-dim);
+}
+
+#composer-input {
+  flex: 1 1 auto;
+  min-width: 0;
 }
 
 .hidden {

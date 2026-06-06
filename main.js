@@ -21,6 +21,11 @@ const FALLBACK_RELAYS = [
   "wss://r.kojira.io",
 ];
 
+// アプリ固有データ(kind:30078, NIP-78)の識別子と承諾タグ
+const APP_D = "zundamstr";
+const CLIENT_TAG = ["client", "zundamstr"];
+const COPYRIGHT_TAG = ["copyright", "accepted"];
+
 // ---------------------------------------------------------------------------
 // dom
 // ---------------------------------------------------------------------------
@@ -28,6 +33,9 @@ const $boot = document.getElementById("boot");
 const $bootMsg = document.getElementById("boot-msg");
 const $timeline = document.getElementById("timeline");
 const $status = document.getElementById("status");
+const $user = document.getElementById("user");
+const $composer = document.getElementById("composer");
+const $composerInput = document.getElementById("composer-input");
 
 function setBootMsg(text) {
   $bootMsg.textContent = text;
@@ -150,24 +158,48 @@ function fetchEvents(rxNostr, filters, timeoutMs = 5000) {
   });
 }
 
-function parseNip65ReadRelays(ev) {
+// イベントを relays（kind:10002 write relay）へ署名(NIP-07)して送信する
+function publishEvent(rxNostr, params, relays) {
+  return new Promise((resolve) => {
+    let ok = false;
+    let done = false;
+    const finish = () => {
+      if (done) return;
+      done = true;
+      sub.unsubscribe();
+      resolve(ok);
+    };
+    const opts = relays && relays.length ? { relays } : undefined;
+    const sub = rxNostr.send(params, opts).subscribe({
+      next: (packet) => {
+        if (packet.ok) ok = true;
+      },
+      complete: finish,
+      error: finish,
+    });
+    setTimeout(finish, 8000);
+  });
+}
+
+function parseRelays(ev, want) {
+  // want: "read" | "write"
   if (!ev) return [];
   const relays = [];
   for (const tag of ev.tags) {
     if (tag[0] !== "r" || !tag[1]) continue;
     const marker = tag[2];
-    if (!marker || marker === "read") relays.push(normalizeRelay(tag[1]));
+    if (!marker || marker === want) relays.push(normalizeRelay(tag[1]));
   }
   return dedupe(relays);
 }
 
-function parseKind3Relays(ev) {
+function parseKind3Relays(ev, want) {
   if (!ev || !ev.content) return [];
   try {
     const obj = JSON.parse(ev.content);
     const relays = [];
     for (const [url, perm] of Object.entries(obj)) {
-      if (!perm || perm.read !== false) relays.push(normalizeRelay(url));
+      if (!perm || perm[want] !== false) relays.push(normalizeRelay(url));
     }
     return dedupe(relays);
   } catch (_) {
@@ -184,11 +216,28 @@ function parseFollows(ev) {
   return [...set];
 }
 
+// kind:30078 が zundamstr の改変承諾イベントか（署名は rx-nostr が検証済み）
+function isConsentEvent(ev) {
+  if (!ev || ev.kind !== 30078) return false;
+  let client = false;
+  let copyright = false;
+  for (const tag of ev.tags) {
+    if (tag[0] === "client" && tag[1] === CLIENT_TAG[1]) client = true;
+    if (tag[0] === "copyright" && tag[1] === COPYRIGHT_TAG[1]) copyright = true;
+  }
+  return client && copyright;
+}
+
 function normalizeRelay(url) {
   return url.trim().replace(/\/+$/, "");
 }
 function dedupe(arr) {
   return [...new Set(arr.filter(Boolean))];
+}
+
+function shortNpub(pubkey) {
+  const npub = nip19.npubEncode(pubkey);
+  return npub.slice(0, 10) + "…" + npub.slice(-4);
 }
 
 function profileName(metaEv, pubkey) {
@@ -199,8 +248,7 @@ function profileName(metaEv, pubkey) {
       if (name && name.trim()) return name.trim();
     } catch (_) {}
   }
-  const npub = nip19.npubEncode(pubkey);
-  return npub.slice(0, 10) + "…" + npub.slice(-4);
+  return shortNpub(pubkey);
 }
 
 // ---------------------------------------------------------------------------
@@ -209,6 +257,12 @@ function profileName(metaEv, pubkey) {
 const seenEvents = new Set();
 const profileMap = new Map(); // pubkey -> name
 
+// 平仮名・カタカナ・漢字が1つも無ければ日本語ではないと判定する
+const JP_CHAR = /[぀-ゟ゠-ヿ一-鿿]/;
+function isJapanese(text) {
+  return JP_CHAR.test(text);
+}
+
 function nearBottom() {
   return $timeline.scrollHeight - $timeline.scrollTop - $timeline.clientHeight < 80;
 }
@@ -216,6 +270,7 @@ function nearBottom() {
 function renderPost(ev) {
   if (seenEvents.has(ev.id)) return;
   seenEvents.add(ev.id);
+  if (!isJapanese(ev.content)) return; // 日本語以外は非表示
 
   const name = profileMap.get(ev.pubkey) || profileName(null, ev.pubkey);
   const stick = nearBottom();
@@ -231,7 +286,7 @@ function renderPost(ev) {
 
   const sepEl = document.createElement("span");
   sepEl.className = "sep";
-  sepEl.textContent = ">>";
+  sepEl.textContent = ">";
 
   const bodyEl = document.createElement("span");
   bodyEl.className = "body";
@@ -262,159 +317,329 @@ function applyProfiles(metaEvents, pubkeys) {
     if (!prev || ev.created_at > prev.created_at) latestMeta.set(ev.pubkey, ev);
   }
   for (const pk of pubkeys) {
-    profileMap.set(pk, profileName(latestMeta.get(pk), pk));
+    if (!profileMap.has(pk) || latestMeta.has(pk)) {
+      profileMap.set(pk, profileName(latestMeta.get(pk), pk));
+    }
   }
 }
 
-// 未知の pubkey のプロフィールを遅延取得して表示名を差し替える
-async function ensureProfile(rxNostr, pubkey) {
-  if (profileMap.has(pubkey)) return;
-  profileMap.set(pubkey, profileName(null, pubkey)); // 多重取得防止のプレースホルダ
-  const meta = await fetchEvents(
-    rxNostr,
-    { kinds: [0], authors: [pubkey], limit: 1 },
-    4000,
-  );
-  const ev = latest(meta);
-  if (!ev) return;
-  const name = profileName(ev, pubkey);
-  profileMap.set(pubkey, name);
-  document
-    .querySelectorAll(`.post[data-pubkey="${pubkey}"] .name`)
-    .forEach((el) => (el.textContent = name));
+// ---------------------------------------------------------------------------
+// app state
+// ---------------------------------------------------------------------------
+let rxNostr = null;
+let myPubkey = null; // NIP-07 ユーザ（無ければ null）
+let myName = null;
+let myConsented = false;
+let writeRelays = []; // 投稿・承諾の送信先
+
+const consenters = new Set(); // 改変を承諾した pubkey
+const pendingNew = new Set(); // まだ kind:1 を取り込んでいない承諾者
+let k1Sub = null; // 現在の kind:1 forward 購読
+let consentSub = null; // kind:30078 承諾の forward 購読
+let rebuildTimer = null;
+let nostrWatch = null; // window.nostr の遅延注入を監視するタイマ
+
+// ---------------------------------------------------------------------------
+// consent gated kind:1 collection
+// ---------------------------------------------------------------------------
+function onConsentEvent(ev) {
+  if (!isConsentEvent(ev)) return;
+  if (ev.pubkey === myPubkey) {
+    myConsented = true;
+    renderUser();
+  }
+  addConsenter(ev.pubkey);
+}
+
+function addConsenter(pubkey) {
+  if (consenters.has(pubkey)) return;
+  consenters.add(pubkey);
+  pendingNew.add(pubkey);
+  scheduleRebuild();
+}
+
+function scheduleRebuild() {
+  if (rebuildTimer) clearTimeout(rebuildTimer);
+  rebuildTimer = setTimeout(rebuildKind1, 700);
+}
+
+// 新たに承諾が判明した pubkey のプロフィール(kind:0=backward)を解決し、
+// kind:1 の forward 購読を全承諾者で貼り直す
+async function rebuildKind1() {
+  rebuildTimer = null;
+  const newAuthors = [...pendingNew];
+  pendingNew.clear();
+  if (newAuthors.length === 0) return;
+
+  // kind:0 は backward strategy で取得して表示名を解決
+  const metaEvents = await fetchEvents(rxNostr, { kinds: [0], authors: newAuthors });
+  applyProfiles(metaEvents, newAuthors);
+
+  restartForwardSub();
+  // ライブ移行後はステータスバーを隠す
+  $status.classList.add("hidden");
+  $status.textContent = "";
+}
+
+// 全承諾者の kind:1 を forward strategy で購読し直す
+//  since を付けないので stored（履歴）+ live を forward で受け取る
+function restartForwardSub() {
+  if (k1Sub) k1Sub.unsubscribe();
+  const authors = [...consenters];
+  if (authors.length === 0) return;
+  const req = createRxForwardReq();
+  k1Sub = rxNostr.use(req).subscribe({ next: (p) => renderPost(p.event) });
+  req.emit({ kinds: [1], authors, limit: 100 });
 }
 
 // ---------------------------------------------------------------------------
-// entry: 自動で NIP-07 接続、無ければ fallback relay のパブリックを表示
+// header user area
+// ---------------------------------------------------------------------------
+function renderUser() {
+  if (!myPubkey) {
+    $user.classList.add("hidden");
+    return;
+  }
+  $user.classList.remove("hidden");
+  $user.replaceChildren();
+
+  const name = document.createElement("span");
+  name.className = "uname";
+  name.textContent = myName || shortNpub(myPubkey);
+  $user.append(name);
+
+  if (myConsented) {
+    // 承諾済みなら催促メッセージもボタンも出さない
+    const ok = document.createElement("span");
+    ok.className = "consent-ok";
+    ok.textContent = "✅";
+    $user.append(ok);
+    return;
+  }
+
+  const txt = document.createElement("span");
+  txt.className = "consent-text";
+  txt.textContent = "勝手に会話をずんだもん化されることを承諾するのだ";
+
+  const btn = document.createElement("button");
+  btn.id = "consent-btn";
+  btn.type = "button";
+  btn.textContent = "[OKなのだ]";
+  btn.addEventListener("click", onConsentClick);
+
+  $user.append(txt, btn);
+}
+
+async function onConsentClick() {
+  const btn = document.getElementById("consent-btn");
+  if (btn) {
+    btn.disabled = true;
+    btn.textContent = "送信中なのだ";
+  }
+  try {
+    const ok = await publishEvent(
+      rxNostr,
+      {
+        kind: 30078,
+        content: "",
+        tags: [["d", APP_D], CLIENT_TAG, COPYRIGHT_TAG],
+      },
+      writeRelays,
+    );
+    if (!ok) throw new Error("リレーに拒否されたのだ");
+    // 承諾成立 → 催促を消し、自分を承諾者に加えて kind:1 を再開
+    myConsented = true;
+    renderUser();
+    addConsenter(myPubkey);
+  } catch (e) {
+    if (btn) {
+      btn.disabled = false;
+      btn.textContent = "[OKなのだ]";
+    }
+    setStatus("承諾の送信に失敗したのだ: " + (e.message || e));
+  }
+}
+
+// ---------------------------------------------------------------------------
+// composer (kind:1 post)
+// ---------------------------------------------------------------------------
+$composer.addEventListener("submit", async (e) => {
+  e.preventDefault();
+  const text = $composerInput.value.trim();
+  if (!text) return;
+  const btn = document.getElementById("composer-send");
+  btn.disabled = true;
+  try {
+    // 投稿自体はずんだもん化せず生テキストで送信する
+    const ok = await publishEvent(
+      rxNostr,
+      { kind: 1, content: text, tags: [] },
+      writeRelays,
+    );
+    if (!ok) throw new Error("リレーに拒否されたのだ");
+    $composerInput.value = "";
+    // 承諾済みなら forward 購読経由で他と同様ずんだもん化されて表示される
+    setStatus(
+      myConsented
+        ? "投稿したのだ（承諾済みなので表示はずんだもん化されるのだ）"
+        : "投稿したのだ（未承諾なので自分のTLには出ないのだ）",
+    );
+  } catch (err) {
+    setStatus("投稿に失敗したのだ: " + (err.message || err));
+  } finally {
+    btn.disabled = false;
+  }
+});
+
+// ---------------------------------------------------------------------------
+// entry
 // ---------------------------------------------------------------------------
 async function init() {
-  setStatus("起動中… NIP-07 を確認中なのだ");
+  setStatus("NIP-07 を確認中なのだ");
+  setBootMsg("NIP-07 を確認中なのだ");
 
-  let pubkey = null;
+  rxNostr = createRxNostr({ verifier });
+
+  // 待たずに即起動。NIP-07 が既にあれば個人モード、無ければパブリックで開始し、
+  // あとから window.nostr が注入されたら検出して個人モードへ切り替える。
   if (window.nostr) {
     try {
-      pubkey = await window.nostr.getPublicKey();
+      myPubkey = await window.nostr.getPublicKey();
     } catch (_) {
-      pubkey = null;
+      myPubkey = null;
     }
   }
 
-  const rxNostr = createRxNostr({ verifier });
-
-  if (pubkey) {
-    await startPersonal(rxNostr, pubkey);
+  if (myPubkey) {
+    await startPersonal();
   } else {
-    await startPublic(rxNostr);
+    await startPublic();
+    if (!window.nostr) watchForNostr();
   }
 }
 
-// --- NIP-07 あり: フォローのタイムライン ---
-async function startPersonal(rxNostr, pubkey) {
+// パブリック開始後、window.nostr が遅れて注入されたら検出して個人モードへ切り替える
+function watchForNostr() {
+  if (nostrWatch) return;
+  nostrWatch = setInterval(() => {
+    if (!window.nostr) return;
+    clearInterval(nostrWatch);
+    nostrWatch = null;
+    switchToPersonal();
+  }, 500);
+}
+
+// パブリック → 個人モードへ。状態を破棄して再構築する
+async function switchToPersonal() {
+  let pk = null;
+  try {
+    pk = await window.nostr.getPublicKey();
+  } catch (_) {
+    pk = null;
+  }
+  if (!pk) return; // 拒否されたらパブリックのまま（再プロンプトはしない）
+  myPubkey = pk;
+  teardown();
+  await startPersonal();
+}
+
+// 購読・表示・収集状態をすべてリセットする
+function teardown() {
+  if (k1Sub) {
+    k1Sub.unsubscribe();
+    k1Sub = null;
+  }
+  if (consentSub) {
+    consentSub.unsubscribe();
+    consentSub = null;
+  }
+  if (rebuildTimer) {
+    clearTimeout(rebuildTimer);
+    rebuildTimer = null;
+  }
+  consenters.clear();
+  pendingNew.clear();
+  seenEvents.clear();
+  profileMap.clear();
+  myConsented = false;
+  $timeline.replaceChildren();
+}
+
+// --- NIP-07 あり: フォロー範囲の承諾者TL + 投稿 ---
+async function startPersonal() {
   $boot.classList.add("hidden");
   $timeline.classList.remove("hidden");
+  renderUser(); // まず名前未解決でも枠を出す
 
-  // phase 1: bootstrap relays でリレー情報とフォローリストを取得
+  // phase 1: bootstrap relays でリレー情報・フォロー・自分のプロフィールを取得
   rxNostr.setDefaultRelays(BOOTSTRAP_RELAYS);
 
-  setStatus("kind:10002（リレーリスト）を取得中なのだ…");
-  const relayListEvents = await fetchEvents(rxNostr, {
-    kinds: [10002],
-    authors: [pubkey],
-    limit: 1,
-  });
-  let readRelays = parseNip65ReadRelays(latest(relayListEvents));
+  setStatus("kind:10002 / kind:3 / kind:0 を取得中なのだ");
+  const [relayListEvents, contactEvents, myMeta] = await Promise.all([
+    fetchEvents(rxNostr, { kinds: [10002], authors: [myPubkey], limit: 1 }),
+    fetchEvents(rxNostr, { kinds: [3], authors: [myPubkey], limit: 1 }),
+    fetchEvents(rxNostr, { kinds: [0], authors: [myPubkey], limit: 1 }),
+  ]);
 
-  setStatus("kind:3（フォローリスト）を取得中なのだ…");
-  const contactEvents = await fetchEvents(rxNostr, {
-    kinds: [3],
-    authors: [pubkey],
-    limit: 1,
-  });
+  myName = profileName(latest(myMeta), myPubkey);
+  renderUser();
+
+  const relayList = latest(relayListEvents);
   const contact = latest(contactEvents);
 
+  let readRelays = parseRelays(relayList, "read");
+  writeRelays = parseRelays(relayList, "write");
   let relaySource = "kind:10002";
   if (readRelays.length === 0) {
-    readRelays = parseKind3Relays(contact);
+    readRelays = parseKind3Relays(contact, "read");
+    writeRelays = parseKind3Relays(contact, "write");
     relaySource = "kind:3 content";
   }
   if (readRelays.length === 0) {
     readRelays = FALLBACK_RELAYS;
     relaySource = "fallback";
   }
+  if (writeRelays.length === 0) writeRelays = readRelays;
 
   const follows = parseFollows(contact);
-  if (follows.length === 0) {
-    setStatus("kind:3 にフォローが見つからないので、パブリックを表示するのだ");
-    await startPublic(rxNostr);
-    return;
-  }
 
-  // phase 2: ユーザのリレーへ切替
+  // phase 2: ユーザの read relay へ切替、投稿欄を有効化
   rxNostr.setDefaultRelays(readRelays);
+  $composer.classList.remove("hidden");
   setStatus(
-    `リレー(${relaySource}): ${readRelays.length} / フォロー: ${follows.length} — プロフィール取得中なのだ…`,
+    `リレー(${relaySource}) read:${readRelays.length}/write:${writeRelays.length} follows:${follows.length} — 承諾者を探索中なのだ`,
   );
-  const metaEvents = await fetchEvents(rxNostr, { kinds: [0], authors: follows });
-  applyProfiles(metaEvents, follows);
 
-  // phase 3: 過去の kind:1 を backward で取得
-  setStatus(
-    `リレー(${relaySource}): ${readRelays.length} / フォロー: ${follows.length} — タイムライン取得中なのだ…`,
-  );
-  const history = await fetchEvents(rxNostr, {
-    kinds: [1],
-    authors: follows,
-    limit: 100,
-  });
-  history.sort((a, b) => a.created_at - b.created_at);
-  for (const ev of history) renderPost(ev);
-  $timeline.scrollTop = $timeline.scrollHeight;
-
-  // phase 4: 新着 kind:1 を forward で購読
-  const nowSec = Math.floor(Date.now() / 1000);
-  const fwd = createRxForwardReq();
-  rxNostr.use(fwd).subscribe({
-    next: (packet) => renderPost(packet.event),
-  });
-  fwd.emit({ kinds: [1], authors: follows, since: nowSec });
-
-  setStatus(
-    `live ● リレー(${relaySource}):${readRelays.length} フォロー:${follows.length} — ずんだもん化中なのだ`,
-  );
+  // phase 3: 承諾(kind:30078)を forward strategy で購読
+  //  フォローが居ればその範囲、居なければ全体から承諾者を探す
+  const consentReq = createRxForwardReq();
+  consentSub = rxNostr.use(consentReq).subscribe({ next: (p) => onConsentEvent(p.event) });
+  if (follows.length > 0) {
+    consentReq.emit({
+      kinds: [30078],
+      authors: [...follows, myPubkey],
+      "#d": [APP_D],
+    });
+  } else {
+    consentReq.emit({ kinds: [30078], "#d": [APP_D] });
+  }
 }
 
-// --- NIP-07 なし: fallback relay のパブリックタイムライン ---
-async function startPublic(rxNostr) {
+// --- NIP-07 なし: fallback relay の承諾者パブリックTL（閲覧のみ） ---
+async function startPublic() {
   $boot.classList.add("hidden");
   $timeline.classList.remove("hidden");
+  $user.classList.add("hidden");
+  // 署名できないので投稿欄は出さない
+  $composer.classList.add("hidden");
 
   rxNostr.setDefaultRelays(FALLBACK_RELAYS);
-  setStatus("NIP-07 が無いのでパブリックタイムラインを表示するのだ…");
+  setStatus("NIP-07 が無いので承諾者のパブリックTLを表示するのだ");
 
-  // 過去の kind:1 を backward で取得
-  const history = await fetchEvents(rxNostr, { kinds: [1], limit: 100 });
-  history.sort((a, b) => a.created_at - b.created_at);
-  const pubkeys = dedupe(history.map((e) => e.pubkey));
-
-  // 登場した pubkey のプロフィールをまとめて取得
-  const metaEvents = await fetchEvents(rxNostr, { kinds: [0], authors: pubkeys });
-  applyProfiles(metaEvents, pubkeys);
-
-  for (const ev of history) renderPost(ev);
-  $timeline.scrollTop = $timeline.scrollHeight;
-
-  // 新着 kind:1 を forward で購読（未知 pubkey は遅延でプロフィール解決）
-  const nowSec = Math.floor(Date.now() / 1000);
-  const fwd = createRxForwardReq();
-  rxNostr.use(fwd).subscribe({
-    next: (packet) => {
-      renderPost(packet.event);
-      ensureProfile(rxNostr, packet.event.pubkey);
-    },
-  });
-  fwd.emit({ kinds: [1], since: nowSec });
-
-  setStatus("live ● public(fallback) — ずんだもん化中なのだ");
+  // 全体から承諾者(kind:30078)を forward strategy で購読
+  const consentReq = createRxForwardReq();
+  consentSub = rxNostr.use(consentReq).subscribe({ next: (p) => onConsentEvent(p.event) });
+  consentReq.emit({ kinds: [30078], "#d": [APP_D] });
 }
 
 init();

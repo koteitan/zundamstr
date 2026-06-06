@@ -9,12 +9,12 @@
 <body>
   <header id="header">
     <span class="logo">zundamstr</span>
-    <span class="cursor">_</span>
+    <span id="user" class="user hidden"></span>
   </header>
 
   <main id="app">
     <section id="boot">
-      <p class="prompt">&gt; 起動中なのだ…</p>
+      <p class="prompt">&gt; 起動中なのだ</p>
       <p id="boot-msg" class="msg"></p>
     </section>
 
@@ -22,6 +22,13 @@
   </main>
 
   <div id="status" class="hidden"></div>
+
+  <form id="composer" class="hidden">
+    <span class="composer-prompt">&gt;&gt;</span>
+    <span class="cursor">_</span>
+    <input id="composer-input" type="text" placeholder="" autocomplete="off" />
+    <button id="composer-send" type="submit">[ 送信 ]</button>
+  </form>
 
   <script type="module" src="main.js"></script>
 </body>
