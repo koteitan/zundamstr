@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>zundamstr</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header id="header">
+    <span class="logo">zundamstr</span>
+    <span class="cursor">_</span>
+  </header>
+
+  <main id="app">
+    <section id="boot">
+      <p class="prompt">&gt; 起動中なのだ…</p>
+      <p id="boot-msg" class="msg"></p>
+    </section>
+
+    <section id="timeline" class="hidden"></section>
+  </main>
+
+  <div id="status" class="hidden"></div>
+
+  <script type="module" src="main.js"></script>
+</body>
+</html>
