@@ -147,37 +147,6 @@ function zundamonize(text) {
 // ---------------------------------------------------------------------------
 // nostr helpers
 // ---------------------------------------------------------------------------
-function latest(events) {
-  let best = null;
-  for (const ev of events) {
-    if (!best || ev.created_at > best.created_at) best = ev;
-  }
-  return best;
-}
-
-// backward strategy: フィルタに一致するイベントを集めて解決する
-function fetchEvents(rxNostr, filters, timeoutMs = 5000) {
-  return new Promise((resolve) => {
-    const events = [];
-    const req = createRxBackwardReq();
-    let done = false;
-    const finish = () => {
-      if (done) return;
-      done = true;
-      sub.unsubscribe();
-      resolve(events);
-    };
-    const sub = rxNostr.use(req).subscribe({
-      next: (packet) => events.push(packet.event),
-      error: finish,
-      complete: finish,
-    });
-    req.emit(filters);
-    req.over();
-    setTimeout(finish, timeoutMs);
-  });
-}
-
 // イベントを relays（kind:10002 write relay）へ署名(NIP-07)して送信する
 function publishEvent(rxNostr, params, relays) {
   return new Promise((resolve) => {
@@ -189,7 +158,7 @@ function publishEvent(rxNostr, params, relays) {
       sub.unsubscribe();
       resolve(ok);
     };
-    const opts = relays && relays.length ? { relays } : undefined;
+    const opts = relays && relays.length ? { on: { relays } } : undefined;
     const sub = rxNostr.send(params, opts).subscribe({
       next: (packet) => {
         if (packet.ok) ok = true;
@@ -199,6 +168,44 @@ function publishEvent(rxNostr, params, relays) {
     });
     setTimeout(finish, 8000);
   });
+}
+
+// 置換可能イベント(kind:0/3/10002 等)を購読し、EOSE を待たず
+// 来るたびに（より新しければ）onUpdate を呼ぶ。返り値で購読解除できる。
+function subscribeLatest(relays, filter, onUpdate) {
+  let latest = null;
+  const req = createRxBackwardReq();
+  const sub = rxNostr.use(req, { on: { relays } }).subscribe({
+    next: (p) => {
+      const ev = p.event;
+      if (!latest || ev.created_at > latest.created_at) {
+        latest = ev;
+        onUpdate(ev);
+      }
+    },
+  });
+  req.emit(filter);
+  req.over();
+  return sub;
+}
+
+// 指定 pubkey 群の kind:0 を購読し、来たものから順に表示名を更新する
+function subscribeProfiles(authors) {
+  if (authors.length === 0) return;
+  const req = createRxBackwardReq();
+  const sub = rxNostr.use(req).subscribe({
+    next: (p) => {
+      const ev = p.event;
+      const name = profileName(ev, ev.pubkey);
+      profileMap.set(ev.pubkey, name);
+      document
+        .querySelectorAll(`.post[data-pubkey="${ev.pubkey}"] .name`)
+        .forEach((el) => (el.textContent = name));
+    },
+  });
+  req.emit({ kinds: [0], authors });
+  req.over();
+  return sub;
 }
 
 function parseRelays(ev, want) {
@@ -330,19 +337,6 @@ function insertSorted(div, createdAt) {
   $timeline.prepend(div);
 }
 
-function applyProfiles(metaEvents, pubkeys) {
-  const latestMeta = new Map();
-  for (const ev of metaEvents) {
-    const prev = latestMeta.get(ev.pubkey);
-    if (!prev || ev.created_at > prev.created_at) latestMeta.set(ev.pubkey, ev);
-  }
-  for (const pk of pubkeys) {
-    if (!profileMap.has(pk) || latestMeta.has(pk)) {
-      profileMap.set(pk, profileName(latestMeta.get(pk), pk));
-    }
-  }
-}
-
 // ---------------------------------------------------------------------------
 // app state
 // ---------------------------------------------------------------------------
@@ -359,17 +353,22 @@ const consenters = new Set(); // 改変を承諾した pubkey
 const pendingNew = new Set(); // まだ kind:1 を取り込んでいない承諾者
 let k1Sub = null; // 現在の kind:1 forward 購読
 let consentSub = null; // kind:30078 承諾の forward 購読
+let consentReqRef = null; // 承諾探索の rxReq（フォロー更新で再emit用）
+let consentAuthorsMode = false; // 承諾探索を authors 限定でやっているか
+const currentFollows = new Set(); // 既知のフォロー
+const discoverySubs = []; // bootstrap での探索購読（teardown 用）
+let started = false; // 個人モードの探索を開始済みか
 let rebuildTimer = null;
 let nostrWatch = null; // window.nostr の遅延注入を監視するタイマ
 
 // ---------------------------------------------------------------------------
 // consent gated kind:1 collection
 // ---------------------------------------------------------------------------
-// kind:30078 探索の EOSE を監視し、全 relay 分（or タイムアウト）で確定する
+// kind:30078 探索の EOSE を監視。探索先 relay のどれか1つでも EOSE を返したら
+// （全relay は待たず）確定する。bootstrap 購読の EOSE は relay で弾く。
 function watchConsentEose(relays) {
   consentSettled = false;
-  const need = new Set(relays.map(normalizeRelay));
-  const got = new Set();
+  const need = new Set((relays || []).map(normalizeRelay));
   let settled = false;
   const settle = () => {
     if (settled) return;
@@ -384,11 +383,10 @@ function watchConsentEose(relays) {
   };
   consentEoseSub = rxNostr.createAllMessageObservable().subscribe((pkt) => {
     if (pkt.type !== "EOSE") return;
-    got.add(normalizeRelay(pkt.from));
-    for (const r of need) if (!got.has(r)) return;
+    if (need.size && !need.has(normalizeRelay(pkt.from))) return;
     settle();
   });
-  // どこかの relay が EOSE を返さなくても進めるための保険
+  // EOSE が来なくても進めるための保険
   const timer = setTimeout(settle, 6000);
 }
 
@@ -414,20 +412,25 @@ function scheduleRebuild() {
   rebuildTimer = setTimeout(rebuildKind1, 700);
 }
 
-// 新たに承諾が判明した pubkey のプロフィール(kind:0=backward)を解決し、
-// kind:1 の forward 購読を全承諾者で貼り直す
-async function rebuildKind1() {
+// デバウンスを待たずに即座にタイムラインを再構築する
+function flushRebuild() {
+  if (rebuildTimer) {
+    clearTimeout(rebuildTimer);
+    rebuildTimer = null;
+  }
+  rebuildKind1();
+}
+
+// 新たに承諾が判明した pubkey を取り込み、kind:1 の forward 購読を貼り直す。
+// プロフィール(kind:0)は EOSE を待たず来たものから随時名前を更新する。
+function rebuildKind1() {
   rebuildTimer = null;
   const newAuthors = [...pendingNew];
   pendingNew.clear();
   if (newAuthors.length === 0) return;
 
-  // kind:0 は backward strategy で取得して表示名を解決
-  const metaEvents = await fetchEvents(rxNostr, { kinds: [0], authors: newAuthors });
-  applyProfiles(metaEvents, newAuthors);
-
-  restartForwardSub();
-  // ライブ移行後はステータスバーを隠す
+  subscribeProfiles(newAuthors); // 名前は後から非同期で反映
+  restartForwardSub(); // 待たずに即購読
   $status.classList.add("hidden");
   $status.textContent = "";
 }
@@ -513,10 +516,11 @@ async function onConsentClick() {
       writeRelays,
     );
     if (!ok) throw new Error("リレーに拒否されたのだ");
-    // 承諾成立 → 催促を消し、自分を承諾者に加えて kind:1 を再開
+    // 承諾成立 → 催促を消し、自分を承諾者に加えて即タイムラインを更新
     myConsented = true;
     renderUser();
     addConsenter(myPubkey);
+    flushRebuild();
   } catch (e) {
     if (btn) {
       btn.disabled = false;
@@ -653,80 +657,143 @@ function teardown() {
     consentEoseSub.unsubscribe();
     consentEoseSub = null;
   }
+  while (discoverySubs.length) discoverySubs.pop().unsubscribe();
   if (rebuildTimer) {
     clearTimeout(rebuildTimer);
     rebuildTimer = null;
   }
   consenters.clear();
   pendingNew.clear();
+  currentFollows.clear();
   seenEvents.clear();
   profileMap.clear();
+  consentReqRef = null;
+  consentAuthorsMode = false;
+  started = false;
   myConsented = false;
   myConsentEventId = null;
   consentSettled = false;
   $timeline.replaceChildren();
 }
 
+// 承諾(kind:30078)を forward strategy で購読開始。
+// follows があればその範囲、無ければ全体から承諾者を探す。
+function startConsentDiscovery(follows, relays) {
+  // EOSE が来るまでは承諾ボタンを出さない（承諾済み判定が確定するまで隠す）
+  watchConsentEose(relays);
+  const consentReq = createRxForwardReq();
+  consentSub = rxNostr.use(consentReq).subscribe({ next: (p) => onConsentEvent(p.event) });
+  consentReqRef = consentReq;
+  if (follows && follows.length > 0) {
+    consentAuthorsMode = true;
+    consentReq.emit({ kinds: [30078], authors: [...follows, myPubkey], "#d": [APP_D] });
+  } else {
+    consentAuthorsMode = false;
+    consentReq.emit({ kinds: [30078], "#d": [APP_D] });
+  }
+}
+
+// 後から届いた新しい kind:3 でフォローが増えたら承諾探索の対象を広げる
+function extendConsentFollows(follows) {
+  let added = false;
+  for (const pk of follows) {
+    if (!currentFollows.has(pk)) {
+      currentFollows.add(pk);
+      added = true;
+    }
+  }
+  if (added && consentAuthorsMode && consentReqRef) {
+    consentReqRef.emit({
+      kinds: [30078],
+      authors: [...currentFollows, myPubkey],
+      "#d": [APP_D],
+    });
+  }
+}
+
 // --- NIP-07 あり: フォロー範囲の承諾者TL + 投稿 ---
+// EOSE を待たず、見つかったところから随時次へ進む reactive 構成。
 async function startPersonal() {
   $boot.classList.add("hidden");
   $timeline.classList.remove("hidden");
-  renderUser(); // まず名前未解決でも枠を出す
-
-  // phase 1: bootstrap relays でリレー情報・フォロー・自分のプロフィールを取得
-  rxNostr.setDefaultRelays(BOOTSTRAP_RELAYS);
-
-  setStatus("kind:10002 / kind:3 / kind:0 を取得中なのだ");
-  const [relayListEvents, contactEvents, myMeta] = await Promise.all([
-    fetchEvents(rxNostr, { kinds: [10002], authors: [myPubkey], limit: 1 }),
-    fetchEvents(rxNostr, { kinds: [3], authors: [myPubkey], limit: 1 }),
-    fetchEvents(rxNostr, { kinds: [0], authors: [myPubkey], limit: 1 }),
-  ]);
-
-  myName = profileName(latest(myMeta), myPubkey);
   renderUser();
+  setStatus("リレー情報・フォローを探索中なのだ");
 
-  const relayList = latest(relayListEvents);
-  const contact = latest(contactEvents);
-
-  let readRelays = parseRelays(relayList, "read");
-  writeRelays = parseRelays(relayList, "write");
-  let relaySource = "kind:10002";
-  if (readRelays.length === 0) {
-    readRelays = parseKind3Relays(contact, "read");
-    writeRelays = parseKind3Relays(contact, "write");
-    relaySource = "kind:3 content";
-  }
-  if (readRelays.length === 0) {
-    readRelays = FALLBACK_RELAYS;
-    relaySource = "fallback";
-  }
-  if (writeRelays.length === 0) writeRelays = readRelays;
-
-  const follows = parseFollows(contact);
-
-  // phase 2: ユーザの read relay へ切替、投稿欄を有効化
-  rxNostr.setDefaultRelays(readRelays);
-  $composer.classList.remove("hidden");
-  setStatus(
-    `リレー(${relaySource}) read:${readRelays.length}/write:${writeRelays.length} follows:${follows.length} — 承諾者を探索中なのだ`,
+  // 自分のプロフィール（来たら名前を更新）
+  discoverySubs.push(
+    subscribeLatest(
+      BOOTSTRAP_RELAYS,
+      { kinds: [0], authors: [myPubkey], limit: 1 },
+      (ev) => {
+        myName = profileName(ev, myPubkey);
+        renderUser();
+      },
+    ),
   );
 
-  // phase 3: 承諾(kind:30078)を forward strategy で購読
-  //  フォローが居ればその範囲、居なければ全体から承諾者を探す
-  //  EOSE が来るまでは承諾ボタンを出さない（承諾済み判定が確定するまで隠す）
-  watchConsentEose(readRelays);
-  const consentReq = createRxForwardReq();
-  consentSub = rxNostr.use(consentReq).subscribe({ next: (p) => onConsentEvent(p.event) });
-  if (follows.length > 0) {
-    consentReq.emit({
-      kinds: [30078],
-      authors: [...follows, myPubkey],
-      "#d": [APP_D],
-    });
-  } else {
-    consentReq.emit({ kinds: [30078], "#d": [APP_D] });
-  }
+  let relayEv = null;
+  let contactEv = null;
+  let startTimer = null;
+
+  const doStart = () => {
+    if (started) return;
+    started = true;
+    if (startTimer) {
+      clearTimeout(startTimer);
+      startTimer = null;
+    }
+
+    let readRelays = parseRelays(relayEv, "read");
+    let writeR = parseRelays(relayEv, "write");
+    if (readRelays.length === 0) {
+      readRelays = parseKind3Relays(contactEv, "read");
+      writeR = parseKind3Relays(contactEv, "write");
+    }
+    if (readRelays.length === 0) readRelays = FALLBACK_RELAYS;
+    writeRelays = writeR.length ? writeR : readRelays;
+
+    const follows = parseFollows(contactEv);
+    follows.forEach((pk) => currentFollows.add(pk));
+
+    rxNostr.setDefaultRelays(readRelays);
+    $composer.classList.remove("hidden");
+    setStatus(`承諾者を探索中なのだ（follows:${follows.length}）`);
+    startConsentDiscovery(follows, readRelays);
+  };
+
+  const maybeStart = () => {
+    if (started) return;
+    let hasRelays = parseRelays(relayEv, "read").length > 0;
+    if (!hasRelays) hasRelays = parseKind3Relays(contactEv, "read").length > 0;
+    // フォローが分かり、かつ read relay を決められれば即開始
+    if (contactEv && (hasRelays || relayEv)) doStart();
+  };
+
+  // kind:10002 / kind:3 を bootstrap で購読（来たら即進む、後から更新は拡張）
+  discoverySubs.push(
+    subscribeLatest(
+      BOOTSTRAP_RELAYS,
+      { kinds: [10002], authors: [myPubkey], limit: 1 },
+      (ev) => {
+        relayEv = ev;
+        maybeStart();
+      },
+    ),
+  );
+  discoverySubs.push(
+    subscribeLatest(
+      BOOTSTRAP_RELAYS,
+      { kinds: [3], authors: [myPubkey], limit: 1 },
+      (ev) => {
+        contactEv = ev;
+        if (started) extendConsentFollows(parseFollows(ev));
+        else maybeStart();
+      },
+    ),
+  );
+
+  // どちらも来なくてもしばらくしたら手元の情報（無ければ fallback）で開始
+  startTimer = setTimeout(doStart, 2000);
 }
 
 // --- NIP-07 なし: fallback relay の承諾者パブリックTL（閲覧のみ） ---
@@ -739,11 +806,7 @@ async function startPublic() {
 
   rxNostr.setDefaultRelays(FALLBACK_RELAYS);
   setStatus("NIP-07 が無いので承諾者のパブリックTLを表示するのだ");
-
-  // 全体から承諾者(kind:30078)を forward strategy で購読
-  const consentReq = createRxForwardReq();
-  consentSub = rxNostr.use(consentReq).subscribe({ next: (p) => onConsentEvent(p.event) });
-  consentReq.emit({ kinds: [30078], "#d": [APP_D] });
+  startConsentDiscovery(null, FALLBACK_RELAYS); // 全体から承諾者
 }
 
 init();
