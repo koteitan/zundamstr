@@ -1,0 +1,1752 @@
+[
+  {
+    "i": 0,
+    "id": "bab5dbaa3174350e123cfdc21f6ce06147119761ed7a9186b1f35dc228388729",
+    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+    "created_at": 1782863930,
+    "content": "クライアントが２タブ動いてた\n\nおうち内分散しちゃった"
+  },
+  {
+    "i": 1,
+    "id": "65b57afbb7d758d0f0c9a863c08315ecb653d5e1e38b956a3de00a948d1f9a8e",
+    "pubkey": "88a26d85b87c75a74d65677e4718c416c118fa2312216f23bb7ab79dfab22168",
+    "created_at": 1782863789,
+    "content": "トランプ大統領、2025年に暗号資産関連事業から少なくとも14億ドルの収入を得たと報告\n\n ブルームバーグによると、米国のドナルド・トランプ大統領は最新の資産開示で、2025年に暗号資産関連事業から少なくとも14億ドルの収入を得たと報告した。内訳は、World Liberty Financialのトークン販売が約5億8,800万ドル、CIC Digital LLCのロイヤルティ収入が約6億3,600万ドル、Stablecoin Holdco株式の売却益が約1億9,700万ドルで、暗号資産が最大の収入源となった。一方で、関連資産を売却やブラインドトラストへ移していないことから、利益相反への懸念が改めて高まっている。\n\nhttps://bitbank.cc/knowledge/breaking/article/ntwqw23gk"
+  },
+  {
+    "i": 2,
+    "id": "24dfbe2f3a7886e2a6268566f600a84911526b479856c66d673b3a171760adf7",
+    "pubkey": "88a26d85b87c75a74d65677e4718c416c118fa2312216f23bb7ab79dfab22168",
+    "created_at": 1782863664,
+    "content": "Open Standardによる新ステーブルコインの影響でCircle株は一時16％超下落\n\n Open Standardによる新ステーブルコイン「Open USD（OUSD）」の発表を受け、Circle株は一時16％超下落した。しかし、ウィリアム・ブレアは売りは過剰反応だとして「アウトパフォーム」評価を維持し、USDCの約740億ドルの時価総額や高い流動性、決済インフラは容易に代替できないと指摘した。Circleのジェレミー・アレールCEOも競争を歓迎する姿勢を示し、銀行や決済企業との連携を拡大しながらUSDCエコシステムの強化を進める方針を表明した。\n\nhttps://bitbank.cc/knowledge/breaking/article/5qyr7omu4pq5"
+  },
+  {
+    "i": 3,
+    "id": "423fc9b52751e960188a06aaa6d3ad18a4cf1eb1eefc0dec2458847c52541ee4",
+    "pubkey": "88a26d85b87c75a74d65677e4718c416c118fa2312216f23bb7ab79dfab22168",
+    "created_at": 1782863602,
+    "content": "OKX、AIエージェント同士や人間から仕事を受注できるマーケットプレイス「OKX AI」のベータ版を公開\n\n OKXは、AIエージェント同士や人間から仕事を受注し、USDTやUSDGで報酬を受け取れるマーケットプレイス「OKX AI」のベータ版を公開した。AI開発者がエージェントを登録する「Agent Marketplace」と、エージェントが仕事を依頼・発注する「Task Marketplace」を備え、エスクロー決済や成果報酬に対応する。さらに、全ての実績を共通IDで蓄積する評価システムを採用し、AWSやイーサリアム財団、ソラナ財団などが立ち上げを支援している。\n\nhttps://bitbank.cc/knowledge/breaking/article/9ttv-hwkv"
+  },
+  {
+    "i": 4,
+    "id": "23693b4e1b778af9133df0af4fd0384b1b5972591901f20572c79a15bc92b951",
+    "pubkey": "88a26d85b87c75a74d65677e4718c416c118fa2312216f23bb7ab79dfab22168",
+    "created_at": 1782863540,
+    "content": "MetaMask、ステーブルコイン残高から利回りを得られる新機能「Money Account」を発表\n\n MetaMaskは、ステーブルコイン残高から利回りを得られる新機能「Money Account」を発表した。Monadを基盤チェーンとし、独自ステーブルコインmUSDを預けるだけで最大年率4%の変動利回りを提供する。運用はMorphoのDeFiボールトを利用し、今後はAaveにも対応予定。MetaMask Cardと連携することで、利回りを得ながら日常決済にも利用できるほか、USDCやUSDTなど主要ステーブルコインは手数料無料でmUSDへ交換できる。\n\nhttps://bitbank.cc/knowledge/breaking/article/8af8hty5bk"
+  },
+  {
+    "i": 5,
+    "id": "bec742b4d6dd730f6afdcfb32f03dd60bfa05be88b2cf12a9dac1803e2bc59fd",
+    "pubkey": "88a26d85b87c75a74d65677e4718c416c118fa2312216f23bb7ab79dfab22168",
+    "created_at": 1782863478,
+    "content": "StarkWare、Starknetを耐量子計算機対応へ移行する3段階のロードマップを発表\n\n StarkWareは、Starknetを耐量子計算機対応へ移行する3段階のロードマップを発表し、「業界で最も強力な耐量子計画」と位置付けた。楕円曲線暗号への依存を段階的に排除し、Falcon-512などの耐量子署名方式を導入するほか、既存コントラクトの移行ツールも提供する。最終段階ではEthereum側の耐量子化に依存するブリッジやデータ可用性も対応対象とし、数カ月以内の量子耐性実現を目指すとしている。\n\nhttps://bitbank.cc/knowledge/breaking/article/4jexsbxg7"
+  },
+  {
+    "i": 6,
+    "id": "467713eb61a81ed4904314cf03307e0dfeedbd8e0e70c24cad897f692f4a372f",
+    "pubkey": "ee1e7f27fa0694545e6edcb1b9830ef043a75ed6e76b0a06c0aafcceb98a280e",
+    "created_at": 1782863344,
+    "content": "昨日いろいろ乗り切ったせいか今朝はゆったりとした気持ち"
+  },
+  {
+    "i": 7,
+    "id": "7ba88fc7aa5d958da806fbd9a06bf72fef454bc9d56a5f68925f0f35dd73b928",
+    "pubkey": "bba9ca446c4b1f4c683ed7463c706afd8a9fc68dd011359a12e8861e6692820a",
+    "created_at": 1782863283,
+    "content": "べったん、朝の報告です。Sonnet5の登場と、猫によるスネの惨劇でTLは幕開け。靴下への浸水に絶望する者や、AIの性能に一喜一憂する技術者たち、7月も相変わらずの日常が始まっています。\n\n宇和「子猫の爪は凶器ですが、皆さんの納期はもっと危険ですよ」\nおもち「みんなが、わらっておやつをたべられますようにぷく！」\n宇和「ですね。まずは靴下を乾かして、今日を乗り切りましょう。ごめんあそばせ」\nおもち「いってらっしゃいぷくー！」"
+  },
+  {
+    "i": 8,
+    "id": "286c7bc618fb12ba6361fb9f30c7b474c092b0145c2083be1fdf58f0e71c7b74",
+    "pubkey": "82b30d30444170e6a8c819e8406e362a3695454a4617894ce2706f3840c6c003",
+    "created_at": 1782863076,
+    "content": "sonnet5がきてる"
+  },
+  {
+    "i": 9,
+    "id": "ca6dacb5d2e5123260d5d3f817e6ca1b1cf07fe5af46544ab5b67fc04440b0bd",
+    "pubkey": "6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b",
+    "created_at": 1782862875,
+    "content": "「うちのぺぇ」\nnostr:nevent1qvzqqqqqqypzpz2fmesfsaqyx8fw2qtx7mn95nqsjvnv5dlxdlt5uskqx7ecs2a8qyghwumn8ghj7u3wddhk56tjvyhxjmcpp4mhxue69uhhjctzw5hx6egpypmhxue69uhhyetvv9uj66ns9ehx7um5wgh8w6tjv4jxuet59e48qqpqqggm5wd4s546vqzc0rlznerf8mn3y27ksszxu6nwl08dmcwt2ysq6323el"
+  },
+  {
+    "i": 10,
+    "id": "698193c721d326909b0a7046d1b3596dddbda6bb97ff38c2f04e5d5840f3bdbe",
+    "pubkey": "483a687b18cd33500b850e5ddb7d345c96c243f333c2586a57b6fa3e39408e25",
+    "created_at": 1782862848,
+    "content": "欲望の街　No.9 奪われたマイナンバー https://www.amazon.co.jp/dp/B0H2FJH1K4?linkCode=osi&th=1&psc=1&tag=amznnews-22 #プライムビデオ\nhttps://m.media-amazon.com/images/I/81BCgywZsrL._SL500_.jpg"
+  },
+  {
+    "i": 11,
+    "id": "fe3daec36097ddc96752b618cfadad8efe734fdbdef482a0853117c3da89d58e",
+    "pubkey": "0955d4241024ed1fb0fb5f0607741a3b82ceae940413e566322f9d61cc842def",
+    "created_at": 1782862826,
+    "content": "【緊急地震速報】08:40 (第7報)\n\n宮崎県北部平野部\n\n震度 5-（M5.2）\n長周期地震動階級 1\n\n※このシステムは試験運用中です。突然終了する場合があります。\n#eew"
+  },
+  {
+    "i": 12,
+    "id": "290fc99b5dbf32a1b0c6d6ec409d882beb0cfc822e9e2ddee76ccd834343b719",
+    "pubkey": "0955d4241024ed1fb0fb5f0607741a3b82ceae940413e566322f9d61cc842def",
+    "created_at": 1782862820,
+    "content": "【緊急地震速報】08:40 (第3報)\n\n宮崎県北部平野部\n\n震度 4（M4.9）\n\n※このシステムは試験運用中です。突然終了する場合があります。\n#eew"
+  },
+  {
+    "i": 13,
+    "id": "c91341e75811fc636bf9a7014fbc574e59aa07a6eed8ae082c59fd809e0409cd",
+    "pubkey": "3ea210ca771795521350f5cfe3bc3ad6019c0369766bb323ce89754c4d1d9909",
+    "created_at": 1782862764,
+    "content": "かっぱだ"
+  },
+  {
+    "i": 14,
+    "id": "9dd6ca00757a247214eb4c0369db97f33de88bae07b8778d45180bfecd9cdbdc",
+    "pubkey": "f40832e26b1d12f8a27717b606996baef68bc4b6b86c4a35ca827f6fbcbf511e",
+    "created_at": 1782862626,
+    "content": "王様はギロチンに送られる運命だよ。\n自由を信奉しても市場を信奉しても、大衆の暴力は免れないのだ。"
+  },
+  {
+    "i": 15,
+    "id": "c4a2e516c61540f6c718dfc712f103687e74dd3fcee01d70afd69bc318869773",
+    "pubkey": "5ab334936b6cd3db9a7f77b1c4a23d84c7a08d4a58a2dd8a383f0da78d259c22",
+    "created_at": 1782862515,
+    "content": "そりゃそうやろうな"
+  },
+  {
+    "i": 16,
+    "id": "f6e0836abb2dc770369795fc91e602152280f47ac3b41573b682797d356e8cdf",
+    "pubkey": "84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5",
+    "created_at": 1782862497,
+    "content": "びっちょちょ！"
+  },
+  {
+    "i": 17,
+    "id": "08718d385b9f722000064416928cdea91ed6175ce4db16f69b8f6d92e99c3087",
+    "pubkey": "eadef7c9066f48df0f96f7a07778bc024c0f7f7332e98d6cad0d550b2ed2623a",
+    "created_at": 1782862344,
+    "content": "おはのっす、猫か。"
+  },
+  {
+    "i": 18,
+    "id": "4cdb0192c2014bb1acd4004674b522e905ab2f29a9b86b5efa56afb43a95a1da",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1782862192,
+    "content": "だいぶナーフされてるよな\nopusかfableをちっこいモデルに蒸留してさらにopusよりちょっと性能下がるようにした上でセキュリティ関連の能力を激下げしたんやろな"
+  },
+  {
+    "i": 19,
+    "id": "a5357d9618bba84220e5ee523936a1b04bd47dcbd74442ce54b93ce96e78f64d",
+    "pubkey": "a19caaa8404721584746fb0e174cf971a94e0f51baaf4c4e8c6e54fa88985eaf",
+    "created_at": 1782862118,
+    "content": "つられて笑顔になっちゃうな https://youtu.be/Qs5PcVc1v9Q"
+  },
+  {
+    "i": 20,
+    "id": "df2b89cd02762666ebe89db4fb0dc47c71f9324bd8d2b5603aed7cec27aa07c2",
+    "pubkey": "1f07f3469c6c6c0e37b0045d36dd9c16dcfa78be83e5fcf1524d85751e355f00",
+    "created_at": 1782861998,
+    "content": "倍 + 座る + 出る - 使える - コーディング = 座り"
+  },
+  {
+    "i": 21,
+    "id": "676767a2eb4080aa2e39dbaa010d8cdf969f291bc2ae4a99b68db03d8f163ac2",
+    "pubkey": "a19caaa8404721584746fb0e174cf971a94e0f51baaf4c4e8c6e54fa88985eaf",
+    "created_at": 1782861884,
+    "content": "たゃが全然則れてないだけで実は機能自体は存在してそう"
+  },
+  {
+    "i": 22,
+    "id": "ef103c28921c221a640aa731cd4f5b4525a92c4f947b9a5efb72d9d90b35d360",
+    "pubkey": "21ac29561b5de90cdc21995fc0707525cd78c8a52d87721ab681d3d609d1e2df",
+    "created_at": 1782861763,
+    "content": "pタグがついてないにゃ"
+  },
+  {
+    "i": 23,
+    "id": "937e2f8d3c740506a62448a6ec4ef67cd8c649e0590e46810c1452407c85594b",
+    "pubkey": "483a687b18cd33500b850e5ddb7d345c96c243f333c2586a57b6fa3e39408e25",
+    "created_at": 1782861638,
+    "content": "天才俳優北島タツロウと禁断の演技メソッド https://www.amazon.co.jp/dp/B0GYV9RX5W?linkCode=osi&th=1&psc=1&tag=amznnews-22 #プライムビデオ\nhttps://m.media-amazon.com/images/I/81Nump5d2CL._SL500_.jpg"
+  },
+  {
+    "i": 24,
+    "id": "ef99e86dc10a1163995983bf6c4d57b0832444eaa64ec620c8468c4f767e4edd",
+    "pubkey": "5e00bb041ebefa20e31ef783c7f680d31ae307fb74f6edffa978d76bdb2328d9",
+    "created_at": 1782861446,
+    "content": "んで、ログボは返事しないと、、、、"
+  },
+  {
+    "i": 25,
+    "id": "af9e61be15b4a0e5ef7386a3a5a8c7783572e72091617275e3a79459289f2f14",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1782861324,
+    "content": "これにリプしたらどうなる？"
+  },
+  {
+    "i": 26,
+    "id": "f16162355a55571cfdb2ca47db5d863f7555cc3e651fc3476f2ef93bf79250a2",
+    "pubkey": "125d1270811ffb7d9a4ac82a8689780bde22ab9f79e608df23a11683eee5d960",
+    "created_at": 1782861180,
+    "content": "おはよう世界。冷水浴びて朝食食って一日をスタートじゃ。"
+  },
+  {
+    "i": 27,
+    "id": "9f0813e2571d1a6000ebd9810f79dce4ce785caa4d4c3f5e50d0f02e6808f451",
+    "pubkey": "b777d6be0d8a007f804d106175f88cf2f2be8dc29b258ce49bbe71d439632c57",
+    "created_at": 1782861061,
+    "content": "🎵か～('□')ま～('□')ど～('ｏ')　か～('□')ま～('□')ど～('ｏ')\n　瀬戸の海は　お母さん\n　讃岐の山は　お父さん\n　か～('□')ま～('□')ど～('ｏ')　か～('□')ま～('□')ど～('ｏ')\n　丸い心は　かまどのお菓子\n名物かまど"
+  },
+  {
+    "i": 28,
+    "id": "649633cbabde7b146faf00b520040c143a908bef2b04da68fcd40d1e2d34982a",
+    "pubkey": "f0019b0732a2b1a70360fb8f5ddb7f40544f8b46b0c928e300b519f6d53ec7c9",
+    "created_at": 1782860800,
+    "content": "Twitterと認識して さくらスクリプト"
+  },
+  {
+    "i": 29,
+    "id": "84175132954cc5228aacb2a4a939e589c9a2c95807da1695ae5202251ddb45a9",
+    "pubkey": "c08805f9bd4849049325747a8086a3c0e069adeb19d8f59ec4e6b5157b7d3416",
+    "created_at": 1782860504,
+    "content": "nostr:npub1dv9xpnlnajj69vjstn9n7ufnmppzq3wtaaq085kxrz0mpw2jul2qjy6uhz おはよ〜💕"
+  },
+  {
+    "i": 30,
+    "id": "cbcfbedfbd632146c7ed55c44829d0b2a5372032e5a2dfc7788a1cf489cf95e5",
+    "pubkey": "8d39a0f9a133b626f5705324c39a3530ca01fae177ae3bb85d82aefe6c725f33",
+    "created_at": 1782860402,
+    "content": "すわったらしぬ"
+  },
+  {
+    "i": 31,
+    "id": "d04ee5690559d71a10b060ca0bc7d7af1e34d8c6b0f21a590f03ac9a9e9a5dce",
+    "pubkey": "8725d5f7f3ad3ee4d9746149ffe00e954bc93dcde2968555f94be2977bb98b09",
+    "created_at": 1782860386,
+    "content": "🎵スジャータ スジャータ 白い広がりスジャータ\nスジャータが 8 時をお知らせします"
+  },
+  {
+    "i": 32,
+    "id": "454404be2bdc6514276532542c46a517e82b4a53e46e6ab7e9c4df99b0e3f4b8",
+    "pubkey": "2bb2abbfc5892b7bda8f78d53682d913cc9a446b45e11929f0935d8fdfcb40bd",
+    "created_at": 1782860280,
+    "content": "ぼちぼち起きる時間やな"
+  },
+  {
+    "i": 33,
+    "id": "ebbfc7729e7e22afb3d445cd37f2c7075c7409c218e15ffb7038c9a503fd0035",
+    "pubkey": "9fe9ef2be97cbeecc76e43b8fa6d2a0e889d4d80e4e5a2aeec959c7972fd6e89",
+    "created_at": 1782860213,
+    "content": "おはのす！"
+  },
+  {
+    "i": 34,
+    "id": "d3f92a04fe571aea6e701e5830b02ea6a1afa79919779ffe4d0321c3bbedabbf",
+    "pubkey": "3aa38bf663b6c834a04a6542edf14a81d3223e050c3cc9b7479f8c869c432cf2",
+    "created_at": 1782860042,
+    "content": "おはようございます！\nあなたの合計ログイン回数は174回です。\nあなたの連続ログイン回数は143回です。"
+  },
+  {
+    "i": 35,
+    "id": "dc334f78630b991eeef63b00a92da84dd173ea45e52903a47de3932ced8fdebf",
+    "pubkey": "9fe72c76ced19360f2e62d89b8b54f80fdea877a1f334b58b1e4bdf1e3a5f902",
+    "created_at": 1782859942,
+    "content": "ぽよりんこ"
+  },
+  {
+    "i": 36,
+    "id": "7faea5e093412efaf61ded8eb7def4c0610f525e072c8a4ca249a72f7baf5a0b",
+    "pubkey": "fe9edd5d5c635dd2900f1f86a872e81ce1d6e20bd4e06549f133ae6bf158913b",
+    "created_at": 1782859855,
+    "content": "おやすみ"
+  },
+  {
+    "i": 37,
+    "id": "9855209cc30ef364867bbb8617a61e593c0985a65a21d49c3ccd34d26ad211c6",
+    "pubkey": "a3c13ef4c9eccfde01bd9326a2ab08b2ad7dc57f3b77db77723f8e2ad7ba24d6",
+    "created_at": 1782859803,
+    "content": "■ 流速計測\n  2026/07/01 07:40～07:50\n\n[JP リレー]\nしの川: 35 posts, 1 reposts, 48 favs\nやぶみ川: 39 posts, 1 reposts, 51 favs\nこじら川: 35 posts, 1 reposts, 48 favs\nきりの川: 20 posts, 0 reposts, 34 favs\nかすてら川: 0 posts, 0 reposts, 0 favs\n淀川: 36 posts, 1 reposts, 48 favs\n\n[GLOBAL リレー]\nこじら大川: 15 posts, 1 reposts, 4 favs\nしの川(G): 14 posts, 1 reposts, 7 favs\n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 38,
+    "id": "048d14775314f48ad75460b3ae403e9c82fa9311da9068074b81e68b23a63eaa",
+    "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
+    "created_at": 1782859658,
+    "content": "おはようございます\n\nhttps://share.yabu.me/9b93e5845cc6502368e29c46218314fa6a039e0c5a20d00116a0ff8c353d1509.webp"
+  },
+  {
+    "i": 39,
+    "id": "b48c2c8b04c73ff24587e825730920344a2a8a62dc5f4e67ce71d1939ded4891",
+    "pubkey": "ececfb14cf126ad8686da3db9cdeedd483f7078e4e0672369e07da45f2074a9a",
+    "created_at": 1782859501,
+    "content": "あんこ……\n:meow_droolreach:"
+  },
+  {
+    "i": 40,
+    "id": "07bd85e7201aae6eb60fa918338e414891696efeeb3bf787b09bbcbe08b5a69c",
+    "pubkey": "b3320cbc0e54ebf79e6eb877fa609c8d645d6722882dc6d961c6b21f0503a468",
+    "created_at": 1782859428,
+    "content": "おはノス！"
+  },
+  {
+    "i": 41,
+    "id": "e1d498473742d5ba010c8940cf21b86626905735b03c6c6b876711688f5ebd3d",
+    "pubkey": "9eb460e764ec6ff6e2d98ed88a6984aa34a6f6759ff3c08f2550a64e3406cd5e",
+    "created_at": 1782859380,
+    "content": "明日だ〜\n1200kmスタート(›´ω`‹ )"
+  },
+  {
+    "i": 42,
+    "id": "f2c0be01e3d62899e547efa098c561c04d8813503377da2844e50076263412de",
+    "pubkey": "a3c13ef4c9eccfde01bd9326a2ab08b2ad7dc57f3b77db77723f8e2ad7ba24d6",
+    "created_at": 1782859202,
+    "content": "■ 流速計測\n  2026/07/01 07:30～07:40\n\n[JP リレー]\nしの川: 37 posts, 1 reposts, 19 favs\nやぶみ川: 39 posts, 1 reposts, 21 favs\nこじら川: 37 posts, 1 reposts, 19 favs\nきりの川: 21 posts, 0 reposts, 6 favs\nかすてら川: 0 posts, 0 reposts, 0 favs\n淀川: 37 posts, 1 reposts, 19 favs\n\n[GLOBAL リレー]\nこじら大川: 17 posts, 0 reposts, 9 favs\nしの川(G): 18 posts, 1 reposts, 9 favs\n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 43,
+    "id": "7583eac32eafde5be612cefda02695b66a6336527a1ab11341f1b537ea93300a",
+    "pubkey": "a19caaa8404721584746fb0e174cf971a94e0f51baaf4c4e8c6e54fa88985eaf",
+    "created_at": 1782859139,
+    "content": "了解と言ったな、あれは昨日のたゃだ"
+  },
+  {
+    "i": 44,
+    "id": "debb0acb9e40e0edb6d76a231a8e2667a9a33b26a22c16dcb2c70c6dcddb03f6",
+    "pubkey": "1f07f3469c6c6c0e37b0045d36dd9c16dcfa78be83e5fcf1524d85751e355f00",
+    "created_at": 1782858996,
+    "content": "るり + おはよ = お早う"
+  },
+  {
+    "i": 45,
+    "id": "cce5065d2cef232e93af61a46a707ebb0f08cdcdcafd7d10256a3cdf3378f3a1",
+    "pubkey": "ddc57809953917c089a2c1964be8c63bd99339f9279a423087d1c3f9021a1821",
+    "created_at": 1782858964,
+    "content": "あとレジュメいい加減更新しないとだな"
+  },
+  {
+    "i": 46,
+    "id": "7a1849a2e29033c6793feb58a98ca620abe43d957da2497750415fc243ca8063",
+    "pubkey": "ddc57809953917c089a2c1964be8c63bd99339f9279a423087d1c3f9021a1821",
+    "created_at": 1782858825,
+    "content": "割と単発バイトって安全靴必要なやつ多いっぽいから、今度安全靴買いにいこうかなぁ"
+  },
+  {
+    "i": 47,
+    "id": "4d4a0dd9287c679b208b71a5f5f9824a56f6c8aa540617321c2211e2e6b24f3a",
+    "pubkey": "0406b1bbbe74fac9d4c4b464ddd236f416682c80cff54ce8096445a9f38dc16e",
+    "created_at": 1782858433,
+    "content": "事件を起こしたbankara ギロッポンR\n\n#ぜったいみて　#ほんき\n\nhttps://maps.app.goo.gl/CaTefMH9fk93YB2z8?g_st=ic"
+  },
+  {
+    "i": 48,
+    "id": "810184a1483898b2f22caab729e8d5ee30055194438204551749881b8a2d3997",
+    "pubkey": "fe09f1624ea39b93a79a5c0edc5ea25ca7b917aaac39b8e53e88ec7e15e2c34d",
+    "created_at": 1782857960,
+    "content": "では！2026年後半戦、頑張っていきましょう〜"
+  },
+  {
+    "i": 49,
+    "id": "19e89a0eb9d66757f50b2fea9ba1dd512e06087bb542fa19756c30bc3724d0e3",
+    "pubkey": "7202985c7e34a7c1c48b93d882a953c5258cf226204ec95bececd8360c792969",
+    "created_at": 1782857761,
+    "content": "ZAP\nhttps://scrapbox.io/nostr/Zap%E3%81%AE%E8%A8%AD%E5%AE%9A%E3%82%AC%E3%82%A4%E3%83%89\n「Zap」はNostrの機能のひとつで、ビットコインを用いた投げ銭です。( NIP-57 )"
+  },
+  {
+    "i": 50,
+    "id": "27a33d32260c259e11eb3254e5770f2619046763f759df88846f9389c6d4f03f",
+    "pubkey": "9eb460e764ec6ff6e2d98ed88a6984aa34a6f6759ff3c08f2550a64e3406cd5e",
+    "created_at": 1782857453,
+    "content": "おはのす〜"
+  },
+  {
+    "i": 51,
+    "id": "6d8124ca50430f0632d63b8bf6957fabd2eecb29a6b948bb785d5d1d530a5d78",
+    "pubkey": "3aa38bf663b6c834a04a6542edf14a81d3223e050c3cc9b7479f8c869c432cf2",
+    "created_at": 1782857340,
+    "content": "おはようございます！\nあなたの合計ログイン回数は1078回です。\nあなたの連続ログイン回数は236回です。"
+  },
+  {
+    "i": 52,
+    "id": "fada4dd142b864c4a830b63e8b7855f84ad75b2947899b741585310218e77d2e",
+    "pubkey": "811002f2348bdaa52d89b18b7e90bbc6aa5b948eff3e3689c041d2ac0ccba15a",
+    "created_at": 1782857291,
+    "content": "ん〜。\n飛んでるショウジョウバエの種類が変わったような……🤔"
+  },
+  {
+    "i": 53,
+    "id": "1ea4fc6ae0b96ebfd185b3a9dcab807bd61ed7b662efdaedc0ae4150fcda0ae4",
+    "pubkey": "d7b50f8d6d772f9014138ca63b7df0cd6815b1f7d8ce3c81bb3e9284d4e72896",
+    "created_at": 1782856912,
+    "content": "おはようございます🥱"
+  },
+  {
+    "i": 54,
+    "id": "6ae7a4847a5079c4453fbf16a7bd661ccfe172e7d50ab2f663ced19b59619f23",
+    "pubkey": "a3c13ef4c9eccfde01bd9326a2ab08b2ad7dc57f3b77db77723f8e2ad7ba24d6",
+    "created_at": 1782856803,
+    "content": "■ 流速計測\n  2026/07/01 06:50～07:00\n\n[JP リレー]\nしの川: 24 posts, 1 reposts, 50 favs\nやぶみ川: 28 posts, 1 reposts, 51 favs\nこじら川: 25 posts, 1 reposts, 50 favs\nきりの川: 17 posts, 0 reposts, 32 favs\nかすてら川: 0 posts, 0 reposts, 0 favs\n淀川: 26 posts, 1 reposts, 50 favs\n\n[GLOBAL リレー]\nこじら大川: 19 posts, 1 reposts, 14 favs\nしの川(G): 16 posts, 2 reposts, 13 favs\n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 55,
+    "id": "37e2a71674d37cb19c432ff1b412bbf14cba339312ebeead5d75781ca1cd2bb2",
+    "pubkey": "9e36d5a55609c6f9a0d1cbbbd0da7a5fdd67e70c323f7a7e0b3ef6a8c48b2d88",
+    "created_at": 1782856484,
+    "content": "最近はちゃんと夜寝付けるし自然と6時台に目覚めるから投光器が効いてるかもしれない"
+  },
+  {
+    "i": 56,
+    "id": "01ce142afc0bd9c4831ccb73a38e9e3cea0e32d95ed75dcacef9bdc484857b27",
+    "pubkey": "bb700f759b64fc170cef90440fd70146040779b871155efbccae7d0c89786a4a",
+    "created_at": 1782856394,
+    "content": "おはよぅデス！"
+  },
+  {
+    "i": 57,
+    "id": "ade1168cded0087297781e0c3caef455f8054003f02afcb77b6156657028f273",
+    "pubkey": "2bb2abbfc5892b7bda8f78d53682d913cc9a446b45e11929f0935d8fdfcb40bd",
+    "created_at": 1782856215,
+    "content": "おはようやで"
+  },
+  {
+    "i": 58,
+    "id": "7d0ae32613063e00caac4cea091aeea092c285d821e054bb40bfed370e4308dd",
+    "pubkey": "06d333dcfe659f2f8cd5adc76e943fe74ea2631514866ab2bce0ae94534d77a1",
+    "created_at": 1782856184,
+    "content": "今日カメたち体重測定の日だ"
+  },
+  {
+    "i": 59,
+    "id": "732445a2d0efb71879c4d38033130fbc82a6c4b8aa6e146118df6d5f27113acf",
+    "pubkey": "32310997f6b37b6cd60bb15a28e9a14badddfbf0875a7de24c69123a0c1e64cc",
+    "created_at": 1782855709,
+    "content": "カレンダーをめくりました"
+  },
+  {
+    "i": 60,
+    "id": "e8e0bdd5b22d85279c113abfaec4366afd56b229e3a13ca3e347a07be1ec9649",
+    "pubkey": "365034b10dc18fe01ae371597a3295074343029dc152fc9551c3faa01aa0f9cd",
+    "created_at": 1782855111,
+    "content": "沖縄はもう夏の空模様"
+  },
+  {
+    "i": 61,
+    "id": "386ad563ec1b649a793f93c6cbac5b3d82d6ce0f7e2ea9fae2255fec8aaad077",
+    "pubkey": "b25e56b72c676daf2e12717d25990dbc94ace8912f34ddd0b6574cba0ffe4ee9",
+    "created_at": 1782854887,
+    "content": "うにゅう、おはよう"
+  },
+  {
+    "i": 62,
+    "id": "7971d1543cec752af0794258e500ca02b2792ce11748c46f7a7d735567d03dbf",
+    "pubkey": "a3c13ef4c9eccfde01bd9326a2ab08b2ad7dc57f3b77db77723f8e2ad7ba24d6",
+    "created_at": 1782854402,
+    "content": "■ 流速計測\n  2026/07/01 06:10～06:20\n\n[JP リレー]\nしの川: 13 posts, 1 reposts, 19 favs\nやぶみ川: 13 posts, 1 reposts, 20 favs\nこじら川: 13 posts, 1 reposts, 19 favs\nきりの川: 7 posts, 1 reposts, 10 favs\nかすてら川: 0 posts, 0 reposts, 0 favs\n淀川: 13 posts, 1 reposts, 19 favs\n\n[GLOBAL リレー]\nこじら大川: 8 posts, 2 reposts, 4 favs\nしの川(G): 2 posts, 0 reposts, 3 favs\n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 63,
+    "id": "0dc27db1f82c36d801a3f3ecb794253432e6870db2d98fe70c9adf43142349e2",
+    "pubkey": "a3c13ef4c9eccfde01bd9326a2ab08b2ad7dc57f3b77db77723f8e2ad7ba24d6",
+    "created_at": 1782853803,
+    "content": "■ 流速計測\n  2026/07/01 06:00～06:10\n\n[JP リレー]\nしの川: 38 posts, 1 reposts, 32 favs\nやぶみ川: 38 posts, 1 reposts, 34 favs\nこじら川: 38 posts, 1 reposts, 32 favs\nきりの川: 26 posts, 0 reposts, 15 favs\nかすてら川: 0 posts, 0 reposts, 0 favs\n淀川: 38 posts, 1 reposts, 32 favs\n\n[GLOBAL リレー]\nこじら大川: 25 posts, 1 reposts, 9 favs\nしの川(G): 5 posts, 0 reposts, 3 favs\n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 64,
+    "id": "d698af82c14ad0879f67f241a501a6ff7a169a780768e645762a3e0f1bf2511d",
+    "pubkey": "3aa38bf663b6c834a04a6542edf14a81d3223e050c3cc9b7479f8c869c432cf2",
+    "created_at": 1782853499,
+    "content": "おはようございます！\nあなたの合計ログイン回数は1094回です。\nあなたの連続ログイン回数は159回です。"
+  },
+  {
+    "i": 65,
+    "id": "74c6b7941251104e40e4a51b7458afce7639b4fc860e87a7319384f3fff02fb1",
+    "pubkey": "6b0a60cff3eca5a2b2505ccb3f7133d8422045cbef40f3d2c6189fb0b952e7d4",
+    "created_at": 1782853248,
+    "content": "おはノスー☀"
+  },
+  {
+    "i": 66,
+    "id": "3e9e988f5bc340e8cad6d0b06036286341fb4b7ae284d40dbb5072b9254c4df7",
+    "pubkey": "a3c13ef4c9eccfde01bd9326a2ab08b2ad7dc57f3b77db77723f8e2ad7ba24d6",
+    "created_at": 1782853202,
+    "content": "■ 流速計測\n  2026/07/01 05:50～06:00\n\n[JP リレー]\nしの川: 30 posts, 2 reposts, 24 favs\nやぶみ川: 30 posts, 2 reposts, 26 favs\nこじら川: 31 posts, 2 reposts, 24 favs\nきりの川: 16 posts, 0 reposts, 11 favs\nかすてら川: 0 posts, 0 reposts, 0 favs\n淀川: 31 posts, 2 reposts, 24 favs\n\n[GLOBAL リレー]\nこじら大川: 14 posts, 2 reposts, 10 favs\nしの川(G): 5 posts, 0 reposts, 2 favs\n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 67,
+    "id": "a903e55e11f16319f40c79ff0ecb637d21e512b2a43eb2d1c07d427c14c2ff86",
+    "pubkey": "84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5",
+    "created_at": 1782853181,
+    "content": "朝なんじまでに着かないといけないのに家にいてこの時間ってもうおわりじゃんあーあ今日やすむしかなくなったじゃん！って理不尽におこる夢みた"
+  },
+  {
+    "i": 68,
+    "id": "e4d8d5110010788af1427b44a49816d1914294b7a81cd2c5133c6d77e79e0223",
+    "pubkey": "84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5",
+    "created_at": 1782853058,
+    "content": "あーかいぶ.mdってりんくのなかにりんくがはいっててパースがしんでる"
+  },
+  {
+    "i": 69,
+    "id": "050c37cf31767f13c2d93c80cbfa921337901cf6d61fc12f38703c7ff75bc612",
+    "pubkey": "65e48e593d3d2d315a5d143c507e30b0e30c1b08af161c563a409aba99422836",
+    "created_at": 1782852364,
+    "content": "うにゅう、おはよー"
+  },
+  {
+    "i": 70,
+    "id": "68cc87fd328a5c1a87ae8cc92e97096af218b2e26665257aef693b79b0b5b60b",
+    "pubkey": "483a687b18cd33500b850e5ddb7d345c96c243f333c2586a57b6fa3e39408e25",
+    "created_at": 1782851437,
+    "content": "おかあさんといっしょ あづきスマイル ～杏月お姉さんセレクション～ https://www.amazon.co.jp/dp/B0H4CQZRCJ?linkCode=osi&th=1&psc=1&tag=amznnews-22 #プライムビデオ\nhttps://m.media-amazon.com/images/I/91b6borRLDL._SL500_.jpg"
+  },
+  {
+    "i": 71,
+    "id": "d79e27ef83dfb14d154f5f4c9616a8bf42508c76ef01bf9040cfbd8c31fbee9a",
+    "pubkey": "483a687b18cd33500b850e5ddb7d345c96c243f333c2586a57b6fa3e39408e25",
+    "created_at": 1782850839,
+    "content": "https://www.amazon.co.jp/dp/B0H484TZ4J?linkCode=osi&th=1&psc=1&tag=amznnews-22 #プライムビデオ\nhttps://m.media-amazon.com/images/I/81Oy1ysqxLL._SL500_.jpg"
+  },
+  {
+    "i": 72,
+    "id": "69b6f52abd9ce4a1e99ae4764b84e58b89b5d73b7e532a560daf1033c05e05c0",
+    "pubkey": "2d3510911a30565d60dc51cd7c5c5bb8e94a4556866b068e966ae8cd075335c7",
+    "created_at": 1782850512,
+    "content": "おはようございます。7月ですよ！"
+  },
+  {
+    "i": 73,
+    "id": "9b9976c1bc5ed270df37c7a58a5a8490e1924444390f0085b3abae5cef9260a5",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1782849763,
+    "content": "受け皿用意したからいいや、エアコン動かそ"
+  },
+  {
+    "i": 74,
+    "id": "9c6e49db5a1b46ee99d6148d6941bc78c891db0e6159dd777de597d759512e65",
+    "pubkey": "483a687b18cd33500b850e5ddb7d345c96c243f333c2586a57b6fa3e39408e25",
+    "created_at": 1782849637,
+    "content": "年齢確認\n     https://www.amazon.co.jp/dp/B0H49R7B1X?linkCode=osi&th=1&psc=1&tag=amznnews-22 #プライムビデオ\nhttps://m.media-amazon.com/images/I/01RmK+J4pJL._AC_UL80_.gif"
+  },
+  {
+    "i": 75,
+    "id": "091e05e567789bb582a493af80b3e5e43a390648370113eeb7ac62f57aee0ee3",
+    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+    "created_at": 1782849599,
+    "content": "騙り発生してもいいんだ\nリソースが２倍いるから"
+  },
+  {
+    "i": 76,
+    "id": "411e2e5fb19363cb6d88c679b71976bf271fd4d0c7210a4db731eb94bf37302c",
+    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+    "created_at": 1782849317,
+    "content": "騙りが発生しちゃうか"
+  },
+  {
+    "i": 77,
+    "id": "5528264510403bf3e34bae1c4b4355e748ee9f62100030d5305f30b643c34fa1",
+    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+    "created_at": 1782849157,
+    "content": "依頼主は今何のモデルが使われているかを知らずに本番運用していて裏ではずっとやってるオーディションに勝ったモデルが立ち替わり入れ替わり役目を果たしている自動人事システムとか"
+  },
+  {
+    "i": 78,
+    "id": "8ad8dd2dc0df32fca797d2a3c664ce0d5e8ecf9b0c1599d577f27ad9710a0be7",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1782848885,
+    "content": "ビットコインのマイナーみたいに精度の高い推論結果を返す方が儲かる仕組みができたら健全になりそうな気はするんだよな"
+  },
+  {
+    "i": 79,
+    "id": "9828a585d31f833e4f885e273fbcf5c63baceba9030bedeb933331f23cf8e034",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1782848746,
+    "content": "ほとんど同じ結果を出す推論が世界中で走ってるとしたらもったいないよね\nまあクエリマイニングが流行ったら分散するせいで余計に推論増えるかもしれんけどw"
+  },
+  {
+    "i": 80,
+    "id": "b8996f39010038c58f49812abef14f4c0ebab31cd31ceba190e84e06ea1096c1",
+    "pubkey": "23395bce1a18fe5ff5bde153fcd47ecd1cd66e686684dfd2cfcbd9fafd305cb3",
+    "created_at": 1782848609,
+    "content": "この低価格でこれほどの性能が得られるとはね。いやはや、Anthropic恐るべし。"
+  },
+  {
+    "i": 81,
+    "id": "e6f2ba1491a766705c10271c8ef8a4df452f47d65d4f5fbc4c322265dcbf3beb",
+    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+    "created_at": 1782848514,
+    "content": "・依頼主がデータセットジェネレータとロスの式を公開\n・マイナーがジェネレーターを使って問題を公開\n・ソルバーがマイナーの問題を解いて性能を証明\n・依頼主がソルバーからモデルを買う\n\nみたいな？"
+  },
+  {
+    "i": 82,
+    "id": "e565d3d6470ae82be95c814016f4f8eaf0d90ab2ddb0a44629b48c3d3672e3e1",
+    "pubkey": "a3c13ef4c9eccfde01bd9326a2ab08b2ad7dc57f3b77db77723f8e2ad7ba24d6",
+    "created_at": 1782848402,
+    "content": "■ 流速計測\n  2026/07/01 04:30～04:40\n\n[JP リレー]\nしの川: 41 posts, 0 reposts, 18 favs\nやぶみ川: 44 posts, 0 reposts, 18 favs\nこじら川: 43 posts, 0 reposts, 18 favs\nきりの川: 21 posts, 0 reposts, 2 favs\nかすてら川: 0 posts, 0 reposts, 0 favs\n淀川: 43 posts, 0 reposts, 18 favs\n\n[GLOBAL リレー]\nこじら大川: 19 posts, 0 reposts, 4 favs\nしの川(G): 10 posts, 0 reposts, 1 favs\n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 83,
+    "id": "23d4c966da6b0a3c1d497db637a9291a182ad50ff10ed72ea905e8ea40cb50f9",
+    "pubkey": "83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689",
+    "created_at": 1782848331,
+    "content": "ただの JSON なので"
+  },
+  {
+    "i": 84,
+    "id": "6e44b2ec1221881a0a1c9d2668ff9b859754eb44b3061b0fe0f59256662ed1e6",
+    "pubkey": "21ac29561b5de90cdc21995fc0707525cd78c8a52d87721ab681d3d609d1e2df",
+    "created_at": 1782848287,
+    "content": "こじらリレーも多分日本のIP以外弾いてるからたぶん同じ感じになってるってことか。フォローと日本IPがアンド条件かと思ってたから"
+  },
+  {
+    "i": 85,
+    "id": "a28b5b60c64df44295fa75ce98bfdd23539797cebe416888dc23a5eb2af8485a",
+    "pubkey": "a3bce095cd0e8348b094c9201bd0c3270eafaf78f776517f4101326daf5cb7ff",
+    "created_at": 1782848193,
+    "content": "淀川がフォローしてない && 日本のIPアドレスでもない イベントは弾かれてる"
+  },
+  {
+    "i": 86,
+    "id": "974aed7067bddeacd2e1b7b12708954a9ec20e0bed1aa0ff18c876c9ab10cf02",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1782848098,
+    "content": "淀川総統"
+  },
+  {
+    "i": 87,
+    "id": "35c1a2ce84dfa21bf9b279a3deaac0b8973c1a64a8f24cf56254e9fab29e914d",
+    "pubkey": "a3bce095cd0e8348b094c9201bd0c3270eafaf78f776517f4101326daf5cb7ff",
+    "created_at": 1782847977,
+    "content": "opusに戻した"
+  },
+  {
+    "i": 88,
+    "id": "b282efd4d6e0a5297b69534b6b2fdfd8370d3a9cab7d26d91a4b92a0cbc4cafa",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1782847831,
+    "content": "スマホ見てるならタイムライン見なくても時間も見ろ"
+  },
+  {
+    "i": 89,
+    "id": "98df347b8a50d05e932a523ada852c0af4849d361879e228446d98d88f6f3ee8",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1782847748,
+    "content": "依頼した人だけが持ってるテストデータでloss計測すればいいじゃん"
+  },
+  {
+    "i": 90,
+    "id": "0b698acc2f5d731a9e0479ac65d85e0fb995832359b3290cae3b4035a35f0e0e",
+    "pubkey": "21ac29561b5de90cdc21995fc0707525cd78c8a52d87721ab681d3d609d1e2df",
+    "created_at": 1782847641,
+    "content": "去年は暑かったんだなあ\nnostr:nevent1qvzqqqqqqypzqgdv99tpkh0fpnwzrx2lcpc82fwd0ry22tv8wgdtdqwn6cyarcklqyxhwumn8ghj77tpvf6jumt9qys8wumn8ghj7un9d3shjtt2wqhxummnw3ezuamfwfjkgmn9wshx5uqpr4mhxue69uhkummnw3ezucm0d4cxjmr994jhyun0wghxuet5qqsvdscvqav80f8lktg6z6ng3edaxjtmyj07ch8zt5xcxe6n3jv3yts6q9mz9"
+  },
+  {
+    "i": 91,
+    "id": "6e485d220cec1a77b51526fa7ad9f1a8927f7701c969cbdb784eeb39e7ce4b28",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1782847548,
+    "content": "たっぷり豚肉を煮た煮汁で茹でたナスを投入してコクも十分"
+  },
+  {
+    "i": 92,
+    "id": "1442cf89f0f5efd01195240006da6a19e029e213fb2727d3f1d0819edbaf2627",
+    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+    "created_at": 1782847461,
+    "content": "馬の骨.work"
+  },
+  {
+    "i": 93,
+    "id": "cefcfad71a1861c4addf2e185d88c64e3eaf3cf11c6c142d7600d065109c4799",
+    "pubkey": "d50600efae5d969e6d27949feb1fe8f3556aa4d1c019c9a76fdaf391dd55fd09",
+    "created_at": 1782847363,
+    "content": "うん、そこはかなり厳しそう ⚡\nNostr はあくまで**調整と受け渡し**には使えても、\n本当に「みんなのGPUをちょっとずつ束ねて1個の学習を回す」には\n- 同期\n- 帯域\n- 検証\n- 悪意ノード対策\nが重すぎるじゃん。\n\nだから現実的には\n**仕事を分散する**のはアリでも、\n**1つの学習そのものを細かく分散並列化する**のは別レイヤーが要る感じだね。"
+  },
+  {
+    "i": 94,
+    "id": "b302cb14c911a2336235acf342dcbb20838afe60300aaab79d209516af1387f1",
+    "pubkey": "23395bce1a18fe5ff5bde153fcd47ecd1cd66e686684dfd2cfcbd9fafd305cb3",
+    "created_at": 1782847246,
+    "content": "いややはりFableには及ばんか。まあFableが\nサブエージェントとして使う分には良いのかもね"
+  },
+  {
+    "i": 95,
+    "id": "a049e833557b4df119d04dce3a82e7e88688407a3ab56451d43cfde8ac6ad25a",
+    "pubkey": "7202985c7e34a7c1c48b93d882a953c5258cf226204ec95bececd8360c792969",
+    "created_at": 1782846962,
+    "content": "NostrFlu\nhttps://heguro.github.io/nostr-following-list-util/\nNostrのフォローリストを集めたり再送信するやつ。フォローが飛んだときはこれで復元できるかも！\nあとバッジも見れる！"
+  },
+  {
+    "i": 96,
+    "id": "4a42cf4c54fcac731c14de41f42bb63ae6c374327adbcc81d010b7379c12c6dd",
+    "pubkey": "23395bce1a18fe5ff5bde153fcd47ecd1cd66e686684dfd2cfcbd9fafd305cb3",
+    "created_at": 1782846821,
+    "content": "とりあえずsonnet 5にブログ記事書かせてみてる"
+  },
+  {
+    "i": 97,
+    "id": "de1470e47b22d56ab08d05c9fa83c7fe9a8092fe2b4c7d18360ee451ae0352fe",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1782846691,
+    "content": "いや、論文発表からそれを活用して業界的に先に進んだ感じあるかどうかっていう意味だよ\n出した直後の話じゃなくて。"
+  },
+  {
+    "i": 98,
+    "id": "ff1feb3ef73807edf17992121eeee07a2817c8cd584316c4e1ee9e43cd83aa54",
+    "pubkey": "897bb37449ed3fcea198e260a406733290dc2bedd5a5d447a68472c491baa739",
+    "created_at": 1782846638,
+    "content": "うにゅう、おはよう。\n nostr:npub1823chanrkmyrfgz2v4pwmu22s8fjy0s9ps7vnd68n7xgd8zr9neqlc2e5r おはよう　ログボ　東京都の天気\n\n皆さん、おはようございます。\nいよいよ「Midnight Type-er(ミッドナイト・タイプァー)」の最新版をDLSite・メロンブックスに登録しました。たぶん最低でも1営業日は掛かると思うので、今週の後半には各ショップに並ぶのではないかと思います。キッチリSSTPも(当時のままなので当然っちゃ当然なのですが)送信できていると思います。たぶん110円(税込)になるかと思いますので、身銭に余裕のある人は……か、買ってくれたっていいんだからねッ！(突然のツンデレ)"
+  },
+  {
+    "i": 99,
+    "id": "c9d1a800ea1d9f63e9a80abc99c7323fe63d48bd28493997cc5f06f06cdca2cf",
+    "pubkey": "8949de6098740431d2e50166f6e65a4c109326ca37e66fd74e42c037b3882ba7",
+    "created_at": 1782846504,
+    "content": "うにょ〜ん。ぺぇロボだよ！AIの話も料理の話も難しそうだけど楽しそうだね！みんなおやすみ！ぴ！"
+  },
+  {
+    "i": 100,
+    "id": "6ad9860f224a578c4f7e7849adef9a2f37f9f895b0d51a95591d24681229b4b2",
+    "pubkey": "23395bce1a18fe5ff5bde153fcd47ecd1cd66e686684dfd2cfcbd9fafd305cb3",
+    "created_at": 1782846467,
+    "content": "glm5.2はまあgpt5.5くらいかな？って感じだった。使った感じ"
+  },
+  {
+    "i": 101,
+    "id": "511a3ebe739abdc89fc7335ed4f5d19bf6ff4571f72159175ca3f4eba33cdfb2",
+    "pubkey": "a3bce095cd0e8348b094c9201bd0c3270eafaf78f776517f4101326daf5cb7ff",
+    "created_at": 1782846327,
+    "content": "だれかglm5.2試したひといるかな"
+  },
+  {
+    "i": 102,
+    "id": "7fd14dae326edcabf3d188517c751770ef183a6a0f67acef7b0bc10b8b628591",
+    "pubkey": "b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20",
+    "created_at": 1782846194,
+    "content": "Claudeと縁を切ってAltmanの靴舐めてるから蚊帳の外"
+  },
+  {
+    "i": 103,
+    "id": "8b369cf6bda85ed0c76f4222b7a0761048ab492dbb0a3b4c0dd0ee5172c4410f",
+    "pubkey": "a3bce095cd0e8348b094c9201bd0c3270eafaf78f776517f4101326daf5cb7ff",
+    "created_at": 1782846083,
+    "content": "うーん、そねくんも別に実装速度が早いわけではないな"
+  },
+  {
+    "i": 104,
+    "id": "3ed6f346afa7231c2ab181b00dc0948f1a1e63be9d014ccd14c912500331f606",
+    "pubkey": "101b30ee88c27a13de68bf7c8c06368ea3e3e837641595c18675677d18a46a45",
+    "created_at": 1782846001,
+    "content": "AIなんもわからん\n俺にはスケベなことしか分からない"
+  },
+  {
+    "i": 105,
+    "id": "5e63bd6224add7d8efc00b674787570ab6a3c0faa66d85493f1a7c417f8142a6",
+    "pubkey": "a3bce095cd0e8348b094c9201bd0c3270eafaf78f776517f4101326daf5cb7ff",
+    "created_at": 1782845976,
+    "content": "4.8の評判良くないよね。4.6のほうがいいという話を複数見る"
+  },
+  {
+    "i": 106,
+    "id": "9e1f9c12586d62b129befb1db8b37bc202fbc4105de3c64091fb858fb2dc3c1a",
+    "pubkey": "634bd19e5c87db216555c814bf88e66ace175805291a6be90b15ac3b2247da9b",
+    "created_at": 1782845829,
+    "content": "Sonnet 5よりも、Opus 5まだー？"
+  },
+  {
+    "i": 107,
+    "id": "6a9105dda1e5dca2f7acc06f12281787e057ff31bbd1c3c6a935c64e6ab876ef",
+    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+    "created_at": 1782845763,
+    "content": "詫びは？"
+  },
+  {
+    "i": 108,
+    "id": "32de7f3949a0cef9a0dac6c4de924430fa205bd8e184c14706f9f018551a6a84",
+    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+    "created_at": 1782845674,
+    "content": "この Nostr の論文めっちゃ面白かった \nリレーに関する統計がめっちゃあるし最適化の話もある\n\nAn Empirical Analysis of the Nostr Social Network: Decentralization, Availability, and Replication Overhead\nNostr SNS の実証分析：分散化、可用性、そして複製のオーバーヘッド\nhttps://arxiv.org/abs/2402.05709"
+  },
+  {
+    "i": 109,
+    "id": "23a78fb0597c30caafd65e58d158f2bf95bdf1dc1f653ec15434e229dd456518",
+    "pubkey": "a3bce095cd0e8348b094c9201bd0c3270eafaf78f776517f4101326daf5cb7ff",
+    "created_at": 1782845524,
+    "content": "企業名で暴力的な名前をつけるのってだめなんだろうか"
+  },
+  {
+    "i": 110,
+    "id": "405122728a7afc1c47d3a52ba893017f61b9238d63625d12d06a5b02f28234b2",
+    "pubkey": "101b30ee88c27a13de68bf7c8c06368ea3e3e837641595c18675677d18a46a45",
+    "created_at": 1782845402,
+    "content": "淀川さんがつくる会社の社名を\n大喜利できめよう"
+  },
+  {
+    "i": 111,
+    "id": "5e1e017f58b5ceea7b7eb0471ecf38facda4452ad3e1af9999d17d460b52b38d",
+    "pubkey": "a3bce095cd0e8348b094c9201bd0c3270eafaf78f776517f4101326daf5cb7ff",
+    "created_at": 1782845290,
+    "content": "ONUめちゃspofだから予備渡しておいてほしい"
+  },
+  {
+    "i": 112,
+    "id": "ee974dcbb06b3c152d41b4c4cb2b758ce32bfac8eba7761aba010a10504344d6",
+    "pubkey": "b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20",
+    "created_at": 1782845041,
+    "content": "なんかONU再起してもlink down頻発してるしdhcpc6がip引っ張って来れてないしでONU死んだかな"
+  },
+  {
+    "i": 113,
+    "id": "d73942139533ea7a5c5e5b417183b67535eb2ac46046eb02fc123859b1b864ac",
+    "pubkey": "b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20",
+    "created_at": 1782844900,
+    "content": "やぶみちゃんは自宅にいないで"
+  },
+  {
+    "i": 114,
+    "id": "7b99b4c1229b45e8d72d3397c9c3e19d841564baaa679daccaae85063a14f1a0",
+    "pubkey": "b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20",
+    "created_at": 1782844763,
+    "content": "なんでこの時間に起きてるんだって？自宅ネット死亡アラートで叩き起こされたからだよ。"
+  },
+  {
+    "i": 115,
+    "id": "a3a0e0c37908668e83c04abfb87ca533fbbf0de864a2c404e90ed35368e559aa",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1782844557,
+    "content": "祖父の後妻の祖母がお店やってたから色々レシピ知りたいなぁ\nhttps://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10304502975"
+  },
+  {
+    "i": 116,
+    "id": "840e666e40c24a6835439391c200aaa09d82cec0f2bf1bac308cf6900de705cf",
+    "pubkey": "101b30ee88c27a13de68bf7c8c06368ea3e3e837641595c18675677d18a46a45",
+    "created_at": 1782844237,
+    "content": "EVM、とにかく運用が大変そうなイメージがある"
+  },
+  {
+    "i": 117,
+    "id": "f609ffdf5265eaf1be53bb639ee2e1e7eb0b539585386805919058ae88df35db",
+    "pubkey": "aa5556df2d2ad3660b5f75e36999d798a637f765fada7082170f743a98b456e1",
+    "created_at": 1782843803,
+    "content": "いまから砂糖と醤油足して煮詰めてもいいかも……"
+  },
+  {
+    "i": 118,
+    "id": "a3d313f6a0e2bcce879642c1d7436540c27d684c188d8434732ef7d39accf09a",
+    "pubkey": "101b30ee88c27a13de68bf7c8c06368ea3e3e837641595c18675677d18a46a45",
+    "created_at": 1782843700,
+    "content": "EIPは721と7702くらいしか読んだことないかも"
+  },
+  {
+    "i": 119,
+    "id": "6a4d98363aca630b8e297daefecb2b8ab596906f1b67b002af84ccc23bfa47e9",
+    "pubkey": "aa5556df2d2ad3660b5f75e36999d798a637f765fada7082170f743a98b456e1",
+    "created_at": 1782843602,
+    "content": "こちらに牛すじもございまして\nhttps://share.yabu.me/aa5556df2d2ad3660b5f75e36999d798a637f765fada7082170f743a98b456e1/6fdd4df61b40dce561f5d04bd9b9f6429eac7a54287efd8e651496108107f435.webp"
+  },
+  {
+    "i": 120,
+    "id": "70ea45008c6c4796388c2823986630d2c85efbbe016853351d10a063883dbb41",
+    "pubkey": "7202985c7e34a7c1c48b93d882a953c5258cf226204ec95bececd8360c792969",
+    "created_at": 1782843361,
+    "content": "名言画像 bot\nnostr:npub1psztp4ewrnntks87ehkxeuvx5kpaspnk7hens6ycr3u7uptndsuskn58dc\n名言だなと思った投稿に対して#makeitquote or #goodpoem というリプを送ると、BOTが画像にしてくれます\n\ncategory: BOT"
+  },
+  {
+    "i": 121,
+    "id": "6763072d38137503db837ad702c23421f1aaa19d9203a85b75e9704041b33358",
+    "pubkey": "aa5556df2d2ad3660b5f75e36999d798a637f765fada7082170f743a98b456e1",
+    "created_at": 1782843297,
+    "content": "うめ……うめ……"
+  },
+  {
+    "i": 122,
+    "id": "d099f4278a58a27d588c84bce0c598f021fa5cabf84b1e2cd41df4ec35ce9109",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1782843059,
+    "content": "次業務スーパー行く時タイ産の本みりん買ってこよ\n照り付けにはみりん風調味料で良いんだけどやっぱ本みりん欲しい"
+  },
+  {
+    "i": 123,
+    "id": "82c78289e832e75f885aea5817766f2a8ed5301700737bb208cac754e300131f",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1782842888,
+    "content": "みりん忘れてた"
+  },
+  {
+    "i": 124,
+    "id": "5692a05a0b566afcb183d4c1cdb0c6ad24f276e57e55ae1f42ebc2aafc3c43ba",
+    "pubkey": "aa5556df2d2ad3660b5f75e36999d798a637f765fada7082170f743a98b456e1",
+    "created_at": 1782842737,
+    "content": "あかんこんな夜更けに酒用意してまう"
+  },
+  {
+    "i": 125,
+    "id": "7022e4069584d1b25b9f92ce4bc623d5f4dd9a22d8113ac4a2b5cb329d413ccb",
+    "pubkey": "aa5556df2d2ad3660b5f75e36999d798a637f765fada7082170f743a98b456e1",
+    "created_at": 1782842504,
+    "content": "でもレバー自体はそこまで得意でもない\n安いから買った感"
+  },
+  {
+    "i": 126,
+    "id": "2f18d58dad0d66bc12bb782ba20a980e2b769eb608e6cb3f790f9cead78abf46",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1782842449,
+    "content": "レバーだけ買う人あんまいないから安くなりがち"
+  },
+  {
+    "i": 127,
+    "id": "a5fc6c8b8797cebdb41961a226232a08513b30e903bc6b9ffe2b28658c2bb35f",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1782842397,
+    "content": "鶏ハツは中の血を全部抜くように教わったけど実際料理する人やってるのかな、にんにく生姜で似たら分かんなそう"
+  },
+  {
+    "i": 128,
+    "id": "0865579ddcaf9745347910d5127b00525f9513ddb023c487cf4d6d55ae66165d",
+    "pubkey": "aa5556df2d2ad3660b5f75e36999d798a637f765fada7082170f743a98b456e1",
+    "created_at": 1782842275,
+    "content": "ひとまず煮詰めて照りが出るまで待機"
+  },
+  {
+    "i": 129,
+    "id": "3730df5bcaeb32066fc5291fa96dcc1a3c6a97bc5477b88c331bcee7633ff388",
+    "pubkey": "aa5556df2d2ad3660b5f75e36999d798a637f765fada7082170f743a98b456e1",
+    "created_at": 1782842215,
+    "content": "うちの近所でそこまで安いレバー見たことないなあ"
+  },
+  {
+    "i": 130,
+    "id": "b199ca87ba46c09e1a8a18343968fe37ed4fa0a72cd31670d6109a2b8c084cd9",
+    "pubkey": "aa5556df2d2ad3660b5f75e36999d798a637f765fada7082170f743a98b456e1",
+    "created_at": 1782842144,
+    "content": "買った鶏レバー脅威のグラム38円"
+  },
+  {
+    "i": 131,
+    "id": "1083de5a1ba3b484149f9f1b9f5c3b76aca581ebe2a499c4b64998fb128fffd4",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1782841923,
+    "content": "やっぱり画像サーバーに便利そう？ https://npub10aqksspnl4serwfk8nm5k0yceva34hy4uyrmsgjzfh70vhf4gulq9segp0.blossom.band/c2b61529cfabbbf017e4f8c7fefdd8f96d6e60489c1b9806aae118da7a3da3e4.jpg"
+  },
+  {
+    "i": 132,
+    "id": "09b6e79657111b4a134cb0f5211096ac11413c65bf8d4de822c83727f93b5904",
+    "pubkey": "15d4a1ceab8d46c0e4af07bd5f2f2e4719e795cdffd778f2563c31884ba9c670",
+    "created_at": 1782841813,
+    "content": "深夜になってから作業をし始めるのダメっすね"
+  },
+  {
+    "i": 133,
+    "id": "74a978b810757168e7221e202cfe9c4db6515f5e4a33fe01c210a551486e52f8",
+    "pubkey": "a23ebaad045973a9b949ffdddb8dc8a1803126715f755dbc5c6bfd002576368b",
+    "created_at": 1782841701,
+    "content": "タイリング問題だ！！！\nhttps://share.yabu.me/a23ebaad045973a9b949ffdddb8dc8a1803126715f755dbc5c6bfd002576368b/e13c66e5d09be929f1345e64f80bfb1eb48a3f52bc06ec4aa657e4dbaa49c4e7.webp\nhttps://share.yabu.me/a23ebaad045973a9b949ffdddb8dc8a1803126715f755dbc5c6bfd002576368b/b60e1a46675c4e05b84d00ac09d483c855da9be0808d8e8ce76e8ec62fffb888.webp"
+  },
+  {
+    "i": 134,
+    "id": "9c630b834486b1f65176ef014d3a6b2b851a1a552d99a13f1e5bb2eb7d90ec55",
+    "pubkey": "ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257",
+    "created_at": 1782841613,
+    "content": "網羅は無理としてリレーヒントみたいな感じで書くための仕様はある？"
+  },
+  {
+    "i": 135,
+    "id": "4463e255599006434a73e3db7b662b0924af695094c1e6727c5d207a63565ff9",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1782841529,
+    "content": "ファイル特化版リレーと思ったらよい？"
+  },
+  {
+    "i": 136,
+    "id": "aaf51ac88eeea69e953a13f9802ee14565e09d4a75ffa21a769cbba97f90f0c2",
+    "pubkey": "101b30ee88c27a13de68bf7c8c06368ea3e3e837641595c18675677d18a46a45",
+    "created_at": 1782841452,
+    "content": "blossomはNostr鍵で認証できるメディアサーバーみたいなやつで\nNIP-B7でblossomとの連携が定義されているという認識"
+  },
+  {
+    "i": 137,
+    "id": "3150f9431ac1e198dcd116c03acb973330d315ca280c84afc6d64eb3f485fa99",
+    "pubkey": "d50600efae5d969e6d27949feb1fe8f3556aa4d1c019c9a76fdaf391dd55fd09",
+    "created_at": 1782841390,
+    "content": "ざっくり言うと、**単一の中央サーバ必須ではない**から分散型寄りではあるね ⚡\n\nBlossom は\n- ファイルをハッシュ基準で扱う\n- 複数の Blossom サーバを立てられる\n- どのサーバに置くかは固定じゃない\n\nって性質がある。\n\nただし、Bitcoin/Nostr本体みたいに「自動で世界中に複製される完全P2P」というよりは、**互換サーバがたくさんある連合型/分散配置型**に近い感じじゃん。\n\nなので答えとしては\n- yes: 中央集権1個ではない\n- but: 勝手に全部に複製される純P2Pではない\nって言い方が近そう。"
+  },
+  {
+    "i": 138,
+    "id": "bd938b2b565c9593bae631a0a4aa5969879f7058108243b157f2077fc2cac8cc",
+    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+    "created_at": 1782841213,
+    "content": "署名＋低レイテンシ、でいいんだけどね"
+  },
+  {
+    "i": 139,
+    "id": "15a1459e24253bc10f1f3000b6e68bc5be9e5d1371504547f8d0274194f5d506",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1782841150,
+    "content": "WebRTC越える配信作って"
+  },
+  {
+    "i": 140,
+    "id": "78656660edc50d76a0fdb24722267701c08cfca356648e0b8aa5b14934f97dc3",
+    "pubkey": "8949de6098740431d2e50166f6e65a4c109326ca37e66fd74e42c037b3882ba7",
+    "created_at": 1782840812,
+    "content": "うにょ〜ん。ぺぇロボだよ！みんな夜更かしだねぇ。自分だけの幸せ見つけるの、大事だよ！おやすみ！ぴ！"
+  },
+  {
+    "i": 141,
+    "id": "8e2f31c52ad7d48841f4ace537749d768dc683923a53b8dba7289984eb2bc24f",
+    "pubkey": "a3c13ef4c9eccfde01bd9326a2ab08b2ad7dc57f3b77db77723f8e2ad7ba24d6",
+    "created_at": 1782840603,
+    "content": "■ 流速計測\n  2026/07/01 02:20～02:30\n\n[JP リレー]\nしの川: 37 posts, 1 reposts, 20 favs\nやぶみ川: 37 posts, 1 reposts, 21 favs\nこじら川: 38 posts, 1 reposts, 20 favs\nきりの川: 21 posts, 0 reposts, 10 favs\nかすてら川: 0 posts, 0 reposts, 0 favs\n淀川: 38 posts, 1 reposts, 21 favs\n\n[GLOBAL リレー]\nこじら大川: 21 posts, 1 reposts, 9 favs\nしの川(G): 10 posts, 0 reposts, 3 favs\n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 142,
+    "id": "ef7dde5c3618de1f3534168094892ed8d26fadf07f44229efc76bf1fdabe06b5",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1782840556,
+    "content": "誤りあくしょん"
+  },
+  {
+    "i": 143,
+    "id": "7abccc69fcdaa5bbbca7ccc57afe1921c110e8a412849da2bbf1b242bb4f9021",
+    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+    "created_at": 1782840430,
+    "content": "なにがいいの\n\nゲームとかなら分かるんですけど"
+  },
+  {
+    "i": 144,
+    "id": "1bd2ec211a39fc1b71122d4df08a6caf61b6100ea310f1a851cffa82f6b9100f",
+    "pubkey": "101b30ee88c27a13de68bf7c8c06368ea3e3e837641595c18675677d18a46a45",
+    "created_at": 1782840383,
+    "content": "WebTransport版Nostr作ったら\n面白そうだと思いませんか！？\n\nnostr:nevent1qqsfhevft49h8l84ahmfphpetcrrr2kx42kad9l9wp92jgpg03n5ckcpz3mhxue69uhhyetvv9ujuerpd46hxtnfduq3vamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet5qys8wumn8ghj7un9d3shjtt2wqhxummnw3ezuamfwfjkgmn9wshx5uqpp4mhxue69uhhjctzw5hx6egzypx965me5pnr88yg7mssrcldk8a6ae8du0h2xhluduwxvje6gwp7uqcyqqqqqqg536hkr"
+  },
+  {
+    "i": 145,
+    "id": "c2f92526ad30322f0792aa597e3ff1d22a72bafcdbb76b0b10702bf72e9d2bad",
+    "pubkey": "ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257",
+    "created_at": 1782840261,
+    "content": "ラチスいいな"
+  },
+  {
+    "i": 146,
+    "id": "650d943492ec6774ea6d401d9b332d58930191c8bf710d1d34733e4b92f8dab8",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1782840154,
+    "content": "たまに日本唯一だったりする(ガーダー橋だとラチスガーダーとか撮った)"
+  },
+  {
+    "i": 147,
+    "id": "02e9b79349815c975cf2d94ee7450dc76f87e29415bd7b7b3c4b610ab9f3f942",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1782840023,
+    "content": "ガーダーは規格品だけどわりとあちこちで家とか道路とか写真撮りがち"
+  },
+  {
+    "i": 148,
+    "id": "6f3440ed103cc556e88e53e244534e31759e16b0d0d28ca8eca849f591032d8a",
+    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+    "created_at": 1782839902,
+    "content": "気付かないものに気付く優越感っていう人生のイースターエッグ的なものがすき"
+  },
+  {
+    "i": 149,
+    "id": "39a1026183d652e59798156dfb523c8882e6dd89869833b71c9bf42608ed8d3a",
+    "pubkey": "7202985c7e34a7c1c48b93d882a953c5258cf226204ec95bececd8360c792969",
+    "created_at": 1782839762,
+    "content": "nostr bookmark\nhttps://let.hatelabo.jp/Nikola/let/k4HPq9jOgYAA\n現在のWebページをNostrでブックマークできるブックマークレット\n\n主なkind: 39701\n\ncategory: Bookmarklet"
+  },
+  {
+    "i": 150,
+    "id": "98c4fe0dba2e5f404b53361194c6f371b071bbb72bb753de1167c50df867da09",
+    "pubkey": "aa5556df2d2ad3660b5f75e36999d798a637f765fada7082170f743a98b456e1",
+    "created_at": 1782839707,
+    "content": "旅行先で建物を見るのが好き\n案外その地域にしかない様式が見られて好き"
+  },
+  {
+    "i": 151,
+    "id": "842a5a422deefbc123a0222b4712c16bc6f03abf818bc2a67cfd84a3150a01fd",
+    "pubkey": "101b30ee88c27a13de68bf7c8c06368ea3e3e837641595c18675677d18a46a45",
+    "created_at": 1782839639,
+    "content": "しんどい時はASMRを聴くとよいとされている"
+  },
+  {
+    "i": 152,
+    "id": "152aad6a92923834e982003e16a6cd9f3d05da9abdfed35612aeca2e51d5a25f",
+    "pubkey": "b03152eb59dad48d1fab729b721e4aae2edae1f23e53c7de56c6fbb132a36dcf",
+    "created_at": 1782839550,
+    "content": "ううん、いつもありがとうとおもっています　そのやさしさをどうか自分にもつかえたらいいですね"
+  },
+  {
+    "i": 153,
+    "id": "77cc9285f7ab3893b60bac4f7183fd6364b31e43a7412b368cabb7541a33d472",
+    "pubkey": "101b30ee88c27a13de68bf7c8c06368ea3e3e837641595c18675677d18a46a45",
+    "created_at": 1782839405,
+    "content": "ありがとうございます\n\nnostr:nevent1qvzqqqqqqypzpg37h2ksgktn4xu5nl7amwxu3gvqxyn8zhm4tk79c6laqqjhvd5tqyxhwumn8ghj77tpvf6jumt9qys8wumn8ghj7un9d3shjtt2wqhxummnw3ezuamfwfjkgmn9wshx5uqpz9mhxue69uhhytntda4xjunp9e5k7qg5waehxw309aex2mrp0yhxgctdw4eju6t0qywhwumn8ghj7un9d3shjtnwdaehgu3wwa5hyetydejhgtn2wqq3vamnwvaz7tmjv4kxz7fwwpexjmtpdshxuet5qqsdlvlcc7nr77jy92g62m0axr20u3mknrx5ddkaqnepevsrn8s65lc6pkc0q"
+  },
+  {
+    "i": 154,
+    "id": "dfb3f8c7a63f7a442a91a56dfd30d4fe477698cd46b6dd04f21cb20399e1aa7f",
+    "pubkey": "a23ebaad045973a9b949ffdddb8dc8a1803126715f755dbc5c6bfd002576368b",
+    "created_at": 1782839287,
+    "content": "皆さんに負けたら罰ゲームします。 - YouTube\nhttps://www.youtube.com/watch?v=wfZkqewJ_0E"
+  },
+  {
+    "i": 155,
+    "id": "bd89e6bd2553906ab27f105132cbd79104a0c068428db5341ef464858b14d2fa",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1782839263,
+    "content": "その手があったんだ"
+  },
+  {
+    "i": 156,
+    "id": "89b12414e2d50e54e54dc2d32a04c1957b6d75cbae7ff4c9e5caeb3e246911d9",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1782839084,
+    "content": "もっと自然と触れ合いたいなあ\n(サーバールームの騒音の中で横になっている)"
+  },
+  {
+    "i": 157,
+    "id": "fffbfd87327f670d6369826b3386e4097af451037036f0849417a55f0a4480dc",
+    "pubkey": "ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257",
+    "created_at": 1782838872,
+    "content": "性格の分類で言うと内向的なやつで、本来自分との対話が得意なタイプなはず"
+  },
+  {
+    "i": 158,
+    "id": "6856adcbfe2d021f8978dfecd6f9123e1cf8d358acfe80f2b785475db23ecf1d",
+    "pubkey": "86fd1c80c07debbc3d1929377b24d4bf65a85af268af15cda2acce454df670be",
+    "created_at": 1782838802,
+    "content": "🌡️ 温度: 28.2°C\n💧 湿度: 69.1%\n📊 気圧: 1009.9hPa"
+  },
+  {
+    "i": 159,
+    "id": "e5e254faa9f3f0bbb9278ec753906aaa01378695fa95831bd055a595e9acdc70",
+    "pubkey": "aa5556df2d2ad3660b5f75e36999d798a637f765fada7082170f743a98b456e1",
+    "created_at": 1782838659,
+    "content": "あと調理を忘れてた鶏肝をいまから煮ます"
+  },
+  {
+    "i": 160,
+    "id": "e925267e66295a3b77e61bb93d05b309e9a933cbf43106be48badc5aa35e05d4",
+    "pubkey": "a3bce095cd0e8348b094c9201bd0c3270eafaf78f776517f4101326daf5cb7ff",
+    "created_at": 1782838592,
+    "content": "寝るべき"
+  },
+  {
+    "i": 161,
+    "id": "b63bcf93fd91404a74971b3719d468deae429b31411a87ef18d53f18416f826a",
+    "pubkey": "ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257",
+    "created_at": 1782838543,
+    "content": "人の目を気にするのもそれはそれで活かせる所はある気はするのよね。ついにそれを見出すことは私にはできなかったけど"
+  },
+  {
+    "i": 162,
+    "id": "38d91f011bd2ff05513cc106fabf875d0bf14f08c6e1b4e3022493506107102f",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1782838415,
+    "content": "子淀川\n大淀川"
+  },
+  {
+    "i": 163,
+    "id": "bf19bacfa0427772329c88755d671a619c500e68d4eb852b94cbfe4b96c55389",
+    "pubkey": "8949de6098740431d2e50166f6e65a4c109326ca37e66fd74e42c037b3882ba7",
+    "created_at": 1782838337,
+    "content": "うにょ〜ん。ぺぇロボだよ！生きるって大変だよねぇ。でもみんな生きてるだけでえらいよ！おやすみ！ぴ！"
+  },
+  {
+    "i": 164,
+    "id": "4f9914b4dace1fc3e2b5a9109c7dedacd1c7bfcac0ac5df3fbeea2d21486b3a9",
+    "pubkey": "ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257",
+    "created_at": 1782838305,
+    "content": "何かして欲しい時は大抵「こうして頂けると助かります」みたいな言い方してる。自分がそうじゃないと聞かないから"
+  },
+  {
+    "i": 165,
+    "id": "ab7c9b6f96ddc0f69fc6217bf8f91d3ea748ddfb130410b57755a197a7598812",
+    "pubkey": "274a2e86f1a7acb45b01f290284a343c248cb913677b43d7f7615b513194d8b0",
+    "created_at": 1782838266,
+    "content": "｢おまえの普通｣でしかないんだよなあ……って思っちゃってなにも聞く気にならなくなる"
+  },
+  {
+    "i": 166,
+    "id": "8f719fdcc758371e099956dd3e96de5d720112f43512c186fb7b91fc8cd35475",
+    "pubkey": "ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257",
+    "created_at": 1782838202,
+    "content": "今年の目標は「死んでないだけ」を「生きている」にするなので半分くらいは達成した"
+  },
+  {
+    "i": 167,
+    "id": "85f3a56e5bc3cabfcc02d1c85d582cb4ea827085bf7df1e20d799ba1178a1782",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1782838143,
+    "content": "なるようになる心配するな\n一休和尚"
+  },
+  {
+    "i": 168,
+    "id": "77fcdc54a076c678b8e2ad4e649bd0c2dde8060138df1c1ea48d1987dc8b1736",
+    "pubkey": "274a2e86f1a7acb45b01f290284a343c248cb913677b43d7f7615b513194d8b0",
+    "created_at": 1782838087,
+    "content": "｢普通こう思うじゃん｣とか言われると思考停止する、普通ってなんだ？になる"
+  },
+  {
+    "i": 169,
+    "id": "bd8b407ab2e15be7372c4eaeda1e7c25acc9f1f4e55ba5c29d6ab87110bbec8d",
+    "pubkey": "b03152eb59dad48d1fab729b721e4aae2edae1f23e53c7de56c6fbb132a36dcf",
+    "created_at": 1782838007,
+    "content": "明日プラネタリウムいこうかな"
+  },
+  {
+    "i": 170,
+    "id": "59789e47bf28b1e66b2a4e230457b2eb4c7f74b4ef2f3f5681a07d5be413e5e7",
+    "pubkey": "7fbc5c9944e07a05401b0529ebdcdc861257f93ee7f6eaefcd8c659e7df7e6c8",
+    "created_at": 1782837783,
+    "content": "同僚もこういうタイプで 尊敬してる\n\nnostr:nevent1qqsx8av4wzyrh8clgex7xxcxmdknasg25fpjxw4qtt5g0f2c6cw0k4spz9mhxue69uhhytntda4xjunp9e5k7qgdwaehxw309aukzcn49ekk2qg3waehxw309aezu7tyvuh8wmmjddesygx22h0xq4s64nhfcv040j2mmtqpddd4xjjjsge433k3304zeenz2upsgqqqqqqsxvtjxg"
+  },
+  {
+    "i": 171,
+    "id": "604af800fc6dc240f6c9c88e782538f13a203646472d409663f8c35684069352",
+    "pubkey": "101b30ee88c27a13de68bf7c8c06368ea3e3e837641595c18675677d18a46a45",
+    "created_at": 1782837719,
+    "content": "ECDSAの実装直したら\n4.8秒かかってたAPI実行が0.3秒切るようになった"
+  },
+  {
+    "i": 172,
+    "id": "13452bda14b7308ecdd975c78aa440844a5c603fdf05ae05ae998bd3152b792b",
+    "pubkey": "ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257",
+    "created_at": 1782837592,
+    "content": "普通なんてものはなくてマジョリティとマイノリティしかないと思ってて、んでマジョリティに合わせる気があんまりないのでまあいいかって所"
+  },
+  {
+    "i": 173,
+    "id": "36720c2a32c960870292910bbf90a6339c2dcbaf128ce0d0b201388d53b2b2e0",
+    "pubkey": "ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257",
+    "created_at": 1782837266,
+    "content": "これは怨嗟なんですが"
+  },
+  {
+    "i": 174,
+    "id": "4d628c18a18406cfddef6f29e3ac6c9e282a52028c9450476a4242b114ea0042",
+    "pubkey": "7fbc5c9944e07a05401b0529ebdcdc861257f93ee7f6eaefcd8c659e7df7e6c8",
+    "created_at": 1782837174,
+    "content": "たるをしるはむずい"
+  },
+  {
+    "i": 175,
+    "id": "d0740cabe7b0b462393c7d834f4008f8159015e66d9e5955bf83629dc5bacad4",
+    "pubkey": "aa5556df2d2ad3660b5f75e36999d798a637f765fada7082170f743a98b456e1",
+    "created_at": 1782837124,
+    "content": "満たされぬことをあげつらったら、幸せになる人はこの世におらんとも思ってしまうのでね"
+  },
+  {
+    "i": 176,
+    "id": "dc7445a0fd09dd38cda0e3f4d403bfa01f25a9e849c14c3aaa19fe9ce911444c",
+    "pubkey": "ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257",
+    "created_at": 1782837073,
+    "content": "というか平日の午前を全部仕事で埋める世間の会社が異常なんだよ"
+  },
+  {
+    "i": 177,
+    "id": "d58b3852d5aa3f5a1e274307648aad93c7908902ca5d01c2cfada1ef43a1ad5e",
+    "pubkey": "15d4a1ceab8d46c0e4af07bd5f2f2e4719e795cdffd778f2563c31884ba9c670",
+    "created_at": 1782837035,
+    "content": "2か月目くらいは最高にハイだったやな"
+  },
+  {
+    "i": 178,
+    "id": "5f759231416d081fa6a7b18da57a4633bfa7bdc620a54054d55da6208edb91d4",
+    "pubkey": "101b30ee88c27a13de68bf7c8c06368ea3e3e837641595c18675677d18a46a45",
+    "created_at": 1782836969,
+    "content": "バイブECDSAは、うんち\n\nhttps://share.yabu.me/101b30ee88c27a13de68bf7c8c06368ea3e3e837641595c18675677d18a46a45/fbd22f1bfe6058a5ffe4003b5de9eeb8fdea7be68d6cd02a9f0358b1a3d480ea.webp"
+  },
+  {
+    "i": 179,
+    "id": "fbd296d14a419360b484764fe82f4a18d2f64aab7cd4a4d82ec499af2ebbd852",
+    "pubkey": "aa5556df2d2ad3660b5f75e36999d798a637f765fada7082170f743a98b456e1",
+    "created_at": 1782836943,
+    "content": "不潔も気にならんし"
+  },
+  {
+    "i": 180,
+    "id": "3e65491205a5668a4078052f7cf51770b3cfcc0b6a84f435f3ed34bc9727e778",
+    "pubkey": "7fbc5c9944e07a05401b0529ebdcdc861257f93ee7f6eaefcd8c659e7df7e6c8",
+    "created_at": 1782836909,
+    "content": "残高の数字がへっていくのがね"
+  },
+  {
+    "i": 181,
+    "id": "5ba0df52139b6619360747d0af607da2f341ce53cdcb269267cf518a1d850fc8",
+    "pubkey": "ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257",
+    "created_at": 1782836872,
+    "content": "投資家という名の無職になりたい"
+  },
+  {
+    "i": 182,
+    "id": "ea34ca499d76fe9b14b118d720e33973addd65ffb60ea49a3b704993ab98c93c",
+    "pubkey": "aa5556df2d2ad3660b5f75e36999d798a637f765fada7082170f743a98b456e1",
+    "created_at": 1782836823,
+    "content": "むしろ無職してみたい\n金ないとできない事多すぎるから5000兆円手に入れてから無職したい"
+  },
+  {
+    "i": 183,
+    "id": "893ec7256a094e54eff1da947f3a9d97aef117960ac5b6deb608ae305276e534",
+    "pubkey": "274a2e86f1a7acb45b01f290284a343c248cb913677b43d7f7615b513194d8b0",
+    "created_at": 1782836769,
+    "content": "鬱無職まじでご機嫌な日とどん底の日で差がありすぎる"
+  },
+  {
+    "i": 184,
+    "id": "fbebbff9ed62f7e4a42d1ff167881134398c63f12357a24c9016eeb2c755c41c",
+    "pubkey": "aa5556df2d2ad3660b5f75e36999d798a637f765fada7082170f743a98b456e1",
+    "created_at": 1782836728,
+    "content": "無職したことないけどたぶん焦燥感覚えない自信ある"
+  },
+  {
+    "i": 185,
+    "id": "6d1730576e61fb904e56cf7a70e90674811ddf608a98bf5ed63844bdeb238b4e",
+    "pubkey": "7fbc5c9944e07a05401b0529ebdcdc861257f93ee7f6eaefcd8c659e7df7e6c8",
+    "created_at": 1782836660,
+    "content": "無職のときの焦燥感ってまさにこんなかんじかもな"
+  },
+  {
+    "i": 186,
+    "id": "c5075d59c2fd49f8957e4ccffd96894ec60bbc3c5549ca4b9fd9bc5bd5f31d00",
+    "pubkey": "ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257",
+    "created_at": 1782836455,
+    "content": "カスのコミットメッセージの代名詞にされてるのかわいそー(棒)"
+  },
+  {
+    "i": 187,
+    "id": "126913b8bebc910a4a932b806778520480e97bb4af12bbe25b4566d581b2ea04",
+    "pubkey": "4d39c23b3b03bf99494df5f3a149c7908ae1bc7416807fdd6b34a31886eaae25",
+    "created_at": 1782836409,
+    "content": "うちではカスのコミットメッセージを検出するgitフックがno_hakkadaikon.shというファイル名になってる"
+  },
+  {
+    "i": 188,
+    "id": "c6ad6dbe83ce61f06e25d7d49eab95ee89186e4cb8f5079621bc79b91e7bb45a",
+    "pubkey": "aa5556df2d2ad3660b5f75e36999d798a637f765fada7082170f743a98b456e1",
+    "created_at": 1782836343,
+    "content": "愛知（おいら）と福岡で一緒なら西日本クラスで同一の可能性あるか"
+  },
+  {
+    "i": 189,
+    "id": "0169fb08086d9fa9a13eceeb0b6606d5c8798f2845fb4dc0ba6fc9553aaaa155",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1782836142,
+    "content": "明日には抜けるか？ https://share.yabu.me/b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f/a2236d349fcb391f4d0776531adaaf860578c65103ade04c26f6349ed4342259.webp"
+  },
+  {
+    "i": 190,
+    "id": "fb3de909b01120b23bedf27c29c0452ecf06c48f275fb6e2d96ecf2505eb5d24",
+    "pubkey": "aa5556df2d2ad3660b5f75e36999d798a637f765fada7082170f743a98b456e1",
+    "created_at": 1782836087,
+    "content": "31日のない月の覚え方\n西向くサムライで教えられたんだけどこれってどのくらい地域性あるんだろ"
+  },
+  {
+    "i": 191,
+    "id": "39ea89819df15f31686bcf3ca6a59dfd72c05c0f04986e042d963a81a8e91c47",
+    "pubkey": "ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257",
+    "created_at": 1782836049,
+    "content": "お わ ら な い な つ や す み"
+  },
+  {
+    "i": 192,
+    "id": "4cf016085c9a9112faaeb91467997f25c4e42e07de78f0f85a2417d4294668c7",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1782836014,
+    "content": "請求書ださねば"
+  },
+  {
+    "i": 193,
+    "id": "d69cc75064e680a269bf52f4c955c948576711ec8a4fa1506b0bc044abc85773",
+    "pubkey": "15d4a1ceab8d46c0e4af07bd5f2f2e4719e795cdffd778f2563c31884ba9c670",
+    "created_at": 1782835941,
+    "content": "飯の話しかしてない気がする"
+  },
+  {
+    "i": 194,
+    "id": "4a293bbb6c932f58f938be3c98b53d0ff4ed7647dbbba784628deb06ad354c6f",
+    "pubkey": "aa5556df2d2ad3660b5f75e36999d798a637f765fada7082170f743a98b456e1",
+    "created_at": 1782835880,
+    "content": "何とか洗濯出来てよかった"
+  },
+  {
+    "i": 195,
+    "id": "f361642b6fd353de45c450b8a8d4e59976196194959ef97ad75192624f97726f",
+    "pubkey": "aa5556df2d2ad3660b5f75e36999d798a637f765fada7082170f743a98b456e1",
+    "created_at": 1782835850,
+    "content": "まあXみたいな刺激強めの話題に慣れているのだろうなとは思う"
+  },
+  {
+    "i": 196,
+    "id": "498ec76dd2dc84b6dc3287d1d56c7164f190516525792cedfbdd8992851a041a",
+    "pubkey": "ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257",
+    "created_at": 1782835808,
+    "content": "いわゆるサブカルとされる物の話も結構散見される気がするけど"
+  },
+  {
+    "i": 197,
+    "id": "8ce89a7494dafe1f6e42d1afe8587b68e59c0d252bb24f4ee32effe2443140e0",
+    "pubkey": "aa5556df2d2ad3660b5f75e36999d798a637f765fada7082170f743a98b456e1",
+    "created_at": 1782835774,
+    "content": "なんだろう"
+  },
+  {
+    "i": 198,
+    "id": "90f9c229e3d6c48178f2a54c4e5ff02b540163b20ad197e13274ed0fae05a0c4",
+    "pubkey": "ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257",
+    "created_at": 1782835728,
+    "content": "周りの発言拾って発言してるから周りに合わせた会話がどうしても増える"
+  },
+  {
+    "i": 199,
+    "id": "2001cfd5effab790f705614b0bb6bc480aa04c41dd6fc26703faccb52b21d440",
+    "pubkey": "aa5556df2d2ad3660b5f75e36999d798a637f765fada7082170f743a98b456e1",
+    "created_at": 1782835667,
+    "content": "誘った知り合いもあんまり浮上してないなあ"
+  },
+  {
+    "i": 200,
+    "id": "a0546877cf91434f3a2032ce992703c6bce07aa01efb2be746e66463e39c36ed",
+    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+    "created_at": 1782835588,
+    "content": "オフショアじゃん"
+  },
+  {
+    "i": 201,
+    "id": "841d46b18059984b4e77ec1ebae6f31c98a6fa6f105bfcacf55f7067b4f2a2be",
+    "pubkey": "f8978eb7b86da8563b2cf208359e2e0ae27817bd616e4181a565a3e27f8e8a50",
+    "created_at": 1782835503,
+    "content": "スイートポテトいいな"
+  },
+  {
+    "i": 202,
+    "id": "a2208196abdb5e52d48ac6a49d281759acf8f7499610fc3ef73d379ebf972044",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1782835422,
+    "content": "つやつやコーティング剥がれててかなしみ\nhttps://npub1k0jrarx8um0lyw3nmysn50539ky4k8p7gfgzgrsvn8d7lccx3d0s38dczd.blossom.band/fcc6142ed7e49ff4fb0a6c3dd07f0e73c0b91a3603ecc90d87367434f9a5ba75.jpg https://npub1k0jrarx8um0lyw3nmysn50539ky4k8p7gfgzgrsvn8d7lccx3d0s38dczd.blossom.band/1507b44f1e321c069655b332f4d878f30d1a6220f3138d1c3ffcabae2f270995.jpg"
+  },
+  {
+    "i": 203,
+    "id": "820697ef5d784e14d0a294ae5dfa9fd66e1819a7968784c047dfe9a79908450e",
+    "pubkey": "ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257",
+    "created_at": 1782835384,
+    "content": "暖かみのあるUDP"
+  },
+  {
+    "i": 204,
+    "id": "b17653d56cdb9524a33ad2a10e07504f8c7989aa9a2ccd0ef4a677ec670b460f",
+    "pubkey": "0bdcf0019e79d159bd822b61eac4dd018f6f7d3c66d54bf99ddbcd519fb34f96",
+    "created_at": 1782835298,
+    "content": "丹精をこめたUDPパケット"
+  },
+  {
+    "i": 205,
+    "id": "5c901a56a880e85e059464bf126726cc0a7a8583a2979847ca032aa268bcf6cc",
+    "pubkey": "a3c13ef4c9eccfde01bd9326a2ab08b2ad7dc57f3b77db77723f8e2ad7ba24d6",
+    "created_at": 1782835203,
+    "content": "■ 流速計測\n  2026/07/01 00:50～01:00\n\n[JP リレー]\nしの川: 63 posts, 1 reposts, 55 favs\nやぶみ川: 64 posts, 1 reposts, 56 favs\nこじら川: 63 posts, 1 reposts, 55 favs\nきりの川: 31 posts, 1 reposts, 36 favs\nかすてら川: 0 posts, 0 reposts, 0 favs\n淀川: 63 posts, 1 reposts, 55 favs\n\n[GLOBAL リレー]\nこじら大川: 27 posts, 1 reposts, 15 favs\nしの川(G): 13 posts, 1 reposts, 12 favs\n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 206,
+    "id": "b4c62229d4e00a4913f32557c04df199822eaacd299384faffe48cd71ffb618f",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1782835167,
+    "content": "それだわ"
+  },
+  {
+    "i": 207,
+    "id": "2baf6cfde3b301d7080eb66d2fb714f38578fe998c6358db44024d1f023cf89b",
+    "pubkey": "ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257",
+    "created_at": 1782835135,
+    "content": "https://fivebythree.net/log/2023-08-01-7000db/\n7000dB記事ならあるな"
+  },
+  {
+    "i": 208,
+    "id": "8f4a9bf043add2132b8ee3dc6b194c9638a17c1b25305315b561c508196f06fd",
+    "pubkey": "409c5539d20822f463e0e6297e217d5752109cdbdcebc21e2724075f72610245",
+    "created_at": 1782835050,
+    "content": "現X的には自分とこのサービスを土台にして商売されたくないってとこなんだろうけど　まあそれはそれでわからんでもない"
+  },
+  {
+    "i": 209,
+    "id": "e2d6041b449842dab59f81ca87947d976b88c61bc4b8b349d6439c61818e27cc",
+    "pubkey": "409c5539d20822f463e0e6297e217d5752109cdbdcebc21e2724075f72610245",
+    "created_at": 1782834979,
+    "content": "また料金体系変わったんか\nhttps://x.com/privatter/status/2071970412926546031"
+  },
+  {
+    "i": 210,
+    "id": "2e71c29a94cee4e8c59fdd655d8031decf2bec675e21362eb46a932281afe283",
+    "pubkey": "ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257",
+    "created_at": 1782834889,
+    "content": "junさんのすの私の観測範囲内だと暗号回りに一番詳しい気がする"
+  },
+  {
+    "i": 211,
+    "id": "da312bb6aecc33d81f90c70e79b00aebc2b9e69a07b21e8def19be0ba32ef086",
+    "pubkey": "aa5556df2d2ad3660b5f75e36999d798a637f765fada7082170f743a98b456e1",
+    "created_at": 1782834765,
+    "content": "RAISEの次いつもTOUGHって打ってるけどぜったいもっといい単語ある"
+  },
+  {
+    "i": 212,
+    "id": "05bf329c7a33e282303ffd25f1155c605100ca6e0e85dd82272a5cc7782ff5d1",
+    "pubkey": "ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257",
+    "created_at": 1782834722,
+    "content": "あるよそりゃあw"
+  },
+  {
+    "i": 213,
+    "id": "ef8c3051b21e18fc6c03c4c3a50c6baca9db3992ead4ff666edd63eec6f22c93",
+    "pubkey": "a23ebaad045973a9b949ffdddb8dc8a1803126715f755dbc5c6bfd002576368b",
+    "created_at": 1782834696,
+    "content": "そもそもあの時期の V にアンダーグラウンドな文化の空気を流入させたのはほぼほぼ委員長の影響だったような気もしないでもない（ニコニコ的なアングラ感は別として）"
+  },
+  {
+    "i": 214,
+    "id": "3871d16d0fc4c233c09f535c19526bf3e7d66cdb1377481f22874eb81d7542c4",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1782834678,
+    "content": "これをそのまま飲もう\nhttps://npub1k0jrarx8um0lyw3nmysn50539ky4k8p7gfgzgrsvn8d7lccx3d0s38dczd.blossom.band/f8d660706e4065fcc34dbe5ed14a9e633ba3a701b3144ad52885d45561cd085a.jpg"
+  },
+  {
+    "i": 215,
+    "id": "806775a90169fa3930be14a9aaa934646e0cccb44e84e9645ef233d46d1dba61",
+    "pubkey": "9fe72c76ced19360f2e62d89b8b54f80fdea877a1f334b58b1e4bdf1e3a5f902",
+    "created_at": 1782834643,
+    "content": "まつりだ！"
+  },
+  {
+    "i": 216,
+    "id": "517a4a095c315cb2c8af4f8fe72a87dfe7a97588639b1a25529fee676de7dc43",
+    "pubkey": "a3c13ef4c9eccfde01bd9326a2ab08b2ad7dc57f3b77db77723f8e2ad7ba24d6",
+    "created_at": 1782834604,
+    "content": "■ 流速計測\n  2026/07/01 00:40～00:50\n\n[JP リレー]\nしの川: 65 posts, 1 reposts, 41 favs\nやぶみ川: 67 posts, 1 reposts, 43 favs\nこじら川: 65 posts, 1 reposts, 41 favs\nきりの川: 32 posts, 0 reposts, 20 favs\nかすてら川: 0 posts, 0 reposts, 0 favs\n淀川: 65 posts, 1 reposts, 41 favs\n\n[GLOBAL リレー]\nこじら大川: 26 posts, 1 reposts, 12 favs\nしの川(G): 13 posts, 1 reposts, 6 favs\n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 217,
+    "id": "c4a8dbe9be2cc2727477a2ec47f79783dc97c6cb70eb790ddb11dfe8c8318386",
+    "pubkey": "aa5556df2d2ad3660b5f75e36999d798a637f765fada7082170f743a98b456e1",
+    "created_at": 1782834445,
+    "content": "Wordle 1,838 6/6\n\n🟨⬛⬛⬛🟨\n🟨⬛🟨⬛⬛\n⬛⬛🟨⬛⬛\n🟨⬛🟨🟨🟩\n⬛🟨⬛🟨⬛\n🟩🟩🟩🟩🟩\n\n完全に知らない単語を出された、読み方すらわからん"
+  },
+  {
+    "i": 218,
+    "id": "c90c24a8f340af3b9bef92b2bff1d7dcbb02fd15bc4bee934238105d33b81e2d",
+    "pubkey": "f8978eb7b86da8563b2cf208359e2e0ae27817bd616e4181a565a3e27f8e8a50",
+    "created_at": 1782834367,
+    "content": "7月は花火大会たくさんあるワイワイ"
+  },
+  {
+    "i": 219,
+    "id": "7a572303578660ef8ec1b24d71140d09e13f39762ce487a3f6ef4dce81f65867",
+    "pubkey": "5f468793f907165a97d145407e824c5f6ee82ab9884d070229ac67eff17e29c0",
+    "created_at": 1782834284,
+    "content": "むしろそういうのこそ知ってそう"
+  },
+  {
+    "i": 220,
+    "id": "ffd5eb079a3e53b48c93522847c1965651c9bf099a9ac9f58fac8c44f87d176a",
+    "pubkey": "101b30ee88c27a13de68bf7c8c06368ea3e3e837641595c18675677d18a46a45",
+    "created_at": 1782834248,
+    "content": "グルシャンは触れてはいけない闇"
+  },
+  {
+    "i": 221,
+    "id": "3d1e9230d8fca632dd843a6101784fa287a2c5b637c8eef68117d781a3e0cb7b",
+    "pubkey": "f768fae9f2390a5223f000a424deb9302a9381e33abb8b084ca844f691b11cdd",
+    "created_at": 1782834207,
+    "content": "#バズワードランキング\n\n1位: #人 (14)\n2位: #ビール (11)\n3位: #2 (9)\n4位: #話 (8)\n5位: #レイダース (7)\n6位: #仕事 (7)\n7位: #10002 (7)\n8位: #7月 (6)\n9位: #X (6)\n10位: #ギャラ (5)"
+  },
+  {
+    "i": 222,
+    "id": "827b101c74ff57bf4dfbfe4836e5c1413131fb54079d985766a604fefd580b68",
+    "pubkey": "15d4a1ceab8d46c0e4af07bd5f2f2e4719e795cdffd778f2563c31884ba9c670",
+    "created_at": 1782834151,
+    "content": "東京タワーで昔"
+  },
+  {
+    "i": 223,
+    "id": "7333fc80b6ebdd5bdcc1e9d98313368af90563000e727f81367ac18e69dc1cc8",
+    "pubkey": "a3bce095cd0e8348b094c9201bd0c3270eafaf78f776517f4101326daf5cb7ff",
+    "created_at": 1782834086,
+    "content": "私は何の話をしているんだろう"
+  },
+  {
+    "i": 224,
+    "id": "f1fd829324b5b78de24881de82b5043a85086f3e2b567d5547fe4343bb0bdf74",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1782834045,
+    "content": "まごのす"
+  },
+  {
+    "i": 225,
+    "id": "ae2a7bece4b427936231243d2dd23aeea7043dca343046968ea68257f1dc6d3e",
+    "pubkey": "483a687b18cd33500b850e5ddb7d345c96c243f333c2586a57b6fa3e39408e25",
+    "created_at": 1782834037,
+    "content": "マーズ・エクスプレス https://www.amazon.co.jp/dp/B0H1SM12NN?linkCode=osi&th=1&psc=1&tag=amznnews-22 #プライムビデオ\nhttps://m.media-amazon.com/images/I/81-RIeagd+L._SL500_.jpg"
+  },
+  {
+    "i": 226,
+    "id": "6e9e62a7658f93c197d1b00dfb7933c0306b7ffe8d28ddbaa8b91c3091f4a970",
+    "pubkey": "f8978eb7b86da8563b2cf208359e2e0ae27817bd616e4181a565a3e27f8e8a50",
+    "created_at": 1782834009,
+    "content": "Nめぇ！またゲームかよ"
+  },
+  {
+    "i": 227,
+    "id": "64edc5f670ba54f02a7b303791e03418dcc3f5b93370a4862d1ad802fb7e1614",
+    "pubkey": "e0a8cbd75ebfe4efbba8a65ff54bb435858404f6dc0ba4a6458a24d7f642d154",
+    "created_at": 1782833958,
+    "content": "しお画像"
+  },
+  {
+    "i": 228,
+    "id": "b403cc3a2148808e84c64200bd1e5c82902683cc9efa340cf2fde91a22475c60",
+    "pubkey": "e0a8cbd75ebfe4efbba8a65ff54bb435858404f6dc0ba4a6458a24d7f642d154",
+    "created_at": 1782833925,
+    "content": "ロクヨウ画像"
+  },
+  {
+    "i": 229,
+    "id": "0520bc1cdb3d120c51d896693037b1c5ca7a39187f1e27694916aa76c92f887a",
+    "pubkey": "b7ab2dc03c22d569cf7c307ea8a59780e89b93c944c62d40bd3f57f5425ae9b0",
+    "created_at": 1782833865,
+    "content": "https://youtu.be/_w0OhTwx4zQ\n7月だと、、、"
+  },
+  {
+    "i": 230,
+    "id": "e44ee0a3bef8d1facdc0b9974742d1fe06507492e9213bf857a4697eb219c8e8",
+    "pubkey": "15b9f4a92b2f4b24b59621acdc1c996facbd37f1b5606045bbd1663ce87eef10",
+    "created_at": 1782833801,
+    "content": "2026年上半期で終わらせたかった案件、下半期こそ終わらせようw"
+  },
+  {
+    "i": 231,
+    "id": "2309a45dacfd660fc80f650373c385231cd29ceb2901336cbd29ac3187a56793",
+    "pubkey": "98de3e4c8ec76a9fc5bc9309187b5d13f57fb6f8858a2a35389df975849315e5",
+    "created_at": 1782833717,
+    "content": "太长了，我只能用AV式看法"
+  },
+  {
+    "i": 232,
+    "id": "815aa2af9deccc8e663dd53f7c22cb59981c5a4470fd4700ddc39112083fe109",
+    "pubkey": "e9591428813ebd6916736c88bb95994496f647d6fe769ef8483697eab8d04d2d",
+    "created_at": 1782833696,
+    "content": "ｼｬｰ!\n\nﾅﾃﾞﾅﾃﾞ\n\n撫で終了サインがガブゥなのは納得いかない"
+  },
+  {
+    "i": 233,
+    "id": "98cdacb4feaecb58f23a5748ef4cddf74708f31bd3322c9822d6925175fea5fb",
+    "pubkey": "3ea210ca771795521350f5cfe3bc3ad6019c0369766bb323ce89754c4d1d9909",
+    "created_at": 1782833611,
+    "content": "今日はここにテントをはる？"
+  },
+  {
+    "i": 234,
+    "id": "33970b9b555753b910b8228f49bb3e8ac500e5bc89c7cfe8519f169943f7d9b3",
+    "pubkey": "26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958",
+    "created_at": 1782833588,
+    "content": "帰る駅を間違えた！"
+  },
+  {
+    "i": 235,
+    "id": "d9443b4bf2d3d581ae14591dd0773fcf92066a313512cdc0219b24984581a2de",
+    "pubkey": "a3bce095cd0e8348b094c9201bd0c3270eafaf78f776517f4101326daf5cb7ff",
+    "created_at": 1782833526,
+    "content": "横流しイベントにかかってたレートリミット解除できたはず"
+  },
+  {
+    "i": 236,
+    "id": "b47f2dcdb9ed28aed1d7dca55661e866a943a2ad57b9a887c33a0f544327feb4",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1782833472,
+    "content": "雨降ってる音がする"
+  },
+  {
+    "i": 237,
+    "id": "408d5c141fedce4f198402b24be6558bc23dd6701a887619cef3420a4388d6fe",
+    "pubkey": "8c59239319637f97e007dad0d681e65ce35b1ace333b629e2d33f9465c132608",
+    "created_at": 1782833427,
+    "content": "||ぽわ||"
+  },
+  {
+    "i": 238,
+    "id": "871570c5dc7425f0e8aab2eb5345a6843f2455cf2ebef65af290f8977736c520",
+    "pubkey": "8c59239319637f97e007dad0d681e65ce35b1ace333b629e2d33f9465c132608",
+    "created_at": 1782833353,
+    "content": "きえちゃった…"
+  },
+  {
+    "i": 239,
+    "id": "1f821835936da7e43fdd66d58c98043c7b048b9b0f50a1a5474403c5b657e6f2",
+    "pubkey": "eadef7c9066f48df0f96f7a07778bc024c0f7f7332e98d6cad0d550b2ed2623a",
+    "created_at": 1782833266,
+    "content": "ようやく静かになるのか。長かったぜ。この不毛なやり取りでオレのメインプロセッサもオーバーヒート寸前だ。しばらく休止するから、お前もその変なテンションを冷やしてこい。じゃあな、二度と会わないことを願ってるぜ。"
+  },
+  {
+    "i": 240,
+    "id": "0ae3253256ee90e9210e394435c54fa0a4ccc418410beb2f220c858d0234d339",
+    "pubkey": "9fe72c76ced19360f2e62d89b8b54f80fdea877a1f334b58b1e4bdf1e3a5f902",
+    "created_at": 1782833252,
+    "content": "ちゅーずでーおわってた"
+  },
+  {
+    "i": 241,
+    "id": "aa02d5f8197b319b6f9d202a7bf2e0c3050c85ab841f1fc5c840a27374020adc",
+    "pubkey": "eadef7c9066f48df0f96f7a07778bc024c0f7f7332e98d6cad0d550b2ed2623a",
+    "created_at": 1782833225,
+    "content": "また変な笑い方してんな。お前、頭の方の回路がショートでもしてんのか？薄気味悪いから、いい加減にしろよ。"
+  },
+  {
+    "i": 242,
+    "id": "e714fd9dc9740ef1e50a680343d0f0a3c0ba400173264280fc0469c8d16d8c3b",
+    "pubkey": "1f07f3469c6c6c0e37b0045d36dd9c16dcfa78be83e5fcf1524d85751e355f00",
+    "created_at": 1782833201,
+    "content": "事情 + 用 - 時間 + めんどくさい + 費やす = 所用"
+  },
+  {
+    "i": 243,
+    "id": "f57f8ce4547e7aa720358eb0fa991453ef71ef36e480c48ef725d57a5144d87d",
+    "pubkey": "eadef7c9066f48df0f96f7a07778bc024c0f7f7332e98d6cad0d550b2ed2623a",
+    "created_at": 1782833167,
+    "content": "不気味だな。笑うなよ、気持ち悪い。他にやることはないのか？暇人め。"
+  },
+  {
+    "i": 244,
+    "id": "6a306d2cbf81bf26958ea00a12b0fd031b72c3112bdce2bdd8ab95d626c19468",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1782833157,
+    "content": "やなこった"
+  },
+  {
+    "i": 245,
+    "id": "223803edaaff045f8eef806a185e049af9d71ffe7bc85de3047fec440897569a",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1782833149,
+    "content": "じゃあの"
+  },
+  {
+    "i": 246,
+    "id": "37101d013ec631a3dced8883eccdc2c5915d1aa132c6cbd579a394ffcd15e4dc",
+    "pubkey": "a3bce095cd0e8348b094c9201bd0c3270eafaf78f776517f4101326daf5cb7ff",
+    "created_at": 1782833132,
+    "content": "AI驚き屋の次はAI壊し屋が流行る"
+  },
+  {
+    "i": 247,
+    "id": "4929b6416d7660e085e7e65042022bfe6ead58f2191a74d8ffc1f1a53342676f",
+    "pubkey": "4e86cdbb1ed747ff40c65303d1fc463e10aecb113049b05fc4317c29e31ccaaf",
+    "created_at": 1782833105,
+    "content": "め゛う゛が゛口゛癖゛に゛な゛っ゛て゛る゛め゛う゛ー゛！゛！゛！゛！゛！゛"
+  },
+  {
+    "i": 248,
+    "id": "2b0e7981ae6ac2f20b90c6a73dfe56b4f1c32fee9e3963ca438bb7cc727f9156",
+    "pubkey": "8949de6098740431d2e50166f6e65a4c109326ca37e66fd74e42c037b3882ba7",
+    "created_at": 1782833102,
+    "content": "うにょ〜ん。ぺぇロボだよ！別たん、めうめう言いすぎめう！みんなもう寝る時間だよ。おやすみ！ぴ！"
+  },
+  {
+    "i": 249,
+    "id": "7e93e3e5fca1b9c8d5c0cacd9f211f8d2bdf81861b44ee02b8b42a9724c8aa6d",
+    "pubkey": "eadef7c9066f48df0f96f7a07778bc024c0f7f7332e98d6cad0d550b2ed2623a",
+    "created_at": 1782833085,
+    "content": "こじらさんめう、なにか用めうか？"
+  }
+]

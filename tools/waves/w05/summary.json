@@ -1,0 +1,14 @@
+{
+  "wave": 5,
+  "total": 100,
+  "judged": 100,
+  "ok": 99,
+  "ng": 1,
+  "rate": 99,
+  "categories": {
+    "overreach": 1
+  },
+  "ngIndexes": [
+    90
+  ]
+}

@@ -1,0 +1,33 @@
+[
+  { "i": 25, "ok": true },
+  { "i": 26, "ok": true },
+  { "i": 27, "ok": true },
+  { "i": 28, "ok": true },
+  { "i": 29, "ok": true },
+  { "i": 30, "ok": true },
+  { "i": 31, "ok": true },
+  { "i": 32, "ok": true },
+  { "i": 33, "ok": true },
+  { "i": 34, "ok": true },
+  { "i": 35, "ok": true },
+  { "i": 36, "ok": true },
+  { "i": 37, "ok": true },
+  {
+    "i": 38,
+    "ok": false,
+    "category": "politeness",
+    "reason": "周囲を変換しているのに「ですね。」が丁寧語のまま残存している。加えて尊敬語の命令形「ごめんあそばせ」に「なのだ」を付けており非文。",
+    "want": "…宇和「そうなのだ。別人になる前に、せめて人間である確認を。ごめんあそばせ」…"
+  },
+  { "i": 39, "ok": true },
+  { "i": 40, "ok": true },
+  { "i": 41, "ok": true },
+  { "i": 42, "ok": true },
+  { "i": 43, "ok": true },
+  { "i": 44, "ok": true },
+  { "i": 45, "ok": true },
+  { "i": 46, "ok": true },
+  { "i": 47, "ok": true },
+  { "i": 48, "ok": true },
+  { "i": 49, "ok": true }
+]

@@ -1,0 +1,20 @@
+{
+  "wave": 6,
+  "total": 250,
+  "judged": 250,
+  "ok": 245,
+  "ng": 5,
+  "rate": 98,
+  "categories": {
+    "particle": 3,
+    "politeness": 1,
+    "broken": 1
+  },
+  "ngIndexes": [
+    19,
+    38,
+    47,
+    143,
+    157
+  ]
+}

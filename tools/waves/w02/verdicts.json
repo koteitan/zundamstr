@@ -1,0 +1,432 @@
+[
+  {
+    "i": 0,
+    "ok": true
+  },
+  {
+    "i": 1,
+    "ok": true
+  },
+  {
+    "i": 2,
+    "ok": true
+  },
+  {
+    "i": 3,
+    "ok": true
+  },
+  {
+    "i": 4,
+    "ok": true
+  },
+  {
+    "i": 5,
+    "ok": false,
+    "category": "particle",
+    "reason": "「〜かどうか」の節に直接「なのだ」を付けており、文として途中で切れた不自然な形になっている",
+    "want": "今回もドルの安売りセールで終わるのだろうか"
+  },
+  {
+    "i": 6,
+    "ok": true
+  },
+  {
+    "i": 7,
+    "ok": true
+  },
+  {
+    "i": 8,
+    "ok": true
+  },
+  {
+    "i": 9,
+    "ok": true
+  },
+  {
+    "i": 10,
+    "ok": true
+  },
+  {
+    "i": 11,
+    "ok": true
+  },
+  {
+    "i": 12,
+    "ok": true
+  },
+  {
+    "i": 13,
+    "ok": true
+  },
+  {
+    "i": 14,
+    "ok": true
+  },
+  {
+    "i": 15,
+    "ok": false,
+    "category": "particle",
+    "reason": "方言終助詞「ズラ」を残したまま「なのだ」を付けており語尾が二重になって不自然。「おやすみすとら」も挨拶なので付けない方が自然",
+    "want": "寝るのだ\nおやすみすとら"
+  },
+  {
+    "i": 16,
+    "ok": false,
+    "category": "overreach",
+    "reason": "CMソングの引用で、他の歌詞行は無変換なのに最後の商品名「名物かまど」だけ変換しており引用が壊れている",
+    "want": "（原文のまま無変換）"
+  },
+  {
+    "i": 17,
+    "ok": false,
+    "category": "particle",
+    "reason": "終助詞「か」を残したまま「なのだ」を付けた「映画かなのだ」は非文",
+    "want": "非効率な移動とか言われてた映画なのだ？ #けだまメイズ"
+  },
+  {
+    "i": 18,
+    "ok": true
+  },
+  {
+    "i": 19,
+    "ok": false,
+    "category": "overreach",
+    "reason": "bot の定型データ投稿の見出し行「■ 流速計測」「■ 野洲田川定点観測所」はラベルであり文ではないので変換すべきでない",
+    "want": "（原文のまま無変換）"
+  },
+  {
+    "i": 20,
+    "ok": true
+  },
+  {
+    "i": 21,
+    "ok": true
+  },
+  {
+    "i": 22,
+    "ok": true
+  },
+  {
+    "i": 23,
+    "ok": true
+  },
+  {
+    "i": 24,
+    "ok": true
+  },
+  {
+    "i": 25,
+    "ok": true
+  },
+  {
+    "i": 26,
+    "ok": true
+  },
+  {
+    "i": 27,
+    "ok": true
+  },
+  {
+    "i": 28,
+    "ok": true
+  },
+  {
+    "i": 29,
+    "ok": true
+  },
+  {
+    "i": 30,
+    "ok": true
+  },
+  {
+    "i": 31,
+    "ok": true
+  },
+  {
+    "i": 32,
+    "ok": true
+  },
+  {
+    "i": 33,
+    "ok": true
+  },
+  {
+    "i": 34,
+    "ok": true
+  },
+  {
+    "i": 35,
+    "ok": true
+  },
+  {
+    "i": 36,
+    "ok": true
+  },
+  {
+    "i": 37,
+    "ok": true
+  },
+  {
+    "i": 38,
+    "ok": true
+  },
+  {
+    "i": 39,
+    "ok": false,
+    "category": "broken",
+    "reason": "助詞「も」で終わる未完結の断片に直接「なのだ」を付けたため「時もなのだ」が非文になっている。",
+    "want": "骨伝導なので耳孔から音を聞いてない時も"
+  },
+  {
+    "i": 40,
+    "ok": true
+  },
+  {
+    "i": 41,
+    "ok": true
+  },
+  {
+    "i": 42,
+    "ok": true
+  },
+  {
+    "i": 43,
+    "ok": true
+  },
+  {
+    "i": 44,
+    "ok": true
+  },
+  {
+    "i": 45,
+    "ok": true
+  },
+  {
+    "i": 46,
+    "ok": true
+  },
+  {
+    "i": 47,
+    "ok": true
+  },
+  {
+    "i": 48,
+    "ok": true
+  },
+  {
+    "i": 49,
+    "ok": true
+  },
+  {
+    "i": 50,
+    "ok": true
+  },
+  {
+    "i": 51,
+    "ok": true
+  },
+  {
+    "i": 52,
+    "ok": true
+  },
+  {
+    "i": 53,
+    "ok": false,
+    "category": "broken",
+    "reason": "「のすがた」の末尾「た」を過去形の動詞と誤認して「のだ」を付けており、「のすがたのだ」は非文なのだ。体言なので「なのだ」か無変換が正しい。",
+    "want": "のすがたなのだ"
+  },
+  {
+    "i": 54,
+    "ok": true
+  },
+  {
+    "i": 55,
+    "ok": true
+  },
+  {
+    "i": 56,
+    "ok": true
+  },
+  {
+    "i": 57,
+    "ok": true
+  },
+  {
+    "i": 58,
+    "ok": true
+  },
+  {
+    "i": 59,
+    "ok": true
+  },
+  {
+    "i": 60,
+    "ok": false,
+    "category": "overreach",
+    "reason": "bot の定型データ行で、「■ 流速計測」「■ 野洲田川定点観測所」は見出しラベルなのに「なのだ」を付けており不自然なのだ。データブロックは無変換が妥当。",
+    "want": "■ 流速計測\n  2026/07/30 22:50～23:00\n\n[JP リレー]\nしの川: 60 posts, 3 reposts, 42 favs\nやぶみ川: 62 posts, 3 reposts, 45 favs\nこじら川: 61 posts, 3 reposts, 42 favs\nきりの川: 49 posts, 3 reposts, 19 favs\nかすてら川: 0 posts, 0 reposts, 0 favs\n淀川: 62 posts, 3 reposts, 43 favs\n\n[GLOBAL リレー]\nこじら大川: 63 posts, 3 reposts, 42 favs\nしの川(G): 15 posts, 0 reposts, 8 favs\n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 61,
+    "ok": true
+  },
+  {
+    "i": 62,
+    "ok": true
+  },
+  {
+    "i": 63,
+    "ok": true
+  },
+  {
+    "i": 64,
+    "ok": true
+  },
+  {
+    "i": 65,
+    "ok": true
+  },
+  {
+    "i": 66,
+    "ok": true
+  },
+  {
+    "i": 67,
+    "ok": true
+  },
+  {
+    "i": 68,
+    "ok": true
+  },
+  {
+    "i": 69,
+    "ok": true
+  },
+  {
+    "i": 70,
+    "ok": true
+  },
+  {
+    "i": 71,
+    "ok": true
+  },
+  {
+    "i": 72,
+    "ok": true
+  },
+  {
+    "i": 73,
+    "ok": true
+  },
+  {
+    "i": 74,
+    "ok": true
+  },
+  {
+    "i": 75,
+    "ok": true
+  },
+  {
+    "i": 76,
+    "ok": true
+  },
+  {
+    "i": 77,
+    "ok": true
+  },
+  {
+    "i": 78,
+    "ok": true
+  },
+  {
+    "i": 79,
+    "ok": true
+  },
+  {
+    "i": 80,
+    "ok": true
+  },
+  {
+    "i": 81,
+    "ok": true
+  },
+  {
+    "i": 82,
+    "ok": true
+  },
+  {
+    "i": 83,
+    "ok": true
+  },
+  {
+    "i": 84,
+    "ok": true
+  },
+  {
+    "i": 85,
+    "ok": true
+  },
+  {
+    "i": 86,
+    "ok": true
+  },
+  {
+    "i": 87,
+    "ok": true
+  },
+  {
+    "i": 88,
+    "ok": true
+  },
+  {
+    "i": 89,
+    "ok": true
+  },
+  {
+    "i": 90,
+    "ok": true
+  },
+  {
+    "i": 91,
+    "ok": true
+  },
+  {
+    "i": 92,
+    "ok": true
+  },
+  {
+    "i": 93,
+    "ok": true
+  },
+  {
+    "i": 94,
+    "ok": false,
+    "category": "overreach",
+    "reason": "歌のイントロの擬音「テロッテ～ン♪」は文ではなく、♪の前に「なのだ」を挿入すると擬音が壊れる。以降の歌詞・英文をそのまま残した判断は正しい。",
+    "want": "テロッテ～ン♪ (以降は原文のまま)"
+  },
+  {
+    "i": 95,
+    "ok": true
+  },
+  {
+    "i": 96,
+    "ok": true
+  },
+  {
+    "i": 97,
+    "ok": true
+  },
+  {
+    "i": 98,
+    "ok": true
+  },
+  {
+    "i": 99,
+    "ok": false,
+    "category": "overreach",
+    "reason": "bot の定点観測データ投稿。「■ 流速計測」「■ 野洲田川定点観測所」は見出し行・観測所の固有名詞であり、「なのだ」を付けるのは不自然。データ行同様そのまま残すべき。",
+    "want": "■ 流速計測 / ■ 野洲田川定点観測所 (見出しは原文のまま、全体無変換)"
+  }
+]

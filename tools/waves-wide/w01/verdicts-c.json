@@ -1,0 +1,57 @@
+[
+  {
+    "i": 50,
+    "ok": false,
+    "category": "overreach",
+    "reason": "作品タイトル「絆－KIZUNA－」の途中に「なのだ」を挿入しており、固有名詞を壊している。商品タイトル＋URLの行なので無変換が妥当。",
+    "want": "難波金融伝 ミナミの帝王20 絆－KIZUNA－ https://www.amazon.co.jp/dp/B0H4ZCWLZS?linkCode=osi&th=1&psc=1&tag=amznnews-22 #プライムビデオ\nhttps://m.media-amazon.com/images/I/81DdK7dgIpL._SL500_.jpg"
+  },
+  { "i": 51, "ok": true },
+  { "i": 52, "ok": true },
+  {
+    "i": 53,
+    "ok": false,
+    "category": "overreach",
+    "reason": "挨拶＋顔文字だけの行で、丁寧語「ございます」を残したまま顔文字の後ろに「なのだ」を付けており不自然。無変換が妥当。",
+    "want": "おはようございますのすし(￣^￣)ゞ"
+  },
+  { "i": 54, "ok": true },
+  { "i": 55, "ok": true },
+  { "i": 56, "ok": true },
+  { "i": 57, "ok": true },
+  { "i": 58, "ok": true },
+  { "i": 59, "ok": true },
+  { "i": 60, "ok": true },
+  { "i": 61, "ok": true },
+  { "i": 62, "ok": true },
+  {
+    "i": 63,
+    "ok": false,
+    "category": "broken",
+    "reason": "命令・依頼形「買ってください」に「のだ」を直付けして「買ってくださいのだ」となり非文。丁寧語も落ちていない。",
+    "want": "日本の電化製品が優秀なのはみんなご存知かと思うのでいっぱい買ってほしいのだ〜"
+  },
+  { "i": 64, "ok": true },
+  { "i": 65, "ok": true },
+  { "i": 66, "ok": true },
+  { "i": 67, "ok": true },
+  {
+    "i": 68,
+    "ok": false,
+    "category": "broken",
+    "reason": "連用形「くださり」に「なのだ」を付けており活用が壊れている。断片なので無変換が妥当。",
+    "want": "ログボくださり"
+  },
+  {
+    "i": 69,
+    "ok": false,
+    "category": "particle",
+    "reason": "終助詞「かあ」を残したまま「なのだ」を付けており「6時かあなのだ」は不自然。",
+    "want": "6時なのだ"
+  },
+  { "i": 70, "ok": true },
+  { "i": 71, "ok": true },
+  { "i": 72, "ok": true },
+  { "i": 73, "ok": true },
+  { "i": 74, "ok": true }
+]

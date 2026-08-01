@@ -1,0 +1,19 @@
+{
+  "wave": 4,
+  "total": 100,
+  "judged": 100,
+  "ok": 96,
+  "ng": 4,
+  "rate": 96,
+  "categories": {
+    "unconverted": 2,
+    "other": 1,
+    "overreach": 1
+  },
+  "ngIndexes": [
+    20,
+    41,
+    53,
+    84
+  ]
+}

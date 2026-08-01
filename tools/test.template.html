@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="refresh" content="30" />
+<title>zundamstr 語尾変換 成功率</title>
+<style>
+  :root { color-scheme: dark; }
+  .viz-root {
+    --surface-0:      #111110;
+    --surface-1:      #1a1a19;
+    --text-primary:   #ffffff;
+    --text-secondary: #c3c2b7;
+    --text-muted:     #8a8981;
+    --grid:           #2e2e2c;
+    --series-1:       #3987e5;
+    --series-2:       #d95926;
+    --series-3:       #199e70;
+    --series-4:       #c98500;
+    --series-5:       #d55181;
+    --bad:            #e66767;
+  }
+  :root[data-theme="light"] .viz-root {
+    color-scheme: light;
+    --surface-0:      #ffffff;
+    --surface-1:      #fcfcfb;
+    --text-primary:   #0b0b0b;
+    --text-secondary: #52514e;
+    --text-muted:     #75746e;
+    --grid:           #e3e2dd;
+    --series-1:       #2a78d6;
+    --series-2:       #eb6834;
+    --series-3:       #1baf7a;
+    --series-4:       #eda100;
+    --series-5:       #e87ba4;
+    --bad:            #e34948;
+  }
+  html, body { margin: 0; padding: 0; }
+  body {
+    background: var(--surface-0, #111110);
+    font-family: Consolas, "SF Mono", Menlo, ui-monospace, monospace;
+  }
+  .viz-root {
+    background: var(--surface-0);
+    color: var(--text-primary);
+    min-height: 100vh;
+    padding: 24px 20px 64px;
+    box-sizing: border-box;
+  }
+  .wrap { max-width: 920px; margin: 0 auto; }
+  header.page { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+  h1 { font-size: 18px; font-weight: 600; margin: 0; letter-spacing: .02em; }
+  .sub { color: var(--text-secondary); font-size: 13px; margin: 6px 0 0; line-height: 1.6; }
+  button.theme {
+    margin-left: auto; background: none; border: 1px solid var(--grid);
+    color: var(--text-secondary); font: inherit; font-size: 12px;
+    padding: 4px 10px; border-radius: 4px; cursor: pointer;
+  }
+  button.theme:hover { color: var(--text-primary); }
+
+  .card {
+    background: var(--surface-1); border: 1px solid var(--grid);
+    border-radius: 8px; padding: 18px 18px 8px; margin-top: 20px;
+  }
+  .card h2 { font-size: 13px; font-weight: 600; margin: 0 0 2px; letter-spacing: .02em; }
+  .card .note { color: var(--text-muted); font-size: 11.5px; margin: 0 0 12px; }
+
+  .hero { display: flex; gap: 28px; flex-wrap: wrap; margin-top: 20px; }
+  .tile { flex: 1 1 130px; background: var(--surface-1); border: 1px solid var(--grid);
+          border-radius: 8px; padding: 14px 16px; }
+  .tile .k { font-size: 11px; color: var(--text-muted); letter-spacing: .04em; }
+  .tile .v { font-size: 26px; font-weight: 600; margin-top: 4px; font-variant-numeric: tabular-nums; }
+  .tile .d { font-size: 11.5px; color: var(--text-secondary); margin-top: 2px; }
+
+  .legend { display: flex; gap: 18px; flex-wrap: wrap; font-size: 11.5px;
+            color: var(--text-secondary); padding: 10px 2px 4px; }
+  .legend span { display: inline-flex; align-items: center; gap: 6px; }
+  .legend i { width: 18px; height: 0; border-top-width: 2px; border-top-style: solid; display: inline-block; }
+  .legend b { font-weight: 600; color: var(--text-primary); }
+  .legend .mk-blind, .legend .mk-tuned { width: 0; }
+  .tile.blind { border-color: var(--series-2); border-width: 2px; }
+  .tile.blind .v { color: var(--series-2); }
+  tr.blindrow td { font-weight: 600; }
+  tr.blindrow { background: color-mix(in srgb, var(--series-2) 10%, transparent); }
+
+  .chartbox { position: relative; }
+  svg { display: block; width: 100%; height: auto; overflow: visible; }
+  .tip {
+    position: absolute; pointer-events: none; opacity: 0; transition: opacity .08s;
+    background: var(--surface-0); border: 1px solid var(--grid); border-radius: 6px;
+    padding: 8px 10px; font-size: 12px; line-height: 1.5; white-space: nowrap;
+    box-shadow: 0 4px 14px rgba(0,0,0,.35); z-index: 5;
+  }
+  .tip .t { color: var(--text-muted); font-size: 11px; }
+  .tip .r { color: var(--text-primary); font-weight: 600; font-variant-numeric: tabular-nums; }
+  .tip .c { color: var(--text-secondary); }
+
+  table { border-collapse: collapse; width: 100%; font-size: 12.5px; }
+  th, td { text-align: right; padding: 6px 8px; border-bottom: 1px solid var(--grid); font-variant-numeric: tabular-nums; }
+  th:first-child, td:first-child { text-align: left; }
+  th { color: var(--text-muted); font-weight: 500; font-size: 11px; letter-spacing: .04em; }
+  td.cat { text-align: left; color: var(--text-secondary); font-variant-numeric: normal; }
+
+  .ng { margin-top: 12px; }
+  .ng h3 { font-size: 12px; font-weight: 600; margin: 16px 0 8px; color: var(--text-secondary); }
+  .ngitem { border-left: 2px solid var(--bad); padding: 4px 0 4px 10px; margin: 8px 0; font-size: 12.5px; line-height: 1.6; }
+  .ngitem .lab { color: var(--text-muted); font-size: 11px; margin-right: 6px; }
+  .ngitem .why { color: var(--text-secondary); }
+  .ngitem pre { margin: 2px 0; white-space: pre-wrap; word-break: break-word; font: inherit; color: var(--text-primary); }
+  select { background: var(--surface-0); color: var(--text-primary); border: 1px solid var(--grid);
+           font: inherit; font-size: 12px; padding: 3px 6px; border-radius: 4px; }
+  .empty { color: var(--text-muted); font-size: 12.5px; padding: 8px 0 16px; }
+</style>
+</head>
+<body>
+<div class="viz-root">
+<div class="wrap">
+  <header class="page">
+    <h1>zundamstr 語尾変換 成功率</h1>
+    <button class="theme" id="theme">☀ / ☾</button>
+  </header>
+  <p class="sub">
+    wss://yabu.me の kind:1 をサンプリングし、決定論的な
+    <code>zundamonize()</code> にかけた結果を審査エージェントが1件ずつ
+    自然/不自然で判定したのだ。wave ごとにルールを改善して再測定しているのだ。
+    横軸は <code>zunda.js</code> のルール版で、同じ版を別データで測った点が同じ位置に並ぶのだ。
+    <strong>◯（中抜きの丸）が未使用データでの測定＝実力</strong>なのだ。
+    ●（塗りつぶし）はそのデータで調整した後の値で、こちらは高く出て当たり前なのだ。
+    灰色の破線が ◯ をつないだもので、<strong>これが本当の性能の推移</strong>なのだ。
+    ● が 99% に届いても ◯ が 76% なら、それは調整先に<strong>過適合</strong>しているだけなのだ。
+  </p>
+
+  <div class="hero" id="tiles"></div>
+
+  <section class="card">
+    <h2>wave 別 成功率</h2>
+    <p class="note">縦軸＝自然と判定された投稿の割合（%）／横軸＝改善ラウンド</p>
+    <div class="chartbox" id="chartbox">
+      <svg id="chart" viewBox="0 0 720 320" role="img" aria-label="wave 別成功率の折れ線グラフ"></svg>
+      <div class="tip" id="tip"></div>
+    </div>
+    <div class="legend" id="legend"></div>
+  </section>
+
+  <section class="card">
+    <h2>数値テーブル</h2>
+    <p class="note">グラフと同じデータ</p>
+    <table id="tbl"></table>
+  </section>
+
+  <section class="card">
+    <h2>不自然と判定された事例</h2>
+    <p class="note">wave を選ぶと、その wave の NG 事例が出るのだ</p>
+    <p><select id="wavesel"></select> <span class="note" id="reload"></span></p>
+    <div class="ng" id="nglist"></div>
+  </section>
+</div>
+</div>
+
+<script>
+const DATA = /*__DATA__*/null;
+const PALETTE = ["--series-1", "--series-2", "--series-3", "--series-4", "--series-5"];
+
+// データのあるセットだけを、色を順に割り当てて拾う
+const ALL = Object.entries(DATA ?? {})
+  .filter(([, s]) => s.history?.length)
+  .map(([key, s], k) => ({ key, ...s, color: PALETTE[k % PALETTE.length] }));
+
+// ルール版 = wave + versionOffset。同じルールを別データで測った点が同じ x に並ぶ
+const ver = (set, h) => h.wave + (set.versionOffset || 0);
+
+// ★ wave 1 は「そのセットをまだチューニングに使う前」の測定なのだ。
+//   つまり未使用データでの測定＝実力なのだ。wave 2 以降はそのセットで調整した後の値なのだ。
+const isBlind = (h) => h.wave === 1;
+
+const pointsOf = (set) =>
+  set.history.map((h) => ({ v: ver(set, h), h, blind: isBlind(h) }));
+
+const versions = ALL.flatMap((s) => pointsOf(s).map((p) => p.v));
+const vMin = versions.length ? Math.min(...versions) : 1;
+const vMax = versions.length ? Math.max(...versions) : 1;
+
+// 実力測定（未使用データ）だけを集める。これが本当の性能なのだ
+const BLIND = ALL.flatMap((set) =>
+  pointsOf(set).filter((p) => p.blind).map((p) => ({ set, ...p })),
+).sort((a, b) => a.v - b.v);
+
+// 先頭セットはテーブルと NG 一覧の既定の対象になる
+const history = ALL[0]?.history ?? [];
+
+// --- theme ---------------------------------------------------------------
+const saved = localStorage.getItem("zundamstr-test-theme");
+if (saved) document.documentElement.setAttribute("data-theme", saved);
+document.getElementById("theme").onclick = () => {
+  const cur = document.documentElement.getAttribute("data-theme") === "light" ? "dark" : "light";
+  document.documentElement.setAttribute("data-theme", cur);
+  localStorage.setItem("zundamstr-test-theme", cur);
+  draw();
+};
+
+// --- tiles ---------------------------------------------------------------
+function tiles() {
+  const el = document.getElementById("tiles");
+  const t = [];
+
+  // 実力＝いちばん新しい未使用データでの測定
+  const latestBlind = BLIND[BLIND.length - 1];
+  if (latestBlind) {
+    t.push(`<div class="tile blind"><div class="k">実力（未使用データ）</div>
+      <div class="v">${latestBlind.h.rate}%</div>
+      <div class="d">${latestBlind.set.label}・版${latestBlind.v}<br>${latestBlind.h.ok} of ${latestBlind.h.judged}</div></div>`);
+  }
+
+  // 見かけ＝チューニングに使ったセットでの最新値
+  const tuned = ALL.flatMap((s) => pointsOf(s).filter((p) => !p.blind).map((p) => ({ set: s, ...p })))
+    .sort((a, b) => a.v - b.v);
+  const latestTuned = tuned[tuned.length - 1];
+  if (latestTuned) {
+    t.push(`<div class="tile"><div class="k">見かけ（調整済みデータ）</div>
+      <div class="v">${latestTuned.h.rate}%</div>
+      <div class="d">${latestTuned.set.label}・版${latestTuned.v}<br>${latestTuned.h.ok} of ${latestTuned.h.judged}</div></div>`);
+  }
+
+  if (latestBlind && latestTuned) {
+    const gap = (latestTuned.h.rate - latestBlind.h.rate).toFixed(1);
+    t.push(`<div class="tile"><div class="k">過適合の差</div><div class="v">${gap}pt</div>
+      <div class="d">見かけ − 実力<br>${gap > 10 ? "調整先に過適合しているのだ" : "差は小さいのだ"}</div></div>`);
+  }
+
+  t.push(`<div class="tile"><div class="k">実力測定の回数</div><div class="v">${BLIND.length}</div>
+    <div class="d">未使用データで測った回数<br>${BLIND.map((b) => b.h.rate + "%").join(" → ") || "—"}</div></div>`);
+
+  el.innerHTML = t.join("");
+}
+
+// --- line chart ----------------------------------------------------------
+const W = 720, H = 320, M = { t: 16, r: 62, b: 42, l: 46 };
+function draw() {
+  const svg = document.getElementById("chart");
+  const cs = getComputedStyle(document.querySelector(".viz-root"));
+  const C = (n) => cs.getPropertyValue(n).trim();
+  const iw = W - M.l - M.r, ih = H - M.t - M.b;
+  const span = Math.max(1, vMax - vMin);
+  const X = (v) => M.l + ((v - vMin) / span) * iw;
+  const Y = (r) => M.t + ih - (r / 100) * ih;
+
+  let s = "";
+  for (let r = 0; r <= 100; r += 20) {
+    s += `<line x1="${M.l}" y1="${Y(r)}" x2="${M.l + iw}" y2="${Y(r)}" stroke="${C("--grid")}" stroke-width="1"/>`;
+    s += `<text x="${M.l - 10}" y="${Y(r) + 4}" text-anchor="end" font-size="11" fill="${C("--text-muted")}">${r}</text>`;
+  }
+  for (let v = vMin; v <= vMax; v++) {
+    s += `<text x="${X(v)}" y="${M.t + ih + 22}" text-anchor="middle" font-size="11" fill="${C("--text-muted")}">v${v}</text>`;
+  }
+  s += `<text x="${M.l + iw / 2}" y="${H - 2}" text-anchor="middle" font-size="11" fill="${C("--text-muted")}">zunda.js のルール版</text>`;
+
+  // 実力測定（未使用データ）をつなぐ帯。これが本当の性能の推移なのだ
+  const bp = BLIND.map((b) => ({ ...b, x: X(b.v), y: Y(b.h.rate) }));
+  if (bp.length > 1) {
+    s += `<path d="M ${bp.map((p) => `${p.x} ${p.y}`).join(" L ")}" fill="none"
+            stroke="${C("--text-muted")}" stroke-width="2" stroke-dasharray="6 4"/>`;
+  }
+
+  // 各セットの折れ線
+  const drawn = [];
+  for (const set of ALL) {
+    const ps = pointsOf(set).map((p) => ({ ...p, x: X(p.v), y: Y(p.h.rate) }));
+    if (!ps.length) continue;
+    drawn.push({ set, ps });
+    if (ps.length > 1) {
+      s += `<path d="M ${ps.map((p) => `${p.x} ${p.y}`).join(" L ")}" fill="none"
+              stroke="${C(set.color)}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>`;
+    }
+    for (const p of ps) {
+      // 実力測定は中抜きの大きい丸、調整後の値は塗りつぶしの小さい丸で区別するのだ
+      s += p.blind
+        ? `<circle cx="${p.x}" cy="${p.y}" r="7" fill="${C("--surface-1")}" stroke="${C(set.color)}" stroke-width="3"/>`
+        : `<circle cx="${p.x}" cy="${p.y}" r="5" fill="${C(set.color)}" stroke="${C("--surface-1")}" stroke-width="2"/>`;
+    }
+    const last = ps[ps.length - 1];
+    s += `<text x="${last.x + 12}" y="${last.y + 4}" font-size="12" font-weight="600" fill="${C("--text-primary")}">${last.h.rate}%</text>`;
+  }
+
+  // 実力測定には値を直接添える（これがいちばん読まれるべき数字なのだ）
+  for (const p of bp) {
+    s += `<text x="${p.x}" y="${p.y + 22}" text-anchor="middle" font-size="11" font-weight="600"
+            fill="${C("--text-secondary")}">${p.h.rate}%</text>`;
+  }
+
+  s += `<g id="cross" style="opacity:0"><line y1="${M.t}" y2="${M.t + ih}" stroke="${C("--text-muted")}" stroke-width="1" stroke-dasharray="3 3"/></g>`;
+  s += `<rect id="hit" x="${M.l}" y="${M.t}" width="${iw}" height="${ih}" fill="transparent"/>`;
+  svg.innerHTML = s;
+
+  // interaction — 最寄りのルール版を選び、その版にある全セットの値を出す
+  const tip = document.getElementById("tip");
+  const cross = svg.querySelector("#cross");
+  const box = document.getElementById("chartbox");
+  const hit = svg.querySelector("#hit");
+  const move = (ev) => {
+    const r = svg.getBoundingClientRect();
+    const px = ((ev.clientX - r.left) / r.width) * W;
+    let v = vMin, bd = Infinity;
+    for (let k = vMin; k <= vMax; k++) {
+      const d = Math.abs(X(k) - px);
+      if (d < bd) { bd = d; v = k; }
+    }
+    cross.style.opacity = 1;
+    cross.firstChild.setAttribute("x1", X(v));
+    cross.firstChild.setAttribute("x2", X(v));
+
+    const rows = [];
+    let anchorY = M.t + ih / 2;
+    for (const { set, ps } of drawn) {
+      const p = ps.find((q) => q.v === v);
+      if (!p) continue;
+      anchorY = Math.min(anchorY, p.y);
+      const cats = Object.entries(p.h.categories || {}).map(([k, n]) => `${k} ${n}`).join(" / ") || "—";
+      rows.push(`<div class="r">${set.label}: ${p.h.rate}%</div>
+                 <div class="c">${p.h.ok} / ${p.h.judged} 件が自然・NG: ${cats}</div>`);
+    }
+    if (!rows.length) { tip.style.opacity = 0; return; }
+    tip.innerHTML = `<div class="t">ルール版 ${v}</div>${rows.join("")}`;
+    tip.style.opacity = 1;
+    const sx = (X(v) / W) * r.width, sy = (anchorY / H) * r.height;
+    tip.style.left = Math.min(Math.max(sx + 14, 0), box.clientWidth - tip.offsetWidth - 4) + "px";
+    tip.style.top = Math.max(sy - tip.offsetHeight - 10, 0) + "px";
+  };
+  hit.addEventListener("pointermove", move);
+  hit.addEventListener("pointerleave", () => { tip.style.opacity = 0; cross.style.opacity = 0; });
+}
+
+// --- legend --------------------------------------------------------------
+function legend() {
+  const el = document.getElementById("legend");
+  const parts = ALL.map(
+    (s) => `<span><i style="border-top-color:var(${s.color})"></i>${s.label}</span>`,
+  );
+  parts.push(
+    `<span><b class="mk-blind"></b><b>◯ = 未使用データでの測定（実力）</b></span>`,
+    `<span><b class="mk-tuned"></b>● = そのデータで調整した後の値</span>`,
+  );
+  el.innerHTML = parts.join("");
+}
+
+// --- table ---------------------------------------------------------------
+function table() {
+  const row = (set, h) => {
+    const cats = Object.entries(h.categories || {}).map(([k, v]) => `${k}:${v}`).join(", ") || "—";
+    const blind = isBlind(h);
+    return `<tr class="${blind ? "blindrow" : ""}"><td>v${ver(set, h)}</td>
+            <td class="cat">${blind ? "◯ 実力" : "● 調整後"}</td>
+            <td class="cat">${set.label}</td><td>${h.rate}%</td>
+            <td>${h.ok}</td><td>${h.ng}</td><td>${h.judged}</td><td class="cat">${cats}</td></tr>`;
+  };
+  // ルール版の昇順に、同じ版なら定義順に並べる
+  const rows = ALL.flatMap((set) => set.history.map((h) => ({ set, h, v: ver(set, h) })))
+    .sort((a, b) => a.v - b.v || ALL.indexOf(a.set) - ALL.indexOf(b.set))
+    .map(({ set, h }) => row(set, h))
+    .join("");
+  document.getElementById("tbl").innerHTML =
+    `<thead><tr><th>ルール版</th><th>種別</th><th>対象</th><th>成功率</th><th>自然</th><th>不自然</th><th>審査数</th><th>NG内訳</th></tr></thead><tbody>${rows}</tbody>`;
+}
+
+// --- ng list -------------------------------------------------------------
+function esc(s) { return String(s).replace(/[&<>]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c])); }
+function ngList() {
+  const sel = document.getElementById("wavesel");
+  // value は "main:3" / "wide:1" の形。どのセットの何 wave かを持たせる
+  const opts = ALL.flatMap((set) =>
+    set.history.map((h) => ({
+      set,
+      h,
+      v: ver(set, h),
+      html: `<option value="${set.key}:${h.wave}">v${ver(set, h)} ${set.label} (NG ${h.ng}件)</option>`,
+    })),
+  ).sort((a, b) => a.v - b.v || ALL.indexOf(a.set) - ALL.indexOf(b.set));
+  sel.innerHTML = opts.map((o) => o.html).join("");
+  const byKey = Object.fromEntries(ALL.map((s) => [s.key, s.waves || {}]));
+  const pick = (v) => {
+    const [key, w] = String(v).split(":");
+    return (byKey[key] || {})[w] || [];
+  };
+  const keep = sessionStorage.getItem("zundamstr-test-wave");
+  if (keep && [...sel.options].some((o) => o.value === keep)) sel.value = keep;
+  else if (opts.length) sel.value = opts[opts.length - 1].html.match(/value="([^"]+)"/)[1];
+  const render = () => {
+    const items = pick(sel.value);
+    const el = document.getElementById("nglist");
+    if (!items.length) { el.innerHTML = `<p class="empty">この wave に NG は無いのだ</p>`; return; }
+    el.innerHTML = items.map((it) => `
+      <div class="ngitem">
+        <div><span class="lab">#${it.i} ${esc(it.category)}</span><span class="why">${esc(it.reason)}</span></div>
+        <pre><span class="lab">src</span>${esc(it.src)}</pre>
+        <pre><span class="lab">out</span>${esc(it.out)}</pre>
+        ${it.want ? `<pre><span class="lab">want</span>${esc(it.want)}</pre>` : ""}
+      </div>`).join("");
+  };
+  sel.onchange = () => {
+    sessionStorage.setItem("zundamstr-test-wave", sel.value);
+    render();
+  };
+  render();
+}
+
+// --- 30秒ごとの自動リロード（<meta http-equiv="refresh"> と併用） ---
+// リロードで選択 wave とスクロール位置が飛ばないよう sessionStorage に退避する
+function autoReload() {
+  const y = sessionStorage.getItem("zundamstr-test-scroll");
+  if (y) scrollTo(0, Number(y));
+  addEventListener("beforeunload", () => {
+    sessionStorage.setItem("zundamstr-test-scroll", String(scrollY));
+  });
+  let left = 30;
+  const el = document.getElementById("reload");
+  setInterval(() => {
+    left--;
+    el.textContent = `${left}秒後に自動リロードなのだ`;
+  }, 1000);
+}
+
+tiles(); draw(); legend(); table(); ngList(); autoReload();
+addEventListener("resize", draw);
+</script>
+</body>
+</html>

@@ -1,0 +1,105 @@
+[
+  {
+    "i": 25,
+    "ok": false,
+    "category": "overreach",
+    "reason": "ハッシュタグ末尾に「なのだ」を直付けしており、タグ文字列自体が「#けだまメイズなのだ」に変わってしまっている。ハッシュタグはそのまま残すべき。",
+    "want": "ノルマ達成なのだ #けだまメイズ"
+  },
+  { "i": 26, "ok": true },
+  {
+    "i": 27,
+    "ok": false,
+    "category": "broken",
+    "reason": "「ここまで」は助詞止めの体言相当なので「なのだ」が必要。「ここまでのだ」は非文。",
+    "want": "今日の読書はここまでなのだ"
+  },
+  { "i": 28, "ok": true },
+  {
+    "i": 29,
+    "ok": false,
+    "category": "broken",
+    "reason": "「みたい」は形容動詞型なので「みたいなのだ」。「みたいのだ」は非文。",
+    "want": "縄文というよりアツシの模様みたいなのだ。"
+  },
+  { "i": 30, "ok": true },
+  {
+    "i": 31,
+    "ok": false,
+    "category": "overreach",
+    "reason": "ハッシュタグ「#ニュース速報」の直後に「なのだ」を付けてタグを壊している。付けるなら本文末に付けるべき。",
+    "want": "我が家「レッドカーペット」辞退なのだ #ニュース速報\nhttps://news.yahoo.co.jp/pickup/6589959?source=rss"
+  },
+  { "i": 32, "ok": true },
+  {
+    "i": 33,
+    "ok": false,
+    "category": "overreach",
+    "reason": "ハッシュタグ末尾に「なのだ」を直付けしてタグを壊している。本文の「じゃん」も未処理のまま。",
+    "want": "お金で喋るゲストなのだ #けだまメイズ"
+  },
+  { "i": 34, "ok": true },
+  {
+    "i": 35,
+    "ok": false,
+    "category": "particle",
+    "reason": "倒置の格助詞「が」で終わる行に「のだ」を付けており「プロジェクトがのだ」が非文になっている。助詞止めの行は変換しないのが自然。",
+    "want": "面白すぎるのだ\nプロジェクトが"
+  },
+  {
+    "i": 36,
+    "ok": false,
+    "category": "broken",
+    "reason": "「まだぁ」は副詞（用言ではない）なので「のだ」は接続できない。付けるなら「なのだ」。",
+    "want": "damus まーじまだぁなのだ？\nhttps://github.com/damus-io/damus/pull/3799"
+  },
+  {
+    "i": 37,
+    "ok": false,
+    "category": "particle",
+    "reason": "見出しの「〜とは」に「のだ」を直付けして「とはのだ」という非文になっている。助詞止めはそのまま残すべき。",
+    "want": "縄文スタイルとは\n\nhttps://i.nostr.build/xAv5chhBQ4oEb3OQ.jpg\nhttps://i.nostr.build/AYmnFd4teDZjugpl.jpg"
+  },
+  { "i": 38, "ok": true },
+  {
+    "i": 39,
+    "ok": false,
+    "category": "particle",
+    "reason": "副助詞「も」止めに「のだ」を付けて「時ものだ」という非文になっている。体言＋助詞なので「なのだ」か無変換が自然。",
+    "want": "骨伝導なので耳孔から音を聞いてない時もなのだ"
+  },
+  {
+    "i": 40,
+    "ok": false,
+    "category": "overreach",
+    "reason": "ハッシュタグ末尾に「なのだ」を直付けしてタグ文字列を壊している。",
+    "want": "ソロ強者なのだ #けだまメイズ"
+  },
+  { "i": 41, "ok": true },
+  { "i": 42, "ok": true },
+  {
+    "i": 43,
+    "ok": false,
+    "category": "broken",
+    "reason": "「突き破り」は連用形の体言止めなので「のだ」は接続できない。「なのだ」か無変換が自然。",
+    "want": "鼓膜突き破りなのだ"
+  },
+  { "i": 44, "ok": true },
+  { "i": 45, "ok": true },
+  { "i": 46, "ok": true },
+  {
+    "i": 47,
+    "ok": false,
+    "category": "particle",
+    "reason": "疑問の終助詞「か」の上に「のだ」を重ねて「あかんかのだ」という非文になっている。",
+    "want": "内耳までつっこんだらあかんのだ？\nhttps://www.saiseikai.or.jp/wp-content/uploads/2024/10/zu01_a.jpg"
+  },
+  { "i": 48, "ok": true },
+  {
+    "i": 49,
+    "ok": false,
+    "category": "particle",
+    "reason": "第1文の終助詞「な」を残したまま「なのだ」を付けて「聞かないなのだ」となっている。動詞終止形には「のだ」を付け、終助詞は落とすべき。",
+    "want": "もうずっとスピーカーからしか音を聞かないのだ。たぶん私も内耳につっこむタイプのイヤホン向いてない可能性なのだ。"
+  }
+]
