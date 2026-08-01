@@ -41,7 +41,7 @@ export const SETS = {
   // --- ラウンド制の訓練/測定セット（毎ラウンド新規データ） ---
   // r<N>train でチューニングし、r<N>test で測る。test の結果は改善側に渡さないのだ。
   ...Object.fromEntries(
-    [1, 2, 3, 4, 5, 6].flatMap((r) => [
+    [1, 2, 3, 4, 5, 6, 7, 8, 9, 10].flatMap((r) => [
       [`r${r}train`, {
         samples: path.join(here, `samples-r${r}-train.json`),
         waves: path.join(here, `waves-r${r}train`),
@@ -53,7 +53,9 @@ export const SETS = {
         samples: path.join(here, `samples-r${r}-test.json`),
         waves: path.join(here, `waves-r${r}test`),
         history: path.join(here, `history-r${r}test.json`),
-        label: `R${r} 測定 250件（未使用）`,
+        // 件数はセットごとに違うのだ。R5 から測定側を 500件に増やしたのだ——
+        // 250件では 95%信頼区間が ±4.5pt もあって、84% と 89% を区別できないからなのだ
+        label: `R${r} 測定（未使用）`,
         versionOffset: 13 + (r - 1) * 2,
       }],
     ]),
