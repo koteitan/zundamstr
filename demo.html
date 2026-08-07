@@ -203,7 +203,11 @@ footer a { color: var(--fg); }
 <footer>
   <code>zundamonize(text: string): string</code> ——
   依存ライブラリ 0・通信 0・乱数 0 の純関数なのだ。同じ入力からは必ず同じ出力が出るのだ。<br />
-  変換は端末の中だけで起きるのだ。入力した文がどこかに送られることは無いのだ。
+  変換は端末の中だけで起きるのだ。入力した文がどこかに送られることは無いのだ。<br />
+  <br />
+  変換がおかしかったら <a id="report" href="https://github.com/koteitan/zundamstr/issues/new" target="_blank" rel="noopener">issue で教えてほしいのだ</a>
+  ——いま入力している文と出力を書き込んだ状態で開くのだ。<br />
+  <a href="https://github.com/koteitan/zundamstr" target="_blank" rel="noopener">koteitan/zundamstr</a>
 </footer>
 
 <script type="module">
@@ -284,6 +288,28 @@ function render() {
   const n = (s) => `${s.length} 字 / ${s.split("\n").length} 行`;
   $("in-n").textContent = n(src);
   $("out-n").textContent = src === out ? "無変換なのだ" : n(out);
+
+  reportLink(src, out);
+}
+
+// 報告用リンクの href をその都度作り直すのだ。押した時に組み立てるのではないのだ——
+// それだと中クリックや「リンクのアドレスをコピー」が古い URL を掴むからなのだ。
+// GitHub の issue 作成画面は title と body をクエリで受け取るのだ。
+// URL の長さには実際上の限りがあるので、貼り付ける本文は 1500 字で切るのだ
+function reportLink(src, out) {
+  const cut = (s) =>
+    s.length > 1500 ? s.slice(0, 1500) + "\n…（以下略なのだ）" : s;
+  const body = [
+    "## 入力", "```", cut(src), "```", "",
+    "## 出力", "```", cut(out), "```", "",
+    "## こうなってほしいのだ", "", "",
+    "---", "demo.html から報告なのだ",
+  ].join("\n");
+  const title = "変換がおかしいのだ: " + (src.split("\n")[0] || "").slice(0, 40);
+  $("report").href =
+    "https://github.com/koteitan/zundamstr/issues/new" +
+    "?title=" + encodeURIComponent(title) +
+    "&body=" + encodeURIComponent(body);
 }
 
 // --- 設定。既定は暗い配色・強調ありなのだ ---

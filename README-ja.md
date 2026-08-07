@@ -6,6 +6,8 @@
 
 🔗 **デモ: https://koteitan.github.io/zundamstr/**
 
+🔬 **変換だけのデモ: https://koteitan.github.io/zundamstr/demo.html** — 日本語を打つとその場で語尾が変わるのだ。書き換わった所が光るのだ。入力はブラウザの外に出ないのだ。
+
 ## できること
 
 - **自動 NIP-07 ログイン。** 読み込み時に NIP-07 拡張へ自動接続するのだ。拡張が無ければ fallback relay のパブリックタイムラインを表示する。
@@ -28,6 +30,8 @@
 - `index.html`
 - `style.css`
 - `main.js`
+- `zunda.js` — 変換そのもの。import も副作用も無い1枚で、`zundamonize(text)` を export するのだ。
+- `demo.html` — `zundamonize()` 単体のライブデモ。`zunda.js` だけあれば動くのだ。
 
 ## ローカル実行
 

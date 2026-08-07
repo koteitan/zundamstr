@@ -6,6 +6,8 @@ A nostr client where everyone's speech endings become Zundamon-style ("〜のだ
 
 🔗 **Live demo: https://koteitan.github.io/zundamstr/**
 
+🔬 **Transform alone: https://koteitan.github.io/zundamstr/demo.html** — type Japanese and watch the endings change, with the rewritten span highlighted. Nothing leaves your browser.
+
 ## What it does
 
 - **Auto NIP-07 login.** On load it connects to your NIP-07 extension automatically. If no extension is found, it falls back to a public timeline from the fallback relays.
@@ -28,6 +30,8 @@ A nostr client where everyone's speech endings become Zundamon-style ("〜のだ
 - `index.html`
 - `style.css`
 - `main.js`
+- `zunda.js` — the transform itself. One file, no imports, no side effects; exports `zundamonize(text)`.
+- `demo.html` — a standalone live demo of `zundamonize()`. Needs only `zunda.js`.
 
 ## Run locally
 
