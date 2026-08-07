@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>zundamonize — ライブデモ</title>
+<style>
+/* 既定は暗いのだ。明るい方は :root.light で上書きするのだ */
+:root {
+  --bg: #000000;
+  --fg: #00ff66;
+  --fg-dim: #00aa44;
+  --fg-bright: #7dffb0;
+  --mark-bg: #00381c;
+  --panel: #060a07;
+  color-scheme: dark;
+}
+:root.light {
+  --bg: #f2f4f2;
+  --fg: #0d5c30;
+  --fg-dim: #6d9a80;
+  --fg-bright: #04351b;
+  --mark-bg: #b8ecc9;
+  --panel: #ffffff;
+  color-scheme: light;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: Consolas, "Courier New", "MS Gothic", monospace;
+  font-size: 14px;
+  line-height: 1.6;
+  min-height: 100vh;
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  flex: 0 0 auto;
+  padding: 10px 16px;
+  border-bottom: 1px solid var(--fg-dim);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+}
+header .logo { color: var(--fg-bright); font-weight: bold; letter-spacing: 1px; }
+header .sub { color: var(--fg-dim); font-size: 12px; }
+
+/* 右上のハンバーガーとプルダウン */
+#menu-btn {
+  margin-left: auto;
+  background: none;
+  border: 1px solid var(--fg-dim);
+  color: var(--fg);
+  font: inherit;
+  padding: 2px 9px;
+  cursor: pointer;
+  line-height: 1.2;
+}
+#menu-btn:hover { color: var(--fg-bright); border-color: var(--fg); }
+#menu {
+  position: absolute;
+  top: 100%;
+  right: 8px;
+  z-index: 10;
+  background: var(--panel);
+  border: 1px solid var(--fg-dim);
+  padding: 10px 14px;
+  display: none;
+  min-width: 210px;
+}
+#menu.open { display: block; }
+#menu label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 4px 0;
+  cursor: pointer;
+}
+#menu hr { border: none; border-top: 1px solid var(--fg-dim); margin: 8px 0; }
+#menu button {
+  background: none;
+  border: 1px solid var(--fg-dim);
+  color: var(--fg);
+  font: inherit;
+  padding: 3px 10px;
+  cursor: pointer;
+  width: 100%;
+}
+#menu button:hover { color: var(--fg-bright); border-color: var(--fg); }
+
+main {
+  flex: 1 1 auto;
+  padding: 14px 16px 24px;
+  max-width: 1100px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.samples { margin-bottom: 14px; }
+.samples .cap { color: var(--fg-dim); font-size: 12px; margin-bottom: 6px; }
+.samples .chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.samples button {
+  background: none;
+  border: 1px solid var(--fg-dim);
+  color: var(--fg);
+  font: inherit;
+  font-size: 12px;
+  padding: 3px 9px;
+  cursor: pointer;
+}
+.samples button:hover { color: var(--fg-bright); border-color: var(--fg); }
+
+.panes { display: grid; grid-template-columns: 1fr; gap: 14px; }
+@media (min-width: 860px) { .panes { grid-template-columns: 1fr 1fr; } }
+
+.pane .cap {
+  color: var(--fg-dim);
+  font-size: 12px;
+  margin-bottom: 5px;
+  display: flex;
+  justify-content: space-between;
+}
+#in, #out {
+  width: 100%;
+  min-height: 260px;
+  background: var(--panel);
+  border: 1px solid var(--fg-dim);
+  color: var(--fg);
+  font: inherit;
+  padding: 10px 12px;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+#in { resize: vertical; }
+#in:focus { outline: none; border-color: var(--fg); }
+#out mark { background: var(--mark-bg); color: var(--fg-bright); }
+#out .same { color: var(--fg-dim); }
+
+footer {
+  flex: 0 0 auto;
+  padding: 12px 16px 20px;
+  max-width: 1100px;
+  width: 100%;
+  margin: 0 auto;
+  color: var(--fg-dim);
+  font-size: 12px;
+}
+footer code { color: var(--fg); }
+footer a { color: var(--fg); }
+.err {
+  border: 1px solid var(--fg);
+  padding: 10px 12px;
+  margin-bottom: 14px;
+  display: none;
+}
+.err.show { display: block; }
+</style>
+</head>
+<body>
+
+<header>
+  <span class="logo">zundamonize()</span>
+  <span class="sub">日本語の文末を「〜のだ」に変える純関数なのだ</span>
+  <button id="menu-btn" type="button" aria-label="メニュー">&#9776;</button>
+  <div id="menu">
+    <label><input type="checkbox" id="opt-dark" /> 暗い配色</label>
+    <label><input type="checkbox" id="opt-mark" /> 変わった所を光らせる</label>
+    <hr />
+    <button type="button" id="btn-clear">入力を消す</button>
+  </div>
+</header>
+
+<main>
+  <div class="err" id="err">
+    <strong>zunda.js を読み込めなかったのだ。</strong><br />
+    このページは ES モジュールを import するので、<code>file://</code> では動かないのだ。
+    ローカルの HTTP サーバー越しに開くのだ。
+  </div>
+
+  <div class="samples">
+    <div class="cap">▼ 例を押すと入力に入るのだ</div>
+    <div class="chips" id="chips"></div>
+  </div>
+
+  <div class="panes">
+    <div class="pane">
+      <div class="cap"><span>入力（原文）</span><span id="in-n"></span></div>
+      <textarea id="in" spellcheck="false" placeholder="ここに日本語を書くのだ"></textarea>
+    </div>
+    <div class="pane">
+      <div class="cap"><span>出力（zundamonize の返り値）</span><span id="out-n"></span></div>
+      <div id="out"></div>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <code>zundamonize(text: string): string</code> ——
+  依存ライブラリ 0・通信 0・乱数 0 の純関数なのだ。同じ入力からは必ず同じ出力が出るのだ。<br />
+  変換は端末の中だけで起きるのだ。入力した文がどこかに送られることは無いのだ。
+</footer>
+
+<script type="module">
+import { zundamonize } from "./zunda.js";
+
+const KEY = "zundamonize-demo";
+const state = JSON.parse(localStorage.getItem(KEY) || "{}");
+const save = (patch) => {
+  Object.assign(state, patch);
+  localStorage.setItem(KEY, JSON.stringify(state));
+};
+
+const $ = (id) => document.getElementById(id);
+const inEl = $("in"), outEl = $("out");
+
+// --- 例。何を見せたいのかを添えるのだ ---
+const SAMPLES = [
+  ["丁寧語", "おはようございます。今日はいい天気ですね"],
+  ["丁寧の意向形", "ラーメン食べに行きましょうか"],
+  ["意向形", "ポカリスエット飲もう"],
+  ["依頼のテ形", "ちょっと手伝ってください"],
+  ["言いさし＋終助詞", "雨が降りそうだから傘を持っていくけどさ"],
+  ["口語否定", "それ、知らんけど"],
+  ["音便の過去", "昨日は本を読んだ"],
+  ["触らない例", "あなたが好きだったのに\nhttps://example.com/a.png"],
+];
+$("chips").append(...SAMPLES.map(([label, text]) => {
+  const b = document.createElement("button");
+  b.type = "button";
+  b.textContent = label;
+  b.addEventListener("click", () => { inEl.value = text; render(); });
+  return b;
+}));
+
+const esc = (s) =>
+  s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+
+// 原文と出力の「頭から同じ所」「尻から同じ所」を除いた真ん中が変わった所なのだ。
+// この変換は文末しか触らないので、これで変更箇所がそのまま出るのだ
+function markLine(src, out) {
+  if (src === out) return `<span class="same">${esc(out)}</span>`;
+  let head = 0;
+  while (head < src.length && head < out.length && src[head] === out[head]) head++;
+  let tail = 0;
+  while (
+    tail < src.length - head &&
+    tail < out.length - head &&
+    src[src.length - 1 - tail] === out[out.length - 1 - tail]
+  ) tail++;
+  return (
+    `<span class="same">${esc(out.slice(0, head))}</span>` +
+    `<mark>${esc(out.slice(head, out.length - tail))}</mark>` +
+    `<span class="same">${esc(out.slice(out.length - tail))}</span>`
+  );
+}
+
+function render() {
+  const src = inEl.value;
+  let out;
+  try {
+    out = zundamonize(src);
+  } catch (e) {
+    outEl.textContent = "変換中に例外が出たのだ: " + e.message;
+    return;
+  }
+  save({ text: src });
+
+  if (state.mark === false) {
+    outEl.textContent = out;
+  } else {
+    const a = src.split("\n"), b = out.split("\n");
+    outEl.innerHTML =
+      a.length === b.length
+        ? b.map((line, i) => markLine(a[i], line)).join("<br />")
+        : markLine(src, out).replace(/\n/g, "<br />");
+  }
+
+  const n = (s) => `${s.length} 字 / ${s.split("\n").length} 行`;
+  $("in-n").textContent = n(src);
+  $("out-n").textContent = src === out ? "無変換なのだ" : n(out);
+}
+
+// --- 設定。既定は暗い配色・強調ありなのだ ---
+const dark = state.dark ?? true;
+const mark = state.mark ?? true;
+document.documentElement.classList.toggle("light", !dark);
+$("opt-dark").checked = dark;
+$("opt-mark").checked = mark;
+
+$("opt-dark").addEventListener("change", (e) => {
+  document.documentElement.classList.toggle("light", !e.target.checked);
+  save({ dark: e.target.checked });
+});
+$("opt-mark").addEventListener("change", (e) => {
+  save({ mark: e.target.checked });
+  render();
+});
+$("btn-clear").addEventListener("click", () => {
+  inEl.value = "";
+  $("menu").classList.remove("open");
+  render();
+  inEl.focus();
+});
+
+$("menu-btn").addEventListener("click", (e) => {
+  e.stopPropagation();
+  $("menu").classList.toggle("open");
+});
+document.addEventListener("click", (e) => {
+  if (!$("menu").contains(e.target)) $("menu").classList.remove("open");
+});
+
+inEl.addEventListener("input", render);
+inEl.value = state.text ?? SAMPLES[0][1];
+render();
+window.__zundaLoaded = true; // 下の道案内に「読み込めたのだ」と伝えるのだ
+</script>
+
+<script>
+// import が失敗すると本文の script は1行も動かないのだ。そのときだけ道案内を出すのだ。
+// 出力欄が空かどうかで判るのではないのだ——入力が空なら出力も正しく空だからなのだ。
+// モジュールが最後まで走ったという印そのものを見るのだ
+setTimeout(() => {
+  if (!window.__zundaLoaded)
+    document.getElementById("err").classList.add("show");
+}, 700);
+</script>
+
+</body>
+</html>
