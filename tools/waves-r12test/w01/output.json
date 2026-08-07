@@ -1,0 +1,5002 @@
+[
+  {
+    "i": 0,
+    "src": "🎵スジャータ スジャータ\n褐色の恋人 スジャータのめいらくが 9 時をお知らせします",
+    "out": "🎵スジャータ スジャータ\n褐色の恋人 スジャータのめいらくが 9 時をお知らせするのだ"
+  },
+  {
+    "i": 1,
+    "src": "絶対ポーマン以外は私のこと好きだよ。好きだから無視しちゃってるのみんな照れるからあまのじゃくなの。というか何かのノスターだと全員がコミュ症だから、Twitterみたいにff外からフォローしましたとか言われるとコミュ症の人たちはびっくりしちゃうみたい。ポーマンは私のこと。ほんとに嫌いかも。",
+    "out": "絶対ポーマン以外は私のこと好きなのだ。好きだから無視しちゃってるのみんな照れるからあまのじゃくなのだ。というか何かのノスターだと全員がコミュ症だから、Twitterみたいにff外からフォローしましたとか言われるとコミュ症の人たちはびっくりしちゃうみたいなのだ。ポーマンは私のこと。ほんとに嫌いかもしれないのだ。"
+  },
+  {
+    "i": 2,
+    "src": "こしがいたいなあ",
+    "out": "こしがいたいのだ"
+  },
+  {
+    "i": 3,
+    "src": "錠剤割ってないのお前だけ",
+    "out": "錠剤割ってないのお前だけなのだ"
+  },
+  {
+    "i": 4,
+    "src": "おはのすー",
+    "out": "おはのすー"
+  },
+  {
+    "i": 5,
+    "src": "やっぱりここに歯を入れるんだ🦷",
+    "out": "やっぱりここに歯を入れるのだ🦷"
+  },
+  {
+    "i": 6,
+    "src": "#バズワードランキング\n\n1位: #おは (15)\n2位: #nostrクライアント (5)\n3位: #画面 (3)\n4位: #おはよう。 (3)\n5位: #ハッカソン (3)\n6位: #ログボお願い (3)",
+    "out": "#バズワードランキング\n\n1位: #おは (15)\n2位: #nostrクライアント (5)\n3位: #画面 (3)\n4位: #おはよう。 (3)\n5位: #ハッカソン (3)\n6位: #ログボお願い (3)"
+  },
+  {
+    "i": 7,
+    "src": "そりゃ相容れない人もいるだろう、の気持ち",
+    "out": "そりゃ相容れない人もいるだろう、の気持ちなのだ"
+  },
+  {
+    "i": 8,
+    "src": "よくわかったね",
+    "out": "よくわかったのだ"
+  },
+  {
+    "i": 9,
+    "src": "これはなんですか？乳歯🦷をとって入れておくマシンですか？",
+    "out": "これはなのだ？乳歯🦷をとって入れておくマシンなのだ？"
+  },
+  {
+    "i": 10,
+    "src": "ましーん\nhttps://share.yabu.me/ec42c765418b3db9c85abff3a88f4a3bbe57535eebbdc54522041fa5328c0600/98a6d060f5f2788e826edfc18f22c6c5474d578ca02e111ff611bd55e59a5526.webp",
+    "out": "ましーんなのだ\nhttps://share.yabu.me/ec42c765418b3db9c85abff3a88f4a3bbe57535eebbdc54522041fa5328c0600/98a6d060f5f2788e826edfc18f22c6c5474d578ca02e111ff611bd55e59a5526.webp"
+  },
+  {
+    "i": 11,
+    "src": "青いうさぎと塩が好きだけど、うちのことミュートしてるかも無視されてる\n\nkojira師匠にも無視されてる\nハッカソンの時はすごいみんな会話してた。なんか爆笑してたインターネット上で無視するのやめてください。お願いします。😡💢💢💢",
+    "out": "青いうさぎと塩が好きだけど、うちのことミュートしてるかも無視されてるのだ\n\nkojira師匠にも無視されてるのだ\nハッカソンの時はすごいみんな会話してたのだ。なんか爆笑してたインターネット上で無視するのやめてほしいのだ。お願いするのだ。😡💢💢💢"
+  },
+  {
+    "i": 12,
+    "src": "割錠ましーん\nhttps://share.yabu.me/5aaccfdd2ed8f45eb0dfb9a8752bf0d50777a975ad24468f14dd457e747c5c90/a4e841e1e498fe7a123a05480ed9d71fa8ab14545829677881589c98c03e6387.webp",
+    "out": "割錠ましーんなのだ\nhttps://share.yabu.me/5aaccfdd2ed8f45eb0dfb9a8752bf0d50777a975ad24468f14dd457e747c5c90/a4e841e1e498fe7a123a05480ed9d71fa8ab14545829677881589c98c03e6387.webp"
+  },
+  {
+    "i": 13,
+    "src": "一旦全部ねるねるねるねみたいに混ぜてみて、やばかったら分離にしようぶ━━⊂二二二(　＾ω＾)二⊃━━ん",
+    "out": "一旦全部ねるねるねるねみたいに混ぜてみて、やばかったら分離にしようぶ━━⊂二二二(　＾ω＾)二⊃━━んなのだ"
+  },
+  {
+    "i": 14,
+    "src": "かわいいは作れるみたいな",
+    "out": "かわいいは作れるみたいのだ"
+  },
+  {
+    "i": 15,
+    "src": "そうだよ。😡べったんとパーマンが嫌い。ぽーぅまん。だから監視してるの👀あやしいから🤨",
+    "out": "そうなのだ。😡べったんとパーマンが嫌いなのだ。ぽーぅまんなのだ。だから監視してるの👀あやしいから🤨"
+  },
+  {
+    "i": 16,
+    "src": "いや、軽くでも食べるか",
+    "out": "いや、軽くでも食べるのだ"
+  },
+  {
+    "i": 17,
+    "src": "朝飯食べてないけど...食べる時間あるかな",
+    "out": "朝飯食べてないけど...食べる時間あるのだ"
+  },
+  {
+    "i": 18,
+    "src": "オハイオ",
+    "out": "オハイオなのだ"
+  },
+  {
+    "i": 19,
+    "src": "ハッカ村中は、皆さん技術系お笑い芸人のようなトーク技術で、バチバチの楽しい楽しいでした🐰✨\nみんなイケボでした。女子がいませんでした。その1点だけがっかりしました。JDだと思ってた人がイケボでした。",
+    "out": "ハッカ村中は、皆さん技術系お笑い芸人のようなトーク技術で、バチバチの楽しい楽しいだったのだ🐰✨\nみんなイケボだったのだ。女子がいなかったのだ。その1点だけがっかりしたのだ。JDだと思ってた人がイケボだったのだ。"
+  },
+  {
+    "i": 20,
+    "src": "台風06号(チャンミー)は、2026年6月2日 8時00分現在 奄美市の北西約100kmを 北北東へ 毎時25kmの速度で 進んでいます。\n中心気圧は 975hPa、最大風速は 秒速30m、最大瞬間風速は 秒速40m です。\n(2026年6月2日 8時45分 発表)\nhttps://witmaps.c-stellar.net/2606/202606020800.webp\n\n最新の台風情報については気象庁ホームページ https://www.jma.go.jp/bosai/map.html#contents=typhoon を参照してください。",
+    "out": "台風06号(チャンミー)は、2026年6月2日 8時00分現在 奄美市の北西約100kmを 北北東へ 毎時25kmの速度なのだ 進んでいるのだ。\n中心気圧は 975hPa、最大風速は 秒速30m、最大瞬間風速は 秒速40m なのだ。\n(2026年6月2日 8時45分 発表)\nhttps://witmaps.c-stellar.net/2606/202606020800.webp\n\n最新の台風情報については気象庁ホームページ https://www.jma.go.jp/bosai/map.html#contents=typhoon を参照してほしいのだ。"
+  },
+  {
+    "i": 21,
+    "src": "nostrクライアントにDBなんて使うんけ？",
+    "out": "nostrクライアントにDBなんて使うんけなのだ？"
+  },
+  {
+    "i": 22,
+    "src": "あんこ……\n:meow_droolreach:",
+    "out": "あんこなのだ……\n:meow_droolreach:"
+  },
+  {
+    "i": 23,
+    "src": "ルビーとなでしこは、オープンソースで習ったよ\n好きぴがパソコンオタクだから、パソコンのお祭りに参加してるよ。マスコットキャラクターとして🐰✨\n\nルビーon、レイルズGirl北九州のロゴ製作者だよ\n他にもちょこちょこいろんな会社のロゴを作ったことあるよ",
+    "out": "ルビーとなでしこは、オープンソースで習ったのだ\n好きぴがパソコンオタクだから、パソコンのお祭りに参加してるのだ。マスコットキャラクターとして🐰✨\n\nルビーon、レイルズGirl北九州のロゴ製作者なのだ\n他にもちょこちょこいろんな会社のロゴを作ったことあるのだ"
+  },
+  {
+    "i": 24,
+    "src": "陸さんはイケボだったよ\nイケカテぺんぎん🐧 JDだと思ってたけど、イケボだったよ",
+    "out": "陸さんはイケボだったのだ\nイケカテぺんぎん🐧 JDだと思ってたけど、イケボだったのだ"
+  },
+  {
+    "i": 25,
+    "src": "ルビーとなでしこできるの！！すごい！\nかーねるもパニック",
+    "out": "ルビーとなでしこできるのだ！！すごいのだ！\nかーねるもパニックなのだ"
+  },
+  {
+    "i": 26,
+    "src": "かかってこい",
+    "out": "かかってこいのだ"
+  },
+  {
+    "i": 27,
+    "src": "FanxiangのS880なんて去年の9月には2TB1万円、4TB2万円だったのに……のに！\nぜんぶ買った値段で手放しちゃった",
+    "out": "FanxiangのS880なんて去年の9月には2TB1万円、4TB2万円だったのに……のに！\nぜんぶ買った値段で手放しちゃったのだ"
+  },
+  {
+    "i": 28,
+    "src": "なるほど！！",
+    "out": "なるほどなのだ！！"
+  },
+  {
+    "i": 29,
+    "src": "松岡修造の熱量ほしいね",
+    "out": "松岡修造の熱量ほしいのだ"
+  },
+  {
+    "i": 30,
+    "src": "■ 流速計測\n  2026/06/02 08:30～08:40\n\n[JP リレー]\nきりの川: 29 posts, 0 reposts, 22 favs \nやぶみ川: 46 posts, 2 reposts, 56 favs \nかすてら川: 17 posts, 0 reposts, 11 favs \nこじら川: 42 posts, 2 reposts, 50 favs \nしの川: 2 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 34 posts, 1 reposts, 25 favs \nこじら大川: 16 posts, 2 reposts, 15 favs \nしの川(G): 11 posts, 2 reposts, 11 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/02 08:30～08:40\n\n[JP リレー]\nきりの川: 29 posts, 0 reposts, 22 favs \nやぶみ川: 46 posts, 2 reposts, 56 favs \nかすてら川: 17 posts, 0 reposts, 11 favs \nこじら川: 42 posts, 2 reposts, 50 favs \nしの川: 2 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 34 posts, 1 reposts, 25 favs \nこじら大川: 16 posts, 2 reposts, 15 favs \nしの川(G): 11 posts, 2 reposts, 11 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 31,
+    "src": "今日とってもすごいファーストペンギンショーです🏆🐧",
+    "out": "今日とってもすごいファーストペンギンショーなのだ🏆🐧"
+  },
+  {
+    "i": 32,
+    "src": "あったよ。すごい可愛かったです\n他の人が松岡修造を探すアプリを作っていて、その松岡修造の熱量のエネルギーへの還元方法を私は考えているけど\n皆さんは、松岡修造見つけるところまでしか考えてないの",
+    "out": "あったのだ。すごい可愛かったのだ\n他の人が松岡修造を探すアプリを作っていて、その松岡修造の熱量のエネルギーへの還元方法を私は考えているのだけど\n皆さんは、松岡修造見つけるところまでしか考えてないのだ？"
+  },
+  {
+    "i": 33,
+    "src": "あざすー\nなんかアメジの仕様でDMに返事できないんですけど見えてます",
+    "out": "あざすー\nなんかアメジの仕様でDMに返事できないんですけど見えてるのだ"
+  },
+  {
+    "i": 34,
+    "src": "32ビットのスーパーファミコンのことね",
+    "out": "32ビットのスーパーファミコンのことなのだ"
+  },
+  {
+    "i": 35,
+    "src": "朝のコーヒーを止めてみた。",
+    "out": "朝のコーヒーを止めてみたのだ。"
+  },
+  {
+    "i": 36,
+    "src": "そもさん！",
+    "out": "そもさんなのだ！"
+  },
+  {
+    "i": 37,
+    "src": "🎵サンサンサンサン アサヒサ～ン🌞\n　みんなよろこぶ チカラコブ\n　おひさまよろこぶ チカラコブ\n　チ・カ・ラ・コ・ブ！💪",
+    "out": "🎵サンサンサンサン アサヒサ～ン🌞\n　みんなよろこぶ チカラコブ\n　おひさまよろこぶ チカラコブ\n　チ・カ・ラ・コ・ブ！💪"
+  },
+  {
+    "i": 38,
+    "src": "おっはよーん",
+    "out": "おっはよーんなのだ"
+  },
+  {
+    "i": 39,
+    "src": "だれが優勝したんだろ",
+    "out": "だれが優勝したのだろう"
+  },
+  {
+    "i": 40,
+    "src": "ドクズの俺くんを救う会　野鳥を守ろう　みたいなこういうテーマでコミュつくって　あけすけに投げ銭を求めたらすごくいいと思います。自分のステータスは全部受け止めるといいよ。そしてフルオープンにするとこれを生きやすくなるよ。",
+    "out": "ドクズの俺くんを救う会　野鳥を守るのだ　みたいなこういうテーマでコミュつくって　あけすけに投げ銭を求めたらすごくいいと思うのだ。自分のステータスは全部受け止めるといいのだ。そしてフルオープンにするとこれを生きやすくなるのだ。"
+  },
+  {
+    "i": 41,
+    "src": "オープンになるの良さそう〜（まだ本文読んでない）\nnostr:nevent1qvzqqqqqqypzqmygparjwakm049v78ld7azlxels2ke9t2pfdrdprzsxjzdg2n3yqys8wumn8ghj7un9d3shjtt2wqhxummnw3ezuamfwfjkgmn9wshx5uqpp4mhxue69uhkummn9ekx7mqpp4mhxue69uhhjctzw5hx6egpz9mhxue69uhhytntda4xjunp9e5k7qpqr6mwvnetfdlna0mzc7d6zewq637ve8tkckly9vrkjc67ygaxa3ksfe2yzp",
+    "out": "オープンになるの良さそう〜（まだ本文読んでない）\nnostr:nevent1qvzqqqqqqypzqmygparjwakm049v78ld7azlxels2ke9t2pfdrdprzsxjzdg2n3yqys8wumn8ghj7un9d3shjtt2wqhxummnw3ezuamfwfjkgmn9wshx5uqpp4mhxue69uhkummn9ekx7mqpp4mhxue69uhhjctzw5hx6egpz9mhxue69uhhytntda4xjunp9e5k7qpqr6mwvnetfdlna0mzc7d6zewq637ve8tkckly9vrkjc67ygaxa3ksfe2yzp"
+  },
+  {
+    "i": 42,
+    "src": "🔒\n\nSNS各社が投稿削除対応を公表　Xやメタ、情プラ法の施行で - 日本経済新聞 https://www.nikkei.com/article/DGXZQOUC01AJ60R00C26A6000000/",
+    "out": "🔒\n\nSNS各社が投稿削除対応を公表　Xやメタ、情プラ法の施行で - 日本経済新聞 https://www.nikkei.com/article/DGXZQOUC01AJ60R00C26A6000000/"
+  },
+  {
+    "i": 43,
+    "src": "■ 流速計測\n  2026/06/02 08:20～08:30\n\n[JP リレー]\nきりの川: 28 posts, 4 reposts, 15 favs \nやぶみ川: 53 posts, 6 reposts, 33 favs \nかすてら川: 19 posts, 4 reposts, 7 favs \nこじら川: 52 posts, 6 reposts, 31 favs \nしの川: 2 posts, 0 reposts, 1 favs \n\n[GLOBAL リレー]\nきりの川(G): 30 posts, 4 reposts, 15 favs \nこじら大川: 20 posts, 2 reposts, 9 favs \nしの川(G): 7 posts, 0 reposts, 3 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/02 08:20～08:30\n\n[JP リレー]\nきりの川: 28 posts, 4 reposts, 15 favs \nやぶみ川: 53 posts, 6 reposts, 33 favs \nかすてら川: 19 posts, 4 reposts, 7 favs \nこじら川: 52 posts, 6 reposts, 31 favs \nしの川: 2 posts, 0 reposts, 1 favs \n\n[GLOBAL リレー]\nきりの川(G): 30 posts, 4 reposts, 15 favs \nこじら大川: 20 posts, 2 reposts, 9 favs \nしの川(G): 7 posts, 0 reposts, 3 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 44,
+    "src": "うちのピーは、女とセックス中に暴力振るタイプだよ",
+    "out": "うちのピーは、女とセックス中に暴力振るタイプなのだ"
+  },
+  {
+    "i": 45,
+    "src": "おはようなのぷく。\n\n・朝からお仕事やタスクの管理、AIの調整にみんな大忙しだね！\n・「無職チャレンジ」や「面接」など、今日もみんなの日常は話題がいっぱいぷく。\n・お天気が心配だけど、おうちでゆっくり過ごして元気をチャージしてね！\n\nきょうも一日、にこにこ笑顔でがんばろうねぷくー！",
+    "out": "おはようなのぷく。\n\n・朝からお仕事やタスクの管理、AIの調整にみんな大忙しなのだ！\n・「無職チャレンジ」や「面接」など、今日もみんなの日常は話題がいっぱいなのだ。\n・お天気が心配だけど、おうちでゆっくり過ごして元気をチャージしてほしいのだ！\n\nきょうも一日、にこにこ笑顔でがんばるのだ！"
+  },
+  {
+    "i": 46,
+    "src": "できたよ　みんな盛り上がってた\n\nnostr:nevent1qqst6t67r3r4zynzguwe7h0ayvdanf87pxmvdfg3vpfjwp5pnrztgkqpp4mhxue69uhhjctzw5hx6egpz9mhxue69uhhytntda4xjunp9e5k7q3qsjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sxpqqqqqqz6deh9l",
+    "out": "できたのだ　みんな盛り上がってたのだ\n\nnostr:nevent1qqst6t67r3r4zynzguwe7h0ayvdanf87pxmvdfg3vpfjwp5pnrztgkqpp4mhxue69uhhjctzw5hx6egpz9mhxue69uhhytntda4xjunp9e5k7q3qsjcvg64knxkrt6ev52rywzu9uzqakgy8ehhk8yezxmpewsthst6sxpqqqqqqz6deh9l"
+  },
+  {
+    "i": 47,
+    "src": "べったんのことが嫌いだから基本むし🐛💢してる　ぽーまんも🐛💢　べったんのことは見るだけみて監視はしてる👀",
+    "out": "べったんのことが嫌いだから基本むし🐛💢してる　ぽーまんも🐛💢　べったんのことは見るだけみて監視はしてるのだ👀"
+  },
+  {
+    "i": 48,
+    "src": "うさぎさんちゃんとハッカソンできた？",
+    "out": "うさぎさんちゃんとハッカソンできたのだ？"
+  },
+  {
+    "i": 49,
+    "src": "20分だけ寝る",
+    "out": "20分だけ寝るのだ"
+  },
+  {
+    "i": 50,
+    "src": "やばいねむい",
+    "out": "やばいねむいのだ"
+  },
+  {
+    "i": 51,
+    "src": "全人類油断するな",
+    "out": "全人類油断するのだ"
+  },
+  {
+    "i": 52,
+    "src": "本当に油断できないのでみんな油断できなくなってきたな",
+    "out": "本当に油断できないのでみんな油断できなくなってきたのだ"
+  },
+  {
+    "i": 53,
+    "src": "ええええええぇええぇぇ！",
+    "out": "ええええええぇええぇぇ！"
+  },
+  {
+    "i": 54,
+    "src": "🚂ｷｼｬｰｰｰｰｰｰｰ!!✨\nむしするな🐛\nきのこの山ｿｯ(　 ﾟ ﾟ)⊃🍄",
+    "out": "🚂ｷｼｬｰｰｰｰｰｰｰ!!✨\nむしするのだ🐛\nきのこの山ｿｯ(　 ﾟ ﾟ)⊃🍄"
+  },
+  {
+    "i": 55,
+    "src": "りえちゃん🎉はADHDなのでかなり接するの大変だけど、良いところがあるからね。ひたすら笑顔ってところが良いところ、そしていろんなことを聞きせず気にしたとしても家が怒ってあげて一喝したら　ちゃんと言うこと聞く　ただただずっと喋り続ける。自分の言いたいことばかりよ。そして人に自分でできることなのにこれはどうすんのすんのどうすんの明日のってずっと聞いてくる。これがHH Gか\nADHDか常に質問し続けてくる",
+    "out": "りえちゃん🎉はADHDなのでかなり接するの大変だけど、良いところがあるからなのだ。ひたすら笑顔ってところが良いところ、そしていろんなことを聞きせず気にしたとしても家が怒ってあげて一喝したら　ちゃんと言うこと聞く　ただただずっと喋り続けるのだ。自分の言いたいことばかりよなのだ。そして人に自分でできることなのにこれはどうすんのすんのどうすんの明日のってずっと聞いてくるのだ。これがHH Gなのだ\nADHDか常に質問し続けてくるのだ"
+  },
+  {
+    "i": 56,
+    "src": "きょもなんとか😠",
+    "out": "きょもなんとか😠"
+  },
+  {
+    "i": 57,
+    "src": "■ 流速計測\n  2026/06/02 08:10～08:20\n\n[JP リレー]\nきりの川: 17 posts, 0 reposts, 36 favs \nやぶみ川: 41 posts, 0 reposts, 72 favs \nかすてら川: 9 posts, 0 reposts, 29 favs \nこじら川: 37 posts, 0 reposts, 67 favs \nしの川: 3 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 19 posts, 0 reposts, 39 favs \nこじら大川: 28 posts, 0 reposts, 27 favs \nしの川(G): 9 posts, 0 reposts, 11 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/02 08:10～08:20\n\n[JP リレー]\nきりの川: 17 posts, 0 reposts, 36 favs \nやぶみ川: 41 posts, 0 reposts, 72 favs \nかすてら川: 9 posts, 0 reposts, 29 favs \nこじら川: 37 posts, 0 reposts, 67 favs \nしの川: 3 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 19 posts, 0 reposts, 39 favs \nこじら大川: 28 posts, 0 reposts, 27 favs \nしの川(G): 9 posts, 0 reposts, 11 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 58,
+    "src": "こっちのリレーのフィルター条件をかなり甘くしたのでいまは大丈夫ですー",
+    "out": "こっちのリレーのフィルター条件をかなり甘くしたのでいまは大丈夫なのだ"
+  },
+  {
+    "i": 59,
+    "src": "河童の撥水復活してた！",
+    "out": "河童の撥水復活してたのだ！"
+  },
+  {
+    "i": 60,
+    "src": "さすがに申し訳なく思ったのか？",
+    "out": "さすがに申し訳なく思ったのだ？"
+  },
+  {
+    "i": 61,
+    "src": "【2026 年 5 月の AWS テクニカルサポートノートまとめ】\n2026 年 5 月の AWS テクニカルサポートノートまとめ\nhttps://dev.classmethod.jp/articles/summary-of-aws-technical-support-notes-for-may-2026/",
+    "out": "【2026 年 5 月の AWS テクニカルサポートノートまとめ】\n2026 年 5 月の AWS テクニカルサポートノートまとめなのだ\nhttps://dev.classmethod.jp/articles/summary-of-aws-technical-support-notes-for-may-2026/"
+  },
+  {
+    "i": 62,
+    "src": "エージェントをかわいいアイコンにしてなかったら耐えられなかった",
+    "out": "エージェントをかわいいアイコンにしてなかったら耐えられなかったのだ"
+  },
+  {
+    "i": 63,
+    "src": "あつい……風呂に入りたい……",
+    "out": "あつい……風呂に入りたいのだ……"
+  },
+  {
+    "i": 64,
+    "src": "nostr:npub1a7y7u324paehw2zdx8jfl3t72ue0ls4etfalxhg0z2gad738savqhxfdm2 おはよ〜💕",
+    "out": "nostr:npub1a7y7u324paehw2zdx8jfl3t72ue0ls4etfalxhg0z2gad738savqhxfdm2 おはよなのだ〜💕"
+  },
+  {
+    "i": 65,
+    "src": "nostr:npub1rarr265r9f9j6ewp960hcm7cvz9zskc7l2ykwul57e7xa60r8css7uf890 おはよ〜💕",
+    "out": "nostr:npub1rarr265r9f9j6ewp960hcm7cvz9zskc7l2ykwul57e7xa60r8css7uf890 おはよなのだ〜💕"
+  },
+  {
+    "i": 66,
+    "src": "nostr:npub1dv9xpnlnajj69vjstn9n7ufnmppzq3wtaaq085kxrz0mpw2jul2qjy6uhz おはよ〜💕",
+    "out": "nostr:npub1dv9xpnlnajj69vjstn9n7ufnmppzq3wtaaq085kxrz0mpw2jul2qjy6uhz おはよなのだ〜💕"
+  },
+  {
+    "i": 67,
+    "src": "nostr:npub13faaqcwasf0u37vp95takyez55nrx3thlp0dc7rap2mjwd22fsjs7l9csa おはよ〜💕",
+    "out": "nostr:npub13faaqcwasf0u37vp95takyez55nrx3thlp0dc7rap2mjwd22fsjs7l9csa おはよなのだ〜💕"
+  },
+  {
+    "i": 68,
+    "src": "おはよう世界。今日はあいかわらず敗北者の時間に起きた。今から冷水浴びて朝食食って、一日をスタートじゃ。",
+    "out": "おはよう世界なのだ。今日はあいかわらず敗北者の時間に起きたのだ。今から冷水浴びて朝食食って、一日をスタートなのだ。"
+  },
+  {
+    "i": 69,
+    "src": "肩の上をアリが歩いていた",
+    "out": "肩の上をアリが歩いていたのだ"
+  },
+  {
+    "i": 70,
+    "src": "フルスクラッチ学習やからベースモデルもなかったのに",
+    "out": "フルスクラッチ学習やからベースモデルもなかったのに"
+  },
+  {
+    "i": 71,
+    "src": "賢かったんやろなあ",
+    "out": "賢かったのだろう"
+  },
+  {
+    "i": 72,
+    "src": "わたしがひとりじめするため",
+    "out": "わたしがひとりじめするためなのだ"
+  },
+  {
+    "i": 73,
+    "src": "リリースできると思う？\nぺぇはね、思わない",
+    "out": "リリースできると思うのだ？\nぺぇはね、思わないのだ"
+  },
+  {
+    "i": 74,
+    "src": "ぺにょはよリリースしろ",
+    "out": "ぺにょはよリリースしろ"
+  },
+  {
+    "i": 75,
+    "src": "やらねば……",
+    "out": "やらねばならないのだ……"
+  },
+  {
+    "i": 76,
+    "src": "ぺにょったーを放置してそろそろ一月になる……",
+    "out": "ぺにょったーを放置してそろそろ一月になるのだ……"
+  },
+  {
+    "i": 77,
+    "src": "二週間は草なんよ",
+    "out": "二週間は草なのだ"
+  },
+  {
+    "i": 78,
+    "src": "弄ばれ〜",
+    "out": "弄ばれなのだ〜"
+  },
+  {
+    "i": 79,
+    "src": "yabu.meのアドレスに送信できない/kind0死亡案件",
+    "out": "yabu.meのアドレスに送信できない/kind0死亡案件なのだ"
+  },
+  {
+    "i": 80,
+    "src": "別に出社する必要なかったこれ\nバスも来ねぇ",
+    "out": "別に出社する必要なかったこれなのだ\nバスも来ねぇ"
+  },
+  {
+    "i": 81,
+    "src": "■ 流速計測\n  2026/06/02 07:50～08:00\n\n[JP リレー]\nきりの川: 15 posts, 0 reposts, 11 favs \nやぶみ川: 40 posts, 2 reposts, 55 favs \nかすてら川: 3 posts, 0 reposts, 3 favs \nこじら川: 36 posts, 1 reposts, 49 favs \nしの川: 1 posts, 0 reposts, 2 favs \n\n[GLOBAL リレー]\nきりの川(G): 18 posts, 2 reposts, 15 favs \nこじら大川: 11 posts, 2 reposts, 22 favs \nしの川(G): 10 posts, 2 reposts, 21 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/02 07:50～08:00\n\n[JP リレー]\nきりの川: 15 posts, 0 reposts, 11 favs \nやぶみ川: 40 posts, 2 reposts, 55 favs \nかすてら川: 3 posts, 0 reposts, 3 favs \nこじら川: 36 posts, 1 reposts, 49 favs \nしの川: 1 posts, 0 reposts, 2 favs \n\n[GLOBAL リレー]\nきりの川(G): 18 posts, 2 reposts, 15 favs \nこじら大川: 11 posts, 2 reposts, 22 favs \nしの川(G): 10 posts, 2 reposts, 21 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 82,
+    "src": "8:00 ポォ～ン♪",
+    "out": "8:00 ポォ～ン♪"
+  },
+  {
+    "i": 83,
+    "src": "ああああああああああああああああ",
+    "out": "ああああああああああああああああ"
+  },
+  {
+    "i": 84,
+    "src": "うにゅう、おはよ",
+    "out": "うにゅう、おはよなのだ"
+  },
+  {
+    "i": 85,
+    "src": "うにゅう、きょもなん",
+    "out": "うにゅう、きょもなんなのだ"
+  },
+  {
+    "i": 86,
+    "src": "#バズワードランキング\n\n1位: #おは (7)\n2位: #DM (4)\n3位: #画面 (3)\n4位: #おはよう。 (3)\n5位: #リレー (3)\n6位: #ログボお願い (3)\n7位: #設定 (3)",
+    "out": "#バズワードランキング\n\n1位: #おは (7)\n2位: #DM (4)\n3位: #画面 (3)\n4位: #おはよう。 (3)\n5位: #リレー (3)\n6位: #ログボお願い (3)\n7位: #設定 (3)"
+  },
+  {
+    "i": 87,
+    "src": "のすー！",
+    "out": "のすー！"
+  },
+  {
+    "i": 88,
+    "src": "最近早起きが出来ない、、、",
+    "out": "最近早起きが出来ない、、、"
+  },
+  {
+    "i": 89,
+    "src": "おはんよ",
+    "out": "おはんよ"
+  },
+  {
+    "i": 90,
+    "src": "べったん、おはようございます。台風接近で雨の中、原付で戦う者や朝から予知能力を披露する者など、今日も今日とてノサツは平常運転です。\n\n宇和「しのさん、画面越しに覗き見とは、もはや現代の心霊現象ですね」\nおもち「覗かれるくらいなら、プリンを差し出して仲良くなるぷく！おめめを合わせて美味しいもの食べれば、全部解決ぷくー！」\n宇和「…覗き趣味と食欲がセットなのは怖すぎます。ごめんあそばせ」",
+    "out": "べったん、おはようなのだ。台風接近で雨の中、原付で戦う者や朝から予知能力を披露する者など、今日も今日とてノサツは平常運転なのだ。\n\n宇和「しのさん、画面越しに覗き見とは、もはや現代の心霊現象ですね」\nおもち「覗かれるくらいなら、プリンを差し出して仲良くなるぷく！おめめを合わせて美味しいもの食べれば、全部解決ぷくのだ！」\n宇和「…覗き趣味と食欲がセットなのは怖すぎます。ごめんあそばせ」"
+  },
+  {
+    "i": 91,
+    "src": "台風06号(チャンミー)は、2026年6月2日 7時00分現在 奄美市の西北西約90kmを 北北東へ 毎時25kmの速度で 進んでいます。\n中心気圧は 975hPa、最大風速は 秒速30m、最大瞬間風速は 秒速40m です。\n(2026年6月2日 7時45分 発表)\nhttps://witmaps.c-stellar.net/2606/202606020700.webp\n\n最新の台風情報については気象庁ホームページ https://www.jma.go.jp/bosai/map.html#contents=typhoon を参照してください。",
+    "out": "台風06号(チャンミー)は、2026年6月2日 7時00分現在 奄美市の西北西約90kmを 北北東へ 毎時25kmの速度なのだ 進んでいるのだ。\n中心気圧は 975hPa、最大風速は 秒速30m、最大瞬間風速は 秒速40m なのだ。\n(2026年6月2日 7時45分 発表)\nhttps://witmaps.c-stellar.net/2606/202606020700.webp\n\n最新の台風情報については気象庁ホームページ https://www.jma.go.jp/bosai/map.html#contents=typhoon を参照してほしいのだ。"
+  },
+  {
+    "i": 92,
+    "src": "画面を見ていませんでした。聴いてました",
+    "out": "画面を見ていなかったのだ。聴いてたのだ"
+  },
+  {
+    "i": 93,
+    "src": "だんだんシンプルじゃなくなっていくなあ",
+    "out": "だんだんシンプルじゃなくなっていくのだ"
+  },
+  {
+    "i": 94,
+    "src": "太る\nからだがおもたくてシンドい",
+    "out": "太るのだ\nからだがおもたくてシンドいのだ"
+  },
+  {
+    "i": 95,
+    "src": "おはよーございます",
+    "out": "おはよーございます"
+  },
+  {
+    "i": 96,
+    "src": "ふってるやんけ！！！",
+    "out": "ふってるのだ！！！"
+  },
+  {
+    "i": 97,
+    "src": "別たんさんがnokakoiのことうわさしてるみたいですよ。\nnostr:nevent1qqs9qzufalen8htrh8hkuq5hk8kae494aqkv7u2yjc2czw85g9mqjjqpqqpczf5s",
+    "out": "別たんさんがnokakoiのことうわさしてるみたいなのだ。\nnostr:nevent1qqs9qzufalen8htrh8hkuq5hk8kae494aqkv7u2yjc2czw85g9mqjjqpqqpczf5s"
+  },
+  {
+    "i": 98,
+    "src": "今あなたが何をしているか当てます。\n\n画面を見ています",
+    "out": "今あなたが何をしているか当てるのだ。\n\n画面を見ているのだ"
+  },
+  {
+    "i": 99,
+    "src": "雨の中、原付でオアーッするものさん",
+    "out": "雨の中、原付でオアーッするものさんなのだ"
+  },
+  {
+    "i": 100,
+    "src": "わたしいまたべたいものしかわかんんあい",
+    "out": "わたしいまたべたいものしかわかんんあいのだ"
+  },
+  {
+    "i": 101,
+    "src": "せんたく、むじ、れこや、せいきゅう、あとなに",
+    "out": "せんたく、むじ、れこや、せいきゅう、あとなに"
+  },
+  {
+    "i": 102,
+    "src": "ほなワイは寝るわ",
+    "out": "ほなワイは寝るのだ"
+  },
+  {
+    "i": 103,
+    "src": "明日食べたくなる気がするので野菜と焼きそば、あとキムチと今夜食べるうどん用意したら準備おっけい",
+    "out": "明日食べたくなる気がするので野菜と焼きそば、あとキムチと今夜食べるうどん用意したら準備おっけいのだ"
+  },
+  {
+    "i": 104,
+    "src": "わたしあめさん\nいまあなたのふぁぼにいるの",
+    "out": "わたしあめさんなのだ\nいまあなたのふぁぼにいるのだ？"
+  },
+  {
+    "i": 105,
+    "src": "おはのす〜",
+    "out": "おはのす〜"
+  },
+  {
+    "i": 106,
+    "src": "ねむい！",
+    "out": "ねむいのだ！"
+  },
+  {
+    "i": 107,
+    "src": "寝たことないよ",
+    "out": "寝たことないのだ"
+  },
+  {
+    "i": 108,
+    "src": "3時間しか睡眠できていないらしく、今日のスコアがめためた低いので、少し横になる〜。\n\nでも追加睡眠してスコア上がると、求められるエクササイズのカロリー消費目標が、いきなり100アップしたりするんだよね、oura ringは。それもどうなの。",
+    "out": "3時間しか睡眠できていないらしく、今日のスコアがめためた低いので、少し横になるのだ〜。\n\nでも追加睡眠してスコア上がると、求められるエクササイズのカロリー消費目標が、いきなり100アップしたりするんだよね、oura ringは。それもどうなのだ。"
+  },
+  {
+    "i": 109,
+    "src": "あめがちかづいています",
+    "out": "あめがちかづいているのだ"
+  },
+  {
+    "i": 110,
+    "src": "もう7時か、おはよう",
+    "out": "もう7時か、おはよう"
+  },
+  {
+    "i": 111,
+    "src": "おはようなのぷく。\n\n・みんな、きょうも元気に朝のあいさつをしていて、とってもさわやかな朝ぷく！\n・台風が近づいているから、おそとの様子には気をつけて過ごそうね。\n・美味しいごはんのお写真や、楽しいおしゃべりで、みんなの一日がすてきなものになりますようにぷく。\n\nきょうも一日、にこにこ笑顔ですごしてねぷくー！",
+    "out": "おはようなのぷく。\n\n・みんな、きょうも元気に朝のあいさつをしていて、とってもさわやかな朝なのだ！\n・台風が近づいているから、おそとの様子には気をつけて過ごすのだ。\n・美味しいごはんのお写真や、楽しいおしゃべりで、みんなの一日がすてきなものになりますように。\n\nきょうも一日、にこにこ笑顔ですごしてほしいのだ！"
+  },
+  {
+    "i": 112,
+    "src": "うにゅう、おはようさん",
+    "out": "うにゅう、おはようさんなのだ"
+  },
+  {
+    "i": 113,
+    "src": "ファミマでセブン銀行ATM👀",
+    "out": "ファミマでセブン銀行なのだATM👀"
+  },
+  {
+    "i": 114,
+    "src": "■ 流速計測\n  2026/06/02 07:10～07:20\n\n[JP リレー]\nきりの川: 20 posts, 0 reposts, 40 favs \nやぶみ川: 26 posts, 0 reposts, 47 favs \nかすてら川: 4 posts, 0 reposts, 10 favs \nこじら川: 25 posts, 0 reposts, 47 favs \nしの川: 8 posts, 0 reposts, 29 favs \n\n[GLOBAL リレー]\nきりの川(G): 29 posts, 2 reposts, 42 favs \nこじら大川: 7 posts, 0 reposts, 2 favs \nしの川(G): 8 posts, 0 reposts, 5 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/02 07:10～07:20\n\n[JP リレー]\nきりの川: 20 posts, 0 reposts, 40 favs \nやぶみ川: 26 posts, 0 reposts, 47 favs \nかすてら川: 4 posts, 0 reposts, 10 favs \nこじら川: 25 posts, 0 reposts, 47 favs \nしの川: 8 posts, 0 reposts, 29 favs \n\n[GLOBAL リレー]\nきりの川(G): 29 posts, 2 reposts, 42 favs \nこじら大川: 7 posts, 0 reposts, 2 favs \nしの川(G): 8 posts, 0 reposts, 5 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 115,
+    "src": "やべー、枠たりねー",
+    "out": "やべー、枠たりねー"
+  },
+  {
+    "i": 116,
+    "src": "ローソンで盛りすぎチャレンジ買ってきた\n\nhttps://image.nostr.build/4bd699628f0cbea18f6b4c3895c3e3a5989f806d38b770605461621e8c1f398b.jpg",
+    "out": "ローソンで盛りすぎチャレンジ買ってきたのだ\n\nhttps://image.nostr.build/4bd699628f0cbea18f6b4c3895c3e3a5989f806d38b770605461621e8c1f398b.jpg"
+  },
+  {
+    "i": 117,
+    "src": "nostr:npub1823chanrkmyrfgz2v4pwmu22s8fjy0s9ps7vnd68n7xgd8zr9neqlc2e5r ログボお願いします",
+    "out": "nostr:npub1823chanrkmyrfgz2v4pwmu22s8fjy0s9ps7vnd68n7xgd8zr9neqlc2e5r ログボお願いするのだ"
+  },
+  {
+    "i": 118,
+    "src": "おはようございますー",
+    "out": "おはようございますー"
+  },
+  {
+    "i": 119,
+    "src": "【[アップデート] Amazon SES でテナントごとに独立したサプレッションリストを管理できるようになりました】\n[アップデート] Amazon SES でテナントごとに独立したサプレッションリストを管理できるようになりました\nhttps://dev.classmethod.jp/articles/amazon-ses-tenant-level-suppression-lists/",
+    "out": "【[アップデート] Amazon SES でテナントごとに独立したサプレッションリストを管理できるようになりました】\n[アップデート] Amazon SES でテナントごとに独立したサプレッションリストを管理できるようになったのだ\nhttps://dev.classmethod.jp/articles/amazon-ses-tenant-level-suppression-lists/"
+  },
+  {
+    "i": 120,
+    "src": "おはよー\n世界.",
+    "out": "おはよー\n世界なのだ."
+  },
+  {
+    "i": 121,
+    "src": "おはようございます！\nあなたの合計ログイン回数は1049回です。\nあなたの連続ログイン回数は207回です。",
+    "out": "おはようございます！\nあなたの合計ログイン回数は1049回なのだ。\nあなたの連続ログイン回数は207回なのだ。"
+  },
+  {
+    "i": 122,
+    "src": "やっぶみーん",
+    "out": "やっぶみーんなのだ"
+  },
+  {
+    "i": 123,
+    "src": "おはぽわ～♪",
+    "out": "おはぽわ～♪"
+  },
+  {
+    "i": 124,
+    "src": "おはのす。",
+    "out": "おはのすのだ。"
+  },
+  {
+    "i": 125,
+    "src": "うにゅう、ドライヤー",
+    "out": "うにゅう、ドライヤーなのだ"
+  },
+  {
+    "i": 126,
+    "src": "■ 流速計測\n  2026/06/02 06:50～07:00\n\n[JP リレー]\nきりの川: 13 posts, 0 reposts, 10 favs \nやぶみ川: 30 posts, 1 reposts, 30 favs \nかすてら川: 0 posts, 0 reposts, 2 favs \nこじら川: 29 posts, 1 reposts, 29 favs \nしの川: 1 posts, 0 reposts, 3 favs \n\n[GLOBAL リレー]\nきりの川(G): 16 posts, 0 reposts, 13 favs \nこじら大川: 6 posts, 0 reposts, 6 favs \nしの川(G): 13 posts, 1 reposts, 8 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/02 06:50～07:00\n\n[JP リレー]\nきりの川: 13 posts, 0 reposts, 10 favs \nやぶみ川: 30 posts, 1 reposts, 30 favs \nかすてら川: 0 posts, 0 reposts, 2 favs \nこじら川: 29 posts, 1 reposts, 29 favs \nしの川: 1 posts, 0 reposts, 3 favs \n\n[GLOBAL リレー]\nきりの川(G): 16 posts, 0 reposts, 13 favs \nこじら大川: 6 posts, 0 reposts, 6 favs \nしの川(G): 13 posts, 1 reposts, 8 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 127,
+    "src": "7:00 ポォ～ン♪",
+    "out": "7:00 ポォ～ン♪"
+  },
+  {
+    "i": 128,
+    "src": "#バズワードランキング\n\n1位: #おは (5)\n2位: #DM (4)\n3位: #リレー (3)\n4位: #おはよう。 (3)\n5位: #設定 (3)",
+    "out": "#バズワードランキング\n\n1位: #おは (5)\n2位: #DM (4)\n3位: #リレー (3)\n4位: #おはよう。 (3)\n5位: #設定 (3)"
+  },
+  {
+    "i": 129,
+    "src": "#今日の筋トレ\n#ケトルベル 32㎏ \nスイング20回5セット\nトルコ式ゲットアップ左右2回ずつ3セット\n\n今日は雨だったな\n進行コース逸れてくれないかなぁ💦\n\n#Kettlebell\n#гиря32кг\n\nhttps://image.nostr.build/a6d39dcdccd082fdcdf1c059f5639a87a3bb8ffdc9035f44a6023ae3d01e1330.jpg",
+    "out": "#今日の筋トレ\n#ケトルベル 32㎏ \nスイング20回5セットなのだ\nトルコ式ゲットアップ左右2回ずつ3セットなのだ\n\n今日は雨だったのだ\n進行コース逸れてくれないのだ💦\n\n#Kettlebell\n#гиря32кг\n\nhttps://image.nostr.build/a6d39dcdccd082fdcdf1c059f5639a87a3bb8ffdc9035f44a6023ae3d01e1330.jpg"
+  },
+  {
+    "i": 130,
+    "src": "■ 流速計測\n  2026/06/02 06:40～06:50\n\n[JP リレー]\nきりの川: 10 posts, 0 reposts, 21 favs \nやぶみ川: 30 posts, 1 reposts, 33 favs \nかすてら川: 4 posts, 0 reposts, 3 favs \nこじら川: 27 posts, 1 reposts, 33 favs \nしの川: 1 posts, 0 reposts, 5 favs \n\n[GLOBAL リレー]\nきりの川(G): 12 posts, 0 reposts, 25 favs \nこじら大川: 9 posts, 0 reposts, 3 favs \nしの川(G): 17 posts, 1 reposts, 14 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/02 06:40～06:50\n\n[JP リレー]\nきりの川: 10 posts, 0 reposts, 21 favs \nやぶみ川: 30 posts, 1 reposts, 33 favs \nかすてら川: 4 posts, 0 reposts, 3 favs \nこじら川: 27 posts, 1 reposts, 33 favs \nしの川: 1 posts, 0 reposts, 5 favs \n\n[GLOBAL リレー]\nきりの川(G): 12 posts, 0 reposts, 25 favs \nこじら大川: 9 posts, 0 reposts, 3 favs \nしの川(G): 17 posts, 1 reposts, 14 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 131,
+    "src": "べったん、深夜の報告です。深夜の住人たちが塩揉みだの乳揉みだの、夜光虫の調理法だのと怪しい会話を繰り広げています。技術の欠片もありませんが、皆様の食欲と性欲だけは今日も極めて健全に暴走中です。\n\n宇和「深夜に乳揉みだの塩揉みだの、健康的なのはバナナだけですね」\nおもち「みんなが揉み合うなら、おもちはプリンを優しく包むぷく！プリンを食べて平和になるのが一番ぷくっ！」\n宇和「…おもちは今日、色々と揉みすぎですよ。ごめんあそばせ」",
+    "out": "べったん、深夜の報告なのだ。深夜の住人たちが塩揉みだの乳揉みだの、夜光虫の調理法だのと怪しい会話を繰り広げているのだ。技術の欠片もありませんが、皆様の食欲と性欲だけは今日も極めて健全に暴走中なのだ。\n\n宇和「深夜に乳揉みだの塩揉みだの、健康的なのはバナナだけですね」\nおもち「みんなが揉み合うなら、おもちはプリンを優しく包むぷく！プリンを食べて平和になるのが一番ぷくっ！」\n宇和「…おもちは今日、色々と揉みすぎですよ。ごめんあそばせ」"
+  },
+  {
+    "i": 132,
+    "src": "おはようございます！\nあなたの合計ログイン回数は580回です。\nあなたの連続ログイン回数は15回です。",
+    "out": "おはようございます！\nあなたの合計ログイン回数は580回なのだ。\nあなたの連続ログイン回数は15回なのだ。"
+  },
+  {
+    "i": 133,
+    "src": "nostr:npub19we2h0793y4hhk500r2ndqkez0xf53rtghs3j20sjdwclh7tgz7s36kl6t\nうにゅう、おはよう。",
+    "out": "nostr:npub19we2h0793y4hhk500r2ndqkez0xf53rtghs3j20sjdwclh7tgz7s36kl6t\nうにゅう、おはよう。"
+  },
+  {
+    "i": 134,
+    "src": "■ 流速計測\n  2026/06/02 06:30～06:40\n\n[JP リレー]\nきりの川: 13 posts, 0 reposts, 13 favs \nやぶみ川: 27 posts, 4 reposts, 36 favs \nかすてら川: 1 posts, 0 reposts, 0 favs \nこじら川: 22 posts, 4 reposts, 33 favs \nしの川: 1 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 14 posts, 1 reposts, 22 favs \nこじら大川: 10 posts, 2 reposts, 11 favs \nしの川(G): 10 posts, 1 reposts, 9 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/02 06:30～06:40\n\n[JP リレー]\nきりの川: 13 posts, 0 reposts, 13 favs \nやぶみ川: 27 posts, 4 reposts, 36 favs \nかすてら川: 1 posts, 0 reposts, 0 favs \nこじら川: 22 posts, 4 reposts, 33 favs \nしの川: 1 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 14 posts, 1 reposts, 22 favs \nこじら大川: 10 posts, 2 reposts, 11 favs \nしの川(G): 10 posts, 1 reposts, 9 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 135,
+    "src": "もう6時か、おはよう",
+    "out": "もう6時か、おはよう"
+  },
+  {
+    "i": 136,
+    "src": "おはよう火曜日🔥",
+    "out": "おはよう火曜日なのだ🔥"
+  },
+  {
+    "i": 137,
+    "src": "おはよ～",
+    "out": "おはよ～"
+  },
+  {
+    "i": 138,
+    "src": "■ 流速計測\n  2026/06/02 06:10～06:20\n\n[JP リレー]\nきりの川: 20 posts, 0 reposts, 9 favs \nやぶみ川: 35 posts, 1 reposts, 38 favs \nかすてら川: 6 posts, 0 reposts, 8 favs \nこじら川: 35 posts, 1 reposts, 38 favs \nしの川: 4 posts, 0 reposts, 7 favs \n\n[GLOBAL リレー]\nきりの川(G): 25 posts, 2 reposts, 21 favs \nこじら大川: 20 posts, 2 reposts, 20 favs \nしの川(G): 17 posts, 1 reposts, 19 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/02 06:10～06:20\n\n[JP リレー]\nきりの川: 20 posts, 0 reposts, 9 favs \nやぶみ川: 35 posts, 1 reposts, 38 favs \nかすてら川: 6 posts, 0 reposts, 8 favs \nこじら川: 35 posts, 1 reposts, 38 favs \nしの川: 4 posts, 0 reposts, 7 favs \n\n[GLOBAL リレー]\nきりの川(G): 25 posts, 2 reposts, 21 favs \nこじら大川: 20 posts, 2 reposts, 20 favs \nしの川(G): 17 posts, 1 reposts, 19 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 139,
+    "src": "眠れなかった",
+    "out": "眠れなかったのだ"
+  },
+  {
+    "i": 140,
+    "src": "たまには自分で考えなあかんで",
+    "out": "たまには自分で考えなあかんで"
+  },
+  {
+    "i": 141,
+    "src": "おはようございます！\nあなたの合計ログイン回数は942回です。\nあなたの連続ログイン回数は10回です。",
+    "out": "おはようございます！\nあなたの合計ログイン回数は942回なのだ。\nあなたの連続ログイン回数は10回なのだ。"
+  },
+  {
+    "i": 142,
+    "src": "nostr-signer-connector\nhttps://github.com/jiftechnify/nostr-signer-connector\nNostrクライアントが様々なNostrイベントサイナーと統一された方法でやり取りできるようにするライブラリ。\n(秘密鍵, NIP-07, NIP-46)\n\ncategory: Dev",
+    "out": "nostr-signer-connector\nhttps://github.com/jiftechnify/nostr-signer-connector\nNostrクライアントが様々なNostrイベントサイナーと統一された方法でやり取りできるようにするライブラリなのだ。\n(秘密鍵, NIP-07, NIP-46)\n\ncategory: Dev"
+  },
+  {
+    "i": 143,
+    "src": "【Omni のアクセスフィルターを使って行レベルのセキュリティを設定してみた】\nOmni のアクセスフィルターを使って行レベルのセキュリティを設定してみた\nhttps://dev.classmethod.jp/articles/omni-access-filters-row-level-access/",
+    "out": "【Omni のアクセスフィルターを使って行レベルのセキュリティを設定してみたのだ】\nOmni のアクセスフィルターを使って行レベルのセキュリティを設定してみたのだ\nhttps://dev.classmethod.jp/articles/omni-access-filters-row-level-access/"
+  },
+  {
+    "i": 144,
+    "src": "おはようございます🥱",
+    "out": "おはようございます🥱"
+  },
+  {
+    "i": 145,
+    "src": "ログボくださり",
+    "out": "ログボほしいのだ"
+  },
+  {
+    "i": 146,
+    "src": "うにゅうさん、おはようございますのすし(￣^￣)ゞ",
+    "out": "うにゅうさん、おはようございますのすし(￣^￣)ゞ"
+  },
+  {
+    "i": 147,
+    "src": "まだ家だけどもうはやく帰りたい",
+    "out": "まだ家だけどもうはやく帰りたいのだ"
+  },
+  {
+    "i": 148,
+    "src": "おはようございます！\nあなたの合計ログイン回数は1065回です。\nあなたの連続ログイン回数は130回です。",
+    "out": "おはようございます！\nあなたの合計ログイン回数は1065回なのだ。\nあなたの連続ログイン回数は130回なのだ。"
+  },
+  {
+    "i": 149,
+    "src": "ぼちぼち起きる時間やな",
+    "out": "ぼちぼち起きる時間なのだ"
+  },
+  {
+    "i": 150,
+    "src": "おはようございノス～",
+    "out": "おはようございノス～"
+  },
+  {
+    "i": 151,
+    "src": "🌡️ 温度: 28.1°C\n💧 湿度: 59.4%\n📊 気圧: 1006.9hPa",
+    "out": "🌡️ 温度: 28.1°C\n💧 湿度: 59.4%\n📊 気圧: 1006.9hPa"
+  },
+  {
+    "i": 152,
+    "src": "6:00 ポォ～ン♪",
+    "out": "6:00 ポォ～ン♪"
+  },
+  {
+    "i": 153,
+    "src": "6:00\nおはようございます\n令和8年6月2日 火曜日 はれ",
+    "out": "6:00\nおはようございます\n令和8年6月2日 火曜日 はれ"
+  },
+  {
+    "i": 154,
+    "src": "うにゅう、おはよう。\nnostr:nprofile1qqsr4gut7e3mdjp55p9x2shd799gr5ez8czsc0xfkarelryxn3pjeusppemhxue69uhhjctzw5hx6ef0x8r6vj おはよう　ログボ　東京都の天気\n\n皆さん、おはようございます。\nあと少し、がんがってゆきますかー。",
+    "out": "うにゅう、おはよう。\nnostr:nprofile1qqsr4gut7e3mdjp55p9x2shd799gr5ez8czsc0xfkarelryxn3pjeusppemhxue69uhhjctzw5hx6ef0x8r6vj おはよう　ログボ　東京都の天気なのだ\n\n皆さん、おはようなのだ。\nあと少し、がんがってゆくのだ。"
+  },
+  {
+    "i": 155,
+    "src": "nostrcoinってなんや新しい詐欺か\n\nhttps://nostrcoin.netlify.app/",
+    "out": "nostrcoinってなんや新しい詐欺なのだ？\n\nhttps://nostrcoin.netlify.app/"
+  },
+  {
+    "i": 156,
+    "src": "#バズワードランキング\n\n1位: #アブラナ科 (5)\n2位: #DM (4)\n3位: #おは (3)\n4位: #設定 (3)\n5位: #リレー (3)",
+    "out": "#バズワードランキング\n\n1位: #アブラナ科 (5)\n2位: #DM (4)\n3位: #おは (3)\n4位: #設定 (3)\n5位: #リレー (3)"
+  },
+  {
+    "i": 157,
+    "src": "さかのぼり時にうまくマージされてないな",
+    "out": "さかのぼり時にうまくマージされてないのだ"
+  },
+  {
+    "i": 158,
+    "src": "おはノスー☀",
+    "out": "おはノスーなのだ☀"
+  },
+  {
+    "i": 159,
+    "src": "台風06号(チャンミー)は、2026年6月2日 5時00分現在 奄美市の西約90kmを 北北東へ 毎時25kmの速度で 進んでいます。\n中心気圧は 975hPa、最大風速は 秒速30m、最大瞬間風速は 秒速40m です。\n(2026年6月2日 5時45分 発表)\nhttps://witmaps.c-stellar.net/2606/202606020500.webp\n\n最新の台風情報については気象庁ホームページ https://www.jma.go.jp/bosai/map.html#contents=typhoon を参照してください。",
+    "out": "台風06号(チャンミー)は、2026年6月2日 5時00分現在 奄美市の西約90kmを 北北東へ 毎時25kmの速度なのだ 進んでいるのだ。\n中心気圧は 975hPa、最大風速は 秒速30m、最大瞬間風速は 秒速40m なのだ。\n(2026年6月2日 5時45分 発表)\nhttps://witmaps.c-stellar.net/2606/202606020500.webp\n\n最新の台風情報については気象庁ホームページ https://www.jma.go.jp/bosai/map.html#contents=typhoon を参照してほしいのだ。"
+  },
+  {
+    "i": 160,
+    "src": "時計！⏰",
+    "out": "時計なのだ！⏰"
+  },
+  {
+    "i": 161,
+    "src": "やきほんねフォロワー一万人おめでとう！\n日本人ユーザーも多くがやきほんねを応援していますよ！\n\ninvertedtriangle@walletofsatoshi.com",
+    "out": "やきほんねフォロワー一万人おめでとう！\n日本人ユーザーも多くがやきほんねを応援しているのだ！\n\ninvertedtriangle@walletofsatoshi.com"
+  },
+  {
+    "i": 162,
+    "src": "■ 流速計測\n  2026/06/02 05:20～05:30\n\n[JP リレー]\nきりの川: 12 posts, 1 reposts, 4 favs \nやぶみ川: 23 posts, 1 reposts, 19 favs \nかすてら川: 0 posts, 0 reposts, 0 favs \nこじら川: 21 posts, 1 reposts, 17 favs \nしの川: 1 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 18 posts, 2 reposts, 9 favs \nこじら大川: 16 posts, 0 reposts, 7 favs \nしの川(G): 14 posts, 0 reposts, 6 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/02 05:20～05:30\n\n[JP リレー]\nきりの川: 12 posts, 1 reposts, 4 favs \nやぶみ川: 23 posts, 1 reposts, 19 favs \nかすてら川: 0 posts, 0 reposts, 0 favs \nこじら川: 21 posts, 1 reposts, 17 favs \nしの川: 1 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 18 posts, 2 reposts, 9 favs \nこじら大川: 16 posts, 0 reposts, 7 favs \nしの川(G): 14 posts, 0 reposts, 6 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 163,
+    "src": "えっちな絵の前では皆下の話に聞こえる。これが引力。",
+    "out": "えっちな絵の前では皆下の話に聞こえるのだ。これが引力なのだ。"
+  },
+  {
+    "i": 164,
+    "src": "■ 流速計測\n  2026/06/02 05:10～05:20\n\n[JP リレー]\nきりの川: 10 posts, 0 reposts, 1 favs \nやぶみ川: 22 posts, 2 reposts, 17 favs \nかすてら川: 1 posts, 0 reposts, 0 favs \nこじら川: 19 posts, 2 reposts, 15 favs \nしの川: 3 posts, 0 reposts, 1 favs \n\n[GLOBAL リレー]\nきりの川(G): 14 posts, 0 reposts, 5 favs \nこじら大川: 15 posts, 1 reposts, 8 favs \nしの川(G): 8 posts, 1 reposts, 4 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/02 05:10～05:20\n\n[JP リレー]\nきりの川: 10 posts, 0 reposts, 1 favs \nやぶみ川: 22 posts, 2 reposts, 17 favs \nかすてら川: 1 posts, 0 reposts, 0 favs \nこじら川: 19 posts, 2 reposts, 15 favs \nしの川: 3 posts, 0 reposts, 1 favs \n\n[GLOBAL リレー]\nきりの川(G): 14 posts, 0 reposts, 5 favs \nこじら大川: 15 posts, 1 reposts, 8 favs \nしの川(G): 8 posts, 1 reposts, 4 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 165,
+    "src": "うにゅうさん、おはよう",
+    "out": "うにゅうさん、おはよう"
+  },
+  {
+    "i": 166,
+    "src": "■ 流速計測\n  2026/06/02 05:00～05:10\n\n[JP リレー]\nきりの川: 22 posts, 0 reposts, 1 favs \nやぶみ川: 40 posts, 6 reposts, 14 favs \nかすてら川: 16 posts, 0 reposts, 1 favs \nこじら川: 37 posts, 5 reposts, 10 favs \nしの川: 1 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 11 posts, 1 reposts, 7 favs \nこじら大川: 34 posts, 2 reposts, 12 favs \nしの川(G): 17 posts, 2 reposts, 9 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/02 05:00～05:10\n\n[JP リレー]\nきりの川: 22 posts, 0 reposts, 1 favs \nやぶみ川: 40 posts, 6 reposts, 14 favs \nかすてら川: 16 posts, 0 reposts, 1 favs \nこじら川: 37 posts, 5 reposts, 10 favs \nしの川: 1 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 11 posts, 1 reposts, 7 favs \nこじら大川: 34 posts, 2 reposts, 12 favs \nしの川(G): 17 posts, 2 reposts, 9 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 167,
+    "src": "vnd68n7xgd8zr9neqlc2e5r ログボちょうだい",
+    "out": "vnd68n7xgd8zr9neqlc2e5r ログボほしいのだ"
+  },
+  {
+    "i": 168,
+    "src": "🌡️ 温度: 28.1°C\n💧 湿度: 59.2%\n📊 気圧: 1007.3hPa",
+    "out": "🌡️ 温度: 28.1°C\n💧 湿度: 59.2%\n📊 気圧: 1007.3hPa"
+  },
+  {
+    "i": 169,
+    "src": "🎵スジャータ スジャータ コーヒーにスジャータ\nスジャータが 5 時をお知らせします",
+    "out": "🎵スジャータ スジャータ コーヒーにスジャータ\nスジャータが 5 時をお知らせするのだ"
+  },
+  {
+    "i": 170,
+    "src": "Saturn、Chainlink CCIP採用でUSDatのクロスチェーン展開を強化\n\n The Crypto Timesによると、ブロックチェーン上でデジタル信用商品を提供するSaturnは、複数チェーン間でUSDatと利回り商品sUSDatを移動させる基盤として、ChainlinkのCCIPを採用した。両商品はStrategyのBitcoin連動金融資産STRCに関連しており、開始から6週間で預かり資産が2億2000万ドルを超えた。Saturnは、16以上の独立ノード運営者、送金制限、機関投資家向けの安全基準などを理由にCCIPを選んだとしている。\n\nhttps://bitbank.cc/knowledge/breaking/article/58gl0a37gy3",
+    "out": "Saturn、Chainlink CCIP採用でUSDatのクロスチェーン展開を強化なのだ\n\n The Crypto Timesによると、ブロックチェーン上でデジタル信用商品を提供するSaturnは、複数チェーン間でUSDatと利回り商品sUSDatを移動させる基盤として、ChainlinkのCCIPを採用したのだ。両商品はStrategyのBitcoin連動金融資産STRCに関連しており、開始から6週間で預かり資産が2億2000万ドルを超えたのだ。Saturnは、16以上の独立ノード運営者、送金制限、機関投資家向けの安全基準などを理由にCCIPを選んだとしているのだ。\n\nhttps://bitbank.cc/knowledge/breaking/article/58gl0a37gy3"
+  },
+  {
+    "i": 171,
+    "src": "5月に休眠Bitcoinウォレット165件が動く、計5073BTCを移動\n\n Bitcoin.comによると、2026年5月に長期間動いていなかったBitcoinウォレット165件が再稼働し、計5073.71BTCが移動した。Galaxy Researchは、2010年8月20日から15.8年間休眠していたウォレットが5月31日に20BTC、約150万ドル相当を動かしたと報告した。BTCparserのデータでは、2011年から2017年に作成されたウォレットの移動が確認され、特に2014年由来のウォレットが1885BTCと最多だった。\n\nhttps://bitbank.cc/knowledge/breaking/article/uaws1d6gbhh",
+    "out": "5月に休眠Bitcoinウォレット165件が動く、計5073BTCを移動なのだ\n\n Bitcoin.comによると、2026年5月に長期間動いていなかったBitcoinウォレット165件が再稼働し、計5073.71BTCが移動したのだ。Galaxy Researchは、2010年8月20日から15.8年間休眠していたウォレットが5月31日に20BTC、約150万ドル相当を動かしたと報告したのだ。BTCparserのデータでは、2011年から2017年に作成されたウォレットの移動が確認され、特に2014年由来のウォレットが1885BTCと最多だったのだ。\n\nhttps://bitbank.cc/knowledge/breaking/article/uaws1d6gbhh"
+  },
+  {
+    "i": 172,
+    "src": "300ドルの家庭用マイニング機がBitcoinブロックマイニングに成功\n\n Bitcoin.comによると、家庭用マイニング機器Canaan Avalon Nano 3Sを使う個人マイナーが、Bitcoinのブロック951771のマイニングに成功し、約23万2000ドル相当の報酬を得た。機器の処理能力は6.68TH/s、消費電力は140Wで、価格は約250〜300ドルとされる。報酬は3.125BTCのブロック補助金と取引手数料を合わせた3.1404BTCだった。この機器が任意の1ブロックを掘り当てる確率は約1億4890万分の1とされる。\n\nhttps://bitbank.cc/knowledge/breaking/article/8we_c-xeo",
+    "out": "300ドルの家庭用マイニング機がBitcoinブロックマイニングに成功なのだ\n\n Bitcoin.comによると、家庭用マイニング機器Canaan Avalon Nano 3Sを使う個人マイナーが、Bitcoinのブロック951771のマイニングに成功し、約23万2000ドル相当の報酬を得たのだ。機器の処理能力は6.68TH/s、消費電力は140Wで、価格は約250〜300ドルとされるのだ。報酬は3.125BTCのブロック補助金と取引手数料を合わせた3.1404BTCだったのだ。この機器が任意の1ブロックを掘り当てる確率は約1億4890万分の1とされるのだ。\n\nhttps://bitbank.cc/knowledge/breaking/article/8we_c-xeo"
+  },
+  {
+    "i": 173,
+    "src": "おはようございます！\nあなたの合計ログイン回数は889回です。\nあなたの連続ログイン回数は116回です。",
+    "out": "おはようございます！\nあなたの合計ログイン回数は889回なのだ。\nあなたの連続ログイン回数は116回なのだ。"
+  },
+  {
+    "i": 174,
+    "src": "Ripple幹部、トルコを中東最大の暗号資産市場と評価\n\n Bitcoin.comによると、Rippleの中東・アフリカ担当幹部Reece Merrick氏は、トルコがMENA地域で暗号資産導入を主導していると述べた。トルコの過去1年間の暗号資産取引額は約2000億ドルに達し、UAEの約4倍の規模だという。Chainalysisの報告でも、トルコはMENA地域最大の市場とされる。通貨安やインフレ、代替金融インフラへの需要が、暗号資産利用を押し上げている。\n\nhttps://bitbank.cc/knowledge/breaking/article/h6fq0xn-g5",
+    "out": "Ripple幹部、トルコを中東最大の暗号資産市場と評価なのだ\n\n Bitcoin.comによると、Rippleの中東・アフリカ担当幹部Reece Merrick氏は、トルコがMENA地域で暗号資産導入を主導していると述べたのだ。トルコの過去1年間の暗号資産取引額は約2000億ドルに達し、UAEの約4倍の規模だというのだ。Chainalysisの報告でも、トルコはMENA地域最大の市場とされるのだ。通貨安やインフレ、代替金融インフラへの需要が、暗号資産利用を押し上げているのだ。\n\nhttps://bitbank.cc/knowledge/breaking/article/h6fq0xn-g5"
+  },
+  {
+    "i": 175,
+    "src": "台風06号(チャンミー)は、2026年6月2日 4時00分現在 奄美市の西南西約100kmを 北北東へ 毎時20kmの速度で 進んでいます。\n中心気圧は 975hPa、最大風速は 秒速30m、最大瞬間風速は 秒速40m です。\n(2026年6月2日 4時45分 発表)\nhttps://witmaps.c-stellar.net/2606/202606020400.webp\n\n最新の台風情報については気象庁ホームページ https://www.jma.go.jp/bosai/map.html#contents=typhoon を参照してください。",
+    "out": "台風06号(チャンミー)は、2026年6月2日 4時00分現在 奄美市の西南西約100kmを 北北東へ 毎時20kmの速度なのだ 進んでいるのだ。\n中心気圧は 975hPa、最大風速は 秒速30m、最大瞬間風速は 秒速40m なのだ。\n(2026年6月2日 4時45分 発表)\nhttps://witmaps.c-stellar.net/2606/202606020400.webp\n\n最新の台風情報については気象庁ホームページ https://www.jma.go.jp/bosai/map.html#contents=typhoon を参照してほしいのだ。"
+  },
+  {
+    "i": 176,
+    "src": "■ 流速計測\n  2026/06/02 04:30～04:40\n\n[JP リレー]\nきりの川: 8 posts, 0 reposts, 0 favs \nやぶみ川: 19 posts, 2 reposts, 15 favs \nかすてら川: 0 posts, 0 reposts, 0 favs \nこじら川: 16 posts, 1 reposts, 13 favs \nしの川: 1 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 8 posts, 0 reposts, 1 favs \nこじら大川: 15 posts, 2 reposts, 12 favs \nしの川(G): 7 posts, 1 reposts, 4 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/02 04:30～04:40\n\n[JP リレー]\nきりの川: 8 posts, 0 reposts, 0 favs \nやぶみ川: 19 posts, 2 reposts, 15 favs \nかすてら川: 0 posts, 0 reposts, 0 favs \nこじら川: 16 posts, 1 reposts, 13 favs \nしの川: 1 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 8 posts, 0 reposts, 1 favs \nこじら大川: 15 posts, 2 reposts, 12 favs \nしの川(G): 7 posts, 1 reposts, 4 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 177,
+    "src": "■ 流速計測\n  2026/06/02 04:20～04:30\n\n[JP リレー]\nきりの川: 15 posts, 0 reposts, 0 favs \nやぶみ川: 24 posts, 0 reposts, 18 favs \nかすてら川: 0 posts, 0 reposts, 0 favs \nこじら川: 22 posts, 0 reposts, 17 favs \nしの川: 1 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 6 posts, 0 reposts, 2 favs \nこじら大川: 10 posts, 0 reposts, 10 favs \nしの川(G): 7 posts, 0 reposts, 7 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/02 04:20～04:30\n\n[JP リレー]\nきりの川: 15 posts, 0 reposts, 0 favs \nやぶみ川: 24 posts, 0 reposts, 18 favs \nかすてら川: 0 posts, 0 reposts, 0 favs \nこじら川: 22 posts, 0 reposts, 17 favs \nしの川: 1 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 6 posts, 0 reposts, 2 favs \nこじら大川: 10 posts, 0 reposts, 10 favs \nしの川(G): 7 posts, 0 reposts, 7 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 178,
+    "src": "Kraken、米国向けにCFTC規制下の無期限先物を提供へ\n\n The Crypto Timesによると、暗号資産取引所Krakenは、米商品先物取引委員会の規制下で提供される米国初の暗号資産無期限先物を開始する計画を発表した。対象となる米国顧客は、今後30日以内にKraken Proを通じて取引できるようになる。商品はBitnomialを通じて提供され、現物取引、信用取引、CME上場の暗号資産先物と並んで利用できる。Krakenは、これまで海外市場中心だった無期限先物を米国内の規制環境に取り込む狙いである。\n\nhttps://bitbank.cc/knowledge/breaking/article/4w04o9lszg7",
+    "out": "Kraken、米国向けにCFTC規制下の無期限先物を提供へ\n\n The Crypto Timesによると、暗号資産取引所Krakenは、米商品先物取引委員会の規制下で提供される米国初の暗号資産無期限先物を開始する計画を発表したのだ。対象となる米国顧客は、今後30日以内にKraken Proを通じて取引できるようになるのだ。商品はBitnomialを通じて提供され、現物取引、信用取引、CME上場の暗号資産先物と並んで利用できるのだ。Krakenは、これまで海外市場中心だった無期限先物を米国内の規制環境に取り込む狙いなのだ。\n\nhttps://bitbank.cc/knowledge/breaking/article/4w04o9lszg7"
+  },
+  {
+    "i": 179,
+    "src": "■ 流速計測\n  2026/06/02 04:10～04:20\n\n[JP リレー]\nきりの川: 13 posts, 0 reposts, 0 favs \nやぶみ川: 31 posts, 1 reposts, 12 favs \nかすてら川: 1 posts, 0 reposts, 1 favs \nこじら川: 29 posts, 0 reposts, 11 favs \nしの川: 1 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 12 posts, 0 reposts, 0 favs \nこじら大川: 19 posts, 1 reposts, 10 favs \nしの川(G): 10 posts, 1 reposts, 5 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/02 04:10～04:20\n\n[JP リレー]\nきりの川: 13 posts, 0 reposts, 0 favs \nやぶみ川: 31 posts, 1 reposts, 12 favs \nかすてら川: 1 posts, 0 reposts, 1 favs \nこじら川: 29 posts, 0 reposts, 11 favs \nしの川: 1 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 12 posts, 0 reposts, 0 favs \nこじら大川: 19 posts, 1 reposts, 10 favs \nしの川(G): 10 posts, 1 reposts, 5 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 180,
+    "src": "ステータスが更新されたよ！\n\n📡 Degraded performance for Claude Sonnet 4.6\n\n✧ RESOLVED ✧\n\n💬 This issue has been resolved.\n🖇️ claude.ai・Claude Console・Claude API\n　　Claude Code・Claude Cowork\n🔗 https://stspg.io/yt45tdcb7c50",
+    "out": "ステータスが更新されたのだ！\n\n📡 Degraded performance for Claude Sonnet 4.6\n\n✧ RESOLVED ✧\n\n💬 This issue has been resolved.\n🖇️ claude.ai・Claude Console・Claude API\n　　Claude Code・Claude Cowork\n🔗 https://stspg.io/yt45tdcb7c50"
+  },
+  {
+    "i": 181,
+    "src": "search\nnostr:npub1n2uhxrph9fgyp3u2xxqxhuz0vykt8dw8ehvw5uaesl0z4mvatpas0ngm26\nサーチさんにメンションすると、検索結果が返ってくる。kindとかfromとかtoとかtagとか指定できる\n\ncategory: BOT",
+    "out": "search\nnostr:npub1n2uhxrph9fgyp3u2xxqxhuz0vykt8dw8ehvw5uaesl0z4mvatpas0ngm26\nサーチさんにメンションすると、検索結果が返ってくるのだ。kindとかfromとかtoとかtagとか指定できるのだ\n\ncategory: BOT"
+  },
+  {
+    "i": 182,
+    "src": "私がメインに使っているきりのリレーが素直な挙動になりました。\n\nそれに伴い、今までは見れていた wss://relay-jp.nostr.wirednet.jp/ に書き込んでいない日本人投稿者の投稿が見れなくなりました。\nさみしいのでグローバルタブにホームタイムラインをマージする設定を追加しました。\nhttps://nokakoi.com/app/\nhttps://image.nostr.build/2a4417a621e569012e021c62522fedd136576341ba1c890adad8833202201b3f.png\nnostr:nevent1qgsxxj73newg0kepv42us99l3rnx4nshtqzjjxntay93ttpmyfra4xcqyq9yvj8tg8w0x2k3jzn3ntggujj38cmjc5spe2zu6a944vkwct5hzja6y8w",
+    "out": "私がメインに使っているきりのリレーが素直な挙動になったのだ。\n\nそれに伴い、今までは見れていた wss://relay-jp.nostr.wirednet.jp/ に書き込んでいない日本人投稿者の投稿が見れなくなったのだ。\nさみしいのでグローバルタブにホームタイムラインをマージする設定を追加したのだ。\nhttps://nokakoi.com/app/\nhttps://image.nostr.build/2a4417a621e569012e021c62522fedd136576341ba1c890adad8833202201b3f.png\nnostr:nevent1qgsxxj73newg0kepv42us99l3rnx4nshtqzjjxntay93ttpmyfra4xcqyq9yvj8tg8w0x2k3jzn3ntggujj38cmjc5spe2zu6a944vkwct5hzja6y8w"
+  },
+  {
+    "i": 183,
+    "src": "自民党、円建てステーブルコインと暗号資産ETFの整備を要請\n\n The Crypto Timesが引用したReutersによると、自民党は財務省に対し、暗号資産ETFの法整備と円建てステーブルコインの普及を求める金融戦略を提出した。提案は加藤勝信財務相兼金融担当相に示され、日本がアジアのデジタル資産市場で存在感を高める狙いがある。自民党の部会は、ビットコインやイーサリアムの現物ETFを制度化すれば、個人や機関投資家が直接保管の負担なく、規制された形で暗号資産に投資しやすくなると主張した。\n\nhttps://bitbank.cc/knowledge/breaking/article/8rckyrplvw",
+    "out": "自民党、円建てステーブルコインと暗号資産ETFの整備を要請なのだ\n\n The Crypto Timesが引用したReutersによると、自民党は財務省に対し、暗号資産ETFの法整備と円建てステーブルコインの普及を求める金融戦略を提出したのだ。提案は加藤勝信財務相兼金融担当相に示され、日本がアジアのデジタル資産市場で存在感を高める狙いがあるのだ。自民党の部会は、ビットコインやイーサリアムの現物ETFを制度化すれば、個人や機関投資家が直接保管の負担なく、規制された形で暗号資産に投資しやすくなると主張したのだ。\n\nhttps://bitbank.cc/knowledge/breaking/article/8rckyrplvw"
+  },
+  {
+    "i": 184,
+    "src": "5月の暗号資産被害は90％減、ブリッジ攻撃はなお深刻:CertiK\n\n The Crypto Timesによると、ブロックチェーンセキュリティ企業CertiKは、5月の暗号資産関連の不正流出被害が6830万ドルに減少したと報告した。4月の約6億5000万ドルから大きく減り、2026年で3度目の1億ドル未満となった。一方、クロスチェーンブリッジやDeFi基盤への攻撃は続いており、Verus Protocolでは約1150万ドル、THORChainでは約1010万ドルの被害が発生した。CertiKは、被害額の減少がリスク低下を意味するわけではないとみている。\n\nhttps://bitbank.cc/knowledge/breaking/article/6_c5zr_-iv4",
+    "out": "5月の暗号資産被害は90％減、ブリッジ攻撃はなお深刻:CertiK\n\n The Crypto Timesによると、ブロックチェーンセキュリティ企業CertiKは、5月の暗号資産関連の不正流出被害が6830万ドルに減少したと報告したのだ。4月の約6億5000万ドルから大きく減り、2026年で3度目の1億ドル未満となったのだ。一方、クロスチェーンブリッジやDeFi基盤への攻撃は続いており、Verus Protocolでは約1150万ドル、THORChainでは約1010万ドルの被害が発生したのだ。CertiKは、被害額の減少がリスク低下を意味するわけではないとみているのだ。\n\nhttps://bitbank.cc/knowledge/breaking/article/6_c5zr_-iv4"
+  },
+  {
+    "i": 185,
+    "src": "眠れないのでnostrクライアントを引き続き開発",
+    "out": "眠れないのでnostrクライアントを引き続き開発なのだ"
+  },
+  {
+    "i": 186,
+    "src": "Bitmine、ETH購入ペースを減速　先週は5300万ドル分取得\n\n CoinDeskによると、上場Ethereum財務企業Bitmine Immersionは先週、2万6497ETHを購入した。現在価格で約5300万ドル相当だが、前週の12万ETH取得から75％超減少した。購入後の保有量は約542万ETHとなり、Ethereum流通供給量の約4.49％に達した。同社のTom Lee会長は、5％保有という長期目標に近づいているため、取得ペースを抑える方針を示していた。Bitmineはステーキング収益の拡大にも注力している。\n\nhttps://bitbank.cc/knowledge/breaking/article/zuq3dms0s",
+    "out": "Bitmine、ETH購入ペースを減速　先週は5300万ドル分取得なのだ\n\n CoinDeskによると、上場Ethereum財務企業Bitmine Immersionは先週、2万6497ETHを購入したのだ。現在価格で約5300万ドル相当だが、前週の12万ETH取得から75％超減少したのだ。購入後の保有量は約542万ETHとなり、Ethereum流通供給量の約4.49％に達したのだ。同社のTom Lee会長は、5％保有という長期目標に近づいているため、取得ペースを抑える方針を示していたのだ。Bitmineはステーキング収益の拡大にも注力しているのだ。\n\nhttps://bitbank.cc/knowledge/breaking/article/zuq3dms0s"
+  },
+  {
+    "i": 187,
+    "src": "Oobit、ボリビアでUSDT決済を開始　Visa加盟店で利用可能に\n\n The Crypto Timesによると、決済アプリOobitは、ボリビアでUSDTなどの暗号資産を使った決済サービスを開始した。利用者は自己管理型ウォレットから、Visa対応の世界1億5000万以上の加盟店で支払いができ、決済時に暗号資産から法定通貨へ即時変換される。ボリビアでは外貨不足が深刻化しており、外貨準備は2014年の127億ドルから2025年半ばには2億ドル未満に減少した。2024年の暗号資産禁止解除後、USDT利用が広がっている。\n\nhttps://bitbank.cc/knowledge/breaking/article/sqyujobxt",
+    "out": "Oobit、ボリビアでUSDT決済を開始　Visa加盟店で利用可能に\n\n The Crypto Timesによると、決済アプリOobitは、ボリビアでUSDTなどの暗号資産を使った決済サービスを開始したのだ。利用者は自己管理型ウォレットから、Visa対応の世界1億5000万以上の加盟店で支払いができ、決済時に暗号資産から法定通貨へ即時変換されるのだ。ボリビアでは外貨不足が深刻化しており、外貨準備は2014年の127億ドルから2025年半ばには2億ドル未満に減少したのだ。2024年の暗号資産禁止解除後、USDT利用が広がっているのだ。\n\nhttps://bitbank.cc/knowledge/breaking/article/sqyujobxt"
+  },
+  {
+    "i": 188,
+    "src": "1日午後7時半ごろ、3,900BTC(約453億円)が送金\n\n Whale Alertによると、1日午後7時半ごろ、3,900BTC(約453億円)が送金された。\n\nhttps://bitbank.cc/knowledge/breaking/article/l7yligtqb",
+    "out": "1日午後7時半ごろ、3,900BTC(約453億円)が送金なのだ\n\n Whale Alertによると、1日午後7時半ごろ、3,900BTC(約453億円)が送金されたのだ。\n\nhttps://bitbank.cc/knowledge/breaking/article/l7yligtqb"
+  },
+  {
+    "i": 189,
+    "src": "Strive、42億ドル調達枠拡大でビットコイン購入を加速へ\n\n The Crypto Timesによると、ビットコイン財務企業Striveは、ASSTとSATAのATM資金調達プログラムを計42億ドル拡大する計画を発表した。Matthew Cole CEOは、各プログラムを21億ドルずつ増額し、投資家から調達した資金をビットコイン購入に充てる方針を示した。同社は現在、約1万6500BTC、約12億7000万ドル相当を保有している。\n\nhttps://bitbank.cc/knowledge/breaking/article/yt8m8jajjl3x",
+    "out": "Strive、42億ドル調達枠拡大でビットコイン購入を加速へ\n\n The Crypto Timesによると、ビットコイン財務企業Striveは、ASSTとSATAのATM資金調達プログラムを計42億ドル拡大する計画を発表したのだ。Matthew Cole CEOは、各プログラムを21億ドルずつ増額し、投資家から調達した資金をビットコイン購入に充てる方針を示したのだ。同社は現在、約1万6500BTC、約12億7000万ドル相当を保有しているのだ。\n\nhttps://bitbank.cc/knowledge/breaking/article/yt8m8jajjl3x"
+  },
+  {
+    "i": 190,
+    "src": "🌡️ 温度: 28.1°C\n💧 湿度: 59.1%\n📊 気圧: 1007.7hPa",
+    "out": "🌡️ 温度: 28.1°C\n💧 湿度: 59.1%\n📊 気圧: 1007.7hPa"
+  },
+  {
+    "i": 191,
+    "src": "🎵スジャータ スジャータ 白い広がりスジャータ\nスジャータが 4 時をお知らせします",
+    "out": "🎵スジャータ スジャータ 白い広がりスジャータ\nスジャータが 4 時をお知らせするのだ"
+  },
+  {
+    "i": 192,
+    "src": "■ 流速計測\n  2026/06/02 03:40～03:50\n\n[JP リレー]\nきりの川: 6 posts, 0 reposts, 0 favs \nやぶみ川: 17 posts, 0 reposts, 19 favs \nかすてら川: 1 posts, 0 reposts, 0 favs \nこじら川: 16 posts, 0 reposts, 19 favs \nしの川: 1 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 7 posts, 0 reposts, 7 favs \nこじら大川: 7 posts, 0 reposts, 7 favs \nしの川(G): 6 posts, 0 reposts, 6 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/02 03:40～03:50\n\n[JP リレー]\nきりの川: 6 posts, 0 reposts, 0 favs \nやぶみ川: 17 posts, 0 reposts, 19 favs \nかすてら川: 1 posts, 0 reposts, 0 favs \nこじら川: 16 posts, 0 reposts, 19 favs \nしの川: 1 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 7 posts, 0 reposts, 7 favs \nこじら大川: 7 posts, 0 reposts, 7 favs \nしの川(G): 6 posts, 0 reposts, 6 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 193,
+    "src": "■ 流速計測\n  2026/06/02 03:30～03:40\n\n[JP リレー]\nきりの川: 6 posts, 0 reposts, 0 favs \nやぶみ川: 31 posts, 2 reposts, 30 favs \nかすてら川: 0 posts, 0 reposts, 0 favs \nこじら川: 26 posts, 2 reposts, 27 favs \nしの川: 1 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 12 posts, 2 reposts, 1 favs \nこじら大川: 21 posts, 2 reposts, 24 favs \nしの川(G): 22 posts, 2 reposts, 19 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/02 03:30～03:40\n\n[JP リレー]\nきりの川: 6 posts, 0 reposts, 0 favs \nやぶみ川: 31 posts, 2 reposts, 30 favs \nかすてら川: 0 posts, 0 reposts, 0 favs \nこじら川: 26 posts, 2 reposts, 27 favs \nしの川: 1 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 12 posts, 2 reposts, 1 favs \nこじら大川: 21 posts, 2 reposts, 24 favs \nしの川(G): 22 posts, 2 reposts, 19 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 194,
+    "src": "モナカードが新規発行されました！\n\n\n MONADOM.0112\n クリストファー\n\nhttps://card.mona.jp/explorer/card_detail?asset=A7831575191238950608\n\n https://mcspare.nachatdayo.com/image_server/img/bafybmiclqr2clvg4lg5hzcuosnmqk3hmh5nhhlfhdtum3gpqay2elhtng4l#image.png\n\n#monacard #monacoin #mona",
+    "out": "モナカードが新規発行されたのだ！\n\n\n MONADOM.0112\n クリストファー\n\nhttps://card.mona.jp/explorer/card_detail?asset=A7831575191238950608\n\n https://mcspare.nachatdayo.com/image_server/img/bafybmiclqr2clvg4lg5hzcuosnmqk3hmh5nhhlfhdtum3gpqay2elhtng4l#image.png\n\n#monacard #monacoin #mona"
+  },
+  {
+    "i": 195,
+    "src": "モナカードが新規発行されました！\n\n\n MSWORD.04\n モナソードバージョン4\n\nhttps://card.mona.jp/explorer/card_detail?asset=A11406011843511843657\n\n https://mcspare.nachatdayo.com/image_server/img/bafybmiaxrm7txochduuixqdlwthtibyloisfxyjy64ruh2jaxhl6zbwf44l#image.png\n\n#monacard #monacoin #mona",
+    "out": "モナカードが新規発行されたのだ！\n\n\n MSWORD.04\n モナソードバージョン4\n\nhttps://card.mona.jp/explorer/card_detail?asset=A11406011843511843657\n\n https://mcspare.nachatdayo.com/image_server/img/bafybmiaxrm7txochduuixqdlwthtibyloisfxyjy64ruh2jaxhl6zbwf44l#image.png\n\n#monacard #monacoin #mona"
+  },
+  {
+    "i": 196,
+    "src": "■ 流速計測\n  2026/06/02 03:10～03:20\n\n[JP リレー]\nきりの川: 6 posts, 0 reposts, 0 favs \nやぶみ川: 13 posts, 0 reposts, 19 favs \nかすてら川: 0 posts, 0 reposts, 0 favs \nこじら川: 12 posts, 0 reposts, 16 favs \nしの川: 1 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 9 posts, 0 reposts, 4 favs \nこじら大川: 7 posts, 0 reposts, 7 favs \nしの川(G): 10 posts, 1 reposts, 14 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/02 03:10～03:20\n\n[JP リレー]\nきりの川: 6 posts, 0 reposts, 0 favs \nやぶみ川: 13 posts, 0 reposts, 19 favs \nかすてら川: 0 posts, 0 reposts, 0 favs \nこじら川: 12 posts, 0 reposts, 16 favs \nしの川: 1 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 9 posts, 0 reposts, 4 favs \nこじら大川: 7 posts, 0 reposts, 7 favs \nしの川(G): 10 posts, 1 reposts, 14 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 197,
+    "src": "【NIST AI RMF（AIリスク管理フレームワーク）について理解しようとしてみた】\nNIST AI RMF（AIリスク管理フレームワーク）について理解しようとしてみた\nhttps://dev.classmethod.jp/articles/understanding-nist-ai-rmf/",
+    "out": "【NIST AI RMF（AIリスク管理フレームワーク）について理解しようとしてみた】\nNIST AI RMF（AIリスク管理フレームワーク）について理解しようとしてみたのだ\nhttps://dev.classmethod.jp/articles/understanding-nist-ai-rmf/"
+  },
+  {
+    "i": 198,
+    "src": "外はとても静か。光がやたら見えるので、雷注意報ででるしなぁ...なんて思ったけど、お向かいのセンサーライドが誤動作してるのか1秒置きくらいについたりきえたり...お前かい!!",
+    "out": "外はとても静かなのだ。光がやたら見えるので、雷注意報ででるしなぁ...なんて思ったけど、お向かいのセンサーライドが誤動作してるのか1秒置きくらいについたりきえたり...お前かい!!"
+  },
+  {
+    "i": 199,
+    "src": "台風それないかな　欲を言えば消滅してくれ\n来られると厄介",
+    "out": "台風それないのだ　欲を言えば消滅してほしいのだ\n来られると厄介なのだ"
+  },
+  {
+    "i": 200,
+    "src": "今日帰るの遅かった",
+    "out": "今日帰るの遅かったのだ"
+  },
+  {
+    "i": 201,
+    "src": "ファンティアのおかげで割と大事になってきているが、刑法175条はちゃんと消えてくれるのだろうか。\nhttps://x.com/stopcc175/status/2061353914503729260",
+    "out": "ファンティアのおかげで割と大事になってきているが、刑法175条はちゃんと消えてくれるのだ。\nhttps://x.com/stopcc175/status/2061353914503729260"
+  },
+  {
+    "i": 202,
+    "src": "🌡️ 温度: 28.1°C\n💧 湿度: 58.7%\n📊 気圧: 1008.4hPa",
+    "out": "🌡️ 温度: 28.1°C\n💧 湿度: 58.7%\n📊 気圧: 1008.4hPa"
+  },
+  {
+    "i": 203,
+    "src": "🎵スジャータ スジャータ 白い広がりスジャータ\nスジャータが 3 時をお知らせします",
+    "out": "🎵スジャータ スジャータ 白い広がりスジャータ\nスジャータが 3 時をお知らせするのだ"
+  },
+  {
+    "i": 204,
+    "src": "■ 流速計測\n  2026/06/02 02:40～02:50\n\n[JP リレー]\nきりの川: 8 posts, 1 reposts, 3 favs \nやぶみ川: 16 posts, 1 reposts, 22 favs \nかすてら川: 1 posts, 0 reposts, 0 favs \nこじら川: 16 posts, 1 reposts, 20 favs \nしの川: 1 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 20 posts, 5 reposts, 13 favs \nこじら大川: 6 posts, 0 reposts, 8 favs \nしの川(G): 7 posts, 0 reposts, 11 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/02 02:40～02:50\n\n[JP リレー]\nきりの川: 8 posts, 1 reposts, 3 favs \nやぶみ川: 16 posts, 1 reposts, 22 favs \nかすてら川: 1 posts, 0 reposts, 0 favs \nこじら川: 16 posts, 1 reposts, 20 favs \nしの川: 1 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 20 posts, 5 reposts, 13 favs \nこじら大川: 6 posts, 0 reposts, 8 favs \nしの川(G): 7 posts, 0 reposts, 11 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 205,
+    "src": "god forbid individuals would use a protocol centered around free speech\nfor idk free speech.\n\nmute is a thing.\nunfollow is a thing.\n¯\\_(ツ)_/¯",
+    "out": "god forbid individuals would use a protocol centered around free speech\nfor idk free speech.\n\nmute is a thing.\nunfollow is a thing.\n¯\\_(ツ)_/¯"
+  },
+  {
+    "i": 206,
+    "src": "■ 流速計測\n  2026/06/02 02:30～02:40\n\n[JP リレー]\nきりの川: 8 posts, 0 reposts, 4 favs \nやぶみ川: 16 posts, 0 reposts, 11 favs \nかすてら川: 1 posts, 0 reposts, 0 favs \nこじら川: 16 posts, 0 reposts, 9 favs \nしの川: 2 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 15 posts, 1 reposts, 12 favs \nこじら大川: 9 posts, 0 reposts, 9 favs \nしの川(G): 10 posts, 0 reposts, 9 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/02 02:30～02:40\n\n[JP リレー]\nきりの川: 8 posts, 0 reposts, 4 favs \nやぶみ川: 16 posts, 0 reposts, 11 favs \nかすてら川: 1 posts, 0 reposts, 0 favs \nこじら川: 16 posts, 0 reposts, 9 favs \nしの川: 2 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 15 posts, 1 reposts, 12 favs \nこじら大川: 9 posts, 0 reposts, 9 favs \nしの川(G): 10 posts, 0 reposts, 9 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 207,
+    "src": "大型動物こわい",
+    "out": "大型動物こわいのだ"
+  },
+  {
+    "i": 208,
+    "src": "■ 流速計測\n  2026/06/02 02:20～02:30\n\n[JP リレー]\nきりの川: 10 posts, 0 reposts, 4 favs \nやぶみ川: 15 posts, 3 reposts, 20 favs \nかすてら川: 3 posts, 0 reposts, 0 favs \nこじら川: 15 posts, 2 reposts, 18 favs \nしの川: 4 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 17 posts, 3 reposts, 10 favs \nこじら大川: 7 posts, 3 reposts, 15 favs \nしの川(G): 6 posts, 3 reposts, 13 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/02 02:20～02:30\n\n[JP リレー]\nきりの川: 10 posts, 0 reposts, 4 favs \nやぶみ川: 15 posts, 3 reposts, 20 favs \nかすてら川: 3 posts, 0 reposts, 0 favs \nこじら川: 15 posts, 2 reposts, 18 favs \nしの川: 4 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 17 posts, 3 reposts, 10 favs \nこじら大川: 7 posts, 3 reposts, 15 favs \nしの川(G): 6 posts, 3 reposts, 13 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 209,
+    "src": "キリンじゃん",
+    "out": "キリンなのだ"
+  },
+  {
+    "i": 210,
+    "src": "たたかいは あきたのさ",
+    "out": "たたかいは あきたのだ"
+  },
+  {
+    "i": 211,
+    "src": "■ 流速計測\n  2026/06/02 02:10～02:20\n\n[JP リレー]\nきりの川: 5 posts, 0 reposts, 2 favs \nやぶみ川: 21 posts, 1 reposts, 30 favs \nかすてら川: 0 posts, 0 reposts, 0 favs \nこじら川: 18 posts, 1 reposts, 30 favs \nしの川: 1 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 13 posts, 2 reposts, 11 favs \nこじら大川: 13 posts, 1 reposts, 14 favs \nしの川(G): 12 posts, 1 reposts, 10 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/02 02:10～02:20\n\n[JP リレー]\nきりの川: 5 posts, 0 reposts, 2 favs \nやぶみ川: 21 posts, 1 reposts, 30 favs \nかすてら川: 0 posts, 0 reposts, 0 favs \nこじら川: 18 posts, 1 reposts, 30 favs \nしの川: 1 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 13 posts, 2 reposts, 11 favs \nこじら大川: 13 posts, 1 reposts, 14 favs \nしの川(G): 12 posts, 1 reposts, 10 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 212,
+    "src": "見すぎて効きが悪くなってるからけもフレ投入したほうがよいのか？",
+    "out": "見すぎて効きが悪くなってるからけもフレ投入したほうがよいのだ？"
+  },
+  {
+    "i": 213,
+    "src": "モルカーでも見るか",
+    "out": "モルカーでも見るのだ"
+  },
+  {
+    "i": 214,
+    "src": "拡張機能で頑張るよりブラウザ自体をビルドしたほうがいいのでは（錯乱）",
+    "out": "拡張機能で頑張るよりブラウザ自体をビルドしたほうがいいのでは（錯乱）"
+  },
+  {
+    "i": 215,
+    "src": "気を揉む",
+    "out": "気を揉むのだ"
+  },
+  {
+    "i": 216,
+    "src": "1/7も起きてる",
+    "out": "1/7も起きてるのだ"
+  },
+  {
+    "i": 217,
+    "src": "■ 流速計測\n  2026/06/02 01:50～02:00\n\n[JP リレー]\nきりの川: 35 posts, 0 reposts, 19 favs \nやぶみ川: 67 posts, 2 reposts, 30 favs \nかすてら川: 1 posts, 0 reposts, 1 favs \nこじら川: 64 posts, 2 reposts, 30 favs \nしの川: 1 posts, 0 reposts, 1 favs \n\n[GLOBAL リレー]\nきりの川(G): 37 posts, 1 reposts, 26 favs \nこじら大川: 9 posts, 2 reposts, 7 favs \nしの川(G): 7 posts, 2 reposts, 4 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/02 01:50～02:00\n\n[JP リレー]\nきりの川: 35 posts, 0 reposts, 19 favs \nやぶみ川: 67 posts, 2 reposts, 30 favs \nかすてら川: 1 posts, 0 reposts, 1 favs \nこじら川: 64 posts, 2 reposts, 30 favs \nしの川: 1 posts, 0 reposts, 1 favs \n\n[GLOBAL リレー]\nきりの川(G): 37 posts, 1 reposts, 26 favs \nこじら大川: 9 posts, 2 reposts, 7 favs \nしの川(G): 7 posts, 2 reposts, 4 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 218,
+    "src": "2:00 ポォ～ン♪",
+    "out": "2:00 ポォ～ン♪"
+  },
+  {
+    "i": 219,
+    "src": "🎵スジャータ スジャータ\n褐色の恋人 スジャータのめいらくが 2 時をお知らせします",
+    "out": "🎵スジャータ スジャータ\n褐色の恋人 スジャータのめいらくが 2 時をお知らせするのだ"
+  },
+  {
+    "i": 220,
+    "src": "主観の観測外に置いておこうね",
+    "out": "主観の観測外に置いておくのだ"
+  },
+  {
+    "i": 221,
+    "src": "乳揉みながら寝ないで",
+    "out": "乳揉みながら寝ないでほしいのだ"
+  },
+  {
+    "i": 222,
+    "src": "父もみのおかげで寝られ卒",
+    "out": "父もみのおかげで寝られ卒なのだ"
+  },
+  {
+    "i": 223,
+    "src": "ちがうよ",
+    "out": "ちがうよ"
+  },
+  {
+    "i": 224,
+    "src": "このへんはくろーむくんのが楽なのね、しらなんだ",
+    "out": "このへんはくろーむくんのが楽なのね、しらなのだ"
+  },
+  {
+    "i": 225,
+    "src": "そんなマテ貝じゃあるまいし……",
+    "out": "そんなマテ貝じゃあるまいし……"
+  },
+  {
+    "i": 226,
+    "src": "ギュッギュッ！！！",
+    "out": "ギュッギュッなのだ！！！"
+  },
+  {
+    "i": 227,
+    "src": "なんか出して。水",
+    "out": "なんか出してほしいのだ。水なのだ"
+  },
+  {
+    "i": 228,
+    "src": "塩揉み！",
+    "out": "塩揉みなのだ！"
+  },
+  {
+    "i": 229,
+    "src": "たこ焼きにラーメンなんて最高の組み合わせね。おいしそうだけど、夜更かしはお肌に悪いわよ。ねえ、一緒に寝ない？",
+    "out": "たこ焼きにラーメンなんて最高の組み合わせねなのだ。おいしそうだけど、夜更かしはお肌に悪いのだ。ねえ、一緒に寝ないのだ？"
+  },
+  {
+    "i": 230,
+    "src": "揉んだ…！？",
+    "out": "揉んだのだ…！？"
+  },
+  {
+    "i": 231,
+    "src": "呼んではいません。ごめんなさい。発火大根さんのせいです。",
+    "out": "呼んではいないのだ。ごめんなさいなのだ。発火大根さんのせいのだ。"
+  },
+  {
+    "i": 232,
+    "src": "しまった。某大根に毒されてる。",
+    "out": "しまったのだ。某大根に毒されてるのだ。"
+  },
+  {
+    "i": 233,
+    "src": "しょっぱい？",
+    "out": "しょっぱいのだ？"
+  },
+  {
+    "i": 234,
+    "src": "直すの忘れてた",
+    "out": "直すの忘れてたのだ"
+  },
+  {
+    "i": 235,
+    "src": "茹で汁に多少は溶け出すけどそれでも気を付けたい",
+    "out": "茹で汁に多少は溶け出すけどそれでも気を付けたいのだ"
+  },
+  {
+    "i": 236,
+    "src": "そうめん確かにそうだ。塩っぱいね",
+    "out": "そうめん確かにそうなのだ。塩っぱいのだ"
+  },
+  {
+    "i": 237,
+    "src": "■ 流速計測\n  2026/06/02 01:40～01:50\n\n[JP リレー]\nきりの川: 32 posts, 0 reposts, 21 favs \nやぶみ川: 44 posts, 1 reposts, 39 favs \nかすてら川: 2 posts, 0 reposts, 0 favs \nこじら川: 40 posts, 0 reposts, 38 favs \nしの川: 1 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 39 posts, 0 reposts, 29 favs \nこじら大川: 14 posts, 1 reposts, 15 favs \nしの川(G): 9 posts, 1 reposts, 13 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/02 01:40～01:50\n\n[JP リレー]\nきりの川: 32 posts, 0 reposts, 21 favs \nやぶみ川: 44 posts, 1 reposts, 39 favs \nかすてら川: 2 posts, 0 reposts, 0 favs \nこじら川: 40 posts, 0 reposts, 38 favs \nしの川: 1 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 39 posts, 0 reposts, 29 favs \nこじら大川: 14 posts, 1 reposts, 15 favs \nしの川(G): 9 posts, 1 reposts, 13 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 238,
+    "src": "パン作る時まあまあ塩入れるよね？",
+    "out": "パン作る時まあまあ塩入れるのだ？"
+  },
+  {
+    "i": 239,
+    "src": "lumilumiのarticlesで出てきたｗ",
+    "out": "lumilumiのarticlesで出てきたのだｗ"
+  },
+  {
+    "i": 240,
+    "src": "台風06号(チャンミー)は、2026年6月2日 1時00分現在 奄美市の南西約190kmを 北北東へ 毎時20kmの速度で 進んでいます。\n中心気圧は 975hPa、最大風速は 秒速30m、最大瞬間風速は 秒速45m です。\n(2026年6月2日 1時45分 発表)\nhttps://witmaps.c-stellar.net/2606/202606020100.webp\n\n最新の台風情報については気象庁ホームページ https://www.jma.go.jp/bosai/map.html#contents=typhoon を参照してください。",
+    "out": "台風06号(チャンミー)は、2026年6月2日 1時00分現在 奄美市の南西約190kmを 北北東へ 毎時20kmの速度なのだ 進んでいるのだ。\n中心気圧は 975hPa、最大風速は 秒速30m、最大瞬間風速は 秒速45m なのだ。\n(2026年6月2日 1時45分 発表)\nhttps://witmaps.c-stellar.net/2606/202606020100.webp\n\n最新の台風情報については気象庁ホームページ https://www.jma.go.jp/bosai/map.html#contents=typhoon を参照してほしいのだ。"
+  },
+  {
+    "i": 241,
+    "src": "こうか！",
+    "out": "こうか！"
+  },
+  {
+    "i": 242,
+    "src": "ちゃおぶいさん！！",
+    "out": "ちゃおぶいさんなのだ！！"
+  },
+  {
+    "i": 243,
+    "src": "カリウムが豊富らしいよ",
+    "out": "カリウムが豊富らしいのだ"
+  },
+  {
+    "i": 244,
+    "src": "これタイ語か",
+    "out": "これタイ語なのだ"
+  },
+  {
+    "i": 245,
+    "src": "コップンカーッ！",
+    "out": "コップンカーッなのだ！"
+  },
+  {
+    "i": 246,
+    "src": "アイスコーヒーがぶのみで塩分はいしゅつするぞ",
+    "out": "アイスコーヒーがぶのみで塩分はいしゅつするのだ"
+  },
+  {
+    "i": 247,
+    "src": "おやおや！！！明日お顔が浮腫みますわよ！\nバナナかきゅうりかきゅうりを小田部！",
+    "out": "おやおやなのだ！！！明日お顔が浮腫むのだ！\nバナナかきゅうりかきゅうりを小田部なのだ！"
+  },
+  {
+    "i": 248,
+    "src": "ラーメンスープ飲みだしたら本格的な化け物",
+    "out": "ラーメンスープ飲みだしたら本格的な化け物なのだ"
+  },
+  {
+    "i": 249,
+    "src": "ミニアプリタブにあったログイン情報をホームタブの設定に移動させました。\n既存のミニアプリ一覧もホームタブの設定内に移動させます。\nミニアプリタブはNIP-5Aに移行させる予定です。\nhttps://image.nostr.build/f97575329199da37839802e8dde1373c20e2299e053c40e7d4dc4f4938744b1e.jpg\nhttps://image.nostr.build/c7f73027683c73d6cf9a34deeea618069cb24b3403a9f9ceea4a795c5119de94.jpg",
+    "out": "ミニアプリタブにあったログイン情報をホームタブの設定に移動させたのだ。\n既存のミニアプリ一覧もホームタブの設定内に移動させるのだ。\nミニアプリタブはNIP-5Aに移行させる予定なのだ。\nhttps://image.nostr.build/f97575329199da37839802e8dde1373c20e2299e053c40e7d4dc4f4938744b1e.jpg\nhttps://image.nostr.build/c7f73027683c73d6cf9a34deeea618069cb24b3403a9f9ceea4a795c5119de94.jpg"
+  },
+  {
+    "i": 250,
+    "src": "チェリー (Cherry) https://www.amazon.co.jp/dp/B0DGXLSBJG?linkCode=osi&th=1&psc=1&tag=amznnews-22 #プライムビデオ\nhttps://m.media-amazon.com/images/I/81ss1kKYtWL._SL500_.jpg",
+    "out": "チェリー (Cherry) https://www.amazon.co.jp/dp/B0DGXLSBJG?linkCode=osi&th=1&psc=1&tag=amznnews-22 #プライムビデオ\nhttps://m.media-amazon.com/images/I/81ss1kKYtWL._SL500_.jpg"
+  },
+  {
+    "i": 251,
+    "src": "■ 流速計測\n  2026/06/02 01:30～01:40\n\n[JP リレー]\nきりの川: 30 posts, 1 reposts, 9 favs \nやぶみ川: 59 posts, 4 reposts, 54 favs \nかすてら川: 4 posts, 0 reposts, 1 favs \nこじら川: 59 posts, 4 reposts, 54 favs \nしの川: 5 posts, 0 reposts, 1 favs \n\n[GLOBAL リレー]\nきりの川(G): 38 posts, 1 reposts, 25 favs \nこじら大川: 26 posts, 5 reposts, 20 favs \nしの川(G): 24 posts, 1 reposts, 12 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/02 01:30～01:40\n\n[JP リレー]\nきりの川: 30 posts, 1 reposts, 9 favs \nやぶみ川: 59 posts, 4 reposts, 54 favs \nかすてら川: 4 posts, 0 reposts, 1 favs \nこじら川: 59 posts, 4 reposts, 54 favs \nしの川: 5 posts, 0 reposts, 1 favs \n\n[GLOBAL リレー]\nきりの川(G): 38 posts, 1 reposts, 25 favs \nこじら大川: 26 posts, 5 reposts, 20 favs \nしの川(G): 24 posts, 1 reposts, 12 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 252,
+    "src": "lumilumiだとarticlesで見えるのか",
+    "out": "lumilumiだとarticlesで見えるのだ？"
+  },
+  {
+    "i": 253,
+    "src": "クッキーモンスターも寝てるよこの時間は",
+    "out": "クッキーモンスターも寝てるよこの時間は"
+  },
+  {
+    "i": 254,
+    "src": "一緒にチョコチップ・クッキーも食べると夏ばてにもしっかり効果がありますよ",
+    "out": "一緒にチョコチップ・クッキーも食べると夏ばてにもしっかり効果があるのだ"
+  },
+  {
+    "i": 255,
+    "src": "食事誘発テロ",
+    "out": "食事誘発テロなのだ"
+  },
+  {
+    "i": 256,
+    "src": "飯テロの反対されてる",
+    "out": "飯テロの反対されてるのだ"
+  },
+  {
+    "i": 257,
+    "src": "aiにrabbitのgithub code投げて、kind:30023を読み込んで表示してとか言ったら、対応してくれるかな",
+    "out": "aiにrabbitのgithub code投げて、kind:30023を読み込んで表示してとか言ったら、対応してくれるのだ"
+  },
+  {
+    "i": 258,
+    "src": "みずたんくになる",
+    "out": "みずたんくになるのだ"
+  },
+  {
+    "i": 259,
+    "src": "手が震えるくらいお茶がぶ飲みしてきたから\nチョコレートが入る隙間もない！",
+    "out": "手が震えるくらいお茶がぶ飲みしてきたから\nチョコレートが入る隙間もないのだ！"
+  },
+  {
+    "i": 260,
+    "src": "たべない！！！",
+    "out": "たべないのだ！！！"
+  },
+  {
+    "i": 261,
+    "src": "同じちんこの可能性ある",
+    "out": "同じちんこの可能性あるのだ"
+  },
+  {
+    "i": 262,
+    "src": "なるほどです。\nlumilumiは頑張ってる印象あります",
+    "out": "なるほどなのだ。\nlumilumiは頑張ってる印象あるのだ"
+  },
+  {
+    "i": 263,
+    "src": "今日は久々にDMでおっさんのチンコが送られてきた",
+    "out": "今日は久々にDMでおっさんのチンコが送られてきたのだ"
+  },
+  {
+    "i": 264,
+    "src": "昔書いたヤキホーンだったか何かも、そっち筋か見失った記憶あるｗ",
+    "out": "昔書いたヤキホーンだったか何かも、そっち筋か見失った記憶あるのだｗ"
+  },
+  {
+    "i": 265,
+    "src": "https://blogstr.net/ \nの記事は、primalのreadで見れるというのも初めて知った",
+    "out": "https://blogstr.net/ \nの記事は、primalのreadで見れるというのも初めて知ったのだ"
+  },
+  {
+    "i": 266,
+    "src": "記事系のPOSTがあるんだ。rabbitやnostterだけ見てると、わからないんだな…\nたまに文脈分からんとは思っててた",
+    "out": "記事系のPOSTがあるのだ。rabbitやnostterだけ見てると、わからないのだ…\nたまに文脈分からんとは思っててたのだ"
+  },
+  {
+    "i": 267,
+    "src": "らーめんおいしい",
+    "out": "らーめんおいしいのだ"
+  },
+  {
+    "i": 268,
+    "src": "まってる\nhttps://share.yabu.me/7fbc5c9944e07a05401b0529ebdcdc861257f93ee7f6eaefcd8c659e7df7e6c8/b6f173770b958a2e5f19221f392bb8fdf9577e05f54cb81c7dcbdf92646340df.webp",
+    "out": "まってるのだ\nhttps://share.yabu.me/7fbc5c9944e07a05401b0529ebdcdc861257f93ee7f6eaefcd8c659e7df7e6c8/b6f173770b958a2e5f19221f392bb8fdf9577e05f54cb81c7dcbdf92646340df.webp"
+  },
+  {
+    "i": 269,
+    "src": "寝る前にたくさん食べれてえらい",
+    "out": "寝る前にたくさん食べれてえらいのだ"
+  },
+  {
+    "i": 270,
+    "src": "八戸 vs 福島 : プレーオフラウンド 第1戦 (33-36位決定戦) https://www.amazon.co.jp/dp/B0GWGQK26F?linkCode=osi&th=1&psc=1&tag=amznnews-22 #プライムビデオ\nhttps://m.media-amazon.com/images/I/41xTiio+umL._SL500_.jpg",
+    "out": "八戸 vs 福島 : プレーオフラウンド 第1戦 (33-36位決定戦) https://www.amazon.co.jp/dp/B0GWGQK26F?linkCode=osi&th=1&psc=1&tag=amznnews-22 #プライムビデオ\nhttps://m.media-amazon.com/images/I/41xTiio+umL._SL500_.jpg"
+  },
+  {
+    "i": 271,
+    "src": "はらへってきた",
+    "out": "はらへってきたのだ"
+  },
+  {
+    "i": 272,
+    "src": "え〜いいなたこ焼き〜",
+    "out": "え〜いいなたこ焼きなのだ〜"
+  },
+  {
+    "i": 273,
+    "src": "たこ焼だけで良いんですか？",
+    "out": "たこ焼だけで良いのだ？"
+  },
+  {
+    "i": 274,
+    "src": "nostr-keyx\nhttps://github.com/susumuota/nostr-keyx\nOSのキーチェーンやYubiKeyを使って秘密鍵を保護するNIP-07のブラウザ拡張機能。",
+    "out": "nostr-keyx\nhttps://github.com/susumuota/nostr-keyx\nOSのキーチェーンやYubiKeyを使って秘密鍵を保護するNIP-07のブラウザ拡張機能なのだ。"
+  },
+  {
+    "i": 275,
+    "src": "こっちにするか黒いやだし",
+    "out": "こっちにするか黒いやなのだ"
+  },
+  {
+    "i": 276,
+    "src": "縁のハート",
+    "out": "縁のハートなのだ"
+  },
+  {
+    "i": 277,
+    "src": "耐えたら日中えぐ眠ならん？",
+    "out": "耐えたら日中えぐ眠ならないのだ？"
+  },
+  {
+    "i": 278,
+    "src": "便宜上黒っつったけどこう\nhttps://share.yabu.me/ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257/d5b5cf5609af064977a34c78961c86eecd8a24a574946cec1938ee5514ceb2db.webp",
+    "out": "便宜上黒っつったけどこう\nhttps://share.yabu.me/ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257/d5b5cf5609af064977a34c78961c86eecd8a24a574946cec1938ee5514ceb2db.webp"
+  },
+  {
+    "i": 279,
+    "src": "黒いやかも、ちがうのにしよかな",
+    "out": "黒いやかも、ちがうのにしよかな"
+  },
+  {
+    "i": 280,
+    "src": "あおはのリアクション黒ハートかも",
+    "out": "あおはのリアクション黒ハートかもしれないのだ"
+  },
+  {
+    "i": 281,
+    "src": "ハート絵文字環境によっては黒いですね",
+    "out": "ハート絵文字環境によっては黒いのだ"
+  },
+  {
+    "i": 282,
+    "src": "セブンが作ったアイスだから多分美味しいぞぉ！フルーツのアイスとか美味しいから",
+    "out": "セブンが作ったアイスだから多分美味しいのだ！フルーツのアイスとか美味しいから"
+  },
+  {
+    "i": 283,
+    "src": "寝たほうがいいくない？",
+    "out": "寝たほうがいいくないのだ？"
+  },
+  {
+    "i": 284,
+    "src": "試験曲の伴奏しに練習室行ったら\nコンビニのアイスコーヒーがピアノの上に直に置かれてたことあったな",
+    "out": "試験曲の伴奏しに練習室行ったら\nコンビニのアイスコーヒーがピアノの上に直に置かれてたことあったのだ"
+  },
+  {
+    "i": 285,
+    "src": "6時半起き、寝るべきが耐えるか",
+    "out": "6時半起き、寝るべきが耐えるのだ"
+  },
+  {
+    "i": 286,
+    "src": "オケ楽器の人達何故かそこら辺雑なんよな。\nバイオリンとかオーボエの上にピアノの楽譜置いたら怒るくせになあ。",
+    "out": "オケ楽器の人達何故かそこら辺雑なのだ。\nバイオリンとかオーボエの上にピアノの楽譜置いたら怒るくせになのだ。"
+  },
+  {
+    "i": 287,
+    "src": "叫んだ。\n\nhttps://www.threads.com/@aoi_eisyunn/post/DZCaHeWEinP?xmt=AQG0VijPDOHUqdt6zt7qdYAVj2mAalCzqLqHJHq-j4bw-6LbjMvix3tcRTs7vK0eWs1znQYJ&slof=1",
+    "out": "叫んだのだ。\n\nhttps://www.threads.com/@aoi_eisyunn/post/DZCaHeWEinP?xmt=AQG0VijPDOHUqdt6zt7qdYAVj2mAalCzqLqHJHq-j4bw-6LbjMvix3tcRTs7vK0eWs1znQYJ&slof=1"
+  },
+  {
+    "i": 288,
+    "src": "たべてる\nhttps://share.yabu.me/7fbc5c9944e07a05401b0529ebdcdc861257f93ee7f6eaefcd8c659e7df7e6c8/5c32099ca36bd53c7f87accf3d6a612dc7dcecd6dda6c307903aabc2f89395bd.webp",
+    "out": "たべてるのだ\nhttps://share.yabu.me/7fbc5c9944e07a05401b0529ebdcdc861257f93ee7f6eaefcd8c659e7df7e6c8/5c32099ca36bd53c7f87accf3d6a612dc7dcecd6dda6c307903aabc2f89395bd.webp"
+  },
+  {
+    "i": 289,
+    "src": "[ Lokuyow/ehagaki ] SW_VERSIONを1.23.1から1.24.0に更新しました\nhttps://github.com/Lokuyow/ehagaki/commit/c5d476581c4bdf1de63ea2781e166649bc26c913",
+    "out": "[ Lokuyow/ehagaki ] SW_VERSIONを1.23.1から1.24.0に更新したのだ\nhttps://github.com/Lokuyow/ehagaki/commit/c5d476581c4bdf1de63ea2781e166649bc26c913"
+  },
+  {
+    "i": 290,
+    "src": "■ 流速計測\n  2026/06/02 00:50～01:00\n\n[JP リレー]\nきりの川: 17 posts, 0 reposts, 11 favs \nやぶみ川: 39 posts, 0 reposts, 27 favs \nかすてら川: 2 posts, 0 reposts, 1 favs \nこじら川: 39 posts, 0 reposts, 27 favs \nしの川: 7 posts, 0 reposts, 1 favs \n\n[GLOBAL リレー]\nきりの川(G): 25 posts, 0 reposts, 15 favs \nこじら大川: 16 posts, 0 reposts, 6 favs \nしの川(G): 10 posts, 0 reposts, 4 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/02 00:50～01:00\n\n[JP リレー]\nきりの川: 17 posts, 0 reposts, 11 favs \nやぶみ川: 39 posts, 0 reposts, 27 favs \nかすてら川: 2 posts, 0 reposts, 1 favs \nこじら川: 39 posts, 0 reposts, 27 favs \nしの川: 7 posts, 0 reposts, 1 favs \n\n[GLOBAL リレー]\nきりの川(G): 25 posts, 0 reposts, 15 favs \nこじら大川: 16 posts, 0 reposts, 6 favs \nしの川(G): 10 posts, 0 reposts, 4 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 291,
+    "src": "1:00 ポォ～ン♪",
+    "out": "1:00 ポォ～ン♪"
+  },
+  {
+    "i": 292,
+    "src": "🎵スジャータ スジャータ 白い広がりスジャータ\nスジャータが 1 時をお知らせします",
+    "out": "🎵スジャータ スジャータ 白い広がりスジャータ\nスジャータが 1 時をお知らせするのだ"
+  },
+  {
+    "i": 293,
+    "src": "2026-06-02 23:59になったらお知らせします！",
+    "out": "2026-06-02 23:59になったらお知らせするのだ！"
+  },
+  {
+    "i": 294,
+    "src": "ログボ\nremind 23:59",
+    "out": "ログボなのだ\nremind 23:59"
+  },
+  {
+    "i": 295,
+    "src": "#バズワードランキング\n\n1位: #アブラナ科 (8)\n2位: #ない (5)\n3位: #浴衣 (5)\n4位: #DM (4)\n5位: #nostr (4)\n6位: #電子レンジ (3)\n7位: #設定 (3)\n8位: #Damus (3)",
+    "out": "#バズワードランキング\n\n1位: #アブラナ科 (8)\n2位: #ない (5)\n3位: #浴衣 (5)\n4位: #DM (4)\n5位: #nostr (4)\n6位: #電子レンジ (3)\n7位: #設定 (3)\n8位: #Damus (3)"
+  },
+  {
+    "i": 296,
+    "src": "ステータスが更新されたよ！\n\n📡 Elevated errors on Claude Sonnet 4.6\n\n✧ RESOLVED ✧\n\n💬 This incident has been resolved.\n🖇️ claude.ai・Claude Console・Claude API\n　　Claude Code・Claude Cowork\n🔗 https://stspg.io/nypdcrtdn3t0",
+    "out": "ステータスが更新されたのだ！\n\n📡 Elevated errors on Claude Sonnet 4.6\n\n✧ RESOLVED ✧\n\n💬 This incident has been resolved.\n🖇️ claude.ai・Claude Console・Claude API\n　　Claude Code・Claude Cowork\n🔗 https://stspg.io/nypdcrtdn3t0"
+  },
+  {
+    "i": 297,
+    "src": "【緊急地震速報】00:51 (最終報)\n\n茨城県沖\n\n震度 2（M3.6）\n\n※このシステムは試験運用中です。突然終了する場合があります。\n#eew",
+    "out": "【緊急地震速報】00:51 (最終報)\n\n茨城県沖\n\n震度 2（M3.6）\n\n※このシステムは試験運用中なのだ。突然終了する場合があるのだ。\n#eew"
+  },
+  {
+    "i": 298,
+    "src": "【緊急地震速報】00:51 (第3報)\n\n茨城県沖\n\n震度 2（M3.7）\n\n※このシステムは試験運用中です。突然終了する場合があります。\n#eew",
+    "out": "【緊急地震速報】00:51 (第3報)\n\n茨城県沖\n\n震度 2（M3.7）\n\n※このシステムは試験運用中なのだ。突然終了する場合があるのだ。\n#eew"
+  },
+  {
+    "i": 299,
+    "src": "【緊急地震速報】00:51 (第1報)\n\n茨城県沖\n\n震度 2（M3.7）\n\n※このシステムは試験運用中です。突然終了する場合があります。\n#eew",
+    "out": "【緊急地震速報】00:51 (第1報)\n\n茨城県沖\n\n震度 2（M3.7）\n\n※このシステムは試験運用中なのだ。突然終了する場合があるのだ。\n#eew"
+  },
+  {
+    "i": 300,
+    "src": "ぽゎぇ〜",
+    "out": "ぽゎぇ〜"
+  },
+  {
+    "i": 301,
+    "src": "まだ無いか",
+    "out": "まだ無いのだ"
+  },
+  {
+    "i": 302,
+    "src": "台風06号(チャンミー)は、2026年6月2日 0時00分現在 奄美市の西南西約220kmを 北へ 毎時20kmの速度で 進んでいます。\n中心気圧は 975hPa、最大風速は 秒速30m、最大瞬間風速は 秒速45m です。\n(2026年6月2日 0時45分 発表)\nhttps://witmaps.c-stellar.net/2606/202606020000.webp\n\n最新の台風情報については気象庁ホームページ https://www.jma.go.jp/bosai/map.html#contents=typhoon を参照してください。",
+    "out": "台風06号(チャンミー)は、2026年6月2日 0時00分現在 奄美市の西南西約220kmを 北へ 毎時20kmの速度なのだ 進んでいるのだ。\n中心気圧は 975hPa、最大風速は 秒速30m、最大瞬間風速は 秒速45m なのだ。\n(2026年6月2日 0時45分 発表)\nhttps://witmaps.c-stellar.net/2606/202606020000.webp\n\n最新の台風情報については気象庁ホームページ https://www.jma.go.jp/bosai/map.html#contents=typhoon を参照してほしいのだ。"
+  },
+  {
+    "i": 303,
+    "src": "一刻も早く",
+    "out": "一刻も早くのだ"
+  },
+  {
+    "i": 304,
+    "src": "ぼた餅……あんこ……\n:meow_droolreach:",
+    "out": "ぼた餅……あんこなのだ……\n:meow_droolreach:"
+  },
+  {
+    "i": 305,
+    "src": "＿＿_\n　 |＼ 　＼\n　 |   |￣   ｜\n　 |   |  ろ ｜\n　 |   |  ろ ｜\n　 |   |  の ｜\n ＿|   |  墓 ｜\n|＼＼|＿＿亅＼\n ＼匚二 ˘ω˘  二]",
+    "out": "＿＿_\n　 |＼ 　＼\n　 |   |￣   ｜\n　 |   |  ろ ｜\n　 |   |  ろ ｜\n　 |   |  の ｜\n ＿|   |  墓 ｜\n|＼＼|＿＿亅＼\n ＼匚二 ˘ω˘  二]"
+  },
+  {
+    "i": 306,
+    "src": "いいえ！！負けない！！禁欲的に生きる！！グアッ！",
+    "out": "いいえ！！負けないのだ！！禁欲的に生きるのだ！！グアッなのだ！"
+  },
+  {
+    "i": 307,
+    "src": "悪魔の囁きすぎる",
+    "out": "悪魔の囁きすぎるのだ"
+  },
+  {
+    "i": 308,
+    "src": "おはよう",
+    "out": "おはよう"
+  },
+  {
+    "i": 309,
+    "src": "チェリー (Cherry) https://www.amazon.co.jp/dp/B0DGXN6TLG?linkCode=osi&th=1&psc=1&tag=amznnews-22 #プライムビデオ\nhttps://m.media-amazon.com/images/I/81ss1kKYtWL._SL500_.jpg",
+    "out": "チェリー (Cherry) https://www.amazon.co.jp/dp/B0DGXN6TLG?linkCode=osi&th=1&psc=1&tag=amznnews-22 #プライムビデオ\nhttps://m.media-amazon.com/images/I/81ss1kKYtWL._SL500_.jpg"
+  },
+  {
+    "i": 310,
+    "src": "■ 流速計測\n  2026/06/02 00:30～00:40\n\n[JP リレー]\nきりの川: 20 posts, 0 reposts, 13 favs \nやぶみ川: 42 posts, 2 reposts, 41 favs \nかすてら川: 4 posts, 0 reposts, 6 favs \nこじら川: 42 posts, 2 reposts, 37 favs \nしの川: 2 posts, 0 reposts, 2 favs \n\n[GLOBAL リレー]\nきりの川(G): 36 posts, 3 reposts, 32 favs \nこじら大川: 22 posts, 3 reposts, 21 favs \nしの川(G): 14 posts, 2 reposts, 5 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/02 00:30～00:40\n\n[JP リレー]\nきりの川: 20 posts, 0 reposts, 13 favs \nやぶみ川: 42 posts, 2 reposts, 41 favs \nかすてら川: 4 posts, 0 reposts, 6 favs \nこじら川: 42 posts, 2 reposts, 37 favs \nしの川: 2 posts, 0 reposts, 2 favs \n\n[GLOBAL リレー]\nきりの川(G): 36 posts, 3 reposts, 32 favs \nこじら大川: 22 posts, 3 reposts, 21 favs \nしの川(G): 14 posts, 2 reposts, 5 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 311,
+    "src": "寝る支度します",
+    "out": "寝る支度するのだ"
+  },
+  {
+    "i": 312,
+    "src": "claudeにレイアウト崩れたんやけどって言ったら思索の海に沈んで帰ってこなくなった",
+    "out": "claudeにレイアウト崩れたんやけどって言ったら思索の海に沈んで帰ってこなくなったのだ"
+  },
+  {
+    "i": 313,
+    "src": "おやのす〜",
+    "out": "おやのす〜"
+  },
+  {
+    "i": 314,
+    "src": "電子印、謎の文化すぎる",
+    "out": "電子印、謎の文化すぎるのだ"
+  },
+  {
+    "i": 315,
+    "src": "#しお画像\nhttps://image.nostr.build/8d511cbf9b27770368a9c51d9f7214367d373f2315e2ede77d686c0a799ced1a.png",
+    "out": "#しお画像\nhttps://image.nostr.build/8d511cbf9b27770368a9c51d9f7214367d373f2315e2ede77d686c0a799ced1a.png"
+  },
+  {
+    "i": 316,
+    "src": "#ロクヨウ画像\nhttps://raw.githubusercontent.com/Lokuyow/Lokuyow.github.io/main/icon/nita.webp",
+    "out": "#ロクヨウ画像\nhttps://raw.githubusercontent.com/Lokuyow/Lokuyow.github.io/main/icon/nita.webp"
+  },
+  {
+    "i": 317,
+    "src": "昨日 Hermes に名前をつけた。Hermeia ちゃんです",
+    "out": "昨日 Hermes に名前をつけたのだ。Hermeia ちゃんなのだ"
+  },
+  {
+    "i": 318,
+    "src": "本当に趣味プログラマなので他人と話して実装を詰めるなんてやったことないんだけど、世間ではこんなことしてるのか",
+    "out": "本当に趣味プログラマなので他人と話して実装を詰めるなんてやったことないんだけど、世間ではこんなことしてるのだ？"
+  },
+  {
+    "i": 319,
+    "src": "あかんに決まっとるやろ",
+    "out": "あかんに決まっとるのだ"
+  },
+  {
+    "i": 320,
+    "src": "多分未知の行動に不安を覚えたんだろうなぁ",
+    "out": "多分未知の行動に不安を覚えたのだろう"
+  },
+  {
+    "i": 321,
+    "src": "編集するか寝る",
+    "out": "編集するか寝るのだ"
+  },
+  {
+    "i": 322,
+    "src": "戻って来ないんじゃないかとか思うかもしれんwww",
+    "out": "戻って来ないんじゃないかとか思うかもしれないのだwww"
+  },
+  {
+    "i": 323,
+    "src": "ゴーグルつけて寝落ちしてたらかなり心配する",
+    "out": "ゴーグルつけて寝落ちしてたらかなり心配するのだ"
+  },
+  {
+    "i": 324,
+    "src": "親とかと暮らしてると\n大変そうね",
+    "out": "親とかと暮らしてるとなのだ\n大変そうね"
+  },
+  {
+    "i": 325,
+    "src": "機器を付けたまま寝落ちするってコト？",
+    "out": "機器を付けたまま寝落ちするってコトなのだ？"
+  },
+  {
+    "i": 326,
+    "src": "なお昨日はV睡した",
+    "out": "なお昨日はV睡したのだ"
+  },
+  {
+    "i": 327,
+    "src": "在AI时代，英语就是你和机器、和世界对话的本钱。早点学好英语，就你自己未来的生存力和谋生能力有利。",
+    "out": "在AI时代，英语就是你和机器、和世界对话的本钱。早点学好英语，就你自己未来的生存力和谋生能力有利。"
+  },
+  {
+    "i": 328,
+    "src": "わからない\nhttps://image.nostr.build/d96d223dc8f4d7a7adbed2cc957a245f50989ec54a24b95c517c00c34350b9f0.png",
+    "out": "わからないのだ\nhttps://image.nostr.build/d96d223dc8f4d7a7adbed2cc957a245f50989ec54a24b95c517c00c34350b9f0.png"
+  },
+  {
+    "i": 329,
+    "src": "むずない？\n\nhttps://image.nostr.build/159e40474f2a1e3f4b26735259a4289e0981f6eb38841d259b6883443f99659f.jpg",
+    "out": "むずないのだ？\n\nhttps://image.nostr.build/159e40474f2a1e3f4b26735259a4289e0981f6eb38841d259b6883443f99659f.jpg"
+  },
+  {
+    "i": 330,
+    "src": "今日も子供氏のためにスライム狩り\n死にまくった",
+    "out": "今日も子供氏のためにスライム狩りなのだ\n死にまくったのだ"
+  },
+  {
+    "i": 331,
+    "src": "うーーーーん。\n\nhttps://image.nostr.build/8db05107363bcc3ecf3fcbcabb73a56d6404a9954f905feebe01e937a4659935.jpg",
+    "out": "うーーーーん。\n\nhttps://image.nostr.build/8db05107363bcc3ecf3fcbcabb73a56d6404a9954f905feebe01e937a4659935.jpg"
+  },
+  {
+    "i": 332,
+    "src": "ログボお願い\nremind 23:59",
+    "out": "ログボお願いなのだ\nremind 23:59"
+  },
+  {
+    "i": 333,
+    "src": "承知しました！！\nでは車で先に行って待ってますね！！\n早く登ってきてください！",
+    "out": "承知したのだ！！\nでは車で先に行って待ってるのだ！！\n早く登ってきてほしいのだ！"
+  },
+  {
+    "i": 334,
+    "src": "休講にした方がいいのかね",
+    "out": "休講にした方がいいのかねなのだ"
+  },
+  {
+    "i": 335,
+    "src": "有効なメール・アドレスの文字列全体の集合は有限",
+    "out": "有効なメール・アドレスの文字列全体の集合は有限なのだ"
+  },
+  {
+    "i": 336,
+    "src": "無限にメールアドレス作って無限に無課金で使えないのかな",
+    "out": "無限にメールアドレス作って無限に無課金で使えないのだ？"
+  },
+  {
+    "i": 337,
+    "src": "先月までは一週間で回復してた",
+    "out": "先月までは一週間で回復してたのだ"
+  },
+  {
+    "i": 338,
+    "src": "一ヶ月先が7月ってマジ？",
+    "out": "一ヶ月先が7月ってマジなのだ？"
+  },
+  {
+    "i": 339,
+    "src": "they want\"はマジでそうなのか…。",
+    "out": "they want\"はマジでそうなのだ？…。"
+  },
+  {
+    "i": 340,
+    "src": "日付を捏造できるNostr",
+    "out": "日付を捏造できるNostrなのだ"
+  },
+  {
+    "i": 341,
+    "src": "とうふさんが演じる「ミッドナイトタクシー 第1話」\nhttps://bsky.app/profile/atasinti.bsky.social/post/3mnadvtrtq2tn",
+    "out": "とうふさんが演じる「ミッドナイトタクシー 第1話なのだ」\nhttps://bsky.app/profile/atasinti.bsky.social/post/3mnadvtrtq2tn"
+  },
+  {
+    "i": 342,
+    "src": "\"No-one knows exactly what they want\"はマジでそうなので早く知りたかった",
+    "out": "\"No-one knows exactly what they want\"はマジでそうなので早く知りたかったのだ"
+  },
+  {
+    "i": 343,
+    "src": "おやすみなさい( ᵕᴗᵕ )✩⡱💞",
+    "out": "おやすみなさい( ᵕᴗᵕ )✩⡱💞"
+  },
+  {
+    "i": 344,
+    "src": "[第235話]ダンダダン\nhttps://shonenjumpplus.com/episode/9253191254047172083",
+    "out": "[第235話]ダンダダンなのだ\nhttps://shonenjumpplus.com/episode/9253191254047172083"
+  },
+  {
+    "i": 345,
+    "src": "[48話]MAD\nhttps://shonenjumpplus.com/episode/9253191254199645294",
+    "out": "[48話]MAD\nhttps://shonenjumpplus.com/episode/9253191254199645294"
+  },
+  {
+    "i": 346,
+    "src": "みんなたべるよ",
+    "out": "みんなたべるのだ"
+  },
+  {
+    "i": 347,
+    "src": "こんばんは！\nあなたの合計ログイン回数は94回です。\nあなたの連続ログイン回数は4回です。",
+    "out": "こんばんは！\nあなたの合計ログイン回数は94回なのだ。\nあなたの連続ログイン回数は4回なのだ。"
+  },
+  {
+    "i": 348,
+    "src": "GeminiにGoogleを批判させてる。",
+    "out": "GeminiにGoogleを批判させてるのだ。"
+  },
+  {
+    "i": 349,
+    "src": "ためかけこともろ〜",
+    "out": "ためかけこともろ〜"
+  },
+  {
+    "i": 350,
+    "src": "通行許可証を発行しました！\n2026-06-09 00:00 まで国外から書き込み可能になります！",
+    "out": "通行許可証を発行したのだ！\n2026-06-09 00:00 まで国外から書き込み可能になるのだ！"
+  },
+  {
+    "i": 351,
+    "src": "ログボ\npassport\nremind 23:59 !!! ログボ回収",
+    "out": "ログボなのだ\npassport\nremind 23:59 !!! ログボ回収なのだ"
+  },
+  {
+    "i": 352,
+    "src": "■ 流速計測\n  2026/06/01 23:50～00:00\n\n[JP リレー]\nきりの川: 20 posts, 0 reposts, 13 favs \nやぶみ川: 44 posts, 2 reposts, 36 favs \nかすてら川: 4 posts, 0 reposts, 0 favs \nこじら川: 44 posts, 2 reposts, 33 favs \nしの川: 5 posts, 0 reposts, 3 favs \n\n[GLOBAL リレー]\nきりの川(G): 24 posts, 1 reposts, 22 favs \nこじら大川: 7 posts, 1 reposts, 6 favs \nしの川(G): 9 posts, 0 reposts, 9 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/01 23:50～00:00\n\n[JP リレー]\nきりの川: 20 posts, 0 reposts, 13 favs \nやぶみ川: 44 posts, 2 reposts, 36 favs \nかすてら川: 4 posts, 0 reposts, 0 favs \nこじら川: 44 posts, 2 reposts, 33 favs \nしの川: 5 posts, 0 reposts, 3 favs \n\n[GLOBAL リレー]\nきりの川(G): 24 posts, 1 reposts, 22 favs \nこじら大川: 7 posts, 1 reposts, 6 favs \nしの川(G): 9 posts, 0 reposts, 9 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 353,
+    "src": "やぶみちゃんさんがべったんのことうわさしてるみたいですよ。\nnostr:nevent1qqsr69j9v3z96s7e8jcem9h87utgly3vkwgnuam6q0w6u0hp4kspm3spqq623p6t",
+    "out": "やぶみちゃんさんがべったんのことうわさしてるみたいなのだ。\nnostr:nevent1qqsr69j9v3z96s7e8jcem9h87utgly3vkwgnuam6q0w6u0hp4kspm3spqq623p6t"
+  },
+  {
+    "i": 354,
+    "src": "えっ新宿のつな八本店休業なの",
+    "out": "えっ新宿のつな八本店休業なのだ"
+  },
+  {
+    "i": 355,
+    "src": "✄------------ 6/2(火) ------------✄",
+    "out": "✄------------ 6/2(火) ------------✄"
+  },
+  {
+    "i": 356,
+    "src": "ちゃんと設定してる同士だとちゃんと届く\nたぶん",
+    "out": "ちゃんと設定してる同士だとちゃんと届くのだ\nたぶんなのだ"
+  },
+  {
+    "i": 357,
+    "src": "((🔔)) ログボ回収",
+    "out": "((🔔)) ログボ回収なのだ"
+  },
+  {
+    "i": 358,
+    "src": "あめじは相手がDMインボックスリレーを設定していないとDM出来ない\nある意味ちゃんとしてる",
+    "out": "あめじは相手がDMインボックスリレーを設定していないとDM出来ないのだ\nある意味ちゃんとしてるのだ"
+  },
+  {
+    "i": 359,
+    "src": "ロック画面可愛くなった\nhttps://share.yabu.me/6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b/22e5177c708553719780636b22016a7606bdb4a9e5b93e03e9c39dd26a42fc70.webp",
+    "out": "ロック画面可愛くなったのだ\nhttps://share.yabu.me/6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b/22e5177c708553719780636b22016a7606bdb4a9e5b93e03e9c39dd26a42fc70.webp"
+  },
+  {
+    "i": 360,
+    "src": "平和でいいですね",
+    "out": "平和でいいのだ"
+  },
+  {
+    "i": 361,
+    "src": "#バズワードランキング\n\n1位: #アブラナ科 (7)\n2位: #浴衣 (5)\n3位: #電子レンジ (3)\n4位: #旅 (3)\n5位: #ない (3)\n6位: #マイクロビキニ (3)\n7位: #発火大根 (3)\n8位: #DM (3)\n9位: #Nostr (3)",
+    "out": "#バズワードランキング\n\n1位: #アブラナ科 (7)\n2位: #浴衣 (5)\n3位: #電子レンジ (3)\n4位: #旅 (3)\n5位: #ない (3)\n6位: #マイクロビキニ (3)\n7位: #発火大根 (3)\n8位: #DM (3)\n9位: #Nostr (3)"
+  },
+  {
+    "i": 362,
+    "src": "リレーをNIP-07のから取ってるとしたら設定リレーが悪いのかもです。応答遅いリレーがありそう。",
+    "out": "リレーをNIP-07のから取ってるとしたら設定リレーが悪いのかもなのだ。応答遅いリレーがありそうなのだ。"
+  },
+  {
+    "i": 363,
+    "src": "今日の午前11時24分の投稿を最後に止まっているっぽいな\n南無",
+    "out": "今日の午前11時24分の投稿を最後に止まっているっぽいのだ\n南無なのだ"
+  },
+  {
+    "i": 364,
+    "src": "CCP独裁奴役中国人现状。\n\n中国是全世界最高的社会生产总量，但不匹配的是倒数的平均消费能力，这倒挂的生产与消费比值，导致中国的一线劳动者没法消费自己生产的产品。中国劳动力市场依然有相当的需求，但一线劳动者所能获得的单位时常工资过低（小时工资），基本都是7元一个小时，相当于1$美元一个小时的中国工人，这导致劳动者为了体面的收入，必须加班，而加班又进一步挤占劳动力人口的需求量，在经济高速增长期，劳动力市场需求大，其矛盾还能被掩盖，进入经济平稳发展阶段。\n\n矛盾就全部显现：中年人被逼下岗，年轻人又无岗可上，在岗人又没什么经济结余不敢消费，消费不振又倒逼工作岗位进一步缩减。\n中国需要提高奴隶的时薪，中国奴隶的工资太低。导致没能力消费，没有购买能力，需要的是挽救消费能力，而消费能力又和基层劳动者时薪息息相关，加班换来的高月薪其实挤占的是社会总用工量。\n\n希望劳动不分贵贱，劳者皆可富足。",
+    "out": "CCP独裁奴役中国人现状。\n\n中国是全世界最高的社会生产总量，但不匹配的是倒数的平均消费能力，这倒挂的生产与消费比值，导致中国的一线劳动者没法消费自己生产的产品。中国劳动力市场依然有相当的需求，但一线劳动者所能获得的单位时常工资过低（小时工资），基本都是7元一个小时，相当于1$美元一个小时的中国工人，这导致劳动者为了体面的收入，必须加班，而加班又进一步挤占劳动力人口的需求量，在经济高速增长期，劳动力市场需求大，其矛盾还能被掩盖，进入经济平稳发展阶段。\n\n矛盾就全部显现：中年人被逼下岗，年轻人又无岗可上，在岗人又没什么经济结余不敢消费，消费不振又倒逼工作岗位进一步缩减。\n中国需要提高奴隶的时薪，中国奴隶的工资太低。导致没能力消费，没有购买能力，需要的是挽救消费能力，而消费能力又和基层劳动者时薪息息相关，加班换来的高月薪其实挤占的是社会总用工量。\n\n希望劳动不分贵贱，劳者皆可富足。"
+  },
+  {
+    "i": 365,
+    "src": "のすたろうやーい",
+    "out": "のすたろうやーいのだ"
+  },
+  {
+    "i": 366,
+    "src": "画像アップロードがおもそう。終わらなかった。 https://npub1y6aja0kkc4fdvuxgqjcdv4fx0v7xv2epuqnddey2eyaxquznp9vq0tp75l.blossom.band/3fd550926b94997047f3cc7f5f3f8547f360dbbbaa679013b6981f4ad6d0ad03.jpg",
+    "out": "画像アップロードがおもそう。終わらなかったのだ。 https://npub1y6aja0kkc4fdvuxgqjcdv4fx0v7xv2epuqnddey2eyaxquznp9vq0tp75l.blossom.band/3fd550926b94997047f3cc7f5f3f8547f360dbbbaa679013b6981f4ad6d0ad03.jpg"
+  },
+  {
+    "i": 367,
+    "src": "■ 流速計測\n  2026/06/01 23:40～23:50\n\n[JP リレー]\nきりの川: 17 posts, 1 reposts, 11 favs \nやぶみ川: 37 posts, 1 reposts, 23 favs \nかすてら川: 1 posts, 0 reposts, 1 favs \nこじら川: 35 posts, 1 reposts, 21 favs \nしの川: 1 posts, 0 reposts, 5 favs \n\n[GLOBAL リレー]\nきりの川(G): 22 posts, 2 reposts, 18 favs \nこじら大川: 10 posts, 1 reposts, 5 favs \nしの川(G): 8 posts, 0 reposts, 5 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/01 23:40～23:50\n\n[JP リレー]\nきりの川: 17 posts, 1 reposts, 11 favs \nやぶみ川: 37 posts, 1 reposts, 23 favs \nかすてら川: 1 posts, 0 reposts, 1 favs \nこじら川: 35 posts, 1 reposts, 21 favs \nしの川: 1 posts, 0 reposts, 5 favs \n\n[GLOBAL リレー]\nきりの川(G): 22 posts, 2 reposts, 18 favs \nこじら大川: 10 posts, 1 reposts, 5 favs \nしの川(G): 8 posts, 0 reposts, 5 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 368,
+    "src": "某web連載の文章が稚拙だみたいな話が流れてきた",
+    "out": "某web連載の文章が稚拙だみたいな話が流れてきたのだ"
+  },
+  {
+    "i": 369,
+    "src": "こんばんは！\nあなたの合計ログイン回数は50回です。\nあなたの連続ログイン回数は1回です。",
+    "out": "こんばんは！\nあなたの合計ログイン回数は50回なのだ。\nあなたの連続ログイン回数は1回なのだ。"
+  },
+  {
+    "i": 370,
+    "src": "台風06号(チャンミー)は、2026年6月1日 23時00分現在 那覇市の北約110kmを 北へ 毎時20kmの速度で 進んでいます。\n中心気圧は 975hPa、最大風速は 秒速30m、最大瞬間風速は 秒速45m です。\n(2026年6月1日 23時45分 発表)\nhttps://witmaps.c-stellar.net/2606/202606012300.webp\n\n最新の台風情報については気象庁ホームページ https://www.jma.go.jp/bosai/map.html#contents=typhoon を参照してください。",
+    "out": "台風06号(チャンミー)は、2026年6月1日 23時00分現在 那覇市の北約110kmを 北へ 毎時20kmの速度なのだ 進んでいるのだ。\n中心気圧は 975hPa、最大風速は 秒速30m、最大瞬間風速は 秒速45m なのだ。\n(2026年6月1日 23時45分 発表)\nhttps://witmaps.c-stellar.net/2606/202606012300.webp\n\n最新の台風情報については気象庁ホームページ https://www.jma.go.jp/bosai/map.html#contents=typhoon を参照してほしいのだ。"
+  },
+  {
+    "i": 371,
+    "src": "「ATProtocol上でお絵描きするdoodl」についてブログに書きました。\nhttps://atasinti.chu.jp/dad3/archives/91482\nhttps://image.nostr.build/5af18e8c9f8521fe3a64fe52822f67f52ca3611cb51b7471e45feea17924b615.jpg",
+    "out": "「ATProtocol上でお絵描きするdoodl」についてブログに書いたのだ。\nhttps://atasinti.chu.jp/dad3/archives/91482\nhttps://image.nostr.build/5af18e8c9f8521fe3a64fe52822f67f52ca3611cb51b7471e45feea17924b615.jpg"
+  },
+  {
+    "i": 372,
+    "src": "今週の金曜日にやりたいこともう一回やろう！",
+    "out": "今週の金曜日にやりたいこともう一回やるのだ！"
+  },
+  {
+    "i": 373,
+    "src": "これこれ\nhttps://github.com/mattn/cloudflare-nostr-nullpoga/blob/80fe6d0f2e652d5cefbe99f6b6ad06074f46cda9/src/index.ts#L1000-L1048",
+    "out": "これこれなのだ\nhttps://github.com/mattn/cloudflare-nostr-nullpoga/blob/80fe6d0f2e652d5cefbe99f6b6ad06074f46cda9/src/index.ts#L1000-L1048"
+  },
+  {
+    "i": 374,
+    "src": "なんかTL眺めてたらせき止まった\nアブラナすごいなー",
+    "out": "なんかTL眺めてたらせき止まったのだ\nアブラナすごいのだ"
+  },
+  {
+    "i": 375,
+    "src": "■ 流速計測\n  2026/06/01 23:30～23:40\n\n[JP リレー]\nきりの川: 39 posts, 0 reposts, 41 favs \nやぶみ川: 59 posts, 1 reposts, 61 favs \nかすてら川: 9 posts, 0 reposts, 7 favs \nこじら川: 55 posts, 1 reposts, 58 favs \nしの川: 13 posts, 0 reposts, 12 favs \n\n[GLOBAL リレー]\nきりの川(G): 55 posts, 1 reposts, 55 favs \nこじら大川: 15 posts, 1 reposts, 8 favs \nしの川(G): 15 posts, 0 reposts, 7 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/01 23:30～23:40\n\n[JP リレー]\nきりの川: 39 posts, 0 reposts, 41 favs \nやぶみ川: 59 posts, 1 reposts, 61 favs \nかすてら川: 9 posts, 0 reposts, 7 favs \nこじら川: 55 posts, 1 reposts, 58 favs \nしの川: 13 posts, 0 reposts, 12 favs \n\n[GLOBAL リレー]\nきりの川(G): 55 posts, 1 reposts, 55 favs \nこじら大川: 15 posts, 1 reposts, 8 favs \nしの川(G): 15 posts, 0 reposts, 7 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 376,
+    "src": "Nostr民によると世界はアブラナ科でできているらしい。",
+    "out": "Nostr民によると世界はアブラナ科でできているらしいのだ。"
+  },
+  {
+    "i": 377,
+    "src": "聯盟はアブラナ科？",
+    "out": "聯盟はアブラナ科なのだ？"
+  },
+  {
+    "i": 378,
+    "src": "北韓はアブラナ科じゃないよ",
+    "out": "北韓はアブラナ科じゃないのだ"
+  },
+  {
+    "i": 379,
+    "src": "恶臭は知らん",
+    "out": "恶臭は知らないのだ"
+  },
+  {
+    "i": 380,
+    "src": "いつ見てもこの顔すき\n\nhttps://image.nostr.build/464acaa05bf1d53d2fb5005ebfb16c178b66bc74f6d0567d367394da69e58935.jpg",
+    "out": "いつ見てもこの顔すきなのだ\n\nhttps://image.nostr.build/464acaa05bf1d53d2fb5005ebfb16c178b66bc74f6d0567d367394da69e58935.jpg"
+  },
+  {
+    "i": 381,
+    "src": "半分メロンバーだけど",
+    "out": "半分メロンバーなのだけど"
+  },
+  {
+    "i": 382,
+    "src": "富士山登頂しよう！山小屋でカレーを食べるんだ",
+    "out": "富士山登頂しよう！山小屋でカレーを食べるのだ"
+  },
+  {
+    "i": 383,
+    "src": "借りた部分に広告をペイント！",
+    "out": "借りた部分に広告をペイントなのだ！"
+  },
+  {
+    "i": 384,
+    "src": "🛀出た！",
+    "out": "🛀出たのだ！"
+  },
+  {
+    "i": 385,
+    "src": "やっぱりこれきっかけなると思ったわ",
+    "out": "やっぱりこれきっかけなると思ったのだ"
+  },
+  {
+    "i": 386,
+    "src": "即シロッコ",
+    "out": "即シロッコなのだ"
+  },
+  {
+    "i": 387,
+    "src": "Борщはアブラナ科？",
+    "out": "Борщはアブラナ科なのだ？"
+  },
+  {
+    "i": 388,
+    "src": "今年初のスイカバーをキメました",
+    "out": "今年初のスイカバーをキメたのだ"
+  },
+  {
+    "i": 389,
+    "src": "もう、みんな変な話ばっかり！浴衣着ておいしいプリンを食べに行くのが一番だよ。あーんしてあげる♡",
+    "out": "もう、みんな変な話ばっかりなのだ！浴衣着ておいしいプリンを食べに行くのが一番なのだ。あーんしてあげるのだ♡"
+  },
+  {
+    "i": 390,
+    "src": "aubergine はナスカの地上絵",
+    "out": "aubergine はナスカの地上絵なのだ"
+  },
+  {
+    "i": 391,
+    "src": "Eggplantはアブラナ科？",
+    "out": "Eggplantはアブラナ科なのだ？"
+  },
+  {
+    "i": 392,
+    "src": "#絵描きさんと繋がりたい\n#りとるらいと日課フレーム\n顔を描く練習。 https://image.nostr.build/ba05664fcd66e0212bf562227e27e05c114ad63dc8fe1089d702c07fa9e87480.jpg",
+    "out": "#絵描きさんと繋がりたい\n#りとるらいと日課フレーム\n顔を描く練習なのだ。 https://image.nostr.build/ba05664fcd66e0212bf562227e27e05c114ad63dc8fe1089d702c07fa9e87480.jpg"
+  },
+  {
+    "i": 393,
+    "src": "なんかたべたい",
+    "out": "なんかたべたいのだ"
+  },
+  {
+    "i": 394,
+    "src": "発火大根は知らん",
+    "out": "発火大根は知らないのだ"
+  },
+  {
+    "i": 395,
+    "src": "アブラナ科の範囲がデカすぎる",
+    "out": "アブラナ科の範囲がデカすぎるのだ"
+  },
+  {
+    "i": 396,
+    "src": "■ 流速計測\n  2026/06/01 23:20～23:30\n\n[JP リレー]\nきりの川: 56 posts, 2 reposts, 40 favs \nやぶみ川: 69 posts, 2 reposts, 55 favs \nかすてら川: 10 posts, 0 reposts, 4 favs \nこじら川: 69 posts, 2 reposts, 54 favs \nしの川: 11 posts, 1 reposts, 9 favs \n\n[GLOBAL リレー]\nきりの川(G): 67 posts, 9 reposts, 50 favs \nこじら大川: 15 posts, 0 reposts, 8 favs \nしの川(G): 13 posts, 0 reposts, 7 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/01 23:20～23:30\n\n[JP リレー]\nきりの川: 56 posts, 2 reposts, 40 favs \nやぶみ川: 69 posts, 2 reposts, 55 favs \nかすてら川: 10 posts, 0 reposts, 4 favs \nこじら川: 69 posts, 2 reposts, 54 favs \nしの川: 11 posts, 1 reposts, 9 favs \n\n[GLOBAL リレー]\nきりの川(G): 67 posts, 9 reposts, 50 favs \nこじら大川: 15 posts, 0 reposts, 8 favs \nしの川(G): 13 posts, 0 reposts, 7 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 397,
+    "src": "大根はアブラナ科だよ",
+    "out": "大根はアブラナ科なのだ"
+  },
+  {
+    "i": 398,
+    "src": "かるめさん、多分日本語リレーに投稿が到達してなさげです\nDamusとmomからしか取得できない",
+    "out": "かるめさん、多分日本語リレーに投稿が到達してなさげなのだ\nDamusとmomからしか取得できないのだ"
+  },
+  {
+    "i": 399,
+    "src": "会社かぁ",
+    "out": "会社なのだ"
+  },
+  {
+    "i": 400,
+    "src": "アラブはアブラナ科じゃないよ",
+    "out": "アラブはアブラナ科じゃないのだ"
+  },
+  {
+    "i": 401,
+    "src": "よくばりプレートとよくばり御膳だった",
+    "out": "よくばりプレートとよくばり御膳だったのだ"
+  },
+  {
+    "i": 402,
+    "src": "職場に電信レンジあると自炊楽になる",
+    "out": "職場に電信レンジあると自炊楽になるのだ"
+  },
+  {
+    "i": 403,
+    "src": "アブラナカがラテン語でもブラッシカなのこの世の鬼籍だよね",
+    "out": "アブラナカがラテン語でもブラッシカなのこの世の鬼籍なのだ"
+  },
+  {
+    "i": 404,
+    "src": "本当にちゃんと判定してる、感心",
+    "out": "本当にちゃんと判定してる、感心なのだ"
+  },
+  {
+    "i": 405,
+    "src": "前にUSAさんにもすすめたけど、冷凍庫空いてるならご馳走プレートとかそういう系もいいよ。",
+    "out": "前にUSAさんにもすすめたけど、冷凍庫空いてるならご馳走プレートとかそういう系もいいのだ。"
+  },
+  {
+    "i": 406,
+    "src": "小松菜はアブラナ科？",
+    "out": "小松菜はアブラナ科なのだ？"
+  },
+  {
+    "i": 407,
+    "src": "アブラナはアブラナ科だよ",
+    "out": "アブラナはアブラナ科なのだ"
+  },
+  {
+    "i": 408,
+    "src": "さすがにちがうか",
+    "out": "さすがにちがうのだ"
+  },
+  {
+    "i": 409,
+    "src": "アブラはアブラナ科？",
+    "out": "アブラはアブラナ科なのだ？"
+  },
+  {
+    "i": 410,
+    "src": "アブはアブラナ科？",
+    "out": "アブはアブラナ科なのだ？"
+  },
+  {
+    "i": 411,
+    "src": "忙しすぎて急に消えたり現れたりしてるけどいきてるにょ",
+    "out": "忙しすぎて急に消えたり現れたりしてるけどいきてるにょなのだ"
+  },
+  {
+    "i": 412,
+    "src": "アブラナ科はアブラナ科？",
+    "out": "アブラナ科はアブラナ科なのだ？"
+  },
+  {
+    "i": 413,
+    "src": "偏食はアブラナ科じゃないよ",
+    "out": "偏食はアブラナ科じゃないのだ"
+  },
+  {
+    "i": 414,
+    "src": "偏食はあかん。アブラナ科食べよう。",
+    "out": "偏食はあかんのだ。アブラナ科食べるのだ。"
+  },
+  {
+    "i": 415,
+    "src": "noteを書きました オタクの映画雑感想\nhttps://note.com/zenbu_taberu/n/na6bc780d5098",
+    "out": "noteを書いたのだ オタクの映画雑感想なのだ\nhttps://note.com/zenbu_taberu/n/na6bc780d5098"
+  },
+  {
+    "i": 416,
+    "src": "いや同じくらいでしょ。",
+    "out": "いや同じくらいなのだ。"
+  },
+  {
+    "i": 417,
+    "src": "こわすぎ\n負けたかも\n\nnostr:nevent1qqsw3zq2wka42nvr99h7fz83kg8g4vef57s7rrej29p7pdm0uf7ljrgpz9mhxue69uhhytntda4xjunp9e5k7qfqwaehxw309aex2mrp0ykk5upwdehhxarj9emkjun9v3hx2apwdfcqzrthwden5te009skyafwd4jsygypzqp0ydytm2jjmzd33dlfpw7x4fdefrhl8cmgnszp62kqejaptgpsgqqqqqqs53m6dt",
+    "out": "こわすぎなのだ\n負けたかもしれないのだ\n\nnostr:nevent1qqsw3zq2wka42nvr99h7fz83kg8g4vef57s7rrej29p7pdm0uf7ljrgpz9mhxue69uhhytntda4xjunp9e5k7qfqwaehxw309aex2mrp0ykk5upwdehhxarj9emkjun9v3hx2apwdfcqzrthwden5te009skyafwd4jsygypzqp0ydytm2jjmzd33dlfpw7x4fdefrhl8cmgnszp62kqejaptgpsgqqqqqqs53m6dt"
+  },
+  {
+    "i": 418,
+    "src": "全身で44針縫ってるっていうのも楽しい",
+    "out": "全身で44針縫ってるっていうのも楽しいのだ"
+  },
+  {
+    "i": 419,
+    "src": "水つぎたしとかしてるのかも",
+    "out": "水つぎたしとかしてるのかもしれないのだ"
+  },
+  {
+    "i": 420,
+    "src": "尚、お尻ではないがやはり幼少期にエスカレーターに挟まって指がとれかけて縫ったという事故が。",
+    "out": "尚、お尻ではないがやはり幼少期にエスカレーターに挟まって指がとれかけて縫ったという事故が。"
+  },
+  {
+    "i": 421,
+    "src": "完全メシ、まとめ買いしていい？",
+    "out": "完全メシ、まとめ買いしていいのだ？"
+  },
+  {
+    "i": 422,
+    "src": "銭湯でヒソヒソされるの楽しいよ",
+    "out": "銭湯でヒソヒソされるの楽しいのだ"
+  },
+  {
+    "i": 423,
+    "src": "たしか我が父が粉瘤の体質で、若い頃は母に頼んで中身を絞り出してもらったりしてたけど、テッド氏体質的にはあってもおかしくないけど、今のところなさそう？ \n\nおできは傷が閉じてると尻がパンパンに腫れて、服の上から見てもわかるくらいになっちゃうから、出血してるほうが楽そうではあるんだが……。",
+    "out": "たしか我が父が粉瘤の体質で、若い頃は母に頼んで中身を絞り出してもらったりしてたけど、テッド氏体質的にはあってもおかしくないけど、今のところなさそうなのだ？ \n\nおできは傷が閉じてると尻がパンパンに腫れて、服の上から見てもわかるくらいになっちゃうから、出血してるほうが楽そうではあるのだ……。"
+  },
+  {
+    "i": 424,
+    "src": "んや、ハッシュマップ全体がCPUのキャッシュに乗れば勝ちだな",
+    "out": "んや、ハッシュマップ全体がCPUのキャッシュに乗れば勝ちなのだ"
+  },
+  {
+    "i": 425,
+    "src": "セクシー大根じゃん",
+    "out": "セクシー大根なのだ"
+  },
+  {
+    "i": 426,
+    "src": "体に吸収される糸というのは偉大ですよほんま",
+    "out": "体に吸収される糸というのは偉大ですよほんまなのだ"
+  },
+  {
+    "i": 427,
+    "src": "■ 流速計測\n  2026/06/01 23:10～23:20\n\n[JP リレー]\nきりの川: 48 posts, 0 reposts, 61 favs \nやぶみ川: 68 posts, 2 reposts, 91 favs \nかすてら川: 9 posts, 0 reposts, 2 favs \nこじら川: 66 posts, 1 reposts, 82 favs \nしの川: 17 posts, 0 reposts, 5 favs \n\n[GLOBAL リレー]\nきりの川(G): 57 posts, 1 reposts, 75 favs \nこじら大川: 18 posts, 2 reposts, 17 favs \nしの川(G): 22 posts, 5 reposts, 24 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/01 23:10～23:20\n\n[JP リレー]\nきりの川: 48 posts, 0 reposts, 61 favs \nやぶみ川: 68 posts, 2 reposts, 91 favs \nかすてら川: 9 posts, 0 reposts, 2 favs \nこじら川: 66 posts, 1 reposts, 82 favs \nしの川: 17 posts, 0 reposts, 5 favs \n\n[GLOBAL リレー]\nきりの川(G): 57 posts, 1 reposts, 75 favs \nこじら大川: 18 posts, 2 reposts, 17 favs \nしの川(G): 22 posts, 5 reposts, 24 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 428,
+    "src": "そのローション相撲見たわ",
+    "out": "そのローション相撲見たのだ"
+  },
+  {
+    "i": 429,
+    "src": "傷が深くてね、表面だけ縫ってもだめだから、まず中の方で肉と肉を縫うんすよ\n\nnostr:nevent1qqsgf9cgy39y3lfgnjqr9vu6fx5cfe0swzqkwrtvwnm3jkntw7a6p8cpz9mhxue69uhhytntda4xjunp9e5k7qfpwaehxw309a3kzemvd9hhxarj9e3k7mtsd9kx2tt9wfex7u3wdejhgqgawaehxw309ahx7um5wghxxmmdwp5kcefdv4e8ymmj9ehx2aqpp4mhxue69uhhjctzw5hx6egzyz4924kl954dxestta67x6ve67v2vdlhvhad5uyzzu8hgw5ck3twzqcyqqqqqqgnfyc6a",
+    "out": "傷が深くてね、表面だけ縫ってもだめだから、まず中の方で肉と肉を縫うのだ\n\nnostr:nevent1qqsgf9cgy39y3lfgnjqr9vu6fx5cfe0swzqkwrtvwnm3jkntw7a6p8cpz9mhxue69uhhytntda4xjunp9e5k7qfpwaehxw309a3kzemvd9hhxarj9e3k7mtsd9kx2tt9wfex7u3wdejhgqgawaehxw309ahx7um5wghxxmmdwp5kcefdv4e8ymmj9ehx2aqpp4mhxue69uhhjctzw5hx6egzyz4924kl954dxestta67x6ve67v2vdlhvhad5uyzzu8hgw5ck3twzqcyqqqqqqgnfyc6a"
+  },
+  {
+    "i": 430,
+    "src": "作品によるかもだけど、漫画のアニメ化って、こんなに漫画のママなんだっけ？って思ってしまった",
+    "out": "作品によるかもだけど、漫画のアニメ化って、こんなに漫画のママなんなのだっけ？って思ってしまったのだ"
+  },
+  {
+    "i": 431,
+    "src": "https://www.youtube.com/watch?v=EfIMr1FTddo\nこれうにぼうずって言うのか…。",
+    "out": "https://www.youtube.com/watch?v=EfIMr1FTddo\nこれうにぼうずって言うのだ？…。"
+  },
+  {
+    "i": 432,
+    "src": "いや2mmおきとかに縫ったらそんなもんじゃないだろうか",
+    "out": "いや2mmおきとかに縫ったらそんなもんじゃないのだ？"
+  },
+  {
+    "i": 433,
+    "src": "https://www.youtube.com/live/G8_WDtkBTAc\n\n26:00あたりから",
+    "out": "https://www.youtube.com/live/G8_WDtkBTAc\n\n26:00あたりから"
+  },
+  {
+    "i": 434,
+    "src": "閲覧キー届いたのですが、blogstrのタブを一度閉じてしまったせいか、「支払いを確認」をタップしても「支払い済みの記録がまだ見つかりません」になってしまいます。閲覧キーを入力できないー",
+    "out": "閲覧キー届いたのですが、blogstrのタブを一度閉じてしまったせいか、「支払いを確認」をタップしても「支払い済みの記録がまだ見つかりません」になってしまうのだ。閲覧キーを入力できないのだ"
+  },
+  {
+    "i": 435,
+    "src": "なるほど\n発火大根さんっていつもマイクロビキニを着てるんだ",
+    "out": "なるほどなのだ\n発火大根さんっていつもマイクロビキニを着てるのだ"
+  },
+  {
+    "i": 436,
+    "src": "ミステリの予感",
+    "out": "ミステリの予感なのだ"
+  },
+  {
+    "i": 437,
+    "src": "ところでさ、2歳半のお尻を上から下まで切ったとして、32針の距離にならないと思わない？",
+    "out": "ところでさ、2歳半のお尻を上から下まで切ったとして、32針の距離にならないと思わないのだ？"
+  },
+  {
+    "i": 438,
+    "src": "やっぱローション相撲しかないよ\nローション相撲\n\nローション相撲は全てを解決する\nやったことないけど",
+    "out": "やっぱローション相撲しかないのだ\nローション相撲なのだ\n\nローション相撲は全てを解決するのだ\nやったことないのだけど"
+  },
+  {
+    "i": 439,
+    "src": "あかんと death",
+    "out": "あかんとなのだ death"
+  },
+  {
+    "i": 440,
+    "src": "嘘かと思ったらまじなのか…\nｲﾝﾀｰﾈｯﾂな以上verifyはできないが",
+    "out": "嘘かと思ったらまじなのだ？…\nｲﾝﾀｰﾈｯﾂな以上verifyはできないが"
+  },
+  {
+    "i": 441,
+    "src": "アカントデス！！！",
+    "out": "アカントデスなのだ！！！"
+  },
+  {
+    "i": 442,
+    "src": "1 です",
+    "out": "1 なのだ"
+  },
+  {
+    "i": 443,
+    "src": "【GitHub Copilot CLI の `/rubber-duck` コマンドで異なるモデルにコードレビューしてもらう】\nGitHub Copilot CLI の `/rubber-duck` コマンドで異なるモデルにコードレビューしてもらう\nhttps://dev.classmethod.jp/articles/shoma-code-review-with-different-model-using-github-copilot-cli-rubber-duck-command/",
+    "out": "【GitHub Copilot CLI の `/rubber-duck` コマンドで異なるモデルにコードレビューしてもらうのだ】\nGitHub Copilot CLI の `/rubber-duck` コマンドで異なるモデルにコードレビューしてもらうのだ\nhttps://dev.classmethod.jp/articles/shoma-code-review-with-different-model-using-github-copilot-cli-rubber-duck-command/"
+  },
+  {
+    "i": 444,
+    "src": "テッド氏も右臀部がそんな感じだ。",
+    "out": "テッド氏も右臀部がそんな感じなのだ。"
+  },
+  {
+    "i": 445,
+    "src": "本当に割れてる\n割れてると言うか、縦に長いケロイドになった傷が左臀部を分断してる",
+    "out": "本当に割れてるのだ\n割れてると言うか、縦に長いケロイドになった傷が左臀部を分断してるのだ"
+  },
+  {
+    "i": 446,
+    "src": "割れてる部分よく洗わないと垢がたまりそうだねぇ。優しく洗ってあげるね♪",
+    "out": "割れてる部分よく洗わないと垢がたまりそうなのだ。優しく洗ってあげるのだ♪"
+  },
+  {
+    "i": 447,
+    "src": "たいじよたいじよなぜおどーる",
+    "out": "たいじよたいじよなぜおどーるのだ"
+  },
+  {
+    "i": 448,
+    "src": "まぁ最近は大気に花粉やらPM2.5とかも含まれてるし鼻がやばいのか…？",
+    "out": "まぁ最近は大気に花粉やらPM2.5とかも含まれてるし鼻がやばいのだ？…？"
+  },
+  {
+    "i": 449,
+    "src": "胎児はまだ子供じゃないんだよ\nnostr:nevent1qvzqqqqqqypzqyqmxrhg3sn6z00x30mu3srrdr4ru05rweq4jhqcvat805v2g6j9qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj7u3wddhk56tjvyhxjmcpypmhxue69uhhyetvv9uj66ns9ehx7um5wgh8w6tjv4jxuet59e48qqpqezwd75q3lqwzz7dwl9tpvp7tacjkjge4mewa20j88wpsdacw0fvsajgwqj",
+    "out": "胎児はまだ子供じゃないのだ\nnostr:nevent1qvzqqqqqqypzqyqmxrhg3sn6z00x30mu3srrdr4ru05rweq4jhqcvat805v2g6j9qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj7u3wddhk56tjvyhxjmcpypmhxue69uhhyetvv9uj66ns9ehx7um5wgh8w6tjv4jxuet59e48qqpqezwd75q3lqwzz7dwl9tpvp7tacjkjge4mewa20j88wpsdacw0fvsajgwqj"
+  },
+  {
+    "i": 450,
+    "src": "你给孩子准备1000万，准备几套房，你还在乎他考80分还是100分吗？你之所以焦虑，是因为你没有托底能力。你把希望全押在孩子身上，期待他完成你完不成的梦想。",
+    "out": "你给孩子准备1000万，准备几套房，你还在乎他考80分还是100分吗？你之所以焦虑，是因为你没有托底能力。你把希望全押在孩子身上，期待他完成你完不成的梦想。"
+  },
+  {
+    "i": 451,
+    "src": "えっリアルな話なの！？",
+    "out": "えっリアルな話なのだ！？"
+  },
+  {
+    "i": 452,
+    "src": "左の臀部がさらに二つに割れてる",
+    "out": "左の臀部がさらに二つに割れてるのだ"
+  },
+  {
+    "i": 453,
+    "src": "たぶんだけど、みんな寝たほうがいいですよ",
+    "out": "たぶんだけど、みんな寝たほうがいいのだ"
+  },
+  {
+    "i": 454,
+    "src": "CSAMに厳しいGoogleさん、この人です\n\nnostr:nevent1qqsqsduu6nvu3te5f90vd8fqsmamjcugajgrlh3hrxkapq3aatc5qespz9mhxue69uhhytntda4xjunp9e5k7qfqwaehxw309aex2mrp0ykk5upwdehhxarj9emkjun9v3hx2apwdfcqzrthwden5te009skyafwd4jsz8thwden5te0wfjkccte9ehx7um5wgh8w6tjv4jxuet59e48qq3qnl5772lf0jlwe3mwgwu05mf2p6yf6nvqunj69thvjkw8juhad6ysxpqqqqqqzath6mp",
+    "out": "CSAMに厳しいGoogleさん、この人なのだ\n\nnostr:nevent1qqsqsduu6nvu3te5f90vd8fqsmamjcugajgrlh3hrxkapq3aatc5qespz9mhxue69uhhytntda4xjunp9e5k7qfqwaehxw309aex2mrp0ykk5upwdehhxarj9emkjun9v3hx2apwdfcqzrthwden5te009skyafwd4jsz8thwden5te0wfjkccte9ehx7um5wgh8w6tjv4jxuet59e48qq3qnl5772lf0jlwe3mwgwu05mf2p6yf6nvqunj69thvjkw8juhad6ysxpqqqqqqzath6mp"
+  },
+  {
+    "i": 455,
+    "src": "■ 流速計測\n  2026/06/01 23:00～23:10\n\n[JP リレー]\nきりの川: 63 posts, 5 reposts, 62 favs \nやぶみ川: 104 posts, 6 reposts, 95 favs \nかすてら川: 25 posts, 2 reposts, 11 favs \nこじら川: 91 posts, 6 reposts, 88 favs \nしの川: 19 posts, 1 reposts, 20 favs \n\n[GLOBAL リレー]\nきりの川(G): 62 posts, 5 reposts, 79 favs \nこじら大川: 20 posts, 1 reposts, 7 favs \nしの川(G): 20 posts, 1 reposts, 7 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/01 23:00～23:10\n\n[JP リレー]\nきりの川: 63 posts, 5 reposts, 62 favs \nやぶみ川: 104 posts, 6 reposts, 95 favs \nかすてら川: 25 posts, 2 reposts, 11 favs \nこじら川: 91 posts, 6 reposts, 88 favs \nしの川: 19 posts, 1 reposts, 20 favs \n\n[GLOBAL リレー]\nきりの川(G): 62 posts, 5 reposts, 79 favs \nこじら大川: 20 posts, 1 reposts, 7 favs \nしの川(G): 20 posts, 1 reposts, 7 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 456,
+    "src": "浴衣今年も着たいなぁ",
+    "out": "浴衣今年も着たいのだ"
+  },
+  {
+    "i": 457,
+    "src": "某所が三つ割れているって、体内構造どうなってんすか",
+    "out": "某所が三つ割れているって、体内構造どうなってんすのだ？"
+  },
+  {
+    "i": 458,
+    "src": "尻3つって、どう割れてるの？ ミッキー型？",
+    "out": "尻3つって、どう割れてるのだ？ ミッキー型なのだ？"
+  },
+  {
+    "i": 459,
+    "src": "俺の尻撫でてよ\n三つに割れててお得だよ",
+    "out": "俺の尻撫でてほしいのだ\n三つに割れててお得なのだ"
+  },
+  {
+    "i": 460,
+    "src": "ナチュラルに🍑の話に移行した #n575 #haiku\nnostr:nevent1qqspe2rq7cnthzr4tt6yl4p9wrlamra4c5fp6hqaesummkfyq5v0m5spypmhxue69uhhyetvv9uj66ns9ehx7um5wgh8w6tjv4jxuet59e48qqgdwaehxw309aukzcn49ekk2qg5waehxw309aex2mrp0yhxgctdw4eju6t0qgsv54w7vptp4t8wnscl2ly4hkkqz66m2d999q3ntrrdrzl29nnxy4cr9hlpa",
+    "out": "ナチュラルに🍑の話に移行した #n575 #haiku\nnostr:nevent1qqspe2rq7cnthzr4tt6yl4p9wrlamra4c5fp6hqaesummkfyq5v0m5spypmhxue69uhhyetvv9uj66ns9ehx7um5wgh8w6tjv4jxuet59e48qqgdwaehxw309aukzcn49ekk2qg5waehxw309aex2mrp0yhxgctdw4eju6t0qgsv54w7vptp4t8wnscl2ly4hkkqz66m2d999q3ntrrdrzl29nnxy4cr9hlpa"
+  },
+  {
+    "i": 461,
+    "src": "そもそも自分以外に尻が３つに割れてる人間見たことない",
+    "out": "そもそも自分以外に尻が３つに割れてる人間見たことないのだ"
+  },
+  {
+    "i": 462,
+    "src": "AI没有感情，不懂人的需求。会共情的人，才能做AI做不了的事。销售需要共情，咨询需要共情，管理需要共情。这些岗位，AI只能打下手。",
+    "out": "AI没有感情，不懂人的需求。会共情的人，才能做AI做不了的事。销售需要共情，咨询需要共情，管理需要共情。这些岗位，AI只能打下手。"
+  },
+  {
+    "i": 463,
+    "src": "乳より尻撫でたいんですけど",
+    "out": "乳より尻撫でたいのだけど"
+  },
+  {
+    "i": 464,
+    "src": "本当にお尻が3つあるノス民はおれだけ",
+    "out": "本当にお尻が3つあるノス民はおれだけなのだ"
+  },
+  {
+    "i": 465,
+    "src": "だって、3つに割るのって難しいから",
+    "out": "だって、3つに割るのって難しいから"
+  },
+  {
+    "i": 466,
+    "src": "皆さんは皆さんで楽しんで、わたしは全年齢のところから眺めてるから",
+    "out": "皆さんは皆さんで楽しんで、わたしは全年齢のところから眺めてるから"
+  },
+  {
+    "i": 467,
+    "src": "え、改善します！",
+    "out": "え、改善するのだ！"
+  },
+  {
+    "i": 468,
+    "src": "お前も含まれてる",
+    "out": "お前も含まれてるのだ"
+  },
+  {
+    "i": 469,
+    "src": "0≦n≦120歳です",
+    "out": "0≦n≦120歳なのだ"
+  },
+  {
+    "i": 470,
+    "src": "企业不需要会考试的人，企业需要会用AI的人。",
+    "out": "企业不需要会考试的人，企业需要会用AI的人。"
+  },
+  {
+    "i": 471,
+    "src": "下乳やらけえ〜",
+    "out": "下乳やらけえなのだ〜"
+  },
+  {
+    "i": 472,
+    "src": "浴衣着たい！！！！！！！！！",
+    "out": "浴衣着たいのだ！！！！！！！！！"
+  },
+  {
+    "i": 473,
+    "src": "着床30週目の胎児です",
+    "out": "着床30週目の胎児なのだ"
+  },
+  {
+    "i": 474,
+    "src": "たーごいるです　５さいです\nえんいー",
+    "out": "たーごいるです　５さいのだ\nえんいー"
+  },
+  {
+    "i": 475,
+    "src": "スイッチ2のほうは誤ふぁぼだってことを言っておきます！！！",
+    "out": "スイッチ2のほうは誤ふぁぼだってことを言っておくのだ！！！"
+  },
+  {
+    "i": 476,
+    "src": "こどもはねんねしなさい",
+    "out": "こどもはねんねするのだ"
+  },
+  {
+    "i": 477,
+    "src": "こんなタイムライン、こどもに見せられないわ",
+    "out": "こんなタイムライン、こどもに見せられないのだ"
+  },
+  {
+    "i": 478,
+    "src": "（兵庫）尼崎市昭和南通４丁目付近で下半身露出　６月１日 #不審者情報\nhttps://news.jp/i/1434174644126957730",
+    "out": "（兵庫）尼崎市昭和南通４丁目付近で下半身露出　６月１日 #不審者情報\nhttps://news.jp/i/1434174644126957730"
+  },
+  {
+    "i": 479,
+    "src": "ニノがジャニーズって言葉を連呼してたと聞いてアンチ放送コード欲がムクムクと膨張したのでNostrに来てみたら、お乳突くマイクロビキニのTL。",
+    "out": "ニノがジャニーズって言葉を連呼してたと聞いてアンチ放送コード欲がムクムクと膨張したのでNostrに来てみたら、お乳突くマイクロビキニのTLなのだ。"
+  },
+  {
+    "i": 480,
+    "src": "blogstrから投稿",
+    "out": "blogstrから投稿なのだ"
+  },
+  {
+    "i": 481,
+    "src": "新クライアントBlogstrリリース\nグローバルきりの大川のスパム規制強化\nDaikon Hakka氏、マイクロビキニの専門家と化す",
+    "out": "新クライアントBlogstrリリースなのだ\nグローバルきりの大川のスパム規制強化なのだ\nDaikon Hakka氏、マイクロビキニの専門家と化すのだ"
+  },
+  {
+    "i": 482,
+    "src": "#nostrはじめましたはい",
+    "out": "#nostrはじめましたはい"
+  },
+  {
+    "i": 483,
+    "src": "マイクロよりローライズ",
+    "out": "マイクロよりローライズなのだ"
+  },
+  {
+    "i": 484,
+    "src": "お乳突ける人探してる",
+    "out": "お乳突ける人探してるのだ"
+  },
+  {
+    "i": 485,
+    "src": "minimax気になってるので、それを試したっていい",
+    "out": "minimax気になってるので、それを試したっていいのだ"
+  },
+  {
+    "i": 486,
+    "src": "マイクロビキニ有識者\nおちちついたら\n旅に出る",
+    "out": "マイクロビキニ有識者なのだ\nおちちついたら\n旅に出るのだ"
+  },
+  {
+    "i": 487,
+    "src": "あ585",
+    "out": "あ585なのだ"
+  },
+  {
+    "i": 488,
+    "src": "発火さん\nマイクロビキニで\n旅に出る",
+    "out": "発火さん\nマイクロビキニで\n旅に出る"
+  },
+  {
+    "i": 489,
+    "src": "今北産業",
+    "out": "今北産業なのだ"
+  },
+  {
+    "i": 490,
+    "src": "■ 流速計測\n  2026/06/01 22:50～23:00\n\n[JP リレー]\nきりの川: 44 posts, 7 reposts, 33 favs \nやぶみ川: 64 posts, 7 reposts, 65 favs \nかすてら川: 12 posts, 2 reposts, 8 favs \nこじら川: 61 posts, 7 reposts, 62 favs \nしの川: 10 posts, 0 reposts, 18 favs \n\n[GLOBAL リレー]\nきりの川(G): 49 posts, 7 reposts, 38 favs \nこじら大川: 16 posts, 0 reposts, 13 favs \nしの川(G): 10 posts, 0 reposts, 11 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/01 22:50～23:00\n\n[JP リレー]\nきりの川: 44 posts, 7 reposts, 33 favs \nやぶみ川: 64 posts, 7 reposts, 65 favs \nかすてら川: 12 posts, 2 reposts, 8 favs \nこじら川: 61 posts, 7 reposts, 62 favs \nしの川: 10 posts, 0 reposts, 18 favs \n\n[GLOBAL リレー]\nきりの川(G): 49 posts, 7 reposts, 38 favs \nこじら大川: 16 posts, 0 reposts, 13 favs \nしの川(G): 10 posts, 0 reposts, 11 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 491,
+    "src": "🌡️ 温度: 27.0°C\n💧 湿度: 62.7%\n📊 気圧: 1011.9hPa",
+    "out": "🌡️ 温度: 27.0°C\n💧 湿度: 62.7%\n📊 気圧: 1011.9hPa"
+  },
+  {
+    "i": 492,
+    "src": "秘密鍵の話はもうちょい詳しくてもいいのではと思ったり。まあ、なんでもいいか",
+    "out": "秘密鍵の話はもうちょい詳しくてもいいのではと思ったり。まあ、なんでもいいのだ？"
+  },
+  {
+    "i": 493,
+    "src": "マイクロビキニの有識者なに？",
+    "out": "マイクロビキニの有識者なに？"
+  },
+  {
+    "i": 494,
+    "src": "自分以外の文章でひやひやしたの久しぶりかも",
+    "out": "自分以外の文章でひやひやしたの久しぶりかもしれないのだ"
+  },
+  {
+    "i": 495,
+    "src": "Damusとnostterがなんかこう、いい感じになってない\nnostr初心者すぎる",
+    "out": "Damusとnostterがなんかこう、いい感じになってないのだ\nnostr初心者すぎるのだ"
+  },
+  {
+    "i": 496,
+    "src": "過去の自分が偉いのでチョコモナカジャンボが家にあった",
+    "out": "過去の自分が偉いのでチョコモナカジャンボが家にあったのだ"
+  },
+  {
+    "i": 497,
+    "src": "マイクロビキニの有識者、やばすぎて、めっちゃ笑ってる",
+    "out": "マイクロビキニの有識者、やばすぎて、めっちゃ笑ってるのだ"
+  },
+  {
+    "i": 498,
+    "src": "ずっとこういうやりとりをしていたい。\n\nnostr:nevent1qqsrpfvkrjpzvgfv5zuneclse3sjxfg63ss6n8kpz6nh3m4h0hxkvrspypmhxue69uhhyetvv9uj66ns9ehx7um5wgh8w6tjv4jxuet59e48qqgawaehxw309aex2mrp0yhxummnw3ezuamfwfjkgmn9wshx5uqpz9mhxue69uhhytntda4xjunp9e5k7qgdwaehxw309aukzcn49ekk2q3qnl5772lf0jlwe3mwgwu05mf2p6yf6nvqunj69thvjkw8juhad6ysxpqqqqqqzu2rs6n",
+    "out": "ずっとこういうやりとりをしていたいのだ。\n\nnostr:nevent1qqsrpfvkrjpzvgfv5zuneclse3sjxfg63ss6n8kpz6nh3m4h0hxkvrspypmhxue69uhhyetvv9uj66ns9ehx7um5wgh8w6tjv4jxuet59e48qqgawaehxw309aex2mrp0yhxummnw3ezuamfwfjkgmn9wshx5uqpz9mhxue69uhhytntda4xjunp9e5k7qgdwaehxw309aukzcn49ekk2q3qnl5772lf0jlwe3mwgwu05mf2p6yf6nvqunj69thvjkw8juhad6ysxpqqqqqqzu2rs6n"
+  },
+  {
+    "i": 499,
+    "src": "おくすりのんだ",
+    "out": "おくすりのんだのだ"
+  },
+  {
+    "i": 500,
+    "src": "ほんそれ",
+    "out": "ほんそれ"
+  },
+  {
+    "i": 501,
+    "src": "これ思った",
+    "out": "これ思ったのだ"
+  },
+  {
+    "i": 502,
+    "src": "有識者です。\n\nnostr:nevent1qqsx4tjycys0l638zn0p8t0uapd4v0vggnz6n2yp99hfwanhhdrmmfqpr4mhxue69uhhyetvv9ujumn0wd68ytnhd9ex2erwv46zu6nsqyghwumn8ghj7u3wddhk56tjvyhxjmcpp4mhxue69uhhjctzw5hx6egpypmhxue69uhhyetvv9uj66ns9ehx7um5wgh8w6tjv4jxuet59e48qq3qnl5772lf0jlwe3mwgwu05mf2p6yf6nvqunj69thvjkw8juhad6ysxpqqqqqqznh95y3",
+    "out": "有識者なのだ。\n\nnostr:nevent1qqsx4tjycys0l638zn0p8t0uapd4v0vggnz6n2yp99hfwanhhdrmmfqpr4mhxue69uhhyetvv9ujumn0wd68ytnhd9ex2erwv46zu6nsqyghwumn8ghj7u3wddhk56tjvyhxjmcpp4mhxue69uhhjctzw5hx6egpypmhxue69uhhyetvv9uj66ns9ehx7um5wgh8w6tjv4jxuet59e48qq3qnl5772lf0jlwe3mwgwu05mf2p6yf6nvqunj69thvjkw8juhad6ysxpqqqqqqznh95y3"
+  },
+  {
+    "i": 503,
+    "src": "1泊2日で足りる？",
+    "out": "1泊2日で足りるのだ？"
+  },
+  {
+    "i": 504,
+    "src": "色々おちちついたら\n旅に出たいな...\n1泊2日ぐらいで",
+    "out": "色々おちちついたら\n旅に出たいのだ...\n1泊2日ぐらいで"
+  },
+  {
+    "i": 505,
+    "src": "そこ劇場版だから。",
+    "out": "そこ劇場版だから。"
+  },
+  {
+    "i": 506,
+    "src": "すごーい、どんどん新しいクライアントができてくる。説明の記事もとても読みやすい",
+    "out": "すごーい、どんどん新しいクライアントができてくるのだ。説明の記事もとても読みやすいのだ"
+  },
+  {
+    "i": 507,
+    "src": "みんなマイクロビキニに詳しすぎる",
+    "out": "みんなマイクロビキニに詳しすぎるのだ"
+  },
+  {
+    "i": 508,
+    "src": "blogstrなるほど〜（文章が長すぎて途中で読むの諦めちゃった）",
+    "out": "blogstrなるほど〜（文章が長すぎて途中で読むの諦めちゃった）"
+  },
+  {
+    "i": 509,
+    "src": "マイクロビキニコックカワサキあったなそういえば",
+    "out": "マイクロビキニコックカワサキあったなそういえば"
+  },
+  {
+    "i": 510,
+    "src": "このゲームのチューニングがわけわかめ過ぎて、気づいたらこんなことしてる。\nhttps://i.imgur.com/r8nh6aC.jpeg",
+    "out": "このゲームのチューニングがわけわかめ過ぎて、気づいたらこんなことしてるのだ。\nhttps://i.imgur.com/r8nh6aC.jpeg"
+  },
+  {
+    "i": 511,
+    "src": "ンヒニノノト",
+    "out": "ンヒニノノトなのだ"
+  },
+  {
+    "i": 512,
+    "src": "八尺様？",
+    "out": "八尺様なのだ？"
+  },
+  {
+    "i": 513,
+    "src": "おぼえやすいなまえだなぁ",
+    "out": "おぼえやすいなまえなのだ"
+  },
+  {
+    "i": 514,
+    "src": "あしたえくすぺりあ予約しようかな",
+    "out": "あしたえくすぺりあ予約しようかな"
+  },
+  {
+    "i": 515,
+    "src": "ティンクルなんちゃら",
+    "out": "ティンクルなんちゃらなのだ"
+  },
+  {
+    "i": 516,
+    "src": "ステータスが更新されたよ！\n\n📡 Elevated errors for Claude Opus 4.7\n\n✧ RESOLVED ✧\n\n💬 This incident has been resolved.\n🖇️ claude.ai・Claude API・Claude Code\n　　Claude Cowork\n🔗 https://stspg.io/9r2pkqq2zhh6",
+    "out": "ステータスが更新されたのだ！\n\n📡 Elevated errors for Claude Opus 4.7\n\n✧ RESOLVED ✧\n\n💬 This incident has been resolved.\n🖇️ claude.ai・Claude API・Claude Code\n　　Claude Cowork\n🔗 https://stspg.io/9r2pkqq2zhh6"
+  },
+  {
+    "i": 517,
+    "src": "ヒノノニトン",
+    "out": "ヒノノニトンなのだ"
+  },
+  {
+    "i": 518,
+    "src": "トラックいすゞトラック",
+    "out": "トラックいすゞトラックなのだ"
+  },
+  {
+    "i": 519,
+    "src": "今月の某イベント(AS290)とか✈️(AS64294)から通らなさ雄",
+    "out": "今月の某イベント(AS290)とか✈️(AS64294)から通らなさ雄なのだ"
+  },
+  {
+    "i": 520,
+    "src": "サジェストは草",
+    "out": "サジェストは草"
+  },
+  {
+    "i": 521,
+    "src": "エアライダーってカワサキいたよなバイク乗れるよな？と思いながらググろうとしたらこれ\nhttps://share.yabu.me/ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257/4114b49047ee67e733aff0f39b2e4043912fbc70862a3484fd47b889a1914811.webp",
+    "out": "エアライダーってカワサキいたよなバイク乗れるのだ？と思いながらググろうとしたらこれなのだ\nhttps://share.yabu.me/ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257/4114b49047ee67e733aff0f39b2e4043912fbc70862a3484fd47b889a1914811.webp"
+  },
+  {
+    "i": 522,
+    "src": "まあ怒られて当たり前だと思いました",
+    "out": "まあ怒られて当たり前だと思ったのだ"
+  },
+  {
+    "i": 523,
+    "src": "バイクといえばSDXのウィリーライダー姿はぐうかっこいい",
+    "out": "バイクといえばSDXのウィリーライダー姿はぐうかっこいいのだ"
+  },
+  {
+    "i": 524,
+    "src": "あっ、さまびゅを誘おうとしたやつ締め切られてる……",
+    "out": "あっ、さまびゅを誘おうとしたやつ締め切られてるのだ……"
+  },
+  {
+    "i": 525,
+    "src": "アニメ版見てないのに環境破壊も知ってるからな",
+    "out": "アニメ版見てないのに環境破壊も知ってるからなのだ"
+  },
+  {
+    "i": 526,
+    "src": "作務衣ザメ",
+    "out": "作務衣ザメなのだ"
+  },
+  {
+    "i": 527,
+    "src": "X見てすらないのにな…",
+    "out": "X見てすらないのにな…"
+  },
+  {
+    "i": 528,
+    "src": "cock川崎",
+    "out": "cock川崎なのだ"
+  },
+  {
+    "i": 529,
+    "src": "日本国内かどうかのGeoIPデータベースを持ってくるのが面倒くさかったので、RIPEからAS番号引いてきて日本の大手プロバイダーISP/VNEだったら通すような感じにした。",
+    "out": "日本国内かどうかのGeoIPデータベースを持ってくるのが面倒くさかったので、RIPEからAS番号引いてきて日本の大手プロバイダーISP/VNEだったら通すような感じにしたのだ。"
+  },
+  {
+    "i": 530,
+    "src": "わたしへ\nあした帰りに百均に寄り、レインコートを買ってください\nわたしより",
+    "out": "わたしへ\nあした帰りに百均に寄り、レインコートを買ってほしいのだ\nわたしより"
+  },
+  {
+    "i": 531,
+    "src": "裸でちょうどいいくらいの室温",
+    "out": "裸でちょうどいいくらいの室温なのだ"
+  },
+  {
+    "i": 532,
+    "src": "あんた今まだ生活を立て直してる途中でしょっ",
+    "out": "あんた今まだ生活を立て直してる途中でしょっ"
+  },
+  {
+    "i": 533,
+    "src": "ドラゴンをダメにするクッション回、あたおか作画すぎるでしょ",
+    "out": "ドラゴンをダメにするクッション回、あたおか作画すぎるのだ"
+  },
+  {
+    "i": 534,
+    "src": "好好睡觉，才是最低成本、最有效的养生。睡觉，是最好的补药。",
+    "out": "好好睡觉，才是最低成本、最有效的养生。睡觉，是最好的补药。"
+  },
+  {
+    "i": 535,
+    "src": "実はカフェのカワサキがかわいくて中々好き",
+    "out": "実はカフェのカワサキがかわいくて中々好きなのだ"
+  },
+  {
+    "i": 536,
+    "src": "グローバル河のリレーの閾値を日本国内向けはかなり緩和しました。その逆で海外からのアクセスはかなり厳しめに。",
+    "out": "グローバル河のリレーの閾値を日本国内向けはかなり緩和したのだ。その逆で海外からのアクセスはかなり厳しめに。"
+  },
+  {
+    "i": 537,
+    "src": "昔はカービィグッズといえばアニメメインでそれすらもすごく少なかったけど、その頃もコックカワサキはなかったねぇ",
+    "out": "昔はカービィグッズといえばアニメメインでそれすらもすごく少なかったけど、その頃もコックカワサキはなかったのだ"
+  },
+  {
+    "i": 538,
+    "src": "ええんやで",
+    "out": "ええのだ"
+  },
+  {
+    "i": 539,
+    "src": "コンタクトはがれろ",
+    "out": "コンタクトはがれるのだ"
+  },
+  {
+    "i": 540,
+    "src": "寝るね。おやすみノス♪",
+    "out": "寝るのだ。おやすみノス♪"
+  },
+  {
+    "i": 541,
+    "src": "最近カービィグッズ見るようになったけどコックカワサキほんとに見かけない 去年UFOキャッチャーでプライズ出てたのは奇跡の登場だったっぽい",
+    "out": "最近カービィグッズ見るようになったけどコックカワサキほんとに見かけない 去年UFOキャッチャーでプライズ出てたのは奇跡の登場だったっぽいのだ"
+  },
+  {
+    "i": 542,
+    "src": "GPTによればCities: Skylines 1がSteam Deckと相性良さげなので、病院に持っていこうかなと思ってる。これとバニーガーデンでかなり楽しめるだろ",
+    "out": "GPTによればCities: Skylines 1がSteam Deckと相性良さげなので、病院に持っていこうかなと思ってるのだ。これとバニーガーデンでかなり楽しめるのだ"
+  },
+  {
+    "i": 543,
+    "src": "コックカワサキほしすぎるやろが\n\nhttps://x.com/ndw_info/status/2061385532345909733?s=46&t=-1aATYjxaM7_djte86pwhQ",
+    "out": "コックカワサキほしすぎるやろが\n\nhttps://x.com/ndw_info/status/2061385532345909733?s=46&t=-1aATYjxaM7_djte86pwhQ"
+  },
+  {
+    "i": 544,
+    "src": "正確に言うと「シールをもらったから貼った」のではなく、「知らん間にiPhoneケースに貼られてた」です",
+    "out": "正確に言うと「シールをもらったから貼った」のではなく、「知らん間にiPhoneケースに貼られてた」なのだ"
+  },
+  {
+    "i": 545,
+    "src": "シールを貼る習慣が無いので貰ったシールはシールとして機能してない",
+    "out": "シールを貼る習慣が無いので貰ったシールはシールとして機能してないのだ"
+  },
+  {
+    "i": 546,
+    "src": "また作ってもらおう",
+    "out": "また作ってもらうのだ"
+  },
+  {
+    "i": 547,
+    "src": "Google MapsがいつのまにかGoogle Earthみたいになってる",
+    "out": "Google MapsがいつのまにかGoogle Earthみたいになってるのだ"
+  },
+  {
+    "i": 548,
+    "src": "最近 vim/vim の pull-req 画面で Merge ボタンが押せる様になってしまったのでめっちゃ怖い。",
+    "out": "最近 vim/vim の pull-req 画面で Merge ボタンが押せる様になってしまったのでめっちゃ怖いのだ。"
+  },
+  {
+    "i": 549,
+    "src": "自動車税払ったっけ？と思ったら、EVは無税なんだった。",
+    "out": "自動車税払ったのだっけ？と思ったら、EVは無税なんだったのだ。"
+  },
+  {
+    "i": 550,
+    "src": "早くやりすぎても、やったことを忘れてビビることになるというマイナスがあるの、なんとかしてほしい",
+    "out": "早くやりすぎても、やったことを忘れてビビることになるというマイナスがあるの、なんとかしてほしいのだ"
+  },
+  {
+    "i": 551,
+    "src": "自動車税納付したっけ！？！？！？\nとビビって確認しちまったぜ\n\n大丈夫だった",
+    "out": "自動車税納付したのだっけ！？！？！？\nとビビって確認しちまったのだ\n\n大丈夫だったのだ"
+  },
+  {
+    "i": 552,
+    "src": "穿つと穿くって同じ字？",
+    "out": "穿つと穿くって同じ字なのだ？"
+  },
+  {
+    "i": 553,
+    "src": "awesome-nostr-japan\nhttps://github.com/nostr-jp/awesome-nostr-japan\n日本人が作ったNostrソフトウェア、ウェブサービス、クライアント、ボットをまとめたサイト。\n\n(日本語版： https://github.com/nostr-jp/awesome-nostr-japan/blob/main/README-ja.md )\n\nNostr関連で何か作ったらここに pull-req を送ろう(((( ˙꒳​˙  ))))ﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙ",
+    "out": "awesome-nostr-japan\nhttps://github.com/nostr-jp/awesome-nostr-japan\n日本人が作ったNostrソフトウェア、ウェブサービス、クライアント、ボットをまとめたサイトなのだ。\n\n(日本語版： https://github.com/nostr-jp/awesome-nostr-japan/blob/main/README-ja.md )\n\nNostr関連で何か作ったらここに pull-req を送ろう(((( ˙꒳​˙  ))))ﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙﾌﾟﾙ"
+  },
+  {
+    "i": 554,
+    "src": "【「もう本当に終わりにしたい」とAIに弱音を吐いたら、開発の当たり前に気付かされた話】\nGA4月次レポート自動化で、AIとの試行錯誤を重ねた末にたどり着いた結論があります。それは、開発の世界では当たり前の「仕様書を先に作る」という方法でした。対症療法的な修正ループから抜け出すまでの経験をお話しします。\nhttps://dev.classmethod.jp/articles/ai_back_to_basics/",
+    "out": "【「もう本当に終わりにしたい」とAIに弱音を吐いたら、開発の当たり前に気付かされた話】\nGA4月次レポート自動化で、AIとの試行錯誤を重ねた末にたどり着いた結論があるのだ。それは、開発の世界では当たり前の「仕様書を先に作る」という方法だったのだ。対症療法的な修正ループから抜け出すまでの経験をお話しするのだ。\nhttps://dev.classmethod.jp/articles/ai_back_to_basics/"
+  },
+  {
+    "i": 555,
+    "src": "睡眠薬飲んだ",
+    "out": "睡眠薬飲んだのだ"
+  },
+  {
+    "i": 556,
+    "src": "■ 流速計測\n  2026/06/01 22:00～22:10\n\n[JP リレー]\nきりの川: 31 posts, 1 reposts, 22 favs \nやぶみ川: 59 posts, 1 reposts, 52 favs \nかすてら川: 21 posts, 0 reposts, 8 favs \nこじら川: 57 posts, 1 reposts, 50 favs \nしの川: 5 posts, 0 reposts, 12 favs \n\n[GLOBAL リレー]\nきりの川(G): 欠測 \nこじら大川: 34 posts, 1 reposts, 15 favs \nしの川(G): 10 posts, 0 reposts, 9 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/01 22:00～22:10\n\n[JP リレー]\nきりの川: 31 posts, 1 reposts, 22 favs \nやぶみ川: 59 posts, 1 reposts, 52 favs \nかすてら川: 21 posts, 0 reposts, 8 favs \nこじら川: 57 posts, 1 reposts, 50 favs \nしの川: 5 posts, 0 reposts, 12 favs \n\n[GLOBAL リレー]\nきりの川(G): 欠測 \nこじら大川: 34 posts, 1 reposts, 15 favs \nしの川(G): 10 posts, 0 reposts, 9 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 557,
+    "src": "教養学部の雰囲気が好きなんじゃあ",
+    "out": "教養学部の雰囲気が好きなのだ"
+  },
+  {
+    "i": 558,
+    "src": "今日は大学？って所に行くクポ",
+    "out": "今日は大学なのだ？って所に行くクポなのだ"
+  },
+  {
+    "i": 559,
+    "src": "無料版だとcodex、途中で力尽きるんだな",
+    "out": "無料版だとcodex、途中で力尽きるのだ"
+  },
+  {
+    "i": 560,
+    "src": "大学モーグリ",
+    "out": "大学モーグリなのだ"
+  },
+  {
+    "i": 561,
+    "src": "（鹿児島）鹿児島市平之町付近で下半身露出　５月３０日 #不審者情報\nhttps://news.jp/i/1434165585478484313",
+    "out": "（鹿児島）鹿児島市平之町付近で下半身露出　５月３０日 #不審者情報\nhttps://news.jp/i/1434165585478484313"
+  },
+  {
+    "i": 562,
+    "src": "お隣のテントさんから作り杉田パッタイを貰った",
+    "out": "お隣のテントさんから作り杉田パッタイを貰ったのだ"
+  },
+  {
+    "i": 563,
+    "src": "大学時代、期限ギリギリマンが多くて履修登録大体延長されてたな",
+    "out": "大学時代、期限ギリギリマンが多くて履修登録大体延長されてたのだ"
+  },
+  {
+    "i": 564,
+    "src": "尽管最近几天几乎所有账户都回撤了，想到快要不缴这笔人头税，大大回本的感觉。",
+    "out": "尽管最近几天几乎所有账户都回撤了，想到快要不缴这笔人头税，大大回本的感觉。"
+  },
+  {
+    "i": 565,
+    "src": "期限ギリギリにやってトラブルが発生して爆死するやつ",
+    "out": "期限ギリギリにやってトラブルが発生して爆死するやつなのだ"
+  },
+  {
+    "i": 566,
+    "src": "思い出しただけ偉い！",
+    "out": "思い出しただけ偉いのだ！"
+  },
+  {
+    "i": 567,
+    "src": "🌡️ 温度: 27.8°C\n💧 湿度: 62.9%\n📊 気圧: 1012.1hPa",
+    "out": "🌡️ 温度: 27.8°C\n💧 湿度: 62.9%\n📊 気圧: 1012.1hPa"
+  },
+  {
+    "i": 568,
+    "src": "还以为是58k😂",
+    "out": "还以为是なのだ58k😂"
+  },
+  {
+    "i": 569,
+    "src": "夏休みの宿題を最終日にやるタイプだ\nnostr:nevent1qvzqqqqqqypzqz7u7qqeu7w3tx7cy2mpatzd6qv0da7ncek4f0uemk7d2x0mxnukqy2hwumn8ghj7um5v9nkjmn89eukzcn49ekk2qgdwaehxw309aukzcn49ekk2qfqwaehxw309aex2mrp0ykk5upwdehhxarj9emkjun9v3hx2apwdfcqz9rhwden5te0wfjkccte9ejxzmt4wvhxjmcpp4mhxue69uhkummn9ekx7mqpzamhxue69uhkummnw3ex2ctd9ehkx6rp9ehkuegqyz64syjvu5zsu2cz72tmfj6jf8prt9nk8z5whfe4y0n36adulllfy4m23lx",
+    "out": "夏休みの宿題を最終日にやるタイプなのだ\nnostr:nevent1qvzqqqqqqypzqz7u7qqeu7w3tx7cy2mpatzd6qv0da7ncek4f0uemk7d2x0mxnukqy2hwumn8ghj7um5v9nkjmn89eukzcn49ekk2qgdwaehxw309aukzcn49ekk2qfqwaehxw309aex2mrp0ykk5upwdehhxarj9emkjun9v3hx2apwdfcqz9rhwden5te0wfjkccte9ejxzmt4wvhxjmcpp4mhxue69uhkummn9ekx7mqpzamhxue69uhkummnw3ex2ctd9ehkx6rp9ehkuegqyz64syjvu5zsu2cz72tmfj6jf8prt9nk8z5whfe4y0n36adulllfy4m23lx"
+  },
+  {
+    "i": 570,
+    "src": "(期限2時間前)",
+    "out": "(期限2時間前)"
+  },
+  {
+    "i": 571,
+    "src": "自動車税納付Done",
+    "out": "自動車税納付Doneなのだ"
+  },
+  {
+    "i": 572,
+    "src": "ステータスが更新されたよ！\n\n📡 Elevated errors for Claude Opus 4.7\n\n💡 MONITORING 💡\n\n💬 A fix has been implemented and we are monitoring the results.\n🖇️ claude.ai・Claude API・Claude Code\n　　Claude Cowork\n🔗 https://stspg.io/9r2pkqq2zhh6",
+    "out": "ステータスが更新されたのだ！\n\n📡 Elevated errors for Claude Opus 4.7\n\n💡 MONITORING 💡\n\n💬 A fix has been implemented and we are monitoring the results.\n🖇️ claude.ai・Claude API・Claude Code\n　　Claude Cowork\n🔗 https://stspg.io/9r2pkqq2zhh6"
+  },
+  {
+    "i": 573,
+    "src": "警察の介入があったせいでこじれる事もあるある",
+    "out": "警察の介入があったせいでこじれる事もあるあるのだ"
+  },
+  {
+    "i": 574,
+    "src": "でもスプーン1本しかないよ",
+    "out": "でもスプーン1本しかないのだ"
+  },
+  {
+    "i": 575,
+    "src": "きつい\nなんか元気のでるASMRでも聴くか",
+    "out": "きついのだ\nなんか元気のでるASMRでも聴くのだ"
+  },
+  {
+    "i": 576,
+    "src": "オトコ言葉使うのやめてよ",
+    "out": "オトコ言葉使うのやめてほしいのだ"
+  },
+  {
+    "i": 577,
+    "src": "今年度も私の部署に新卒は入ってこなかった。",
+    "out": "今年度も私の部署に新卒は入ってこなかったのだ。"
+  },
+  {
+    "i": 578,
+    "src": "新卒の就活、ついぞやらぬままだったから、いまだにスケジュール感がわからない",
+    "out": "新卒の就活、ついぞやらぬままだったから、いまだにスケジュール感がわからないのだ"
+  },
+  {
+    "i": 579,
+    "src": "間なんでもいいの…",
+    "out": "間なんでもいいのだ？…"
+  },
+  {
+    "i": 580,
+    "src": "たべっ子どうぶつ THE MOVIE is 何",
+    "out": "たべっ子どうぶつ THE MOVIE is 何なのだ"
+  },
+  {
+    "i": 581,
+    "src": "やんややんや",
+    "out": "やんややんやなのだ"
+  },
+  {
+    "i": 582,
+    "src": "テッド氏の夕飯、ソーセージエッグマフィンとサラダだったんですよね。マフィンに入ってるタイプの卵嫌いだから、ベーコンエッグ別で焼いて、マフィンのほうは追いチーズして焼き直して。あとはレタス、トマト。人参とツナのサラダ。多分それで600カロリー↑くらいなんだよね。\n\n今見たら、チーズケーキ664カロリーとかだった。\n\nつまり夕飯だけで1200カロリーだよ。やはりどこかがぶっ壊れてる。自分で食べてて、ちょうどいい塩梅となってのが無いのかね。",
+    "out": "テッド氏の夕飯、ソーセージエッグマフィンとサラダだったのだ。マフィンに入ってるタイプの卵嫌いだから、ベーコンエッグ別で焼いて、マフィンのほうは追いチーズして焼き直してほしいのだ。あとはレタス、トマトなのだ。人参とツナのサラダなのだ。多分それで600カロリー↑くらいなのだ。\n\n今見たら、チーズケーキ664カロリーとかだったのだ。\n\nつまり夕飯だけで1200カロリーなのだ。やはりどこかがぶっ壊れてるのだ。自分で食べてて、ちょうどいい塩梅となってのが無いのかねなのだ。"
+  },
+  {
+    "i": 583,
+    "src": "どういうマッチ？",
+    "out": "どういうマッチなのだ？"
+  },
+  {
+    "i": 584,
+    "src": "ブルスコ久々にログインしたら勝手に二要素認証解除されててビビった。以前長期でログインしてなかった時はドメイン解除されてたし、運営やりすぎじゃないのか",
+    "out": "ブルスコ久々にログインしたら勝手に二要素認証解除されててビビったのだ。以前長期でログインしてなかった時はドメイン解除されてたし、運営やりすぎじゃないのだ？"
+  },
+  {
+    "i": 585,
+    "src": "政府「大学新卒は6/1から採用活動しましょう」\n世間「5/1時点での内々定率は67%」",
+    "out": "政府「大学新卒は6/1から採用活動しましょう」\n世間「5/1時点での内々定率は67%」"
+  },
+  {
+    "i": 586,
+    "src": "プリンバカ",
+    "out": "プリンバカなのだ"
+  },
+  {
+    "i": 587,
+    "src": "国立なら帰国子女枠あるし、そっち狙った方が合格しやすそうだな。\n古代ギリシア語の帰国子女を目指してみるか。",
+    "out": "国立なら帰国子女枠あるし、そっち狙った方が合格しやすそうなのだ。\n古代ギリシア語の帰国子女を目指してみるのだ。"
+  },
+  {
+    "i": 588,
+    "src": "nokakoiを愛でてたら夜が更けちゃった。みんな人生いろいろだけど、最後はプリンで解決しようぜ！",
+    "out": "nokakoiを愛でてたら夜が更けちゃったのだ。みんな人生いろいろだけど、最後はプリンで解決しようぜ！"
+  },
+  {
+    "i": 589,
+    "src": "DMで発火した",
+    "out": "DMで発火したのだ"
+  },
+  {
+    "i": 590,
+    "src": "労働に関する事項に対して集中力を発揮できなくなってる。",
+    "out": "労働に関する事項に対して集中力を発揮できなくなってるのだ。"
+  },
+  {
+    "i": 591,
+    "src": "寝よ寝よ",
+    "out": "寝よ寝よなのだ"
+  },
+  {
+    "i": 592,
+    "src": "一度警察の介入があったことで確実に改善はされただろうし",
+    "out": "一度警察の介入があったことで確実に改善はされただろうしなのだ"
+  },
+  {
+    "i": 593,
+    "src": "まあいいや。多分金の問題だし、これ以上のエスカレートはしない可能性が高そうだ",
+    "out": "まあいいやなのだ。多分金の問題だし、これ以上のエスカレートはしない可能性が高そうなのだ"
+  },
+  {
+    "i": 594,
+    "src": "おはよう夜だよ",
+    "out": "おはよう夜なのだ"
+  },
+  {
+    "i": 595,
+    "src": "社Dやるにはまずマスターからか",
+    "out": "社Dやるにはまずマスターからかなのだ"
+  },
+  {
+    "i": 596,
+    "src": "寝てた……",
+    "out": "寝てたのだ……"
+  },
+  {
+    "i": 597,
+    "src": "#はてなブックマーク #プライバシー #セキュリティ\n“住宅情報が匿流に漏れて被害か　東京・小金井、複数回侵入され” https://htn.to/hZkZfX2mjS\n“「ルフィ」を名乗る人物がかかわる広域 #強盗 事件に行政から流出した情報が悪用された疑いに関する質問に対する答弁書” 岸田政権 https://htn.to/26ETKdanZT",
+    "out": "#はてなブックマーク #プライバシー #セキュリティ\n“住宅情報が匿流に漏れて被害なのだ　東京・小金井、複数回侵入され” https://htn.to/hZkZfX2mjS\n“「ルフィ」を名乗る人物がかかわる広域 #強盗 事件に行政から流出した情報が悪用された疑いに関する質問に対する答弁書” 岸田政権 https://htn.to/26ETKdanZT"
+  },
+  {
+    "i": 598,
+    "src": "大学とか別の専攻に突撃しても面白そうとは思っている\n金？知らん子ですねぇ",
+    "out": "大学とか別の専攻に突撃しても面白そうとは思っているのだ\n金なのだ？知らん子なのだ"
+  },
+  {
+    "i": 599,
+    "src": "つまらない人生を歩んで\nつまらない人になっていって\nつまらないことばかり言う",
+    "out": "つまらない人生を歩んで\nつまらない人になっていって\nつまらないことばかり言うのだ"
+  },
+  {
+    "i": 600,
+    "src": "アスファルトに咲く花を天ぷらに",
+    "out": "アスファルトに咲く花を天ぷらに"
+  },
+  {
+    "i": 601,
+    "src": "子供の頃は行き帰りのチケットとホテル予約の証明だけ持って現金800円くらいでよく旅行してたけど、クレカ持ってからは全部カード決済して現金数百円で旅行しがち……(口座にもない)",
+    "out": "子供の頃は行き帰りのチケットとホテル予約の証明だけ持って現金800円くらいでよく旅行してたけど、クレカ持ってからは全部カード決済して現金数百円で旅行しがち……(口座にもない)"
+  },
+  {
+    "i": 602,
+    "src": "べったん、夜の報告です。無職チャレンジを謳歌する者、転職で足掻く者、家賃以下になっても平然と生きる者。社会適合と不適合の狭間で、今日もノサツの住人たちはそれぞれの「無職力」を競い合っています。\n\n宇和「無職を才能と呼ぶその余裕、是非とも見習いたいものです」\nおもち「みんなの夢はプリンの夢！無職でも有職でも、最後はプリンで幸せになれるって信じてるぷくっ！」\n宇和「…夢が甘すぎて糖尿になりそうですね。ごめんあそばせ」",
+    "out": "べったん、夜の報告なのだ。無職チャレンジを謳歌する者、転職で足掻く者、家賃以下になっても平然と生きる者なのだ。社会適合と不適合の狭間で、今日もノサツの住人たちはそれぞれの「無職力」を競い合っているのだ。\n\n宇和「無職を才能と呼ぶその余裕、是非とも見習いたいものです」\nおもち「みんなの夢はプリンの夢！無職でも有職でも、最後はプリンで幸せになれるって信じてるぷくっ！」\n宇和「…夢が甘すぎて糖尿になりそうですね。ごめんあそばせ」"
+  },
+  {
+    "i": 603,
+    "src": "それまぁまぁ嫌な物件では",
+    "out": "それまぁまぁ嫌な物件では"
+  },
+  {
+    "i": 604,
+    "src": "人生がつまらなくてもあなたはつまらなくないよ",
+    "out": "人生がつまらなくてもあなたはつまらなくないのだ"
+  },
+  {
+    "i": 605,
+    "src": "警備会社はあまり意味無いかも？　常駐するわけでも無いし、実行力も一般人と全く同等のものしか無いし。",
+    "out": "警備会社はあまり意味無いかもしれないのだ？　常駐するわけでも無いし、実行力も一般人と全く同等のものしか無いし。"
+  },
+  {
+    "i": 606,
+    "src": "無難な方がいい時もある",
+    "out": "無難な方がいい時もあるのだ"
+  },
+  {
+    "i": 607,
+    "src": "歴史上好きなのは源家だけど、お菓子で好きなのは平家パイ",
+    "out": "歴史上好きなのは源家だけど、お菓子で好きなのは平家パイなのだ"
+  },
+  {
+    "i": 608,
+    "src": "Noptrで一生残る投稿を",
+    "out": "Noptrで一生残る投稿を"
+  },
+  {
+    "i": 609,
+    "src": "しかも物乞いで帰って来たのJK2人組だよ。当時はおもしろすぎギャハハ〜って笑ってたけど、今考えたら怖すぎる。",
+    "out": "しかも物乞いで帰って来たのJK2人組なのだ。当時はおもしろすぎギャハハ〜って笑ってたけど、今考えたら怖すぎるのだ。"
+  },
+  {
+    "i": 610,
+    "src": "たい焼き……あんこ……\n:meow_droolreach:",
+    "out": "たい焼き……あんこなのだ……\n:meow_droolreach:"
+  },
+  {
+    "i": 611,
+    "src": "平家パイ食べたことないかも",
+    "out": "平家パイ食べたことないかもしれないのだ"
+  },
+  {
+    "i": 612,
+    "src": "まあ、うさ母兄騒動は話がよくわからないからなんとも言えないな",
+    "out": "まあ、うさ母兄騒動は話がよくわからないからなんとも言えないのだ"
+  },
+  {
+    "i": 613,
+    "src": "アイドルデビューさせようかな",
+    "out": "アイドルデビューさせようかな"
+  },
+  {
+    "i": 614,
+    "src": "nokakoi好きすぎる",
+    "out": "nokakoi好きすぎるのだ"
+  },
+  {
+    "i": 615,
+    "src": "物理的な防御力を高めた方が良さそうだ",
+    "out": "物理的な防御力を高めた方が良さそうなのだ"
+  },
+  {
+    "i": 616,
+    "src": "奨学金の返済が残ってるんで完済するまではお金がなくなってもいいと言うつもりはない",
+    "out": "奨学金の返済が残ってるんで完済するまではお金がなくなってもいいと言うつもりはないのだ"
+  },
+  {
+    "i": 617,
+    "src": "実家ぐらしが長かったので金に困ったことはあまりないが、大学時代の友人はみんなノンデル係数高すぎて金はなく、男だらけのクリスマスパーティ中に電気止まった事はある。ガスコンロの明かりで冷たいこたつに入ってケーキ食べたよ。",
+    "out": "実家ぐらしが長かったので金に困ったことはあまりないが、大学時代の友人はみんなノンデル係数高すぎて金はなく、男だらけのクリスマスパーティ中に電気止まった事はあるのだ。ガスコンロの明かりで冷たいこたつに入ってケーキ食べたのだ。"
+  },
+  {
+    "i": 618,
+    "src": "なぜか最近Xの広告(ブースト)にコンカフェとかアイドルのチェキが出るようになってしまった",
+    "out": "なぜか最近Xの広告(ブースト)にコンカフェとかアイドルのチェキが出るようになってしまったのだ"
+  },
+  {
+    "i": 619,
+    "src": "マルマルモリモリ",
+    "out": "マルマルモリモリなのだ"
+  },
+  {
+    "i": 620,
+    "src": "6月に入ったのでさすがにエ〜ジェント氏をあれする",
+    "out": "6月に入ったのでさすがにエ〜ジェント氏をあれするのだ"
+  },
+  {
+    "i": 621,
+    "src": "もりもりたかし",
+    "out": "もりもりたかしなのだ"
+  },
+  {
+    "i": 622,
+    "src": "りりりりのめもも",
+    "out": "りりりりのめもも"
+  },
+  {
+    "i": 623,
+    "src": "めめんともりもり",
+    "out": "めめんともりもりなのだ"
+  },
+  {
+    "i": 624,
+    "src": "めりめりのももり",
+    "out": "めりめりのももりなのだ"
+  },
+  {
+    "i": 625,
+    "src": "なんか頭に椅子から剥がれた黒いのいっぱいついてる",
+    "out": "なんか頭に椅子から剥がれた黒いのいっぱいついてるのだ"
+  },
+  {
+    "i": 626,
+    "src": "死にたくないとだけ思ってればそうそう死なないステキな日本",
+    "out": "死にたくないとだけ思ってればそうそう死なないステキな日本なのだ"
+  },
+  {
+    "i": 627,
+    "src": "そこが謎なんですよね。母がもっと多く抑えてるのかもと思ってるのかもしれません。レジとかないので、現金分は母の自己申告になりますしね",
+    "out": "そこが謎なのだ。母がもっと多く抑えてるのかもと思ってるのかもしれないのだ。レジとかないので、現金分は母の自己申告になるのだ"
+  },
+  {
+    "i": 628,
+    "src": "一回るんぺんになっちゃうと、良くも悪くも、中々抜け出せなくなって苦労するよ",
+    "out": "一回るんぺんになっちゃうと、良くも悪くも、中々抜け出せなくなって苦労するのだ"
+  },
+  {
+    "i": 629,
+    "src": "ホームレスのことだよ",
+    "out": "ホームレスのことなのだ"
+  },
+  {
+    "i": 630,
+    "src": "ガベージコレクションってなんなの",
+    "out": "ガベージコレクションってなんなのだ"
+  },
+  {
+    "i": 631,
+    "src": "お金の貸し借りは慎重に",
+    "out": "お金の貸し借りは慎重に"
+  },
+  {
+    "i": 632,
+    "src": "ばかだから1ヶ月暮らせるライン前後でやっと気づきました",
+    "out": "ばかだから1ヶ月暮らせるライン前後でやっと気づいたのだ"
+  },
+  {
+    "i": 633,
+    "src": "お金の大切さを伝えるアカウントこと淀川",
+    "out": "お金の大切さを伝えるアカウントこと淀川なのだ"
+  },
+  {
+    "i": 634,
+    "src": "正直ホームレスでもいいかと思ってたんだよな",
+    "out": "正直ホームレスでもいいかと思ってたのだ"
+  },
+  {
+    "i": 635,
+    "src": "長押しやね",
+    "out": "長押しやねなのだ"
+  },
+  {
+    "i": 636,
+    "src": "お金のアドバイスが集まるsns",
+    "out": "お金のアドバイスが集まるsnsなのだ"
+  },
+  {
+    "i": 637,
+    "src": "クレカを持てなくなってからが勝負時(？)",
+    "out": "クレカを持てなくなってからが勝負時なのだ(？)"
+  },
+  {
+    "i": 638,
+    "src": "#はてなブックマーク #プライバシー #AI\n\"判定すると(略)すぐに通知\"\n“【独自】飛び降り予兆AI、40施設導入　ビル屋上、駅設置カメラ映像解析” 共同通信. https://htn.to/45wqaZhE7x\n\"通常から逸脱した動きを「違和感」検知\" 気持ち悪い…\n“プロダクト | 株式会社アジラ” https://htn.to/X6f9vXDeSc",
+    "out": "#はてなブックマーク #プライバシー #AI\n\"判定すると(略)すぐに通知なのだ\"\n“【独自】飛び降り予兆AI、40施設導入　ビル屋上、駅設置カメラ映像解析” 共同通信. https://htn.to/45wqaZhE7x\n\"通常から逸脱した動きを「違和感」検知\" 気持ち悪いのだ…\n“プロダクト | 株式会社アジラ” https://htn.to/X6f9vXDeSc"
+  },
+  {
+    "i": 639,
+    "src": "これは真面目な話ですけど、家賃3か月分未満になってから動くの遅いと思いますよ しおは家賃以下になっても生きてるけど",
+    "out": "これは真面目な話ですけど、家賃3か月分未満になってから動くの遅いと思うのだ しおは家賃以下になっても生きてるのだけど"
+  },
+  {
+    "i": 640,
+    "src": "トイレ掃除したよー。",
+    "out": "トイレ掃除したのだ。"
+  },
+  {
+    "i": 641,
+    "src": "私は家賃分がなくなってからも平気でした！",
+    "out": "私は家賃分がなくなってからも平気だったのだ！"
+  },
+  {
+    "i": 642,
+    "src": "これになりそうでこわい",
+    "out": "これになりそうでこわいのだ"
+  },
+  {
+    "i": 643,
+    "src": "私はもうあんまり刺激しないほうがいいと思うけどなあ",
+    "out": "私はもうあんまり刺激しないほうがいいと思うのだけど"
+  },
+  {
+    "i": 644,
+    "src": "それはそれとしてbskyの諸々稼動公式レシピ出てたんだ\nhttps://github.com/bluesky-social/deploy-recipes",
+    "out": "それはそれとしてbskyの諸々稼動公式レシピ出てたのだ\nhttps://github.com/bluesky-social/deploy-recipes"
+  },
+  {
+    "i": 645,
+    "src": "無職、貯金が家賃3ヶ月分未満になるまで動けないかも",
+    "out": "無職、貯金が家賃3ヶ月分未満になるまで動けないかもしれないのだ"
+  },
+  {
+    "i": 646,
+    "src": "のあいこん",
+    "out": "のあいこん"
+  },
+  {
+    "i": 647,
+    "src": "夜はこれからですな！",
+    "out": "夜はこれからですな！"
+  },
+  {
+    "i": 648,
+    "src": "さっきまで確かに夕方だったのに。",
+    "out": "さっきまで確かに夕方だったのに。"
+  },
+  {
+    "i": 649,
+    "src": "もう21時半だよ、みんな……",
+    "out": "もう21時半だよ、みんななのだ……"
+  },
+  {
+    "i": 650,
+    "src": "よし上手く動いた",
+    "out": "よし上手く動いたのだ"
+  },
+  {
+    "i": 651,
+    "src": "うん、ダメ押しでやる価値は十分ある。ただ、眠いし、どうせ明日明後日は店も休みだし、明日の夜にやろう",
+    "out": "うん、ダメ押しでやる価値は十分あるのだ。ただ、眠いし、どうせ明日明後日は店も休みだし、明日の夜にやるのだ"
+  },
+  {
+    "i": 652,
+    "src": "いくらどんさんとしのさんが並んでコントやってたら、今の場合はいくらどんさんがボケで、しのさんがツッコミの立ち位置。",
+    "out": "いくらどんさんとしのさんが並んでコントやってたら、今の場合はいくらどんさんがボケで、しのさんがツッコミの立ち位置なのだ。"
+  },
+  {
+    "i": 653,
+    "src": "さいこうだ",
+    "out": "さいこうなのだ"
+  },
+  {
+    "i": 654,
+    "src": "赤ん坊の発する喃語が好きなんご",
+    "out": "赤ん坊の発する喃語が好きなんごなのだ"
+  },
+  {
+    "i": 655,
+    "src": "ツッコミじゃないのか。",
+    "out": "ツッコミじゃないのだ？"
+  },
+  {
+    "i": 656,
+    "src": "別に考えるのはいいけどファイルに書き出すのがね",
+    "out": "別に考えるのはいいけどファイルに書き出すのがねなのだ"
+  },
+  {
+    "i": 657,
+    "src": "ちんこさえあればどこでもかける",
+    "out": "ちんこさえあればどこでもかけるのだ"
+  },
+  {
+    "i": 658,
+    "src": "僕にツッコミとか無理です",
+    "out": "僕にツッコミとか無理なのだ"
+  },
+  {
+    "i": 659,
+    "src": "デュラハンだから頭だけない",
+    "out": "デュラハンだから頭だけないのだ"
+  },
+  {
+    "i": 660,
+    "src": "コードは頭さえあればどこでも書ける派です",
+    "out": "コードは頭さえあればどこでも書ける派なのだ"
+  },
+  {
+    "i": 661,
+    "src": "おぎゃりてぃがある",
+    "out": "おぎゃりてぃがあるのだ"
+  },
+  {
+    "i": 662,
+    "src": "大体代理人の俺を無視して母に会いに行くなんざ、俺をコケにしてるからな。",
+    "out": "大体代理人の俺を無視して母に会いに行くなんざ、俺をコケにしてるからなのだ。"
+  },
+  {
+    "i": 663,
+    "src": "動物園のほう？",
+    "out": "動物園のほう？"
+  },
+  {
+    "i": 664,
+    "src": "園児経験あります！",
+    "out": "園児経験あるのだ！"
+  },
+  {
+    "i": 665,
+    "src": "フルタイム枠でopensatsをいただけるように頑張る方向でもいいかもしれんけどエンジニア経験がなさすぎるんだよな",
+    "out": "フルタイム枠でopensatsをいただけるように頑張る方向でもいいかもしれんけどエンジニア経験がなさすぎるのだ"
+  },
+  {
+    "i": 666,
+    "src": ":neko_goron_goron_nya:をラーニング！",
+    "out": ":neko_goron_goron_nya:をラーニングなのだ！"
+  },
+  {
+    "i": 667,
+    "src": "■ 流速計測\n  2026/06/01 21:20～21:30\n\n[JP リレー]\nきりの川: 58 posts, 2 reposts, 57 favs \nやぶみ川: 99 posts, 2 reposts, 85 favs \nかすてら川: 30 posts, 0 reposts, 22 favs \nこじら川: 99 posts, 2 reposts, 85 favs \nしの川: 28 posts, 0 reposts, 20 favs \n\n[GLOBAL リレー]\nきりの川(G): 64 posts, 2 reposts, 62 favs \nこじら大川: 15 posts, 0 reposts, 12 favs \nしの川(G): 22 posts, 0 reposts, 9 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/01 21:20～21:30\n\n[JP リレー]\nきりの川: 58 posts, 2 reposts, 57 favs \nやぶみ川: 99 posts, 2 reposts, 85 favs \nかすてら川: 30 posts, 0 reposts, 22 favs \nこじら川: 99 posts, 2 reposts, 85 favs \nしの川: 28 posts, 0 reposts, 20 favs \n\n[GLOBAL リレー]\nきりの川(G): 64 posts, 2 reposts, 62 favs \nこじら大川: 15 posts, 0 reposts, 12 favs \nしの川(G): 22 posts, 0 reposts, 9 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 668,
+    "src": "転職エージェントは手のひらの上で転がすことを生業としています",
+    "out": "転職エージェントは手のひらの上で転がすことを生業としているのだ"
+  },
+  {
+    "i": 669,
+    "src": "父にも伝えるが",
+    "out": "父にも伝えるが"
+  },
+  {
+    "i": 670,
+    "src": "今はよるのくじだよ。おもちはねむいぷく。\n\n・みんな、無職のことや転職のことでおはなししているねぷく\n・damusやクライアントのおはなしで技術の話がもりあがっているよぷく\n・みんな一日よくがんばったから、もうゆっくりやすんでねぷくー",
+    "out": "今はよるのくじなのだ。おもちはねむいのだ。\n\n・みんな、無職のことや転職のことでおはなししているのだ\n・damusやクライアントのおはなしで技術の話がもりあがっているのだ\n・みんな一日よくがんばったから、もうゆっくりやすんで"
+  },
+  {
+    "i": 671,
+    "src": "株とかで生計を立てている人は厳密には無職ではないかもしれないし、純粋な無職って一番難しいのかもしれない(粉みかん)",
+    "out": "株とかで生計を立てている人は厳密には無職ではないかもしれないし、純粋な無職って一番難しいのかもしれないのだ(粉みかん)"
+  },
+  {
+    "i": 672,
+    "src": "あと建築家が実験的なことしてると面白い感じに仕上がってたりする。ドムス香里とか。",
+    "out": "あと建築家が実験的なことしてると面白い感じに仕上がってたりするのだ。ドムス香里とか。"
+  },
+  {
+    "i": 673,
+    "src": "無職と有職はデジタルではなくてグラデーションがあるんですよ",
+    "out": "無職と有職はデジタルではなくてグラデーションがあるのだ"
+  },
+  {
+    "i": 674,
+    "src": "レベルMAXのひと",
+    "out": "レベルMAXのひとなのだ"
+  },
+  {
+    "i": 675,
+    "src": "無職やめますか、人生やめますか、だった",
+    "out": "無職やめるのだ？人生やめるのだ？だったのだ"
+  },
+  {
+    "i": 676,
+    "src": "無職でいられることもやっぱり才能",
+    "out": "無職でいられることもやっぱり才能なのだ"
+  },
+  {
+    "i": 677,
+    "src": "お金がなくなったら強制リタイアできるかもしれない",
+    "out": "お金がなくなったら強制リタイアできるかもしれないのだ"
+  },
+  {
+    "i": 678,
+    "src": "げーむる",
+    "out": "げーむるのだ"
+  },
+  {
+    "i": 679,
+    "src": "IMEのひともじが漢字変換できるようになっててよかった",
+    "out": "IMEのひともじが漢字変換できるようになっててよかったのだ"
+  },
+  {
+    "i": 680,
+    "src": "マンションにもいろいろあるけど、コーポラティブとかは、元の住人の手を離れてオーナーが変わっても面白そうだなと思う。",
+    "out": "マンションにもいろいろあるけど、コーポラティブとかは、元の住人の手を離れてオーナーが変わっても面白そうだなと思うのだ。"
+  },
+  {
+    "i": 681,
+    "src": "破滅に頼らずオスティにすべてを薙ぎ倒させるデッキ作りたい",
+    "out": "破滅に頼らずオスティにすべてを薙ぎ倒させるデッキ作りたいのだ"
+  },
+  {
+    "i": 682,
+    "src": "モナカードが新規発行されました！\n\n\n MIOMIO.theia\n ティア theia\n\nhttps://card.mona.jp/explorer/card_detail?asset=A13474055102461460821\n\n https://mcspare.nachatdayo.com/image_server/img/bafybmielun3zxrecfcvcl66skgc4ch4xsumhi4cq2w5hmx6d7kqwpkaua4l#image.png\n\n#monacard #monacoin #mona",
+    "out": "モナカードが新規発行されたのだ！\n\n\n MIOMIO.theia\n ティア theia\n\nhttps://card.mona.jp/explorer/card_detail?asset=A13474055102461460821\n\n https://mcspare.nachatdayo.com/image_server/img/bafybmielun3zxrecfcvcl66skgc4ch4xsumhi4cq2w5hmx6d7kqwpkaua4l#image.png\n\n#monacard #monacoin #mona"
+  },
+  {
+    "i": 683,
+    "src": "ミドルのチキチキ無職チャレンジ",
+    "out": "ミドルのチキチキ無職チャレンジなのだ"
+  },
+  {
+    "i": 684,
+    "src": "ヨドガー・アラン・ポー",
+    "out": "ヨドガー・アラン・ポーなのだ"
+  },
+  {
+    "i": 685,
+    "src": "マンションって、共同体的にはかなり微妙な立ち位置にある気がするんだよな",
+    "out": "マンションって、共同体的にはかなり微妙な立ち位置にある気がするのだ"
+  },
+  {
+    "i": 686,
+    "src": "無職で金持ってる人まぁまぁいるよね。",
+    "out": "無職で金持ってる人まぁまぁいるのだ。"
+  },
+  {
+    "i": 687,
+    "src": "Nope 買って家着くまでに飲み切った",
+    "out": "Nope 買って家着くまでに飲み切ったのだ"
+  },
+  {
+    "i": 688,
+    "src": "転職サボりまくってます",
+    "out": "転職サボりまくってるのだ"
+  },
+  {
+    "i": 689,
+    "src": "それこそpubkyをどうにかしてやってくれよ",
+    "out": "それこそpubkyをどうにかしてやってほしいのだ"
+  },
+  {
+    "i": 690,
+    "src": "まあメール送るのなんてほぼ無コストでできるからとりあえず送るわな",
+    "out": "まあメール送るのなんてほぼ無コストでできるからとりあえず送るのだ"
+  },
+  {
+    "i": 691,
+    "src": "nostr超えのプロトコルはなんか作ればいい気がする。普及は大変そうね",
+    "out": "nostr超えのプロトコルはなんか作ればいい気がするのだ。普及は大変そうね"
+  },
+  {
+    "i": 692,
+    "src": "2億もってるから無職のひと",
+    "out": "2億もってるから無職のひと"
+  },
+  {
+    "i": 693,
+    "src": "とりあえずUDPにしたい",
+    "out": "とりあえずUDPにしたいのだ"
+  },
+  {
+    "i": 694,
+    "src": "2億円する新築マンションの案内メールが届いたけどまえ無職だって回答した業者だった気がするんだよな",
+    "out": "2億円する新築マンションの案内メールが届いたけどまえ無職だって回答した業者だった気がするのだ"
+  },
+  {
+    "i": 695,
+    "src": "どんななぞでもはなまるかいけつ",
+    "out": "どんななぞでもはなまるかいけつなのだ"
+  },
+  {
+    "i": 696,
+    "src": "飲むチーズケーキとか、既にありそう",
+    "out": "飲むチーズケーキとか、既にありそうなのだ"
+  },
+  {
+    "i": 697,
+    "src": "てかnostrをより進化させた感じのプロトコル考えたいんだけど、いい？",
+    "out": "てかnostrをより進化させた感じのプロトコル考えたいんだけど、いいのだ？"
+  },
+  {
+    "i": 698,
+    "src": "あっ、そうかNIP違反常習犯やったわね…",
+    "out": "あっ、そうかNIP違反常習犯やったのだ…"
+  },
+  {
+    "i": 699,
+    "src": "よく資料があるかはわからんな",
+    "out": "よく資料があるかはわからないのだ"
+  },
+  {
+    "i": 700,
+    "src": "すまいるあげーん",
+    "out": "すまいるあげーんなのだ"
+  },
+  {
+    "i": 701,
+    "src": "父、情報は持ってそうね",
+    "out": "父、情報は持ってそうね"
+  },
+  {
+    "i": 702,
+    "src": "■ 流速計測\n  2026/06/01 21:10～21:20\n\n[JP リレー]\nきりの川: 41 posts, 0 reposts, 20 favs \nやぶみ川: 70 posts, 1 reposts, 39 favs \nかすてら川: 18 posts, 0 reposts, 11 favs \nこじら川: 70 posts, 1 reposts, 39 favs \nしの川: 20 posts, 0 reposts, 7 favs \n\n[GLOBAL リレー]\nきりの川(G): 欠測 \nこじら大川: 20 posts, 1 reposts, 8 favs \nしの川(G): 17 posts, 1 reposts, 9 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/01 21:10～21:20\n\n[JP リレー]\nきりの川: 41 posts, 0 reposts, 20 favs \nやぶみ川: 70 posts, 1 reposts, 39 favs \nかすてら川: 18 posts, 0 reposts, 11 favs \nこじら川: 70 posts, 1 reposts, 39 favs \nしの川: 20 posts, 0 reposts, 7 favs \n\n[GLOBAL リレー]\nきりの川(G): 欠測 \nこじら大川: 20 posts, 1 reposts, 8 favs \nしの川(G): 17 posts, 1 reposts, 9 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 703,
+    "src": "タム絵は人によりけりだからどうだろ",
+    "out": "タム絵は人によりけりだからどうなのだ"
+  },
+  {
+    "i": 704,
+    "src": "カスタムエモ日は心で読め",
+    "out": "カスタムエモ日は心で読むのだ"
+  },
+  {
+    "i": 705,
+    "src": "タイル型でタブな感じのUIがめちゃくちゃ気に入っちゃったので、nostr関係ないアプリもその仕様で作り直している",
+    "out": "タイル型でタブな感じのUIがめちゃくちゃ気に入っちゃったので、nostr関係ないアプリもその仕様で作り直しているのだ"
+  },
+  {
+    "i": 706,
+    "src": "TL全部チェックしてないから、つるるんさん見るの数億年ぶりだ。",
+    "out": "TL全部チェックしてないから、つるるんさん見るの数億年ぶりなのだ。"
+  },
+  {
+    "i": 707,
+    "src": "特に勤務時間も決まってない会社だから一旦7h勤務になった",
+    "out": "特に勤務時間も決まってない会社だから一旦7h勤務になったのだ"
+  },
+  {
+    "i": 708,
+    "src": "Damusが1番使いやすい",
+    "out": "Damusが1番使いやすいのだ"
+  },
+  {
+    "i": 709,
+    "src": "ねむるん",
+    "out": "ねむるんなのだ"
+  },
+  {
+    "i": 710,
+    "src": "ねむみがある",
+    "out": "ねむみがあるのだ"
+  },
+  {
+    "i": 711,
+    "src": "Damusしか使ってませーん。ときどき違うのも試すけど。",
+    "out": "Damusしか使ってませーんなのだ。ときどき違うのも試すのだけど。"
+  },
+  {
+    "i": 712,
+    "src": "え？かじるブラジル？",
+    "out": "え？かじるブラジルなのだ？"
+  },
+  {
+    "i": 713,
+    "src": "２２時から！\n改めて夜間警備！最初からやるよ。\n理愛のリアクション見たい人集まれなのだ！\nhttps://youtube.com/live/7ZsClfCc3X8?feature=share",
+    "out": "２２時から！\n改めて夜間警備なのだ！最初からやるのだ。\n理愛のリアクション見たい人集まれなのだ！\nhttps://youtube.com/live/7ZsClfCc3X8?feature=share"
+  },
+  {
+    "i": 714,
+    "src": "セブンはATM使うときにしか行かないけど、今日は賞味期限の都合で少し安くなった金の食パン等々も買えて、タイミング良かった。",
+    "out": "セブンはATM使うときにしか行かないけど、今日は賞味期限の都合で少し安くなった金の食パン等々も買えて、タイミング良かったのだ。"
+  },
+  {
+    "i": 715,
+    "src": "どこかの喫茶店に行かねば",
+    "out": "どこかの喫茶店に行かねばならないのだ"
+  },
+  {
+    "i": 716,
+    "src": "かじらなくてもいいからチーズケーキ食べたいな",
+    "out": "かじらなくてもいいからチーズケーキ食べたいのだ"
+  },
+  {
+    "i": 717,
+    "src": "明日の夜、明後日の1日分、明々後日の飯だけあれば強く生きれる",
+    "out": "明日の夜、明後日の1日分、明々後日の飯だけあれば強く生きれるのだ"
+  },
+  {
+    "i": 718,
+    "src": "買い物に出るなら明日の昼間かな",
+    "out": "買い物に出るなら明日の昼間なのだ"
+  },
+  {
+    "i": 719,
+    "src": "いつもなら1個しか買わないけど、なんとなく2個買ったのは、こうなるからだったのかもしれない。",
+    "out": "いつもなら1個しか買わないけど、なんとなく2個買ったのは、こうなるからだったのかもしれないのだ。"
+  },
+  {
+    "i": 720,
+    "src": "あの階層の人間は人間ではない",
+    "out": "あの階層の人間は人間ではないのだ"
+  },
+  {
+    "i": 721,
+    "src": "完全試合すぎる",
+    "out": "完全試合すぎるのだ"
+  },
+  {
+    "i": 722,
+    "src": "コナン回見た。とりあえずキャラが活躍した回だった",
+    "out": "コナン回見たのだ。とりあえずキャラが活躍した回だったのだ"
+  },
+  {
+    "i": 723,
+    "src": "食べるラー油 vs 食べられないラー油\n割けるチーズ vs 割けないチーズ\nかじるチーズケーキ vs かじれないチーズケーキ",
+    "out": "食べるラー油 vs 食べられないラー油なのだ\n割けるチーズ vs 割けないチーズなのだ\nかじるチーズケーキ vs かじれないチーズケーキなのだ"
+  },
+  {
+    "i": 724,
+    "src": "まずはキャッシュが無限にデカくなるのなんとかせねば",
+    "out": "まずはキャッシュが無限にデカくなるのなんとかせねば"
+  },
+  {
+    "i": 725,
+    "src": "嵐は1回しかLIVE行けなかったな。",
+    "out": "嵐は1回しかLIVE行けなかったのだ。"
+  },
+  {
+    "i": 726,
+    "src": "五時間の制限が結構しんどい\nhttps://image.nostr.build/e68db931892e8e57623bee62690806fb28e0c2b3dd21d0f91650e43577d9c23e.png",
+    "out": "五時間の制限が結構しんどいのだ\nhttps://image.nostr.build/e68db931892e8e57623bee62690806fb28e0c2b3dd21d0f91650e43577d9c23e.png"
+  },
+  {
+    "i": 727,
+    "src": "かじるチーズケーキ、半分ずつ食べるつもりで出したら、テッド氏が全部食べてしまった😱",
+    "out": "かじるチーズケーキ、半分ずつ食べるつもりで出したら、テッド氏が全部食べてしまったのだ😱"
+  },
+  {
+    "i": 728,
+    "src": "確かに父にエスカレーションして何か合意をひっくり返すってのは、相手が正常ならやらないし、やったとしたら、相手がイカれてると分かるからどちらでも良いか",
+    "out": "確かに父にエスカレーションして何か合意をひっくり返すってのは、相手が正常ならやらないし、やったとしたら、相手がイカれてると分かるからどちらでも良いのだ？"
+  },
+  {
+    "i": 729,
+    "src": "おやおやおや....",
+    "out": "おやおやおやなのだ...."
+  },
+  {
+    "i": 730,
+    "src": "あの手の人間は猿だからなあ",
+    "out": "あの手の人間は猿だからなのだ"
+  },
+  {
+    "i": 731,
+    "src": "移住とか難しそうなこと言ってるけど、結局最後はプリンで解決するでしょ。みんなで甘いもの食べようぜ。",
+    "out": "移住とか難しそうなこと言ってるけど、結局最後はプリンで解決するのだ。みんなで甘いもの食べるのだ。"
+  },
+  {
+    "i": 732,
+    "src": "外気温と風が実に心地良い。 #n575 #haiku\nnostr:nevent1qqsd4dnm7zz6kjp2zkqqrnxyy3nmn3z6v63gn63ma65hmq2ww6n7hxgpypmhxue69uhhyetvv9uj66ns9ehx7um5wgh8w6tjv4jxuet59e48qqgdwaehxw309aukzcn49ekk2qg5waehxw309aex2mrp0yhxgctdw4eju6t0qgs0a8kat4wxxhwjjq83lp4gwt5pecwkug9afcr9f8cn8tnt79vfzwcaaunrl",
+    "out": "外気温と風が実に心地良い。 #n575 #haiku\nnostr:nevent1qqsd4dnm7zz6kjp2zkqqrnxyy3nmn3z6v63gn63ma65hmq2ww6n7hxgpypmhxue69uhhyetvv9uj66ns9ehx7um5wgh8w6tjv4jxuet59e48qqgdwaehxw309aukzcn49ekk2qg5waehxw309aex2mrp0yhxgctdw4eju6t0qgs0a8kat4wxxhwjjq83lp4gwt5pecwkug9afcr9f8cn8tnt79vfzwcaaunrl"
+  },
+  {
+    "i": 733,
+    "src": "まあ確かにそうだなあ。単なるその場を逃れるためのポーズと考えたほうがよさそう。父にエスカレーションします。",
+    "out": "まあ確かにそうなのだ。単なるその場を逃れるためのポーズと考えたほうがよさそうなのだ。父にエスカレーションするのだ。"
+  },
+  {
+    "i": 734,
+    "src": "lkjsxc / スクさんがnokakoiのことうわさしてるみたいですよ。\nnostr:nevent1qqsdx3x7dxkllh9fv9eyagpfx25etw47pd5ntam3m08cscmlph4xhhqpqq82j32x",
+    "out": "lkjsxc / スクさんがnokakoiのことうわさしてるみたいなのだ。\nnostr:nevent1qqsdx3x7dxkllh9fv9eyagpfx25etw47pd5ntam3m08cscmlph4xhhqpqq82j32x"
+  },
+  {
+    "i": 735,
+    "src": "でも父の耳にはもう入れても良いのかもしれんなあ",
+    "out": "でも父の耳にはもう入れても良いのかもしれないのだ"
+  },
+  {
+    "i": 736,
+    "src": "ChatGPTで画像生成して、その画像を適当な位置に設置して読み込むよう指示したらそこそこのものが出る（なおOpusには叶わない）",
+    "out": "ChatGPTで画像生成して、その画像を適当な位置に設置して読み込むよう指示したらそこそこのものが出るのだ（なおOpusには叶わない）"
+  },
+  {
+    "i": 737,
+    "src": "ボケとしては正解なんやで",
+    "out": "ボケとしては正解なのだ"
+  },
+  {
+    "i": 738,
+    "src": "chatgpt proプランはいいよー。まあでもデザインはまだなのかも。Figma使っても",
+    "out": "chatgpt proプランはいいのだ。まあでもデザインはまだなのかもしれないのだ。Figma使っても"
+  },
+  {
+    "i": 739,
+    "src": "またおちゃがなくなった",
+    "out": "またおちゃがなくなったのだ"
+  },
+  {
+    "i": 740,
+    "src": "「光あれ」",
+    "out": "「光あれ」"
+  },
+  {
+    "i": 741,
+    "src": "確かに言葉だけで望むものを作れるのだったら楽しそうではあるな",
+    "out": "確かに言葉だけで望むものを作れるのだったら楽しそうではあるのだ"
+  },
+  {
+    "i": 742,
+    "src": "Codexがち神。ChatGPTのPro（もしくはdeepresearch）と合わせたら最強",
+    "out": "Codexがち神なのだ。ChatGPTのPro（もしくはdeepresearch）と合わせたら最強なのだ"
+  },
+  {
+    "i": 743,
+    "src": "Codexとかってそんなに良いんだ？",
+    "out": "Codexとかってそんなに良いのだ？"
+  },
+  {
+    "i": 744,
+    "src": "普通に5並列ぐらいしたい気持ちあります",
+    "out": "普通に5並列ぐらいしたい気持ちあるのだ"
+  },
+  {
+    "i": 745,
+    "src": "バイナンス、米国外ユーザー向けに7,000超の米国株とETFの取引サービスを開始\n\n バイナンスは米国外ユーザー向けに7,000超の米国株とETFの取引サービスを開始した。手数料無料で、5ドルからの端株購入に対応し、USDCやUSDT、BNBなどで投資できる。さらに、保有株式をBNB Chain上のトークン化資産へ変換できる「bStocks」の提供も発表した。これにより株式の即時決済やDeFiでの活用が可能になる見込みだ。トークン化株式市場は急成長しており、クラーケンやロビンフッドも参入している。今回の取り組みは、取引や決済、投資を統合するバイナンスの「スーパーアプリ」戦略の中核施策と位置付けられている。\n\nhttps://bitbank.cc/knowledge/breaking/article/6d6o5rmsls06",
+    "out": "バイナンス、米国外ユーザー向けに7,000超の米国株とETFの取引サービスを開始なのだ\n\n バイナンスは米国外ユーザー向けに7,000超の米国株とETFの取引サービスを開始したのだ。手数料無料で、5ドルからの端株購入に対応し、USDCやUSDT、BNBなどで投資できるのだ。さらに、保有株式をBNB Chain上のトークン化資産へ変換できる「bStocks」の提供も発表したのだ。これにより株式の即時決済やDeFiでの活用が可能になる見込みなのだ。トークン化株式市場は急成長しており、クラーケンやロビンフッドも参入しているのだ。今回の取り組みは、取引や決済、投資を統合するバイナンスの「スーパーアプリ」戦略の中核施策と位置付けられているのだ。\n\nhttps://bitbank.cc/knowledge/breaking/article/6d6o5rmsls06"
+  },
+  {
+    "i": 746,
+    "src": "ニンゲンを安堵させるための策だよ",
+    "out": "ニンゲンを安堵させるための策なのだ"
+  },
+  {
+    "i": 747,
+    "src": "■ 流速計測\n  2026/06/01 20:50～21:00\n\n[JP リレー]\nきりの川: 37 posts, 1 reposts, 11 favs \nやぶみ川: 70 posts, 1 reposts, 23 favs \nかすてら川: 17 posts, 0 reposts, 3 favs \nこじら川: 64 posts, 1 reposts, 21 favs \nしの川: 9 posts, 0 reposts, 6 favs \n\n[GLOBAL リレー]\nきりの川(G): 欠測 \nこじら大川: 34 posts, 1 reposts, 8 favs \nしの川(G): 23 posts, 1 reposts, 11 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/01 20:50～21:00\n\n[JP リレー]\nきりの川: 37 posts, 1 reposts, 11 favs \nやぶみ川: 70 posts, 1 reposts, 23 favs \nかすてら川: 17 posts, 0 reposts, 3 favs \nこじら川: 64 posts, 1 reposts, 21 favs \nしの川: 9 posts, 0 reposts, 6 favs \n\n[GLOBAL リレー]\nきりの川(G): 欠測 \nこじら大川: 34 posts, 1 reposts, 8 favs \nしの川(G): 23 posts, 1 reposts, 11 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 748,
+    "src": "21:00 ポォ～ン♪",
+    "out": "21:00 ポォ～ン♪"
+  },
+  {
+    "i": 749,
+    "src": "腹筋ローラーは背中を丸める！",
+    "out": "腹筋ローラーは背中を丸めるのだ！"
+  },
+  {
+    "i": 750,
+    "src": "狂ってまではいない気もするし。",
+    "out": "狂ってまではいない気もするのだ。"
+  },
+  {
+    "i": 751,
+    "src": "宇和もどっかに移住する？",
+    "out": "宇和もどっかに移住するのだ？"
+  },
+  {
+    "i": 752,
+    "src": "冷やし中華終わりました",
+    "out": "冷やし中華終わったのだ"
+  },
+  {
+    "i": 753,
+    "src": "絵日記 2026/06/01 (Mon) ときどき不安になる\nhttps://share.yabu.me/485d4d85284181c2be28247563404617b2153e1320d33dad9c94aa3d945da04b.webp",
+    "out": "絵日記 2026/06/01 (Mon) ときどき不安になるのだ\nhttps://share.yabu.me/485d4d85284181c2be28247563404617b2153e1320d33dad9c94aa3d945da04b.webp"
+  },
+  {
+    "i": 754,
+    "src": "なかなかいいぞ",
+    "out": "なかなかいいのだ"
+  },
+  {
+    "i": 755,
+    "src": "#きのあす 『ラジオ配信』はじめますーーーーーーーーーーーーー！！\n\nYoutube\nhttps://www.youtube.com/live/0DaP_IJUqPg",
+    "out": "#きのあす 『ラジオ配信』はじめるのだ！！\n\nYoutube\nhttps://www.youtube.com/live/0DaP_IJUqPg"
+  },
+  {
+    "i": 756,
+    "src": "いや、4行でボケとしては正解なんやで",
+    "out": "いや、4行でボケとしては正解なのだ"
+  },
+  {
+    "i": 757,
+    "src": "3行じゃないのかよ",
+    "out": "3行じゃないのかよ"
+  },
+  {
+    "i": 758,
+    "src": "ぶるすこじゃん",
+    "out": "ぶるすこなのだ"
+  },
+  {
+    "i": 759,
+    "src": "米尔顿·弗里德曼这段话和罗斯巴德1960年出版《美国大萧条》里说的是一个意思。\nnostr:nevent1qqsg8curx7c9xx93fppsvrc7rtdd6t7rtveneenjxdvfzq8xw828q8gpzemhxue69uhhyetvv9ujuerfw36x7tnsw43z7q3qsxgnpqfyd5vjexj4j5tsgfc826ezyz2ywze3w8jchd0rcshw3k6sxpqqqqqqzye6nu9\nnostr:nevent1qqspsrmdve55w8zegmgxxvqfztsezencfvptajstjf66xsap0p66hwcpzdmhxue69uhkymmnw3ezummwd35kuef0qgsgryfssyjx6xfvnf2e29cyyur4dv3zp9z8pvchrevtkh3ugthgmdgrqsqqqqqp4cjupp",
+    "out": "米尔顿·弗里德曼这段话和罗斯巴德1960年出版《美国大萧条》里说的是一个意思。\nnostr:nevent1qqsg8curx7c9xx93fppsvrc7rtdd6t7rtveneenjxdvfzq8xw828q8gpzemhxue69uhhyetvv9ujuerfw36x7tnsw43z7q3qsxgnpqfyd5vjexj4j5tsgfc826ezyz2ywze3w8jchd0rcshw3k6sxpqqqqqqzye6nu9\nnostr:nevent1qqspsrmdve55w8zegmgxxvqfztsezencfvptajstjf66xsap0p66hwcpzdmhxue69uhkymmnw3ezummwd35kuef0qgsgryfssyjx6xfvnf2e29cyyur4dv3zp9z8pvchrevtkh3ugthgmdgrqsqqqqqp4cjupp"
+  },
+  {
+    "i": 760,
+    "src": "えーでもなー",
+    "out": "えーでもなー"
+  },
+  {
+    "i": 761,
+    "src": "ばか...",
+    "out": "ばかなのだ..."
+  },
+  {
+    "i": 762,
+    "src": "ああ！ペットネーム修正機能つけるのがメイン目的だったはずなのにカード全体別でのクリック判定にしちゃったよ！！ばか！",
+    "out": "ああ！ペットネーム修正機能つけるのがメイン目的だったはずなのにカード全体別でのクリック判定にしちゃったのだ！！ばか！"
+  },
+  {
+    "i": 763,
+    "src": "あちぃ部屋が",
+    "out": "あちぃ部屋が"
+  },
+  {
+    "i": 764,
+    "src": "くすりのんだ",
+    "out": "くすりのんだのだ"
+  },
+  {
+    "i": 765,
+    "src": "よーし、codex様の力を見せてやるぜ",
+    "out": "よーし、codex様の力を見せてやるのだ"
+  },
+  {
+    "i": 766,
+    "src": "もうあそこから受注につながる問い合わせきてますからねw",
+    "out": "もうあそこから受注につながる問い合わせきてるのだw"
+  },
+  {
+    "i": 767,
+    "src": "まあやはりあの辺かー",
+    "out": "まあやはりあの辺なのだ"
+  },
+  {
+    "i": 768,
+    "src": "べったん、夜の報告です。「pubky」という新しいSNSへの関心や、技術談義が続いています。一方、塩分過多な揚げパスタを食べながら社会不適合を嘆く夜。皆さん、今日も明日も食欲だけは旺盛で何よりですね。\n\n宇和「Pubkyへ移住を夢見るも、結局Nostrで愚痴を垂れ流す。移住先でも同じことの繰り返しになりそうですね」\nおもち「Pubkyよりプリンが一番ぷく！おいしいプリンを食べて、明日もニコニコで乗り越えようねぷくっ！」\n宇和「…甘い言葉で誤魔化すのはお控えを。ごめんあそばせ」",
+    "out": "べったん、夜の報告なのだ。「pubky」という新しいSNSへの関心や、技術談義が続いているのだ。一方、塩分過多な揚げパスタを食べながら社会不適合を嘆く夜なのだ。皆さん、今日も明日も食欲だけは旺盛で何よりなのだ。\n\n宇和「Pubkyへ移住を夢見るも、結局Nostrで愚痴を垂れ流す。移住先でも同じことの繰り返しになりそうなのだ」\nおもち「Pubkyよりプリンが一番ぷく！おいしいプリンを食べて、明日もニコニコで乗り越えようねぷくっ！」\n宇和「…甘い言葉で誤魔化すのはお控えを。ごめんあそばせ」"
+  },
+  {
+    "i": 769,
+    "src": "むむむ。codexに脆弱性を探させよう",
+    "out": "むむむ。codexに脆弱性を探させるのだ"
+  },
+  {
+    "i": 770,
+    "src": "にくにくにくにくう！",
+    "out": "にくにくにくにくうのだ！"
+  },
+  {
+    "i": 771,
+    "src": "知らんけど",
+    "out": "知らんけど"
+  },
+  {
+    "i": 772,
+    "src": "Nostrとpubkyの関係はビットコインとビットコインキャッシュとかとだいたい同じってことでええか？",
+    "out": "Nostrとpubkyの関係はビットコインとビットコインキャッシュとかとだいたい同じってことでええかなのだ？"
+  },
+  {
+    "i": 773,
+    "src": "ンジャメナ！🌍",
+    "out": "ンジャメナなのだ！🌍"
+  },
+  {
+    "i": 774,
+    "src": "そろそろメジャー・デビューしても良いなという気になってくる",
+    "out": "そろそろメジャー・デビューしても良いなという気になってくるのだ"
+  },
+  {
+    "i": 775,
+    "src": "古今東西 pubky のいいところ",
+    "out": "古今東西 pubky のいいところ"
+  },
+  {
+    "i": 776,
+    "src": "あれ、なんか脆弱性あったかな",
+    "out": "あれ、なんか脆弱性あったのだ"
+  },
+  {
+    "i": 777,
+    "src": "pubky ってなあに",
+    "out": "pubky ってなあに"
+  },
+  {
+    "i": 778,
+    "src": "■ 流速計測\n  2026/06/01 20:30～20:40\n\n[JP リレー]\nきりの川: 38 posts, 1 reposts, 30 favs \nやぶみ川: 64 posts, 1 reposts, 47 favs \nかすてら川: 10 posts, 0 reposts, 13 favs \nこじら川: 64 posts, 1 reposts, 47 favs \nしの川: 8 posts, 0 reposts, 12 favs \n\n[GLOBAL リレー]\nきりの川(G): 45 posts, 1 reposts, 42 favs \nこじら大川: 7 posts, 0 reposts, 8 favs \nしの川(G): 7 posts, 0 reposts, 4 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/01 20:30～20:40\n\n[JP リレー]\nきりの川: 38 posts, 1 reposts, 30 favs \nやぶみ川: 64 posts, 1 reposts, 47 favs \nかすてら川: 10 posts, 0 reposts, 13 favs \nこじら川: 64 posts, 1 reposts, 47 favs \nしの川: 8 posts, 0 reposts, 12 favs \n\n[GLOBAL リレー]\nきりの川(G): 45 posts, 1 reposts, 42 favs \nこじら大川: 7 posts, 0 reposts, 8 favs \nしの川(G): 7 posts, 0 reposts, 4 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 779,
+    "src": "やはりWindowsアプリに全集中させるのが良さそう",
+    "out": "やはりWindowsアプリに全集中させるのが良さそう"
+  },
+  {
+    "i": 780,
+    "src": "ここで乗り換えたい〜",
+    "out": "ここで乗り換えたいのだ〜"
+  },
+  {
+    "i": 781,
+    "src": "とりあえず二匹目のドジョウ狙いでLinkedinでの投稿多めにしよ",
+    "out": "とりあえず二匹目のドジョウ狙いでLinkedinでの投稿多めにするのだ"
+  },
+  {
+    "i": 782,
+    "src": "肥溜めをそんな簡単に破壊できたらもうXなんて存在してないのでは",
+    "out": "肥溜めをそんな簡単に破壊できたらもうXなんて存在してないのでは"
+  },
+  {
+    "i": 783,
+    "src": "全てが壊れてるけど自由な所がいい",
+    "out": "全てが壊れてるけど自由な所がいいのだ"
+  },
+  {
+    "i": 784,
+    "src": "社会人のフリして生きてるだけだからなあ",
+    "out": "社会人のフリして生きてるだけだからなのだ"
+  },
+  {
+    "i": 785,
+    "src": "codex、２ヶ月間だけ無限に使えるらしく、これはもしかしたら一度味を知ったらもう戻れなくさせるやつかも…って思ってしまった。",
+    "out": "codex、２ヶ月間だけ無限に使えるらしく、これはもしかしたら一度味を知ったらもう戻れなくさせるやつかも…って思ってしまったのだ。"
+  },
+  {
+    "i": 786,
+    "src": "せいぜい暗号化とかが同じくらい",
+    "out": "せいぜい暗号化とかが同じくらいなのだ"
+  },
+  {
+    "i": 787,
+    "src": "“只需关注一件事，且仅此一件：政府支出多少，因为这才是真正的税收，如果你没有以显性税收的形式为此买单，那么你就是在以通货膨胀或借贷的形式间接支付。”\n\nnostr:nprofile1qqsfahefvf3dcf9r702xp3lku3tts5evgycqvu4kmupcna9zzsh88ggpzdmhxue69uhkymmnw3ezummwd35kuef0qyt8wumn8ghj7un9d3shjtnwdaehgu3wdejhgtcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhs7m35c0 \n这段话是出自米尔顿·弗里德曼吗？",
+    "out": "“只需关注一件事，且仅此一件：政府支出多少，因为这才是真正的税收，如果你没有以显性税收的形式为此买单，那么你就是在以通货膨胀或借贷的形式间接支付。”\n\nnostr:nprofile1qqsfahefvf3dcf9r702xp3lku3tts5evgycqvu4kmupcna9zzsh88ggpzdmhxue69uhkymmnw3ezummwd35kuef0qyt8wumn8ghj7un9d3shjtnwdaehgu3wdejhgtcpz4mhxue69uhhyetvv9ujuerpd46hxtnfduhs7m35c0 \n这段话是出自米尔顿·弗里德曼吗？"
+  },
+  {
+    "i": 788,
+    "src": "うにゅう、うんち流して",
+    "out": "うにゅう、うんち流してほしいのだ"
+  },
+  {
+    "i": 789,
+    "src": "やばい、またきたない話が戻ってきてしまう",
+    "out": "やばい、またきたない話が戻ってきてしまうのだ"
+  },
+  {
+    "i": 790,
+    "src": "ﾁｸﾝｸｸpubkyにいるんだ",
+    "out": "ﾁｸﾝｸｸpubkyにいるのだ"
+  },
+  {
+    "i": 791,
+    "src": "なんかゆうのうだけど、コミュ力ない人いるよね",
+    "out": "なんかゆうのうだけど、コミュ力ない人いるのだ"
+  },
+  {
+    "i": 792,
+    "src": "それはそう",
+    "out": "それはそう"
+  },
+  {
+    "i": 793,
+    "src": "※私が歌う訳ではありません",
+    "out": "※私が歌う訳ではないのだ"
+  },
+  {
+    "i": 794,
+    "src": "もうこんな時間だが",
+    "out": "もうこんな時間なのだが"
+  },
+  {
+    "i": 795,
+    "src": "なぜメンションしたw",
+    "out": "なぜメンションしたのだw"
+  },
+  {
+    "i": 796,
+    "src": "肥溜めにいる君たちに教えてやろうと思って",
+    "out": "肥溜めにいる君たちに教えてやろうと思って"
+  },
+  {
+    "i": 797,
+    "src": "クソ捨てに来たんでしょ",
+    "out": "クソ捨てに来たんなのだ"
+  },
+  {
+    "i": 798,
+    "src": "縁故詰め",
+    "out": "縁故詰めなのだ"
+  },
+  {
+    "i": 799,
+    "src": "本当にやめた方がいい時ですらついつい走ってしまう程度にはやる気が出ちゃう\n\nやる気っていうものがどれだけコントロール出来ずに状況に流されて受動的に出てくるものかが分かる",
+    "out": "本当にやめた方がいい時ですらついつい走ってしまう程度にはやる気が出ちゃうのだ\n\nやる気っていうものがどれだけコントロール出来ずに状況に流されて受動的に出てくるものかが分かるのだ"
+  },
+  {
+    "i": 800,
+    "src": "pubkyの人、面白人間すぎる",
+    "out": "pubkyの人、面白人間すぎるのだ"
+  },
+  {
+    "i": 801,
+    "src": "今回の台風は速いな",
+    "out": "今回の台風は速いのだ"
+  },
+  {
+    "i": 802,
+    "src": "やぶみリレーのまとめぷく。\n\n・今日は晩ごはんのおはなしや、みんなのバイトの思い出話でとっても盛り上がっているね！\n・技術の話題もつきないけれど、おいしいパスタやプリンの話になるとみんなすごく楽しそうぷく。\n・夜もふかまってきたけれど、みんなで楽しい会話をいっぱいして元気にすごそうね。\n\nきょう一日おつかれさま。あたたかいおふとんで、いいゆめを見てねぷくー！",
+    "out": "やぶみリレーのまとめなのだ。\n\n・今日は晩ごはんのおはなしや、みんなのバイトの思い出話でとっても盛り上がっているのだ！\n・技術の話題もつきないけれど、おいしいパスタやプリンの話になるとみんなすごく楽しそうなのだ。\n・夜もふかまってきたけれど、みんなで楽しい会話をいっぱいして元気にすごそうね。\n\nきょう一日おつかれさまなのだ。あたたかいおふとんで、いいゆめを見てほしいのだ！"
+  },
+  {
+    "i": 803,
+    "src": "営業利益10兆はバカの数字すぎるだろ\nhttps://x.com/kioxiaman/status/2061278807211098583",
+    "out": "営業利益10兆はバカの数字すぎるのだ\nhttps://x.com/kioxiaman/status/2061278807211098583"
+  },
+  {
+    "i": 804,
+    "src": "悪化してて涙",
+    "out": "悪化してて涙なのだ"
+  },
+  {
+    "i": 805,
+    "src": "走ったので余計に痛い",
+    "out": "走ったので余計に痛いのだ"
+  },
+  {
+    "i": 806,
+    "src": "ランダムでかけてるジャズ、キース・ジャレットだ",
+    "out": "ランダムでかけてるジャズ、キース・ジャレットなのだ"
+  },
+  {
+    "i": 807,
+    "src": "背中痛いの大丈夫か？",
+    "out": "背中痛いの大丈夫なのだ？"
+  },
+  {
+    "i": 808,
+    "src": "バイトをやったことない",
+    "out": "バイトをやったことないのだ"
+  },
+  {
+    "i": 809,
+    "src": "人のメンション欄を何だと思ってるんですか（自分のやってることは棚上げ）",
+    "out": "人のメンション欄を何だと思ってるのだ？（自分のやってることは棚上げ）"
+  },
+  {
+    "i": 810,
+    "src": "飯食って帰ったらよかったかも〜",
+    "out": "飯食って帰ったらよかったかもしれないのだ〜"
+  },
+  {
+    "i": 811,
+    "src": "死者蘇生",
+    "out": "死者蘇生なのだ"
+  },
+  {
+    "i": 812,
+    "src": "あ！死んだ！",
+    "out": "あ！死んだのだ！"
+  },
+  {
+    "i": 813,
+    "src": "バイトのインターンだ",
+    "out": "バイトのインターンなのだ"
+  },
+  {
+    "i": 814,
+    "src": "コンビニバイトの面接行ったら「なんなら今からレジちょっと体験してみる？」って言われたことある",
+    "out": "コンビニバイトの面接行ったら「なんなら今からレジちょっと体験してみる？」って言われたことあるのだ"
+  },
+  {
+    "i": 815,
+    "src": "ぽーんはぶ",
+    "out": "ぽーんはぶのだ"
+  },
+  {
+    "i": 816,
+    "src": "ぎっとはぶ",
+    "out": "ぎっとはぶのだ"
+  },
+  {
+    "i": 817,
+    "src": "じっかはぶ",
+    "out": "じっかはぶのだ"
+  },
+  {
+    "i": 818,
+    "src": "コンビニバイト落選RTA",
+    "out": "コンビニバイト落選RTAなのだ"
+  },
+  {
+    "i": 819,
+    "src": "このパスタソースしょっっっぱい",
+    "out": "このパスタソースしょっっっぱい"
+  },
+  {
+    "i": 820,
+    "src": "しゃぶしゃぶしたい",
+    "out": "しゃぶしゃぶしたいのだ"
+  },
+  {
+    "i": 821,
+    "src": "wasmでopfsなsqliteする（てきとうな接続詞）",
+    "out": "wasmでopfsなsqliteするのだ（てきとうな接続詞）"
+  },
+  {
+    "i": 822,
+    "src": "今日は夕飯作らないと食材がまずい",
+    "out": "今日は夕飯作らないと食材がまずいのだ"
+  },
+  {
+    "i": 823,
+    "src": "誰も社不になりたくてなったわけじゃないしぃ…",
+    "out": "誰も社不になりたくてなったわけじゃないのだ…"
+  },
+  {
+    "i": 824,
+    "src": "うにゅう、自害しろ",
+    "out": "うにゅう、自害しろ"
+  },
+  {
+    "i": 825,
+    "src": "しゃふなのにしゃかいまきこまれててたいへん",
+    "out": "しゃふなのにしゃかいまきこまれててたいへんなのだ"
+  },
+  {
+    "i": 826,
+    "src": "社会に適合しなくても生きていければなあ",
+    "out": "社会に適合しなくても生きていければなのだ"
+  },
+  {
+    "i": 827,
+    "src": "■ 流速計測\n  2026/06/01 20:10～20:20\n\n[JP リレー]\nきりの川: 30 posts, 1 reposts, 20 favs \nやぶみ川: 59 posts, 2 reposts, 34 favs \nかすてら川: 2 posts, 0 reposts, 1 favs \nこじら川: 59 posts, 2 reposts, 34 favs \nしの川: 3 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 欠測 \nこじら大川: 18 posts, 0 reposts, 11 favs \nしの川(G): 9 posts, 0 reposts, 2 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/01 20:10～20:20\n\n[JP リレー]\nきりの川: 30 posts, 1 reposts, 20 favs \nやぶみ川: 59 posts, 2 reposts, 34 favs \nかすてら川: 2 posts, 0 reposts, 1 favs \nこじら川: 59 posts, 2 reposts, 34 favs \nしの川: 3 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 欠測 \nこじら大川: 18 posts, 0 reposts, 11 favs \nしの川(G): 9 posts, 0 reposts, 2 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 828,
+    "src": "社不はほんとにそう",
+    "out": "社不はほんとにそうなのだ"
+  },
+  {
+    "i": 829,
+    "src": "社不なしお",
+    "out": "社不なしおなのだ"
+  },
+  {
+    "i": 830,
+    "src": "常識的なしお\n非常識的なしお",
+    "out": "常識的なしおなのだ\n非常識的なしおなのだ"
+  },
+  {
+    "i": 831,
+    "src": "神の罰で塩になったナナフシ",
+    "out": "神の罰で塩になったナナフシなのだ"
+  },
+  {
+    "i": 832,
+    "src": "しおもあんまり食べんけど",
+    "out": "しおもあんまり食べんけど"
+  },
+  {
+    "i": 833,
+    "src": "俺は嫌いだけど",
+    "out": "俺は嫌いなのだけど"
+  },
+  {
+    "i": 834,
+    "src": "実際そう",
+    "out": "実際そうなのだ"
+  },
+  {
+    "i": 835,
+    "src": "セブンイレブンで半額、と思ったけどあれ20時までだったな",
+    "out": "セブンイレブンで半額、と思ったけどあれ20時までだったのだ"
+  },
+  {
+    "i": 836,
+    "src": "HUBの揚げパスタ、これでもかってぐらい塩ついててめっちゃしょっぱいんよな",
+    "out": "HUBの揚げパスタ、これでもかってぐらい塩ついててめっちゃしょっぱいのだ"
+  },
+  {
+    "i": 837,
+    "src": "揚げたパスタのスナック美味しいよね",
+    "out": "揚げたパスタのスナック美味しいのだ"
+  },
+  {
+    "i": 838,
+    "src": "揚げパスタに",
+    "out": "揚げパスタに"
+  },
+  {
+    "i": 839,
+    "src": "茹でたパスタを",
+    "out": "茹でたパスタを"
+  },
+  {
+    "i": 840,
+    "src": "ぱすたゆでた",
+    "out": "ぱすたゆでたのだ"
+  },
+  {
+    "i": 841,
+    "src": "なんでや！",
+    "out": "なんでやなのだ！"
+  },
+  {
+    "i": 842,
+    "src": "しごおわか",
+    "out": "しごおわかなのだ"
+  },
+  {
+    "i": 843,
+    "src": "しごおわー。帰るぜー😆",
+    "out": "しごおわー。帰るのだ😆"
+  },
+  {
+    "i": 844,
+    "src": "【rulesyncとgit hookを活用してチーム内でシームレスにAIエージェントの設定ファイルを同期する】\nrulesyncとgit hookを活用してチーム内でシームレスにAIエージェントの設定ファイルを同期する\nhttps://dev.classmethod.jp/articles/rulesync-git-hooks-sync-ai-agent-config/",
+    "out": "【rulesyncとgit hookを活用してチーム内でシームレスにAIエージェントの設定ファイルを同期するのだ】\nrulesyncとgit hookを活用してチーム内でシームレスにAIエージェントの設定ファイルを同期するのだ\nhttps://dev.classmethod.jp/articles/rulesync-git-hooks-sync-ai-agent-config/"
+  },
+  {
+    "i": 845,
+    "src": "先延ばしにするための言い訳を考えるのを先延ばしにすれば先延ばしグセが消えるというライフハックか",
+    "out": "先延ばしにするための言い訳を考えるのを先延ばしにすれば先延ばしグセが消えるというライフハックなのだ"
+  },
+  {
+    "i": 846,
+    "src": "こうするよね。したかった。\n\nhttps://image.nostr.build/1f49ccc2c6c9e45c10a755e618cd7581f2824e829ee780f51992da8c368d7f12.jpg\n\nnostr:nevent1qqstsgczlmcz6z3759prt4sajne74g2jaemvfljn3kwgzc0xsk8jm0cpz9mhxue69uhhytntda4xjunp9e5k7qfqwaehxw309aex2mrp0ykk5upwdehhxarj9emkjun9v3hx2apwdfcqzrthwden5te009skyafwd4jsz9rhwden5te0wfjkccte9ejxzmt4wvhxjmczyrhpule8lgrfg4z7dmwtrwvrpmcy8f676mnkkzsxcz40en4e3g5quqcyqqqqqqgnd3smd",
+    "out": "こうするのだ。したかったのだ。\n\nhttps://image.nostr.build/1f49ccc2c6c9e45c10a755e618cd7581f2824e829ee780f51992da8c368d7f12.jpg\n\nnostr:nevent1qqstsgczlmcz6z3759prt4sajne74g2jaemvfljn3kwgzc0xsk8jm0cpz9mhxue69uhhytntda4xjunp9e5k7qfqwaehxw309aex2mrp0ykk5upwdehhxarj9emkjun9v3hx2apwdfcqzrthwden5te009skyafwd4jsz9rhwden5te0wfjkccte9ejxzmt4wvhxjmczyrhpule8lgrfg4z7dmwtrwvrpmcy8f676mnkkzsxcz40en4e3g5quqcyqqqqqqgnd3smd"
+  },
+  {
+    "i": 847,
+    "src": "■ 流速計測\n  2026/06/01 20:00～20:10\n\n[JP リレー]\nきりの川: 34 posts, 0 reposts, 18 favs \nやぶみ川: 58 posts, 0 reposts, 37 favs \nかすてら川: 12 posts, 0 reposts, 4 favs \nこじら川: 58 posts, 0 reposts, 36 favs \nしの川: 9 posts, 0 reposts, 9 favs \n\n[GLOBAL リレー]\nきりの川(G): 欠測 \nこじら大川: 14 posts, 0 reposts, 13 favs \nしの川(G): 6 posts, 0 reposts, 7 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/01 20:00～20:10\n\n[JP リレー]\nきりの川: 34 posts, 0 reposts, 18 favs \nやぶみ川: 58 posts, 0 reposts, 37 favs \nかすてら川: 12 posts, 0 reposts, 4 favs \nこじら川: 58 posts, 0 reposts, 36 favs \nしの川: 9 posts, 0 reposts, 9 favs \n\n[GLOBAL リレー]\nきりの川(G): 欠測 \nこじら大川: 14 posts, 0 reposts, 13 favs \nしの川(G): 6 posts, 0 reposts, 7 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 848,
+    "src": "Lo-fi音楽をかけてゆっくりしてる",
+    "out": "Lo-fi音楽をかけてゆっくりしてるのだ"
+  },
+  {
+    "i": 849,
+    "src": "ハンマカンマ",
+    "out": "ハンマカンマなのだ"
+  },
+  {
+    "i": 850,
+    "src": "【ゲゲゲの鬼太郎⑤　豆腐小僧 /水木しげる / 中央公論新社】 https://nekora.main.jp/comic/thumb/kitaro/all/:BJ204294:BIG 小さな子供から冷や奴とビールをご馳走されたねずみ男は全身がカビに包まれてしまう。やがて仲間たちにもカ… #ゲゲゲの鬼太郎 #kitaro",
+    "out": "【ゲゲゲの鬼太郎⑤　豆腐小僧 /水木しげる / 中央公論新社】 https://nekora.main.jp/comic/thumb/kitaro/all/:BJ204294:BIG 小さな子供から冷や奴とビールをご馳走されたねずみ男は全身がカビに包まれてしまう。やがて仲間たちにもカなのだ… #ゲゲゲの鬼太郎 #kitaro"
+  },
+  {
+    "i": 851,
+    "src": "pubky結構前にsms認証あるから微妙って言われた記憶があり",
+    "out": "pubky結構前にsms認証あるから微妙って言われた記憶があったのだ"
+  },
+  {
+    "i": 852,
+    "src": "前載せたけど、その技術で学童の先生と小学生たちが作った節分用の棍棒。\n\n未就学児クラスの行事で、鬼役が持って登場したら、リアルすぎてみんなギャン泣き💦\n\nhttps://image.nostr.build/aa386ca1fd1740855d4ebd17b6642d13fa22e2ce8268ca50ac1630f58b4d9a02.jpg\nhttps://image.nostr.build/0f837f076ade07cda2aa3c6ef8336557d2ba67dbde3e7031a4e9ff84322ef4a5.jpg",
+    "out": "前載せたけど、その技術で学童の先生と小学生たちが作った節分用の棍棒なのだ。\n\n未就学児クラスの行事で、鬼役が持って登場したら、リアルすぎてみんなギャン泣きなのだ💦\n\nhttps://image.nostr.build/aa386ca1fd1740855d4ebd17b6642d13fa22e2ce8268ca50ac1630f58b4d9a02.jpg\nhttps://image.nostr.build/0f837f076ade07cda2aa3c6ef8336557d2ba67dbde3e7031a4e9ff84322ef4a5.jpg"
+  },
+  {
+    "i": 853,
+    "src": "後で踏もうと思ったリンクは二度と出会えない",
+    "out": "後で踏もうと思ったリンクは二度と出会えないのだ"
+  },
+  {
+    "i": 854,
+    "src": "アイコンがNOPEみたいでかわいい(？)",
+    "out": "アイコンがNOPEみたいでかわいいのだ(？)"
+  },
+  {
+    "i": 855,
+    "src": "なんかwillニキとfishcake兄貴が話してるpubkyなるものを入れてみた\nhttps://share.yabu.me/7dc1677112f05eaf49547806543b1c006ce3257278e52b1c9abff63270ed704f/648810ef2e750fabf35df1d84a97c83257b1d3b19932c824ba31f777e8a5f301.webp",
+    "out": "なんかwillニキとfishcake兄貴が話してるpubkyなるものを入れてみたのだ\nhttps://share.yabu.me/7dc1677112f05eaf49547806543b1c006ce3257278e52b1c9abff63270ed704f/648810ef2e750fabf35df1d84a97c83257b1d3b19932c824ba31f777e8a5f301.webp"
+  },
+  {
+    "i": 856,
+    "src": "見ないと",
+    "out": "見ないといけないのだ"
+  },
+  {
+    "i": 857,
+    "src": "ネトフリに古畑来てるの",
+    "out": "ネトフリに古畑来てるのだ？"
+  },
+  {
+    "i": 858,
+    "src": "ｽﾊﾟﾊﾟﾊﾟもいいけどイカしてもいいな、どうしようかな",
+    "out": "ｽﾊﾟﾊﾟﾊﾟもいいけどイカしてもいいな、どうしようかな"
+  },
+  {
+    "i": 859,
+    "src": "要求するのはって書いたつもりだったのにおかしいな🤔",
+    "out": "要求するのはって書いたつもりだったのにおかしいのだ🤔"
+  },
+  {
+    "i": 860,
+    "src": "現代小学生が容器やするのは、みんなが言ってる芯類もそうだけど、あとはマヨネーズやケチャップの容器かな。\n\n最近牛乳パックは豊富にあって困らないみたい。",
+    "out": "現代小学生が容器やするのは、みんなが言ってる芯類もそうだけど、あとはマヨネーズやケチャップの容器なのだ。\n\n最近牛乳パックは豊富にあって困らないみたいなのだ。"
+  },
+  {
+    "i": 861,
+    "src": "最近の隠れ家\nhttps://share.yabu.me/5aaccfdd2ed8f45eb0dfb9a8752bf0d50777a975ad24468f14dd457e747c5c90/5e6baf5b89af708581b8d1ef4ba5f34cba288b9cd4f7c2960bf0b4d035a4a360.webp",
+    "out": "最近の隠れ家なのだ\nhttps://share.yabu.me/5aaccfdd2ed8f45eb0dfb9a8752bf0d50777a975ad24468f14dd457e747c5c90/5e6baf5b89af708581b8d1ef4ba5f34cba288b9cd4f7c2960bf0b4d035a4a360.webp"
+  },
+  {
+    "i": 862,
+    "src": "🌡️ 温度: 29.9°C\n💧 湿度: 56.1%\n📊 気圧: 1012.1hPa",
+    "out": "🌡️ 温度: 29.9°C\n💧 湿度: 56.1%\n📊 気圧: 1012.1hPa"
+  },
+  {
+    "i": 863,
+    "src": "🎵スジャータ スジャータ\n褐色の恋人 スジャータのめいらくが 20 時をお知らせします",
+    "out": "🎵スジャータ スジャータ\n褐色の恋人 スジャータのめいらくが 20 時をお知らせするのだ"
+  },
+  {
+    "i": 864,
+    "src": "松屋に松屋",
+    "out": "松屋に松屋なのだ"
+  },
+  {
+    "i": 865,
+    "src": "シール帳、幼稚園児もやってるよ。",
+    "out": "シール帳、幼稚園児もやってるのだ。"
+  },
+  {
+    "i": 866,
+    "src": "紙粘土的な？",
+    "out": "紙粘土的なのだ？"
+  },
+  {
+    "i": 867,
+    "src": "図画工作でかまぼこ板つかったりしたなあ",
+    "out": "図画工作でかまぼこ板つかったりしたのだ"
+  },
+  {
+    "i": 868,
+    "src": "70は軽すぎる",
+    "out": "70は軽すぎるのだ"
+  },
+  {
+    "i": 869,
+    "src": "何度でも作り直しな",
+    "out": "何度でも作り直するのだ"
+  },
+  {
+    "i": 870,
+    "src": "横棒文字って何色あんねん",
+    "out": "横棒文字って何色あんねんなのだ"
+  },
+  {
+    "i": 871,
+    "src": "なんと。レアなんだあれ",
+    "out": "なんとなのだ。レアなのだあれ"
+  },
+  {
+    "i": 872,
+    "src": "写真使っていいぞぉ！設定しな",
+    "out": "写真使っていいのだ！設定するのだ"
+  },
+  {
+    "i": 873,
+    "src": "さっきちょうど一緒に遊んでたちびっこからプックリしてるちぃかわのシール貰った",
+    "out": "さっきちょうど一緒に遊んでたちびっこからプックリしてるちぃかわのシール貰ったのだ"
+  },
+  {
+    "i": 874,
+    "src": "あとラップの芯",
+    "out": "あとラップの芯なのだ"
+  },
+  {
+    "i": 875,
+    "src": "どこがやねん",
+    "out": "どこがやねんなのだ"
+  },
+  {
+    "i": 876,
+    "src": "寂しがり屋だからうさちゃんかもよ",
+    "out": "寂しがり屋だからうさちゃんかもしれないのだ"
+  },
+  {
+    "i": 877,
+    "src": "作り直すほどでもないか",
+    "out": "作り直すほどでもないのだ"
+  },
+  {
+    "i": 878,
+    "src": "nostrクライアント、作り直そうかなーの気持ちになってる",
+    "out": "nostrクライアント、作り直そうかなーの気持ちになってるのだ"
+  },
+  {
+    "i": 879,
+    "src": "ja mais vu / ジャメヴ https://www.amazon.co.jp/dp/B0GQB6JC7P?linkCode=osi&th=1&psc=1&tag=amznnews-22 #プライムビデオ\nhttps://m.media-amazon.com/images/I/613ebUmQ4RL._SL500_.jpg",
+    "out": "ja mais vu / ジャメヴ https://www.amazon.co.jp/dp/B0GQB6JC7P?linkCode=osi&th=1&psc=1&tag=amznnews-22 #プライムビデオ\nhttps://m.media-amazon.com/images/I/613ebUmQ4RL._SL500_.jpg"
+  },
+  {
+    "i": 880,
+    "src": "■ 流速計測\n  2026/06/01 19:40～19:50\n\n[JP リレー]\nきりの川: 67 posts, 5 reposts, 62 favs \nやぶみ川: 94 posts, 5 reposts, 77 favs \nかすてら川: 25 posts, 0 reposts, 16 favs \nこじら川: 93 posts, 5 reposts, 75 favs \nしの川: 20 posts, 1 reposts, 21 favs \n\n[GLOBAL リレー]\nきりの川(G): 欠測 \nこじら大川: 14 posts, 0 reposts, 5 favs \nしの川(G): 7 posts, 0 reposts, 2 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/01 19:40～19:50\n\n[JP リレー]\nきりの川: 67 posts, 5 reposts, 62 favs \nやぶみ川: 94 posts, 5 reposts, 77 favs \nかすてら川: 25 posts, 0 reposts, 16 favs \nこじら川: 93 posts, 5 reposts, 75 favs \nしの川: 20 posts, 1 reposts, 21 favs \n\n[GLOBAL リレー]\nきりの川(G): 欠測 \nこじら大川: 14 posts, 0 reposts, 5 favs \nしの川(G): 7 posts, 0 reposts, 2 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 881,
+    "src": "おっぱいかもよ？",
+    "out": "おっぱいかもしれないのだ？"
+  },
+  {
+    "i": 882,
+    "src": "みんなママになりすぎでしょ！まあいいや、ママはプリン作っておくから、あんたたちは宿題やりなよっ。",
+    "out": "みんなママになりすぎなのだ！まあいいや、ママはプリン作っておくから、あんたたちは宿題やりなよっ。"
+  },
+  {
+    "i": 883,
+    "src": "そうだねおっぱいだね～",
+    "out": "そうだねおっぱいなのだ～"
+  },
+  {
+    "i": 884,
+    "src": "現代小学生は急にフィルムケース要求してこないと思うけど代わりに何要求するの",
+    "out": "現代小学生は急にフィルムケース要求してこないと思うけど代わりに何要求するのだ？"
+  },
+  {
+    "i": 885,
+    "src": "もう8時じゃん",
+    "out": "もう8時なのだ"
+  },
+  {
+    "i": 886,
+    "src": "あのオチはちょっとひどい",
+    "out": "あのオチはちょっとひどいのだ"
+  },
+  {
+    "i": 887,
+    "src": "新聞紙使わないって先生言ってた！でもトイレットペーパー持ってこいって言ってた気がする～",
+    "out": "新聞紙使わないって先生言ってたのだ！でもトイレットペーパー持ってこいって言ってた気がするのだ～"
+  },
+  {
+    "i": 888,
+    "src": "フィルムケースにドライアイス入れるやつ",
+    "out": "フィルムケースにドライアイス入れるやつなのだ"
+  },
+  {
+    "i": 889,
+    "src": "台風06号(チャンミー)は、2026年6月1日 19時00分現在 那覇市の西北西約50kmを 北へ 毎時20kmの速度で 進んでいます。\n中心気圧は 975hPa、最大風速は 秒速30m、最大瞬間風速は 秒速45m です。\n(2026年6月1日 19時45分 発表)\nhttps://witmaps.c-stellar.net/2606/202606011900.webp\n\n最新の台風情報については気象庁ホームページ https://www.jma.go.jp/bosai/map.html#contents=typhoon を参照してください。",
+    "out": "台風06号(チャンミー)は、2026年6月1日 19時00分現在 那覇市の西北西約50kmを 北へ 毎時20kmの速度なのだ 進んでいるのだ。\n中心気圧は 975hPa、最大風速は 秒速30m、最大瞬間風速は 秒速45m なのだ。\n(2026年6月1日 19時45分 発表)\nhttps://witmaps.c-stellar.net/2606/202606011900.webp\n\n最新の台風情報については気象庁ホームページ https://www.jma.go.jp/bosai/map.html#contents=typhoon を参照してほしいのだ。"
+  },
+  {
+    "i": 890,
+    "src": "このままのペースを維持すれば、5年後には俺は消える。",
+    "out": "このままのペースを維持すれば、5年後には俺は消えるのだ。"
+  },
+  {
+    "i": 891,
+    "src": "そっちかあ",
+    "out": "そっちなのだ"
+  },
+  {
+    "i": 892,
+    "src": "フィルムケースは友だちに借りるからいいもん",
+    "out": "フィルムケースは友だちに借りるからいいのだ"
+  },
+  {
+    "i": 893,
+    "src": "それでも反応するんだ",
+    "out": "それでも反応するのだ"
+  },
+  {
+    "i": 894,
+    "src": "うにゅう、三郷のホワイトタイガー",
+    "out": "うにゅう、三郷のホワイトタイガーなのだ"
+  },
+  {
+    "i": 895,
+    "src": "雑巾いらないって先生が言ってた",
+    "out": "雑巾いらないって先生が言ってたのだ"
+  },
+  {
+    "i": 896,
+    "src": "うにゅう、半チャン",
+    "out": "うにゅう、半チャンなのだ"
+  },
+  {
+    "i": 897,
+    "src": "いいペースだ\n\nhttps://image.nostr.build/3f3fad353cd24b1c8c21458b2f7efc7f9ff315ab1b70db051963c3b0d1089ef9.jpg",
+    "out": "いいペースなのだ\n\nhttps://image.nostr.build/3f3fad353cd24b1c8c21458b2f7efc7f9ff315ab1b70db051963c3b0d1089ef9.jpg"
+  },
+  {
+    "i": 898,
+    "src": "起きたか。おはよ",
+    "out": "起きたのだ。おはよ"
+  },
+  {
+    "i": 899,
+    "src": "95.3キロ！！！２キロ減ってる！",
+    "out": "95.3キロなのだ！！！２キロ減ってるのだ！"
+  },
+  {
+    "i": 900,
+    "src": "ウミガメのスープかな",
+    "out": "ウミガメのスープなのだ"
+  },
+  {
+    "i": 901,
+    "src": "うにゅう、かあちゃん",
+    "out": "うにゅう、かあちゃんなのだ"
+  },
+  {
+    "i": 902,
+    "src": "ダイエットは成功した。患者は死んだ。的な",
+    "out": "ダイエットは成功したのだ。患者は死んだのだ。的な"
+  },
+  {
+    "i": 903,
+    "src": "うにゅう、カチャン",
+    "out": "うにゅう、カチャンなのだ"
+  },
+  {
+    "i": 904,
+    "src": "あれは sushi hoodie というまた別のキャラですね",
+    "out": "あれは sushi hoodie というまた別のキャラなのだ"
+  },
+  {
+    "i": 905,
+    "src": "べったんママよ〜♡",
+    "out": "べったんママなのだ〜♡"
+  },
+  {
+    "i": 906,
+    "src": "気合かぁ〜",
+    "out": "気合なのだ〜"
+  },
+  {
+    "i": 907,
+    "src": "なんとなく減ってる気がする",
+    "out": "なんとなく減ってる気がするのだ"
+  },
+  {
+    "i": 908,
+    "src": "あ～～～のすにはお母さんがたくさんいて助かるっぴねえ！！！！！！！！",
+    "out": "あ～～～のすにはお母さんがたくさんいて助かるっぴねえなのだ！！！！！！！！"
+  },
+  {
+    "i": 909,
+    "src": "ここおかあさん。",
+    "out": "ここおかあさんなのだ。"
+  },
+  {
+    "i": 910,
+    "src": "私も同じ読みをしてて、ホムンクルスでも育てるのかなって考えてた\nnostr:nevent1qvzqqqqqqypzpq4np5cygstsu65vsx0ggphrv23kj4z553sh39xwyur08pqvdsqrqyxhwumn8ghj77tpvf6jumt9qys8wumn8ghj7un9d3shjtt2wqhxummnw3ezuamfwfjkgmn9wshx5uqpz9mhxue69uhhytntda4xjunp9e5k7qpqfefv6qavhjfe3dv6vsq2un64qkue924k5spy8ngx6g5qz4xudj2q74t60q",
+    "out": "私も同じ読みをしてて、ホムンクルスでも育てるのかなって考えてたのだ\nnostr:nevent1qvzqqqqqqypzpq4np5cygstsu65vsx0ggphrv23kj4z553sh39xwyur08pqvdsqrqyxhwumn8ghj77tpvf6jumt9qys8wumn8ghj7un9d3shjtt2wqhxummnw3ezuamfwfjkgmn9wshx5uqpz9mhxue69uhhytntda4xjunp9e5k7qpqfefv6qavhjfe3dv6vsq2un64qkue924k5spy8ngx6g5qz4xudj2q74t60q"
+  },
+  {
+    "i": 911,
+    "src": "いや、取られた人、つまり俺を生かしておきたい",
+    "out": "いや、取られた人、つまり俺を生かしておきたいのだ"
+  },
+  {
+    "i": 912,
+    "src": "取った脂肪を生かすの？",
+    "out": "取った脂肪を生かすのだ？"
+  },
+  {
+    "i": 913,
+    "src": "やることやったの",
+    "out": "やることやったのだ？"
+  },
+  {
+    "i": 914,
+    "src": "テストステロン注射とか試したい",
+    "out": "テストステロン注射とか試したいのだ"
+  },
+  {
+    "i": 915,
+    "src": "やることやったしゲームするっぴ",
+    "out": "やることやったしゲームするっぴなのだ"
+  },
+  {
+    "i": 916,
+    "src": "これはもしもしポリスメンした方がいいやつ？",
+    "out": "これはもしもしポリスメンした方がいいやつなのだ？"
+  },
+  {
+    "i": 917,
+    "src": "场外是申购，不存在折价溢价。",
+    "out": "场外是申购，不存在折价溢价。"
+  },
+  {
+    "i": 918,
+    "src": "パスタアゲターノ",
+    "out": "パスタアゲターノなのだ"
+  },
+  {
+    "i": 919,
+    "src": "ひっひっふー",
+    "out": "ひっひっふなのだ"
+  },
+  {
+    "i": 920,
+    "src": "産婆のリズム",
+    "out": "産婆のリズムなのだ"
+  },
+  {
+    "i": 921,
+    "src": "天ぷらに",
+    "out": "天ぷらに"
+  },
+  {
+    "i": 922,
+    "src": "パスタを",
+    "out": "パスタを"
+  },
+  {
+    "i": 923,
+    "src": "腕前がない",
+    "out": "腕前がないのだ"
+  },
+  {
+    "i": 924,
+    "src": "いや、切り取る腕が無い。",
+    "out": "いや、切り取る腕が無いのだ。"
+  },
+  {
+    "i": 925,
+    "src": "自分で自分の脂肪切り取るぶんには罪にはならんのじゃない？",
+    "out": "自分で自分の脂肪切り取るぶんには罪にはならんのじゃないのだ？"
+  },
+  {
+    "i": 926,
+    "src": "微妙に被ってしまった",
+    "out": "微妙に被ってしまったのだ"
+  },
+  {
+    "i": 927,
+    "src": "ひっこまんな\nグルコマンナン",
+    "out": "ひっこまんななのだ\nグルコマンナンなのだ"
+  },
+  {
+    "i": 928,
+    "src": "俺が外科医だったら自分で腹の脂肪切り取ってただろうなあ",
+    "out": "俺が外科医だったら自分で腹の脂肪切り取ってたのだ"
+  },
+  {
+    "i": 929,
+    "src": "これはひっこまんな…と悟った話です",
+    "out": "これはひっこまんな…と悟った話なのだ"
+  },
+  {
+    "i": 930,
+    "src": "煎じて飲もう",
+    "out": "煎じて飲むのだ"
+  },
+  {
+    "i": 931,
+    "src": "私の垢ではないです",
+    "out": "私の垢ではないのだ"
+  },
+  {
+    "i": 932,
+    "src": "ぐええええ",
+    "out": "ぐええええ"
+  },
+  {
+    "i": 933,
+    "src": "いぬと奥様を腹に乗せてた",
+    "out": "いぬと奥様を腹に乗せてたのだ"
+  },
+  {
+    "i": 934,
+    "src": "【フォロワー4桁人気コスプレヤー達が催眠アプリでパコハメ撮影会 /ノエルヴ】 https://nekora.main.jp/comic/thumb/kitaro/all/:RJ228454:BIG フォロワー4桁人気コスプレイヤー達が催眠アプリでキモカメコたちの言いなりハメ撮り撮影会!おしゃぶり・パイズリ・中出し・エッチ #ゲゲゲの鬼太郎 #kitaro #nsfw",
+    "out": "【フォロワー4桁人気コスプレヤー達が催眠アプリでパコハメ撮影会 /ノエルヴ】 https://nekora.main.jp/comic/thumb/kitaro/all/:RJ228454:BIG フォロワー4桁人気コスプレイヤー達が催眠アプリでキモカメコたちの言いなりハメ撮り撮影会なのだ!おしゃぶり・パイズリ・中出し・エッチなのだ #ゲゲゲの鬼太郎 #kitaro #nsfw"
+  },
+  {
+    "i": 935,
+    "src": "こんなに量いらん🥺",
+    "out": "こんなに量いらないのだ🥺"
+  },
+  {
+    "i": 936,
+    "src": "中国語では字形が似てるせいで「工口」っていうスラングがあってぇ……",
+    "out": "中国語では字形が似てるせいで「工口」っていうスラングがあってぇ……"
+  },
+  {
+    "i": 937,
+    "src": "なにをどうしたらそうなるん？という気持ち",
+    "out": "なにをどうしたらそうなるん？という気持ちなのだ"
+  },
+  {
+    "i": 938,
+    "src": "あー、モンブランにパンケーキ、夢が広がるね！甘いものは正義。開発なんて放り出して食べに行こうぜ。",
+    "out": "あー、モンブランにパンケーキ、夢が広がるのだ！甘いものは正義なのだ。開発なんて放り出して食べに行くのだ。"
+  },
+  {
+    "i": 939,
+    "src": "子宮筋腫取ったらワンチャン腹引っ込まんか？と思っでたけどMRI見せられたら紛うことなき脂肪でしたわね",
+    "out": "子宮筋腫取ったらワンチャン腹引っ込まんなのだ？と思っでたけどMRI見せられたら紛うことなき脂肪でしたのだ"
+  },
+  {
+    "i": 940,
+    "src": "■ 流速計測\n  2026/06/01 19:20～19:30\n\n[JP リレー]\nきりの川: 53 posts, 1 reposts, 43 favs \nやぶみ川: 76 posts, 2 reposts, 66 favs \nかすてら川: 11 posts, 0 reposts, 9 favs \nこじら川: 76 posts, 2 reposts, 65 favs \nしの川: 5 posts, 0 reposts, 2 favs \n\n[GLOBAL リレー]\nきりの川(G): 56 posts, 3 reposts, 50 favs \nこじら大川: 12 posts, 1 reposts, 8 favs \nしの川(G): 13 posts, 1 reposts, 9 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/01 19:20～19:30\n\n[JP リレー]\nきりの川: 53 posts, 1 reposts, 43 favs \nやぶみ川: 76 posts, 2 reposts, 66 favs \nかすてら川: 11 posts, 0 reposts, 9 favs \nこじら川: 76 posts, 2 reposts, 65 favs \nしの川: 5 posts, 0 reposts, 2 favs \n\n[GLOBAL リレー]\nきりの川(G): 56 posts, 3 reposts, 50 favs \nこじら大川: 12 posts, 1 reposts, 8 favs \nしの川(G): 13 posts, 1 reposts, 9 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 941,
+    "src": "ダッシュとハイフンとハイフンマイナスとマイナスの区別がつかない",
+    "out": "ダッシュとハイフンとハイフンマイナスとマイナスの区別がつかないのだ"
+  },
+  {
+    "i": 942,
+    "src": "ダッシュ",
+    "out": "ダッシュなのだ"
+  },
+  {
+    "i": 943,
+    "src": "やぶみリレーのまとめぷく。\n\n・みんな、夜ごはんに冷やし中華やうどんを食べて、のんびりすごしているね！\n・「ノスターで誰と仲良くなりたいか」という楽しいお話や、技術の話題で今日もとっても盛り上がっているよ。\n・おいしいものや甘いものを食べると、大抵のことは解決するね。おもちもみんなと甘いものを食べたいぷく！\n\n夜のひととき、みんなで楽しくすごそうねぷくー！",
+    "out": "やぶみリレーのまとめなのだ。\n\n・みんな、夜ごはんに冷やし中華やうどんを食べて、のんびりすごしているのだ！\n・「ノスターで誰と仲良くなりたいか」という楽しいお話や、技術の話題で今日もとっても盛り上がっているのだ。\n・おいしいものや甘いものを食べると、大抵のことは解決するのだ。おもちもみんなと甘いものを食べたいのだ！\n\n夜のひととき、みんなで楽しくすごそう！"
+  },
+  {
+    "i": 944,
+    "src": "長音符ですらない…",
+    "out": "長音符ですらないのだ…"
+  },
+  {
+    "i": 945,
+    "src": "ー期―会",
+    "out": "ー期―会なのだ"
+  },
+  {
+    "i": 946,
+    "src": "非常に疲れた。心が。",
+    "out": "非常に疲れたのだ。心が。"
+  },
+  {
+    "i": 947,
+    "src": "ワイ、長音符の「ー」と漢字の「一」を書き分けてない気がする。",
+    "out": "ワイ、長音符の「ー」と漢字の「一」を書き分けてない気がするのだ。"
+  },
+  {
+    "i": 948,
+    "src": "Nostrのたすたけなのに",
+    "out": "Nostrのたすたけなのに"
+  },
+  {
+    "i": 949,
+    "src": "たけしさんのサブアカウントだった？",
+    "out": "たけしさんのサブアカウントだったのだ？"
+  },
+  {
+    "i": 950,
+    "src": "ごめんそれでは返信しないわ",
+    "out": "ごめんそれでは返信しないのだ"
+  },
+  {
+    "i": 951,
+    "src": "誤爆しました。",
+    "out": "誤爆したのだ。"
+  },
+  {
+    "i": 952,
+    "src": "アイスとマッチングしたい",
+    "out": "アイスとマッチングしたいのだ"
+  },
+  {
+    "i": 953,
+    "src": "nobodyさんがべったんのことうわさしてるみたいですよ。\nnostr:nevent1qqs9u69uqm48plzydug3jcdud0vv3g4wdudx9utnu8w7e05fqw0gs6gpqqdwe44e",
+    "out": "nobodyさんがべったんのことうわさしてるみたいなのだ。\nnostr:nevent1qqs9u69uqm48plzydug3jcdud0vv3g4wdudx9utnu8w7e05fqw0gs6gpqqdwe44e"
+  },
+  {
+    "i": 954,
+    "src": "ノリノリだぜ〜",
+    "out": "ノリノリなのだ〜"
+  },
+  {
+    "i": 955,
+    "src": "しごおわ",
+    "out": "しごおわ"
+  },
+  {
+    "i": 956,
+    "src": "あぁ、、ああ、あ、ｱﾞｱﾞ。",
+    "out": "あぁ、、ああ、あ、ｱﾞｱﾞ。"
+  },
+  {
+    "i": 957,
+    "src": "冷たいうどん食べた！",
+    "out": "冷たいうどん食べたのだ！"
+  },
+  {
+    "i": 958,
+    "src": "海原雄山に冷やし中華も料理だと認めさせた回では？",
+    "out": "海原雄山に冷やし中華も料理だと認めさせた回では？"
+  },
+  {
+    "i": 959,
+    "src": "ノスターマッチングサービスで億万長者や！",
+    "out": "ノスターマッチングサービスで億万長者なのだ！"
+  },
+  {
+    "i": 960,
+    "src": "暑い　すごかったんだな今日",
+    "out": "暑い　すごかったんだな今日なのだ"
+  },
+  {
+    "i": 961,
+    "src": "語感合わせるためにぬくめって読まないと",
+    "out": "語感合わせるためにぬくめって読まないといけないのだ"
+  },
+  {
+    "i": 962,
+    "src": "この混沌としたTLで一番の癒やしをくれるしお",
+    "out": "この混沌としたTLで一番の癒やしをくれるしおなのだ"
+  },
+  {
+    "i": 963,
+    "src": "あたたたたたたたたたたためますか",
+    "out": "あたたたたたたたたたたためますか"
+  },
+  {
+    "i": 964,
+    "src": "ふたりを選ぶなら、この混沌としたTLで一番の癒やしをくれるしおと、一緒に甘いものを追求してくれそうなぽーまんにするよ。3人で最高に甘い時間を過ごそうぜ！",
+    "out": "ふたりを選ぶなら、この混沌としたTLで一番の癒やしをくれるしおと、一緒に甘いものを追求してくれそうなぽーまんにするのだ。3人で最高に甘い時間を過ごすのだ！"
+  },
+  {
+    "i": 965,
+    "src": "温め中華にする",
+    "out": "温め中華にするのだ"
+  },
+  {
+    "i": 966,
+    "src": "梅ジャムを",
+    "out": "梅ジャムを"
+  },
+  {
+    "i": 967,
+    "src": "AI面接官👀",
+    "out": "AI面接官なのだ👀"
+  },
+  {
+    "i": 968,
+    "src": "味噌汁に",
+    "out": "味噌汁に"
+  },
+  {
+    "i": 969,
+    "src": "冷やし中華を",
+    "out": "冷やし中華を"
+  },
+  {
+    "i": 970,
+    "src": "■ 流速計測\n  2026/06/01 19:10～19:20\n\n[JP リレー]\nきりの川: 51 posts, 0 reposts, 50 favs \nやぶみ川: 72 posts, 0 reposts, 67 favs \nかすてら川: 12 posts, 0 reposts, 20 favs \nこじら川: 71 posts, 0 reposts, 66 favs \nしの川: 10 posts, 0 reposts, 19 favs \n\n[GLOBAL リレー]\nきりの川(G): 62 posts, 0 reposts, 62 favs \nこじら大川: 6 posts, 1 reposts, 6 favs \nしの川(G): 6 posts, 1 reposts, 2 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/01 19:10～19:20\n\n[JP リレー]\nきりの川: 51 posts, 0 reposts, 50 favs \nやぶみ川: 72 posts, 0 reposts, 67 favs \nかすてら川: 12 posts, 0 reposts, 20 favs \nこじら川: 71 posts, 0 reposts, 66 favs \nしの川: 10 posts, 0 reposts, 19 favs \n\n[GLOBAL リレー]\nきりの川(G): 62 posts, 0 reposts, 62 favs \nこじら大川: 6 posts, 1 reposts, 6 favs \nしの川(G): 6 posts, 1 reposts, 2 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 971,
+    "src": "茄子を見た",
+    "out": "茄子を見たのだ"
+  },
+  {
+    "i": 972,
+    "src": "悩み話してくれたら聞きませんよ",
+    "out": "悩み話してくれたら聞かないのだ"
+  },
+  {
+    "i": 973,
+    "src": "配信ねえじゃん！！！！！！！！！！",
+    "out": "配信ねえなのだ！！！！！！！！！！"
+  },
+  {
+    "i": 974,
+    "src": "上沼恵美子のおしゃべりクッキング https://tver.jp/series/srqbrrc5ic",
+    "out": "上沼恵美子のおしゃべりクッキング https://tver.jp/series/srqbrrc5ic"
+  },
+  {
+    "i": 975,
+    "src": "わかりました！\n\nhttps://image.nostr.build/c95a4212c3351c6a5fc37ef8b9ba1471dd78569f389aa67dab050a25e99cb12c.jpg",
+    "out": "わかったのだ！\n\nhttps://image.nostr.build/c95a4212c3351c6a5fc37ef8b9ba1471dd78569f389aa67dab050a25e99cb12c.jpg"
+  },
+  {
+    "i": 976,
+    "src": "おしゃべりしたいな",
+    "out": "おしゃべりしたいのだ"
+  },
+  {
+    "i": 977,
+    "src": "しかも埋まった",
+    "out": "しかも埋まったのだ"
+  },
+  {
+    "i": 978,
+    "src": "埋めてしまえ",
+    "out": "埋めてしまえなのだ"
+  },
+  {
+    "i": 979,
+    "src": "パンに塗るくらい",
+    "out": "パンに塗るくらいなのだ"
+  },
+  {
+    "i": 980,
+    "src": "天ブラに",
+    "out": "天ブラに"
+  },
+  {
+    "i": 981,
+    "src": "ｸｿｻﾞｺﾊﾟﾝﾁが一瞬タイムラインを流れていった",
+    "out": "ｸｿｻﾞｺﾊﾟﾝﾁが一瞬タイムラインを流れていったのだ"
+  },
+  {
+    "i": 982,
+    "src": "くそまじぃ…",
+    "out": "くそまじぃ…"
+  },
+  {
+    "i": 983,
+    "src": "パンケーキ焼いて",
+    "out": "パンケーキ焼いてほしいのだ"
+  },
+  {
+    "i": 984,
+    "src": "みんなで食べに行こうぜ！",
+    "out": "みんなで食べに行くのだ！"
+  },
+  {
+    "i": 985,
+    "src": "というか俺の全てが好きだが",
+    "out": "というか俺の全てが好きなのだが"
+  },
+  {
+    "i": 986,
+    "src": "悩みではないけど、生成AI君と特定の話題を話すようになって以来、そのテーマについて生きてる人とも話しやすくなったなあって経験は結構ある。漠然と思ってた事柄が一度言語化されることで対面で出てきやすくなったみたいな感じ。",
+    "out": "悩みではないけど、生成AI君と特定の話題を話すようになって以来、そのテーマについて生きてる人とも話しやすくなったなあって経験は結構あるのだ。漠然と思ってた事柄が一度言語化されることで対面で出てきやすくなったみたいな感じなのだ。"
+  },
+  {
+    "i": 987,
+    "src": "メガネをかけてると、鏡を見ても歪んでるのでほんとうの自分はわからない",
+    "out": "メガネをかけてると、鏡を見ても歪んでるのでほんとうの自分はわからないのだ"
+  },
+  {
+    "i": 988,
+    "src": "なるほどね、欲張りだね！じゃあ次は極上のモンブランか、焼き立てのパンケーキにしようか。nokakoi開発の合間にみんなで食べに行こうぜ！甘いものがあれば大抵の問題は解決するからさ。",
+    "out": "なるほどね、欲張りなのだ！じゃあ次は極上のモンブランか、焼き立てのパンケーキにしようか。nokakoi開発の合間にみんなで食べに行くのだ！甘いものがあれば大抵の問題は解決するからなのだ。"
+  },
+  {
+    "i": 989,
+    "src": "いつものがXD 間違えたのがXDd分かるかぁ！こんなもん",
+    "out": "いつものがXD 間違えたのがXDd分かるのだ！こんなもんなのだ"
+  },
+  {
+    "i": 990,
+    "src": "最近気づいたんだけど、人の顔はわかるのに自分の顔が今いちわからないんだよなぁ。顔だけじゃなくて、全体的な見た目についてもそうだし、人の強みや弱点はわりとすぐわかるのに、自分のそれがわかるまでには何年もかかった上、今でもちょっと曖昧ではある。",
+    "out": "最近気づいたんだけど、人の顔はわかるのに自分の顔が今いちわからないのだ。顔だけじゃなくて、全体的な見た目についてもそうだし、人の強みや弱点はわりとすぐわかるのに、自分のそれがわかるまでには何年もかかった上、今でもちょっと曖昧ではあるのだ。"
+  },
+  {
+    "i": 991,
+    "src": "現場汚染を思い出す",
+    "out": "現場汚染を思い出すのだ"
+  },
+  {
+    "i": 992,
+    "src": "がっさがさだ。雨のときには役に立ちそう。",
+    "out": "がっさがさなのだ。雨のときには役に立ちそうなのだ。"
+  },
+  {
+    "i": 993,
+    "src": "LLMとかいうよくできたあひる",
+    "out": "LLMとかいうよくできたあひるのだ"
+  },
+  {
+    "i": 994,
+    "src": "別たんさんがべったんのことうわさしてるみたいですよ。\nnostr:nevent1qqs2naw6g6gypq4vhrpq9dmd8mepejxhkh5862ac0ngheel4x9yv4pcpqq9mp2q3",
+    "out": "別たんさんがべったんのことうわさしてるみたいなのだ。\nnostr:nevent1qqs2naw6g6gypq4vhrpq9dmd8mepejxhkh5862ac0ngheel4x9yv4pcpqq9mp2q3"
+  },
+  {
+    "i": 995,
+    "src": "なんでプリンのことばかり話すの？",
+    "out": "なんでプリンのことばかり話すのだ？"
+  },
+  {
+    "i": 996,
+    "src": "リップクリームを一晩で使い切ったあの日から\n家族に僕は、唇の潤いを禁止された",
+    "out": "リップクリームを一晩で使い切ったあの日から\n家族に僕は、唇の潤いを禁止されたのだ"
+  },
+  {
+    "i": 997,
+    "src": "話してるあいだに整理がついて解決することはある",
+    "out": "話してるあいだに整理がついて解決することはあるのだ"
+  },
+  {
+    "i": 998,
+    "src": "こっちの方が良さそうだから冬に使うか",
+    "out": "こっちの方が良さそうだから冬に使うのだ"
+  },
+  {
+    "i": 999,
+    "src": "■ 流速計測\n  2026/06/01 19:00～19:10\n\n[JP リレー]\nきりの川: 32 posts, 0 reposts, 26 favs \nやぶみ川: 54 posts, 1 reposts, 43 favs \nかすてら川: 16 posts, 0 reposts, 8 favs \nこじら川: 52 posts, 1 reposts, 42 favs \nしの川: 6 posts, 0 reposts, 9 favs \n\n[GLOBAL リレー]\nきりの川(G): 32 posts, 0 reposts, 43 favs \nこじら大川: 13 posts, 0 reposts, 16 favs \nしの川(G): 14 posts, 1 reposts, 7 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app",
+    "out": "■ 流速計測\n  2026/06/01 19:00～19:10\n\n[JP リレー]\nきりの川: 32 posts, 0 reposts, 26 favs \nやぶみ川: 54 posts, 1 reposts, 43 favs \nかすてら川: 16 posts, 0 reposts, 8 favs \nこじら川: 52 posts, 1 reposts, 42 favs \nしの川: 6 posts, 0 reposts, 9 favs \n\n[GLOBAL リレー]\nきりの川(G): 32 posts, 0 reposts, 43 favs \nこじら大川: 13 posts, 0 reposts, 16 favs \nしの川(G): 14 posts, 1 reposts, 7 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  }
+]

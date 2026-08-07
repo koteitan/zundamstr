@@ -44,7 +44,7 @@ for (const d of fs.readdirSync(here)) {
 // 測定が済んだら BLIND_SETS から外してよいのだ
 // r8test は測定が済んだ（版28で 88.6%）ので外したのだ。
 // 次の盲目測定は r9test なのだ
-const BLIND_SETS = ["samples-r10-test.json"];
+const BLIND_SETS = ["samples-r16-test.json"];
 // これから切り出す測定セットの元プールも丸ごと除くのだ。
 // 測定セットがまだ作られていない段階では id で除くことができないので、
 // ファイルごと見ないのが唯一の守り方なのだ。

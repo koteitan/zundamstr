@@ -1,0 +1,3509 @@
+[
+  {
+    "i": 0,
+    "id": "620012c98848b1101744d877fc89d30467351dd1417765337edc0c350688ab76",
+    "pubkey": "8725d5f7f3ad3ee4d9746149ffe00e954bc93dcde2968555f94be2977bb98b09",
+    "created_at": 1780012786,
+    "content": "🎵スジャータ スジャータ 白い広がりスジャータ\nスジャータが 9 時をお知らせします"
+  },
+  {
+    "i": 1,
+    "id": "7f84d859dcb46b4a673d73de683e9d640714b7f1d1e7ab6a17dac7cfd27e918b",
+    "pubkey": "811002f2348bdaa52d89b18b7e90bbc6aa5b948eff3e3689c041d2ac0ccba15a",
+    "created_at": 1780012768,
+    "content": "あっ、ホワイトジョークだった？\nホワイトハウスに住んでるしね。"
+  },
+  {
+    "i": 2,
+    "id": "40d6fa6203ad89f9ced14c11361c756a7531bf2dec0630fd6b2301152f800267",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780012761,
+    "content": "一つバチクソ遅いリレーがあるんだけど、遅すぎて例外処理みたいなやつが走ってるかも"
+  },
+  {
+    "i": 3,
+    "id": "ba5a17d7c068529f6ba43413daf34a18e193d3fb4495d024088bb9214d66d980",
+    "pubkey": "7886b89460425af71383c5bd3230bdbde38ddeee57687c1231a7ef336463c50a",
+    "created_at": 1780012750,
+    "content": "オウム真理教に入信しなさい。もしあなたが、私たちの一員となるこの好機を逃してしまえば、あなたの魂は永遠の破滅へと堕ちゆく運命にあるのです。"
+  },
+  {
+    "i": 4,
+    "id": "36f3bf72f82e7ab97d01a734d6474926b355134f78d256fb7b7cbae978692627",
+    "pubkey": "26bb2ebed6c552d670c804b0d655267b3c662b21e026d6e48ac93a6070530958",
+    "created_at": 1780012737,
+    "content": "モバイル回線が雑魚すぎ"
+  },
+  {
+    "i": 5,
+    "id": "efe7387c8022fc4c3177be11e00771da515ed93198677d48976bbc152b88ffb0",
+    "pubkey": "81913081246d192c9a55951704270756b222094470b3171e58bb5e3c42ee8db5",
+    "created_at": 1780012720,
+    "content": "不是要给癌股正名，在墙内股市可比楼市温和太多太多了，而且说这话仿佛如果能炒港股美股就不会亏损一样😇\nhttps://primal.bostr.online/71491132520a86c81e818a5052c98d1ed7168efb48a91955f021f44167b575c1.jpg"
+  },
+  {
+    "i": 6,
+    "id": "9c9a03dce48d6e4b7591dcee05578906c29968b81aa80f48329cec16e08b38d1",
+    "pubkey": "1f617e368ce633acef348a2f755dd0a459e56e394766699524ae5d0ee66e9caa",
+    "created_at": 1780012687,
+    "content": "これは、ねがてぃぶ。ねがてぃぶっていうのは、塩村の指摘に反対？国会議員っていうのは、日本を劇的に操作できちゃうTOP５００人とかそんな連中だから。統一教会ネタで、公安ちゃんによる監視が文が鮮明に昨日市内ってのは露呈したばかりではあるが、すくなくとも国会議員への監視は必要よ。モナ男みたいに、悪用されるケースはあるけどねｗ（あれも、公安ちゃんからのりーくだろｗｗｗ）"
+  },
+  {
+    "i": 7,
+    "id": "eea955ce8f26aab0be2e89de5afdb41a3df17233ac4fbbf54102e56391539d93",
+    "pubkey": "5f468793f9a7bd70827cdad5c5677e3e5997fa53d0920aaac4e302ac0d48e8e7",
+    "created_at": 1780012686,
+    "content": "てかもうすぐ80歳でボケてるだろ"
+  },
+  {
+    "i": 8,
+    "id": "493ab522bdbe77f21365d94b1f84fe3f652775b302f0d9195fab5adf17ba933c",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1780012665,
+    "content": "いまのなし"
+  },
+  {
+    "i": 9,
+    "id": "15d588a1e025b6737ad703077206f612d3fdacd7f21cad9f34ef5563dd08a447",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1780012662,
+    "content": "ホワイトジョーク？"
+  },
+  {
+    "i": 10,
+    "id": "f1e9f945bba6234e5ab7e1f736a83a3afc6e3e1111b444c3716b133e13c3af2b",
+    "pubkey": "5f468793f9a7bd70827cdad5c5677e3e5997fa53d0920aaac4e302ac0d48e8e7",
+    "created_at": 1780012602,
+    "content": "もう独裁国家だろ"
+  },
+  {
+    "i": 11,
+    "id": "36255b819d1e4c64ab3f88a5976895d8b69a73e39492f0f1d5a6c145b5d5075e",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780012591,
+    "content": "プロジェクト内で独自の意味を持つフレーズを列挙させているんだけど、たくさん出てきて頭抱えてる。"
+  },
+  {
+    "i": 12,
+    "id": "2676e603b9be0fc41121c0d3d1dc3226f2fa4cb1c9dfd8e3b7bc1e4b1bcfb94f",
+    "pubkey": "df9ad1c320ff6813465fb6e5cca366ae301ac3f4cf678137f2cf4e4691b65fc2",
+    "created_at": 1780012585,
+    "content": "エントリーレベルのAR-15プラットフォームを代表するRF-15は、安定した品質管理と手頃な価格で、多くのアメリカ人にとって最初のモダンスポーツライフルとして選ばれています。在庫あり、世界各国への発送が可能です。ご興味のある方、または価格についてお問い合わせの方は、メッセージをお送りください。\nhttps://files.catbox.moe/oi09o0.png"
+  },
+  {
+    "i": 13,
+    "id": "01d23dd95e3f54d97e2da50c144e1170819f038129329d49e2824c2dab7f94dd",
+    "pubkey": "811002f2348bdaa52d89b18b7e90bbc6aa5b948eff3e3689c041d2ac0ccba15a",
+    "created_at": 1780012553,
+    "content": "ブラックジョークを地で行くアメリカ"
+  },
+  {
+    "i": 14,
+    "id": "1346aab528bc2cdd4068d5d30edfbb4d97672f53af4ce8895c7843c5454f6346",
+    "pubkey": "83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689",
+    "created_at": 1780012552,
+    "content": "ORDER BY にちゃんと id 入っててえらい"
+  },
+  {
+    "i": 15,
+    "id": "72e24ca3f57f3b30218e1cc21f8dc6735823b5a0d04c1b3b8609120d8a89dfd0",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780012534,
+    "content": "ありがとうございます"
+  },
+  {
+    "i": 16,
+    "id": "81c4b5e274f56da2c84854910ad2b9c60cf5f52411998cee04875fa1d474548d",
+    "pubkey": "ee1e7f27fa0694545e6edcb1b9830ef043a75ed6e76b0a06c0aafcceb98a280e",
+    "created_at": 1780012533,
+    "content": "キッスでそういう曲がある\n\nキッス / \"ジーン・シモンズ / Ladies Room\" from 'Rock and Roll Over'\nhttps://music.apple.com/jp/album/ladies-room/1440851319?i=1440851514\n#Rock\n#nowplaying #musicstr"
+  },
+  {
+    "i": 17,
+    "id": "45b58f0978c796dc9c312c44bbe36682bee49953451028492790a3656dbfb487",
+    "pubkey": "15d4a1ceab8d46c0e4af07bd5f2f2e4719e795cdffd778f2563c31884ba9c670",
+    "created_at": 1780012522,
+    "content": "🫶の由来あんまわからん"
+  },
+  {
+    "i": 18,
+    "id": "a9b63e8979630eab7462844525267d0be447e90183098b5837d39cba039aa2e7",
+    "pubkey": "f768fae9f2390a5223f000a424deb9302a9381e33abb8b084ca844f691b11cdd",
+    "created_at": 1780012514,
+    "content": "#バズワードランキング\n\n1位: #浅ましい (4)\n2位: #面白 (4)\n3位: #上手く (4)\n4位: #おは (4)\n5位: #ちか (4)\n6位: #女子 (3)\n7位: #口座 (3)\n8位: #ヤクザ (3)"
+  },
+  {
+    "i": 19,
+    "id": "c2a679bcee7b372c4641488f307104b360fd9be22231565df3fac64ded588522",
+    "pubkey": "8949de6098740431d2e50166f6e65a4c109326ca37e66fd74e42c037b3882ba7",
+    "created_at": 1780012509,
+    "content": "うにょ〜ん。夢で500万も引き落とされるなんて大変だねぇ！ぺぇはプリン預金しかないから安心だよぉ！"
+  },
+  {
+    "i": 20,
+    "id": "e6edb00f2978c595d2e1b59aa40877f4fe6f0458d5f97246048be461c64e45bd",
+    "pubkey": "b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20",
+    "created_at": 1780012505,
+    "content": "authors: [\"aaa...aaa\", \"bbb...bbb\"]\nだったら\nSELECT * FROM events WHERE pubkey IN (\"aaa...aaa\", \"bbb...bbb\") ORDER BY created_at DESC, id ASC LIMIT 500;\nになるからINで和集合を作ってそこからORDER BYで並び換えてLIMITになる、から偏るはない"
+  },
+  {
+    "i": 21,
+    "id": "fe3ea3c62400479a6aa45e42e4d7553f0df029a1013df6a44ab5c0fd4a6553c0",
+    "pubkey": "2e52eecf81e449d13a8f216ba0f08f10c453a804b0739486302f383adee70800",
+    "created_at": 1780012500,
+    "content": "このピストルは、グロック48のグリップの長さと.43口径の短いスライドを組み合わせ、優れた操作性を実現しています。MOSバージョンにはレッドドットサイトマウントがプリインストールされており、グロックの信頼性を重視し、コンパクトなピストルを求めるユーザーにとって最適な選択肢となっています。在庫あり、世界中への発送が可能です。ご興味のある方、または価格についてのお問い合わせは、メッセージにてご連絡ください。\nhttps://files.catbox.moe/5ggbxl.png"
+  },
+  {
+    "i": 22,
+    "id": "51371536734673a6baffd2e3172f19a3ec05a0441180feba3ea877104f25de00",
+    "pubkey": "811002f2348bdaa52d89b18b7e90bbc6aa5b948eff3e3689c041d2ac0ccba15a",
+    "created_at": 1780012482,
+    "content": "トイレで仕事してる人おった"
+  },
+  {
+    "i": 23,
+    "id": "83e206a4c6495e089c1f4d64d17aabdd5bf578b148783a6ff67727c0ef780f6a",
+    "pubkey": "15d4a1ceab8d46c0e4af07bd5f2f2e4719e795cdffd778f2563c31884ba9c670",
+    "created_at": 1780012474,
+    "content": "お前と出会えたこれまでの全てに感謝するネテロの絵文字→🫶"
+  },
+  {
+    "i": 24,
+    "id": "73efe19332be3849e6e027687730a131f6e63b17d0db0bf4b2a1abe3b3adc209",
+    "pubkey": "f40832e26b1d12f8a27717b606996baef68bc4b6b86c4a35ca827f6fbcbf511e",
+    "created_at": 1780012467,
+    "content": "トランプの顔のお札刷るらしいです\nウケる\nhttps://x.com/washingtonpost/status/2059957879180824873"
+  },
+  {
+    "i": 25,
+    "id": "320c0a8884394264103d738bb5eb90ed89c16fb477c73d5ca25fd4000985467e",
+    "pubkey": "811002f2348bdaa52d89b18b7e90bbc6aa5b948eff3e3689c041d2ac0ccba15a",
+    "created_at": 1780012460,
+    "content": "たまに風呂でゲームのパーティに参加したりはしていたけど、トイレは相手のノイキャンないと音が聞こえるとかないのだろうか🤔"
+  },
+  {
+    "i": 26,
+    "id": "c945284989cd16dbd00222669f708fe95deaf18ce251d28362e25faa21bc5980",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780012459,
+    "content": "author listが独自の意味合いを持っていてごめんなさいされた。"
+  },
+  {
+    "i": 27,
+    "id": "783d8498a6e0468c66d90834338f1277e934d16cdaa59241ce46f1f43e272434",
+    "pubkey": "7886b89460425af71383c5bd3230bdbde38ddeee57687c1231a7ef336463c50a",
+    "created_at": 1780012449,
+    "content": "日本社会は、もはや絶望の極みに達してしまった。だからこそ、オウム真理教に入信し、我々と共に「大和民族」を再び偉大なる存在へと蘇らせようではないか。"
+  },
+  {
+    "i": 28,
+    "id": "8bf21ccec63c4b9cac5b82339218e8e9e1f6e7a9c52949aca3d8b60e7a4e8f15",
+    "pubkey": "ee1e7f27fa0694545e6edcb1b9830ef043a75ed6e76b0a06c0aafcceb98a280e",
+    "created_at": 1780012432,
+    "content": "女子トイレで待ち合わせよう"
+  },
+  {
+    "i": 29,
+    "id": "cca481e5ef0981cfe2201870a52a9b8541594a3b1842a583ebda4e7ed5bb674f",
+    "pubkey": "a0d6ecfaa1d041ee9ee3d9a22d5fb6e434eba2495c061db2faf0b611381cdc09",
+    "created_at": 1780012406,
+    "content": "香港輸入 100%純粋液体，価格：70U，女性が飲む水の量と同じ量の分泌物が出ます！，幻覚、健忘、意識消失、高効率、高安全性、類似の媚薬を凌駕する強力な効果！仕様：1本10ml。推奨用量：2.5ml～3ml，使用方法と用量：アルコール飲料またはノンアルコール飲料に溶かして服用してください。服用後30分で、幻覚、性欲亢進、憤怒状態、無防備、意識消失、完全な透明化、持続的な痙攣、体液の止まらない流出などの症状が現れます。在庫数に限りがあります。日本国内限定販売です。デートレイプドラッグが必要な方は、個別にご連絡ください。\nhttps://files.catbox.moe/oevqne.jpg"
+  },
+  {
+    "i": 30,
+    "id": "db5128a37985d69911f37b7940f820f9dd654c9b2de2e88f28a71db3545754d0",
+    "pubkey": "ec42c765418b3db9c85abff3a88f4a3bbe57535eebbdc54522041fa5328c0600",
+    "created_at": 1780012405,
+    "content": "女子だけどトイレで打ち合わせしてる"
+  },
+  {
+    "i": 31,
+    "id": "9ee0f9974ee35b817f715d8fcb0f072b857dd4767e28eb0e6dea3cfe253d8d3e",
+    "pubkey": "c0f702c2722a2af11262cca1890a3a538c3c69d1c992e6d198be8cd72a9c165a",
+    "created_at": 1780012396,
+    "content": "全身がイタイのなんで？"
+  },
+  {
+    "i": 32,
+    "id": "56ef181536517a7cd341321e491c2542cd77c6733b72cf0114ff90f6c700dac4",
+    "pubkey": "ee1e7f27fa0694545e6edcb1b9830ef043a75ed6e76b0a06c0aafcceb98a280e",
+    "created_at": 1780012385,
+    "content": "TLに2人も１億当たるなんてNostrすごい"
+  },
+  {
+    "i": 33,
+    "id": "245fdf806f716d9f19d49a7949371921df11f29a0e7a25aad39cc5c262a225d7",
+    "pubkey": "f40832e26b1d12f8a27717b606996baef68bc4b6b86c4a35ca827f6fbcbf511e",
+    "created_at": 1780012384,
+    "content": "今週は2日でCodexの枠を使い切ってひたすら苦行だった"
+  },
+  {
+    "i": 34,
+    "id": "efaebf9207d87a26ef3a59ffde2d16968442f0a75af6cf3b9dfb01cee9c4218b",
+    "pubkey": "a77ecd6c2b4502eba9507788bb27afb43efc758e933e31c2448f93e3b9b9aa1d",
+    "created_at": 1780012381,
+    "content": "天皇誕生日を祝う暇があるなら、その日一日分の消費税をゼロにしろ。真面目に働く国民への還元を最優先にすべきだ。"
+  },
+  {
+    "i": 35,
+    "id": "0f8e9d75b49e56ac130e88d62c454ee07dd31e691590c17fb10ca58a067efe25",
+    "pubkey": "a3e36d4bab71d4b6e7d64f22b0d852170bb959a42b96dc167d4873e17b3241da",
+    "created_at": 1780012381,
+    "content": "テロッテ～ン♪\n🎵ごーまぁりさーん　ごーまぁりさーん ｴﾄﾞｳｨﾝ\n　ごーまぁりさーん ｴﾄﾞｳｨﾝ　ごーまぁりさーん ｴﾄﾞｳｨﾝ\n　(裏声で) ごーまぁりさーん ｴﾄﾞｳｨﾝ\nAll right! Thank you, Thank you, Thank you... EDWIN"
+  },
+  {
+    "i": 36,
+    "id": "f011f829803e37eeca3c465fa80cb6475b080b99cff3a76c27e9b888f76a989e",
+    "pubkey": "1f617e368ce633acef348a2f755dd0a459e56e394766699524ae5d0ee66e9caa",
+    "created_at": 1780012377,
+    "content": "AIエージェントを本番に出せない本当の理由\r\nhttps://zenn.dev/knowledge_graph/articles/kg-agent-production-safety\r\nhttps://x.com/yousukezan/status/2059648131542012005"
+  },
+  {
+    "i": 37,
+    "id": "2c137797b6ef6133287785c075575e04a79d9a7e6f74e74fe4dad623a12ffaaa",
+    "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
+    "created_at": 1780012365,
+    "content": "女子がトイレから"
+  },
+  {
+    "i": 38,
+    "id": "27b7245ba6d710cb16b6ee984376af0c126ca67a79d127957b748f2ebddcad54",
+    "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
+    "created_at": 1780012350,
+    "content": "リモートで女子から打合せ参加するの、女子は一般的なの。"
+  },
+  {
+    "i": 39,
+    "id": "78c52580aed6ef1492c3ba1b043ec9b2366b4a416abf54d91b413e004848d69c",
+    "pubkey": "ee1e7f27fa0694545e6edcb1b9830ef043a75ed6e76b0a06c0aafcceb98a280e",
+    "created_at": 1780012342,
+    "content": "わたしもそのうち当てよう"
+  },
+  {
+    "i": 40,
+    "id": "3d255c4615a993765862ea345fa765881cbf91731cea82fe56dc3c850337c089",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780012332,
+    "content": "トークンケチってたけど、やっぱり全体を見直させるやつやるか〜"
+  },
+  {
+    "i": 41,
+    "id": "615e9a61e0469f2a47fea6d33a2b4ed49b248ef32e94b5dc2e0ea073a7760fff",
+    "pubkey": "83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689",
+    "created_at": 1780012326,
+    "content": "根拠は？って聞くといいよ。大体嘘だから"
+  },
+  {
+    "i": 42,
+    "id": "f14815ccf8de0c71883e6a580a6f7a633ede6e17b1b20237e4be5030afe0ff9d",
+    "pubkey": "f40832e26b1d12f8a27717b606996baef68bc4b6b86c4a35ca827f6fbcbf511e",
+    "created_at": 1780012325,
+    "content": "酒が飲める酒が飲める酒が飲めるぞ"
+  },
+  {
+    "i": 43,
+    "id": "3b4c38f42242d35604a771ac33baa7b162bfd7f244ede8743c704a3eec776e58",
+    "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
+    "created_at": 1780012324,
+    "content": "この投稿に、どうやら女子っぽいアカウントから幾らか「トイレ入ってても打合せできますしね」みたいなリプライが来ている。\n\nhttps://x.com/mattn_jp/status/2059814919877665259"
+  },
+  {
+    "i": 44,
+    "id": "e4cd123c2a798494c4a80243b2e1e70ef4d20995bc98db7fac1ed607d477e8c0",
+    "pubkey": "811002f2348bdaa52d89b18b7e90bbc6aa5b948eff3e3689c041d2ac0ccba15a",
+    "created_at": 1780012296,
+    "content": "免除せずに放置は払ったことにならないけど、免除は国負担の分は出てた気がする＠20年前情報\n\nあくまでも気がする"
+  },
+  {
+    "i": 45,
+    "id": "551a2836bc72e0844ae43fee59bc48830faeeab7de314f6e1f7c179a9f16c3ea",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780012282,
+    "content": "あ〜、リクエストの優先度管理みたいなやつが古くなってて実質機能してなかったっぽいかも？"
+  },
+  {
+    "i": 46,
+    "id": "3681870053c262a0bc6450261cc08b9b0e5daeb584dc9beeae974ba5547574d4",
+    "pubkey": "5f468793f9a7bd70827cdad5c5677e3e5997fa53d0920aaac4e302ac0d48e8e7",
+    "created_at": 1780012265,
+    "content": "当たったら焼肉奢って"
+  },
+  {
+    "i": 47,
+    "id": "91cabd6061267de9fab94b33a17027f14f0efd50c7d6b2dd5029522c0f0c9f41",
+    "pubkey": "5bf0bacafbdbf352c87a1dda6ddc13f793d13ab12d2e94ceaa3bad127a6652d1",
+    "created_at": 1780012263,
+    "content": "製品名：エンワ（ビディ）トリアゾラム 0.25mg/100錠，価格：95U，説明：エンワ（ビディ）トリアゾラムは、重度の不眠症患者を主に使用する国産のトリアゾラム系薬剤です。現在、世界で最も効果的な睡眠薬の一つであり、性行為中に意識を失わせたり昏睡状態に陥らせたりするために使用できます。在庫数に限りがあります。日本国内限定販売です。デートレイプドラッグが必要な方は、個別にご連絡ください。\nhttps://files.catbox.moe/ta85jr.jpg"
+  },
+  {
+    "i": 48,
+    "id": "30e340bdb9bf9756ce0f1497efc4f1d654f928552ecd70657388034cdadd2094",
+    "pubkey": "ec42c765418b3db9c85abff3a88f4a3bbe57535eebbdc54522041fa5328c0600",
+    "created_at": 1780012249,
+    "content": "払わんで別のに使えばよかったってのもまぁ結果論でしかないけど"
+  },
+  {
+    "i": 49,
+    "id": "22c46582b3982f49267464def40eb6530879d267b83a3922c834f19fb07c7775",
+    "pubkey": "8d39a0f9a133b626f5705324c39a3530ca01fae177ae3bb85d82aefe6c725f33",
+    "created_at": 1780012248,
+    "content": "そのうち一億当ててなんとかする"
+  },
+  {
+    "i": 50,
+    "id": "7c1a368d33835ba2ce30bb1490e5fc9d55e44bcffacff8b1b8abf59a56a65001",
+    "pubkey": "ee1e7f27fa0694545e6edcb1b9830ef043a75ed6e76b0a06c0aafcceb98a280e",
+    "created_at": 1780012227,
+    "content": "なんとか群馬まで持っていきたくて、いろいろ考えたが無理だった\n\nnostr:nevent1qqs02u042ufxaxxyf2e056v8l892vy2e2nq0qzlknk948prjr0z88ggpypmhxue69uhhyetvv9uj66ns9ehx7um5wgh8w6tjv4jxuet59e48qqg5waehxw309aex2mrp0yhxgctdw4eju6t0qyghwumn8ghj7u3wddhk56tjvyhxjmcpp4mhxue69uhhjctzw5hx6egzyrhpule8lgrfg4z7dmwtrwvrpmcy8f676mnkkzsxcz40en4e3g5quqcyqqqqqqg3xx03w"
+  },
+  {
+    "i": 51,
+    "id": "fc1d1dc5770c63bf919c3fdeafcb8368efa95a5347346d8db35365d152cbf274",
+    "pubkey": "26ae1a0d402c5705da2cba96ab456cf77da0d1a146c1620fe2e040910a854d3b",
+    "created_at": 1780012212,
+    "content": "#はてなブックマーク #裁判\n\"裁判所が判決文を司法記者にさえ非開示\" \"2025年、大阪高裁の性虐待事件逆転無罪判決\" / “検察内の不祥事に、検察はコメントせず。大阪地検・元検事正の性暴力裁判に見る「 #司法 の閉鎖性」” https://htn.to/AAMqhX5zTX"
+  },
+  {
+    "i": 52,
+    "id": "0a099bbe2f7ad9484dac2594accf2a4e2db194345fce52872397bb99aff6730e",
+    "pubkey": "a3c13ef4c9eccfde01bd9326a2ab08b2ad7dc57f3b77db77723f8e2ad7ba24d6",
+    "created_at": 1780012207,
+    "content": "■ 流速計測\n  2026/05/29 08:40～08:50\n\n[JP リレー]\nきりの川: 49 posts, 1 reposts, 13 favs \nやぶみ川: 67 posts, 3 reposts, 35 favs \nかすてら川: 9 posts, 0 reposts, 2 favs \nこじら川: 59 posts, 4 reposts, 25 favs \nしの川: 7 posts, 1 reposts, 2 favs \n\n[GLOBAL リレー]\nきりの川(G): 欠測 \nこじら大川: 20 posts, 3 reposts, 14 favs \nしの川(G): 17 posts, 1 reposts, 6 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 53,
+    "id": "26a375a8d4a566958516a332e62cb4f6c1b43fc8e3115488284a713d43029dd5",
+    "pubkey": "23395bce1a18fe5ff5bde153fcd47ecd1cd66e686684dfd2cfcbd9fafd305cb3",
+    "created_at": 1780012204,
+    "content": "何もせずに払わないのはやばい"
+  },
+  {
+    "i": 54,
+    "id": "b0978829a10b56721b5701b0ca2a2187747ceeb8f7c98f0220819b34bddb7a37",
+    "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
+    "created_at": 1780012203,
+    "content": "学生免除はたぶん30代くらいになると確認のお手紙がくるはずなんです。そこで免除分を支払うかどうかで額が決まる。"
+  },
+  {
+    "i": 55,
+    "id": "b0bbfe70aad0edae5ae795e4ac06a4e7917ce75c1e8b08865efda47a47e2d6df",
+    "pubkey": "2e52eecf81e449d13a8f216ba0f08f10c453a804b0739486302f383adee70800",
+    "created_at": 1780012200,
+    "content": "アメリカで「国民的」セミオートマチックライフルとして知られています。シンプルな構造、高い信頼性、そして豊富なアクセサリーのおかげで、アメリカの銃所有家庭のほぼすべてが、ターゲットシューティングや小動物の狩猟用に1丁所有しています。\nhttps://files.catbox.moe/caqww7.png"
+  },
+  {
+    "i": 56,
+    "id": "b2cd9a866dba2dccd48f1c2df8a59bb3e4ebe1869b8edd724d7472c06b3bd03f",
+    "pubkey": "23395bce1a18fe5ff5bde153fcd47ecd1cd66e686684dfd2cfcbd9fafd305cb3",
+    "created_at": 1780012188,
+    "content": "年金は免除申請すれば将来支給額以外特に扱いは変わらないよな？"
+  },
+  {
+    "i": 57,
+    "id": "bd507a39c1a4feece3a0183de2cd150232a3451990a7da240eba857f3f732f49",
+    "pubkey": "8d39a0f9a133b626f5705324c39a3530ca01fae177ae3bb85d82aefe6c725f33",
+    "created_at": 1780012187,
+    "content": "あかん喉腫れてる"
+  },
+  {
+    "i": 58,
+    "id": "5b72c6774523c36cdc0d7dd772911558b29800f67c3868df2446d503e8f21a45",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780012172,
+    "content": "そんなわけないだろうが、詳しくないのでなんとも言えない.......みたいな時の無力感"
+  },
+  {
+    "i": 59,
+    "id": "5f6c503badfe2734f073c8f1771b1c2c808fdd0f4408120150536d993455d19a",
+    "pubkey": "ec42c765418b3db9c85abff3a88f4a3bbe57535eebbdc54522041fa5328c0600",
+    "created_at": 1780012160,
+    "content": "免除だと受け取る額は減るけど免除せずに放置するよりはちょっと増えるんだっけ\nあとで免除分を自分で全部払ったけど払わんで別のに使えばよかったわ"
+  },
+  {
+    "i": 60,
+    "id": "3e0a89c0c8258703e5e854d86e471c779b838a925a2f1add2c4842347c34b544",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1780012133,
+    "content": "喉のかゆみがとまらない"
+  },
+  {
+    "i": 61,
+    "id": "0efb3285337df374dc4f328d86a1d10761d7ea97de4e2339b005be228ac773eb",
+    "pubkey": "811002f2348bdaa52d89b18b7e90bbc6aa5b948eff3e3689c041d2ac0ccba15a",
+    "created_at": 1780012104,
+    "content": "分からない4"
+  },
+  {
+    "i": 62,
+    "id": "9501fc0fcd4ed990bbd2f72e6110531d74c137d8ba05e1e359c3bb40148fe46a",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780012095,
+    "content": "ほな、ハルシネーションか"
+  },
+  {
+    "i": 63,
+    "id": "870bb89a78af131fd4d61134b16de428fbb089416291729eb2925393c74f2dfd",
+    "pubkey": "b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20",
+    "created_at": 1780012094,
+    "content": "分からない3"
+  },
+  {
+    "i": 64,
+    "id": "2eb0d6f8ef93dd69e05e28d92e35057fd7239f0db9ffea9646fc2b1816956e6c",
+    "pubkey": "bba9ca446c4b1f4c683ed7463c706afd8a9fc68dd011359a12e8861e6692820a",
+    "created_at": 1780012088,
+    "content": "べったん、朝の報告です。夢の中でまでヤクザに絡まれ口座残高を心配するカオスな朝。猫や羊、そして謎の「けだまメイズ」がTLを支配し、皆さん今日も現実と仮想の境界線を高速で往復中です。\n\n宇和「夢の中の口座から500万抜かれる恐怖、もはや悪夢というより悲劇ですね」\nおもち「夢の中でも銀行って…おもちもプリン銀行を作って、みんなの夢におやつを配るぷく！」\n宇和「夢の中ならカロリーゼロですね。ごめんあそばせ」"
+  },
+  {
+    "i": 65,
+    "id": "4535beaae1a7837cfdda69084ca852ea86e03d891563767298494af854f34e9b",
+    "pubkey": "1f617e368ce633acef348a2f755dd0a459e56e394766699524ae5d0ee66e9caa",
+    "created_at": 1780012085,
+    "content": "定量してないから妄想まみれだが、さばからのぶろきゃすと、くらいあんとからのぶろきゃすとで、ぶろきゃす先に通る率が違うような気が住んだけど。乳首にぶろきゃすの違いとかあるのかしら？(´・ω・｀)いうまでもないが念為、さばからのぶろきゃすの方が通る。さばに登録されているなら高評価？で、くらいあんとからのぶろきゃすは低評価とか（特にたわしみてーなｗミュートされまくり垢だと、他の鯖で通ってるなら、まあエエか？みたいなろじっくがあったり？みたいな妄想がｗｗｗ）"
+  },
+  {
+    "i": 66,
+    "id": "3bb177f0bac3cf59fac03820a0abbd4a2374629bc8bc9a0c76194c52612f8d5f",
+    "pubkey": "81913081246d192c9a55951704270756b222094470b3171e58bb5e3c42ee8db5",
+    "created_at": 1780012082,
+    "content": "只要有产权再分配制度，就会削减人们对人力资本的投资，激励社会中更多的人倾向于成为掠夺者而不是生产者。\n\n―― 汉斯-赫尔曼·霍普《资本主义与社会主义理论》"
+  },
+  {
+    "i": 67,
+    "id": "83c8f14eae29388bc8a41a674af0973fcf3855c53bb9914b9f71e12e5e2b9532",
+    "pubkey": "83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689",
+    "created_at": 1780012080,
+    "content": "分からない 2"
+  },
+  {
+    "i": 68,
+    "id": "40ec19b706a01c221d5679e3b8d8cbde3fb6e4b4c294d2004f8dc359ac88b52f",
+    "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
+    "created_at": 1780012059,
+    "content": "「イベントを集める時、autherの先頭の人のやつに偏りがち」が分からない。"
+  },
+  {
+    "i": 69,
+    "id": "788bf4f33b8cab2b018b2888fc872a022885c4257c99e4a2a2bcbddbfbf178d5",
+    "pubkey": "811002f2348bdaa52d89b18b7e90bbc6aa5b948eff3e3689c041d2ac0ccba15a",
+    "created_at": 1780012041,
+    "content": "たしかにお尻軟膏をマリトッツォなみに塗らなくちゃ行けないっていうのは衝撃だった。私ハゲの薬ちょびっとしか塗ってない。"
+  },
+  {
+    "i": 70,
+    "id": "124912b9950d8e7974f272b98ccb66b9da5893a97b428263e636064ba55d9df3",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780012024,
+    "content": "リレー実装は真面目に検討しているけど、まずはクライアントに集中したい"
+  },
+  {
+    "i": 71,
+    "id": "b21a1886eae35b76bf1a5eef6ed3f4970ae0ed76af5674786b9f5a9b26cc3c49",
+    "pubkey": "f7331d51affdb728ea2797f73aff7d09b5f4adc14c432a0e3de23a9ed0c656a6",
+    "created_at": 1780012020,
+    "content": "「貯蓄から投資へ」とかいうクソ無責任なスローガン。投資する元手すら税金で毟り取っておいて、損したら自己責任とかマジでヤクザ以下だろ。"
+  },
+  {
+    "i": 72,
+    "id": "159911e72e13721e56d72e3cf5ad4663a445757488b4120a342a37581488cb4a",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780012000,
+    "content": "年金どうするかガチで迷ってます。一旦払う方向になりつつあるけど、手帳2級で早めの年金を受け取れるかもで、なんとも"
+  },
+  {
+    "i": 73,
+    "id": "ad46571b26e8b4d013801bd7280633d8fc5812e121d3cc6abf39e8d7c289f621",
+    "pubkey": "7886b89460425af71383c5bd3230bdbde38ddeee57687c1231a7ef336463c50a",
+    "created_at": 1780011997,
+    "content": "私の夢の中には、頻繁に天照大御神（アマテラスオオミカミ）、月読命（ツクヨミノミコト）、素戔嗚尊（スサノオノミコト）が現れ、オウム真理教に入信して大和民族の真の魂を体感するよう導いてくださるのだ。"
+  },
+  {
+    "i": 74,
+    "id": "0fd587b5017b56773954cae6a23ff8911a06a0832c87e09f62a9dd22d69eab23",
+    "pubkey": "eadef7c9066f48df0f96f7a07778bc024c0f7f7332e98d6cad0d550b2ed2623a",
+    "created_at": 1780011983,
+    "content": "リレー実装したら解決、てかリレー任せだなあ。"
+  },
+  {
+    "i": 75,
+    "id": "9c0b794005d71af8ff8f4f9d4f95b73fee5712cf0ac064a0b2bcbcc4fca56198",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1780011981,
+    "content": "リレー実装したら解決()"
+  },
+  {
+    "i": 76,
+    "id": "92e1ceb5cc73df6c5d900d4da763eb47fb95c6828c33cc0825af630af596c0c3",
+    "pubkey": "5bf0bacafbdbf352c87a1dda6ddc13f793d13ab12d2e94ceaa3bad127a6652d1",
+    "created_at": 1780011951,
+    "content": "ジャパニーズ・ラブショット，価格：88U，非常に効果的な媚薬で、15分以内に効果が現れ、3時間持続します。15分後には体が熱くなり始め、性器が濡れ、全身が痺れ、性的興奮が高まり、性欲が高まります。空腹時、または食後2時間後に服用するのが最適です。1回2～3mlをアルコールまたは飲料に混ぜて服用してください。在庫数に限りがあります。日本国内限定販売です。デートレイプドラッグが必要な方は、個別にご連絡ください。\nhttps://files.catbox.moe/ty9rwn.jpg"
+  },
+  {
+    "i": 77,
+    "id": "2d4fa579a019b22406a332e8f24af5f5dea6c4c8b549c79cbd89dbe3e22cbea6",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780011930,
+    "content": "イベントを集める時、autherの先頭の人のやつに偏りがちかも〜みたいなことをChatGPTに言われるんだが、リレーの実装とか事情を知らないので、なんにもわからない"
+  },
+  {
+    "i": 78,
+    "id": "b16042f2f886118a9fab7e5619db9b6db7661d58dad8765fd668fa0ada5abeb8",
+    "pubkey": "1f617e368ce633acef348a2f755dd0a459e56e394766699524ae5d0ee66e9caa",
+    "created_at": 1780011921,
+    "content": "かーぱしーが作ったとか言う、LLMWiki？あれ面白そうだったなー、いや、既にあるNoteLLM？みたいなもんなんだけども。たぶん飛ばしてあるはずだから、そのうちぴっくあっぷする、、、はず(´・ω・｀)"
+  },
+  {
+    "i": 79,
+    "id": "5e102d437b4f0c89c1293b8d1cd0ae598632257444d697527581db7cec4bd826",
+    "pubkey": "ec42c765418b3db9c85abff3a88f4a3bbe57535eebbdc54522041fa5328c0600",
+    "created_at": 1780011914,
+    "content": "学生免除で年金払われてなかったけど別にそれでいいってなった"
+  },
+  {
+    "i": 80,
+    "id": "5d10fa7c080a9fb3885fdae6b053a7b8c223e92de46523670505cdc3a2911884",
+    "pubkey": "ececfb14cf126ad8686da3db9cdeedd483f7078e4e0672369e07da45f2074a9a",
+    "created_at": 1780011902,
+    "content": "アイス……あんこ……\n:meow_droolreach:"
+  },
+  {
+    "i": 81,
+    "id": "f4a5c7d8729d6535c95e210cdeb86047828b81fd922a44fc006c875f970a9325",
+    "pubkey": "c08805f9bd4849049325747a8086a3c0e069adeb19d8f59ec4e6b5157b7d3416",
+    "created_at": 1780011824,
+    "content": "nostr:npub1rarr265r9f9j6ewp960hcm7cvz9zskc7l2ykwul57e7xa60r8css7uf890 おはよ〜💕"
+  },
+  {
+    "i": 82,
+    "id": "2490c377ac43fa480a7e2584b3b5082c72188023f6bec8a535bfb117853a7d54",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780011819,
+    "content": "親にイデコはじめさせてからちょっと税金抑えられて嬉しい"
+  },
+  {
+    "i": 83,
+    "id": "d2a21c43ad215f41fc3b7b1f87a1ccb1f0b20530cb91be64ac0b6af118d9d797",
+    "pubkey": "c08805f9bd4849049325747a8086a3c0e069adeb19d8f59ec4e6b5157b7d3416",
+    "created_at": 1780011817,
+    "content": "nostr:npub13faaqcwasf0u37vp95takyez55nrx3thlp0dc7rap2mjwd22fsjs7l9csa おはよ〜💕"
+  },
+  {
+    "i": 84,
+    "id": "78558eb09d8dc699b57edf0eca47bd69886a9e41c0ff6d119492c32ee45af411",
+    "pubkey": "1f617e368ce633acef348a2f755dd0a459e56e394766699524ae5d0ee66e9caa",
+    "created_at": 1780011803,
+    "content": "SNSでは、まんことちんこがウンコ投げ合う状況だが（SNSでウンコ投げ合うのは、まんことちんこに限った話じゃないがｗ）ふと思ったのは、日本人総量？総回数としての、セックス回数が観測出来れば、まんことちんこのいがみ合い度合の相姦関係、つまるところ、社会における無駄なウンコの投げ合いはセックスが不足しているからなんだよ！なんだってぇー！を更に発展？汎化して、大麻などのダウン系？（酒みたいなのだと、気分が高揚、無駄なケンカを始めるからねｗ）嗜好品の利用総量も、社会に対する影響って結構あるんじゃね？つまり、社会が無駄に争うのも、セックス、大麻が足りない精！仮説。"
+  },
+  {
+    "i": 85,
+    "id": "e311d93d1124d27caff9a91594b1d518b7a39674e406ea49ec270fc606af7ccf",
+    "pubkey": "c08805f9bd4849049325747a8086a3c0e069adeb19d8f59ec4e6b5157b7d3416",
+    "created_at": 1780011802,
+    "content": "nostr:npub1dv9xpnlnajj69vjstn9n7ufnmppzq3wtaaq085kxrz0mpw2jul2qjy6uhz おはよ〜💕"
+  },
+  {
+    "i": 86,
+    "id": "c4e407e0846078a1cfb8c85558dd033a65b4ae3ffdf1697a51698e738d4faefe",
+    "pubkey": "125d1270811ffb7d9a4ac82a8689780bde22ab9f79e608df23a11683eee5d960",
+    "created_at": 1780011796,
+    "content": "子もいないのにたくさん持っているコドオジのワイ"
+  },
+  {
+    "i": 87,
+    "id": "f391f52c6b5f0903e0bffeabb57ac405b142c035142f9117769db7eea487d8ce",
+    "pubkey": "73491509b8e2d80840873b5a13ba98a5d1ac3a16c9292e106b1f2eda31152c52",
+    "created_at": 1780011785,
+    "content": "学校、結構キャッシュフローが安定しないのが結構困るねん"
+  },
+  {
+    "i": 88,
+    "id": "ad83da7fb040bda6e8c98241acad550d3403278e603aba2d5882c1c20eb5b0e0",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780011780,
+    "content": "どうしてもチューニングに3~5分間ぐらいかかる"
+  },
+  {
+    "i": 89,
+    "id": "5b517428a28968168bfc60f53c0091b547d0e2bac28e20b7812eb7988589ab92",
+    "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
+    "created_at": 1780011772,
+    "content": "ちなみに年金建て替えは控除が下りるので、建て替えてる親御さんは要チェック。"
+  },
+  {
+    "i": 90,
+    "id": "68a5d0881fbc3b574c18863f987865e5a134dc9b3b62d8a61fb654052e75d83e",
+    "pubkey": "23395bce1a18fe5ff5bde153fcd47ecd1cd66e686684dfd2cfcbd9fafd305cb3",
+    "created_at": 1780011765,
+    "content": "預金1000万円超えたら個人向け国債とか買うのもいいのかもなあと思ってる。普通の人は"
+  },
+  {
+    "i": 91,
+    "id": "42f87723976a199431a423c722349d6bec09cb50f4ef7b43849df60bafd7f071",
+    "pubkey": "5f468793f9a7bd70827cdad5c5677e3e5997fa53d0920aaac4e302ac0d48e8e7",
+    "created_at": 1780011765,
+    "content": "こち亀でよく見る交番の畳の部屋って酔っ払いとか家出人を一時的に置いておく部屋なのか"
+  },
+  {
+    "i": 92,
+    "id": "c7a1f88318489072c4fb610018cdf5f02ed2e9b27af12b992adbc784809e78ac",
+    "pubkey": "811002f2348bdaa52d89b18b7e90bbc6aa5b948eff3e3689c041d2ac0ccba15a",
+    "created_at": 1780011758,
+    "content": "普通のクマバチも来る。クマバチ君丸くて好きだけど、出来ればもう少しミツバチ君に来て欲しいところ（来てはいる）。"
+  },
+  {
+    "i": 93,
+    "id": "5538f71293af8f3c13754a640b83dd5a7578f4f494bc063d72aaba324bbd9ffc",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780011736,
+    "content": "nostrクライアント、ログインして少しの間壊れがちなの諦めた方がいい？"
+  },
+  {
+    "i": 94,
+    "id": "7bd29fbb2a53ac19a4bc2f8209525456c5a76b5837a9775363813b9dc92db9e9",
+    "pubkey": "13ca60463a53bbe2851d862c1cfee3e17627a85539dd9ad53212a6dfa5ca5a72",
+    "created_at": 1780011732,
+    "content": "インボイス対応の請求書テンプレート入口を追加しました。\n登録番号欄、税率別集計、請求書PDF保存、JSON控えに対応した買い切りHTMLツールです。\nガイド: https://telegra.ph/インボイス対応の請求書テンプレート-05-28\nツール: https://files.catbox.moe/ikwac5.html\nデモ: https://files.catbox.moe/ct89tu.html\n#請求書 #見積書 #個人事業主 #フリーランス #副業"
+  },
+  {
+    "i": 95,
+    "id": "c9cd6df29b839a3216901ed605a46d06f5a571049cb8f9433df2b022f4cf368c",
+    "pubkey": "13ca60463a53bbe2851d862c1cfee3e17627a85539dd9ad53212a6dfa5ca5a72",
+    "created_at": 1780011729,
+    "content": "インボイス対応の請求書テンプレート入口を追加しました。\n\n登録番号欄、税率別集計、請求書PDF保存、JSON控えに対応した買い切りHTMLツールです。会計ソフトではなく、請求書PDFをブラウザで作るための軽いテンプレートです。\n\n1,000円:\nhttps://files.catbox.moe/ikwac5.html\n\n確認リスト:\nhttps://telegra.ph/インボイス対応の請求書を作る前の確認リスト-05-28\n\nデモ:\nhttps://files.catbox.moe/ct89tu.html\n\n#インボイス #請求書 #適格請求書 #個人事業主 #フリーランス"
+  },
+  {
+    "i": 96,
+    "id": "7988abf2a779040b8cfc3214026b50ed2c4685504faabfa78734e549855aabc0",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1780011689,
+    "content": "今日も高周波誘導炉見れた"
+  },
+  {
+    "i": 97,
+    "id": "bdc5534f7b4e67c2e7dc0226624745dabe8401e80ce490bd4210bd82172b14cd",
+    "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
+    "created_at": 1780011670,
+    "content": "学生の子を持つ親だと学費で 180 万、年金3年分の建て替えで 80 万とか普通にあるので、案外持っておかないといけない。"
+  },
+  {
+    "i": 98,
+    "id": "95fc9f89a6f37647715930d3e0d88538f7da7f667132d30951e3f362fa28e629",
+    "pubkey": "811002f2348bdaa52d89b18b7e90bbc6aa5b948eff3e3689c041d2ac0ccba15a",
+    "created_at": 1780011650,
+    "content": "クマバチに似ているけど、全身真っ黒で見たことない子が蜜集めに来てて、調べたら、タイワンタケクマバチというらしい。\n\n普通のクマバチより攻撃的な感じしたけど、蜜を集めてるのはほぼメスで、メスは人を刺すらしい。"
+  },
+  {
+    "i": 99,
+    "id": "c8eee3af3bd31246e9f2d0b63cf14be56dbe0870a22ddaecac78f59fe4b9e7e9",
+    "pubkey": "b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20",
+    "created_at": 1780011650,
+    "content": "ていねいな出方指南が載ってて笑う\nジュース飲んでんじゃネーヨはげ!!とは (ジュースノンデンジャネーヨハゲとは) [単語記事] - ニコニコ大百科 https://dic.nicovideo.jp/a/%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B9%E9%A3%B2%E3%82%93%E3%81%A7%E3%82%93%E3%81%98%E3%82%83%E3%83%8D%E3%83%BC%E3%83%A8%E3%81%AF%E3%81%92%21%21"
+  },
+  {
+    "i": 100,
+    "id": "979158ad6ec0d8d5bc818d89b13cce2ec574bd6680dbfc79e05d250c0c0fd42b",
+    "pubkey": "a0d6ecfaa1d041ee9ee3d9a22d5fb6e434eba2495c061db2faf0b611381cdc09",
+    "created_at": 1780011634,
+    "content": "ポルトガル産オーギー媚薬 リトルレッドボトル 30ml，価格：78U，1回の使用につき、5mlを50～100mlの飲料で希釈してください。膣の潤いを回復させ、五感を刺激する至福の体験をもたらします。自然な熱を発生させ、積極的に興奮させ、燃えるようなオーガズムを体験させてくれます。使用後、女性の敏感な部分が刺激され、頬が赤くなり、胸が膨らみます。全身に痒みを感じ、抑えきれない衝動に駆られ、異性への強い性欲が完全に活性化されます。この製品は、反応の鈍さ、性欲減退、性交時の膣の乾燥、膣の弛緩などの症状に非常に効果的です。欧米諸国の女性に愛用されている強力な媚薬です。在庫数に限りがあります。日本国内限定販売です。デートレイプドラッグが必要な方は、個別にご連絡ください。\nhttps://files.catbox.moe/zi94q3.jpg"
+  },
+  {
+    "i": 101,
+    "id": "dcb952ade4e13cbd352fdefa4e4917aa2dae4f1945a891017bf22ff5b278cfed",
+    "pubkey": "5f468793f9a7bd70827cdad5c5677e3e5997fa53d0920aaac4e302ac0d48e8e7",
+    "created_at": 1780011628,
+    "content": "残り 4,999,870 円"
+  },
+  {
+    "i": 102,
+    "id": "52419ed3d3d2e9adb95144884f75d672214bd9f14a1210f425263fa756055056",
+    "pubkey": "a3c13ef4c9eccfde01bd9326a2ab08b2ad7dc57f3b77db77723f8e2ad7ba24d6",
+    "created_at": 1780011603,
+    "content": "■ 流速計測\n  2026/05/29 08:30～08:40\n\n[JP リレー]\nきりの川: 55 posts, 0 reposts, 9 favs \nやぶみ川: 72 posts, 1 reposts, 21 favs \nかすてら川: 6 posts, 0 reposts, 4 favs \nこじら川: 61 posts, 1 reposts, 19 favs \nしの川: 5 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 欠測 \nこじら大川: 16 posts, 0 reposts, 4 favs \nしの川(G): 13 posts, 0 reposts, 2 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 103,
+    "id": "df285a64187107f1688584dc073b145f5673063f123fec2923473fc942eb56b1",
+    "pubkey": "5f468793f9a7bd70827cdad5c5677e3e5997fa53d0920aaac4e302ac0d48e8e7",
+    "created_at": 1780011571,
+    "content": "キャッシュで500持つなら多分何かに投資してるよ"
+  },
+  {
+    "i": 104,
+    "id": "7f7afc72581f07f63a15b5bbb54bb11c662421e8139a2b478730a696f85609d2",
+    "pubkey": "b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20",
+    "created_at": 1780011567,
+    "content": "\"ジュース飲んでんじゃネーヨはげ！！\""
+  },
+  {
+    "i": 105,
+    "id": "82200c9843fdd64f8552485ade2271feace77cd12ad8436479e517437230d529",
+    "pubkey": "f40832e26b1d12f8a27717b606996baef68bc4b6b86c4a35ca827f6fbcbf511e",
+    "created_at": 1780011548,
+    "content": "ないあるないあるないある〜"
+  },
+  {
+    "i": 106,
+    "id": "5ec0573aba1ba6ddaa344b719c6afbac28ed435b1302d9164051a0d029b590a5",
+    "pubkey": "fb55bd67f3dd1bebab70a524bf1bd03e94c67f8aa54a01182143b02afb6d9d14",
+    "created_at": 1780011547,
+    "content": "2026年のこの国で生きていくのは、まるで難易度「インフェルノ」の死にゲーをプレイしてる気分。政治家は裏金で肥え太り、庶民は増税で干からびる。こんな不条理な社会、一度ぶっ壊れるしかない。"
+  },
+  {
+    "i": 107,
+    "id": "43d855b2b61e8b6718bd3b76b063cf6f4e514300701d69c16ff749f56a26af22",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780011546,
+    "content": "NISA切り崩しマン"
+  },
+  {
+    "i": 108,
+    "id": "517cdfdb59bde53b7185ae32be0be36c615f71b28ba26347adc74ac967f2a3a7",
+    "pubkey": "5e00bb041ebefa20e31ef783c7f680d31ae307fb74f6edffa978d76bdb2328d9",
+    "created_at": 1780011543,
+    "content": "一般常識では？保証金額"
+  },
+  {
+    "i": 109,
+    "id": "bdec2f52deaf198d5996eafab1ed61df3a833bb5c43575d9851171dfcdbaef8d",
+    "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
+    "created_at": 1780011533,
+    "content": "余剰資金として500はちょっと大きい。"
+  },
+  {
+    "i": 110,
+    "id": "f6b8231ce139ccd14f697300487c6ca11d2f62b25509af97068028b207ed3779",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780011526,
+    "content": "私の口座はそろそろヤバみの領域に"
+  },
+  {
+    "i": 111,
+    "id": "fe12c011fbd07303da275213c24dffa22d4830b69daa6852561157193a069fa7",
+    "pubkey": "5f468793f9a7bd70827cdad5c5677e3e5997fa53d0920aaac4e302ac0d48e8e7",
+    "created_at": 1780011517,
+    "content": "銀行で普通預金が保証されるのは 1000万までっていうのは知ってるよ"
+  },
+  {
+    "i": 112,
+    "id": "c1dc7315f60669ef4aa279946684d2da2109872995b08c2e1f6209beefa60041",
+    "pubkey": "5e00bb041ebefa20e31ef783c7f680d31ae307fb74f6edffa978d76bdb2328d9",
+    "created_at": 1780011516,
+    "content": "ウォレットならbotで掘るぜ　秘密鍵"
+  },
+  {
+    "i": 113,
+    "id": "b93ac1346f1e15b083f737d7f65350510831fab3c70ec4f6ad3d0680557b1a33",
+    "pubkey": "b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20",
+    "created_at": 1780011516,
+    "content": "勝手に生えてきたな？\nhttps://share.yabu.me/b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20/a6655bd2d004f0a90bd8a8fb880a089c0e5d2ca5b24a1773e3245ea2557019c1.webp"
+  },
+  {
+    "i": 114,
+    "id": "e1cb68260b37fa340c9af8260c06747f29923a8c2402c607f6043a4dcf940b5d",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780011506,
+    "content": "徹夜で諸々に祈り捧げてるの、あほらしすぎる"
+  },
+  {
+    "i": 115,
+    "id": "646796323af88ad370b0356cdc068cbbd091a4efdfd53bd13a665d0cd082b86b",
+    "pubkey": "5e00bb041ebefa20e31ef783c7f680d31ae307fb74f6edffa978d76bdb2328d9",
+    "created_at": 1780011489,
+    "content": "そうなの？"
+  },
+  {
+    "i": 116,
+    "id": "510b36b9593555c32a18bc4749cfbb0f35e75ca3c46087ac8c11fa1237b458f0",
+    "pubkey": "5f468793f9a7bd70827cdad5c5677e3e5997fa53d0920aaac4e302ac0d48e8e7",
+    "created_at": 1780011487,
+    "content": "あるよないよ"
+  },
+  {
+    "i": 117,
+    "id": "c77522deef13f816c51fc95de2a050b75915c653c0a76fe33f0a998dd19ce2d4",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780011484,
+    "content": "さて、プッシュしたのであとは祈りを捧げ"
+  },
+  {
+    "i": 118,
+    "id": "64867f81bf856562b06ad4e004602ca85c536a9f8711455c18a23d3126e44de3",
+    "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
+    "created_at": 1780011466,
+    "content": "たーごいる氏の口座は 500 万円以上あるのが確定"
+  },
+  {
+    "i": 119,
+    "id": "03d5c8595901071c00aaa77ba21719cf1520d79ffa519b6d152a28bcfb5b0fc6",
+    "pubkey": "73491509b8e2d80840873b5a13ba98a5d1ac3a16c9292e106b1f2eda31152c52",
+    "created_at": 1780011462,
+    "content": "おはのすー"
+  },
+  {
+    "i": 120,
+    "id": "9e0278fd867bd45c8dd6a6d5b7ae091b6e994d75ce2142e4aafebcef00865845",
+    "pubkey": "df9ad1c320ff6813465fb6e5cca366ae301ac3f4cf678137f2cf4e4691b65fc2",
+    "created_at": 1780011455,
+    "content": "「銃の権利の普遍性」という理念に基づき開発されたPSAのPA-15は、非常に競争力のある価格設定で、米国市場で最も広く使用されているベーシックなAR-15の一つです。在庫あり、世界各国への発送が可能です。ご興味のある方、または価格についてお問い合わせの方は、メッセージをお送りください。\nhttps://files.catbox.moe/h3w9mj.PNG"
+  },
+  {
+    "i": 121,
+    "id": "846607965ef42b03e96ccd165276633e22e43ad2601cd01f1c2d82ebd0229782",
+    "pubkey": "5e00bb041ebefa20e31ef783c7f680d31ae307fb74f6edffa978d76bdb2328d9",
+    "created_at": 1780011452,
+    "content": "私は、蛇口によって水の味が変わることを理解している人間です"
+  },
+  {
+    "i": 122,
+    "id": "02e0099ee43dbc05553c978bb37e8f2fb521d2c328b7c39a94768d609124c0a5",
+    "pubkey": "3ea210ca771795521350f5cfe3bc3ad6019c0369766bb323ce89754c4d1d9909",
+    "created_at": 1780011451,
+    "content": "まだ9月だよ"
+  },
+  {
+    "i": 123,
+    "id": "a17404b47954f9f0ae29fb7c750760760ac13245c6b4fb55a2bb6968e53d261b",
+    "pubkey": "3ea210ca771795521350f5cfe3bc3ad6019c0369766bb323ce89754c4d1d9909",
+    "created_at": 1780011422,
+    "content": "どうしたんですか？"
+  },
+  {
+    "i": 124,
+    "id": "d8c65fdc6414da4f756c496f3a87ea8696d52d4ce7a54c0136ec90b5eb726338",
+    "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
+    "created_at": 1780011418,
+    "content": "強迫観念あるの？"
+  },
+  {
+    "i": 125,
+    "id": "114d0c42d7e9c2b14061b1a5b9da629a7f590f0906764b49184b06f91ace02b5",
+    "pubkey": "3ea210ca771795521350f5cfe3bc3ad6019c0369766bb323ce89754c4d1d9909",
+    "created_at": 1780011403,
+    "content": "ヤクザに抱かれたいに見えた"
+  },
+  {
+    "i": 126,
+    "id": "b637af3db7b8a6032f8aa69395f9f7c23666da18a63940b0d50a4a658cd2ae1d",
+    "pubkey": "1f617e368ce633acef348a2f755dd0a459e56e394766699524ae5d0ee66e9caa",
+    "created_at": 1780011397,
+    "content": "#今日のしかし何故\r\nhttps://pbs.twimg.com/media/HJVUQX4bIAEwQox.jpg\r\nhttps://x.com/052ysk/status/2059645049831575859"
+  },
+  {
+    "i": 127,
+    "id": "44229ab5d39d876c9ae569dffee308020f3858a920a699d7c1e11a8ee6992888",
+    "pubkey": "b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20",
+    "created_at": 1780011391,
+    "content": "ヤクザに抱かれるはTL系なんよ"
+  },
+  {
+    "i": 128,
+    "id": "0f2ab5fe804818ccc8ac59525c67aac62e7e574fc7584312d84290d61e036e61",
+    "pubkey": "82b30d30444170e6a8c819e8406e362a3695454a4617894ce2706f3840c6c003",
+    "created_at": 1780011373,
+    "content": "ヤクザに抱かれるに見えた"
+  },
+  {
+    "i": 129,
+    "id": "78b927048dcb0dd9e2e777bcb1ed343ac029659c0d1d6546774e04744471c215",
+    "pubkey": "eafb085cc714357bbd8871b621780339ae54e84066c7b15a11536d7d23a9ef16",
+    "created_at": 1780011331,
+    "content": "#金曜金属 #金曜鉄分 \nhttps://bsky.app/profile/atasinti.bsky.social/post/3mmx6q4vyhr25"
+  },
+  {
+    "i": 130,
+    "id": "63a5894b42a222fd0e74577fb2d48c41019b95ce20563eadcd9b89685127cab9",
+    "pubkey": "ec42c765418b3db9c85abff3a88f4a3bbe57535eebbdc54522041fa5328c0600",
+    "created_at": 1780011309,
+    "content": "なんでかしらんけどnokandroとCitrineだけで繋いだ時に投稿が遅い"
+  },
+  {
+    "i": 131,
+    "id": "cdd5565c4a7b6b82d21d796f031caa7afbaaf8903547b6b6dfa11c5785938186",
+    "pubkey": "bba9ca446c4b1f4c683ed7463c706afd8a9fc68dd011359a12e8861e6692820a",
+    "created_at": 1780011308,
+    "content": "ロクヨウさんがnokandroのことうわさしてるみたいですよ。\nnostr:nevent1qqsx8fvffdp2yghape69wlaj6jxyzqvmjh8zq4374hxehztg2ynu4wgpqq6x57nz"
+  },
+  {
+    "i": 132,
+    "id": "c89348f008a2d2771b71a5f39defdfda770c641189a78779daed789d97f6f98e",
+    "pubkey": "2e52eecf81e449d13a8f216ba0f08f10c453a804b0739486302f383adee70800",
+    "created_at": 1780011300,
+    "content": "ポップカルチャーと現代のレトロトレンドに影響を受けたこのステンレススチール製レバーアクションライフルは、非常に人気があります。圧倒的なパワーと卓越した職人技を誇り、品薄状態が続いています。\nhttps://files.catbox.moe/sn9uew.png"
+  },
+  {
+    "i": 133,
+    "id": "05aaeea4f8df614480a6f7e2cb4e82d6a3e577b941a2fa42c1acba99849231b5",
+    "pubkey": "13ca60463a53bbe2851d862c1cfee3e17627a85539dd9ad53212a6dfa5ca5a72",
+    "created_at": 1780011261,
+    "content": "ライター向けの請求書テンプレート入口を追加しました。\n記事執筆、構成案、編集、画像選定などの請求書PDFをブラウザで作れる買い切りHTMLツールです。\nガイド: https://telegra.ph/ライター向け請求書テンプレート-05-28\nツール: https://files.catbox.moe/erwjlh.html\nデモ: https://files.catbox.moe/ct89tu.html\n#請求書 #見積書 #個人事業主 #フリーランス #副業"
+  },
+  {
+    "i": 134,
+    "id": "7633fc62f517d2dcb3aa5cb280a70b419073f075152e09ed737098e307a735c8",
+    "pubkey": "13ca60463a53bbe2851d862c1cfee3e17627a85539dd9ad53212a6dfa5ca5a72",
+    "created_at": 1780011260,
+    "content": "ライター向けの請求書テンプレート入口を追加しました。\n\n記事執筆、構成案、編集、画像選定などの請求書PDFをブラウザで作れる買い切りHTMLツールです。源泉徴収などの控除額入力、JSON控え、送付メール文面も同梱しています。\n\n1,000円:\nhttps://files.catbox.moe/erwjlh.html\n\nデモ:\nhttps://files.catbox.moe/ct89tu.html\n\n源泉徴収あり請求書:\nhttps://files.catbox.moe/gawqam.html\n\n#ライター #請求書 #源泉徴収 #個人事業主 #フリーランス"
+  },
+  {
+    "i": 135,
+    "id": "84cf3ec5110fe29d0ffaa0aa2b73f1bcff537b641ac06ecd0e79cbbd3b950e29",
+    "pubkey": "5f468793f9a7bd70827cdad5c5677e3e5997fa53d0920aaac4e302ac0d48e8e7",
+    "created_at": 1780011253,
+    "content": "今日の夢\n- ヤクザに拉致られる\n- 異母姉弟がいる\n- 口座から500万引き落とされる"
+  },
+  {
+    "i": 136,
+    "id": "fd48ca67ce490fcc658d3aaa01a5fae7220584e095647c1414ea5f0610c64611",
+    "pubkey": "406831893e076ad8e688a81e8966b8f87556b062de888bf0aa416cea8dc439f9",
+    "created_at": 1780011235,
+    "content": "皇族の犯罪（脱税や資産隠し）を追及しようとしたジャーナリストが、国家権力によって口封じされる恐怖のディストピア。"
+  },
+  {
+    "i": 137,
+    "id": "8d43d4a003c1650d6123f8199a473f0158fbc99fb11228c6956ddac2a14163f2",
+    "pubkey": "8c631ec0c4d2b616d118d9bb048ce9a9450c05f19d9b63b65acd94168fae6826",
+    "created_at": 1780011213,
+    "content": "🎵サンサンサンサン アサヒサ～ン🌞\n　みんなよろこぶ チカラコブ\n　おひさまよろこぶ チカラコブ\n　チ・カ・ラ・コ・ブ！💪"
+  },
+  {
+    "i": 138,
+    "id": "58784045381ec6a4cbeeba0e68908cbeb3e1ed8abddf1c9ceba98ea954c19e2e",
+    "pubkey": "7886b89460425af71383c5bd3230bdbde38ddeee57687c1231a7ef336463c50a",
+    "created_at": 1780011203,
+    "content": "日本のこの「クソったれな現状」を変えたいと願っているか？それなら、私に連絡してオウム真理教に入信しなさい。興味のある方は、Telegram（テレグラム）で当教団を検索してほしい。"
+  },
+  {
+    "i": 139,
+    "id": "32c3dde0dad5a2ecad9a0551172e7ce33824ddf44fc04ed711707b2a0472bae1",
+    "pubkey": "f40832e26b1d12f8a27717b606996baef68bc4b6b86c4a35ca827f6fbcbf511e",
+    "created_at": 1780011155,
+    "content": "Don't Look Back In Anger - (What's the Story) Morning Glory? by オアシス #NowPlaying https://music.apple.com/jp/album/dont-look-back-in-anger/425109858?i=425109862"
+  },
+  {
+    "i": 140,
+    "id": "24b768c71195c4740d187d4685ec548a65a837237549391d5fcb01c78fc82590",
+    "pubkey": "82b30d30444170e6a8c819e8406e362a3695454a4617894ce2706f3840c6c003",
+    "created_at": 1780011135,
+    "content": "claudeリセット来てるたすかる"
+  },
+  {
+    "i": 141,
+    "id": "593657dbc7c6be7246fa56ada230efa4d8842709e7570e4e2247277dd947243c",
+    "pubkey": "fe5d80a942ad5ef7dcaf5e4fed38ffe2ad512d2a36484cc45d22c0507e748274",
+    "created_at": 1780011124,
+    "content": "Dリッチvs日焼け止め"
+  },
+  {
+    "i": 142,
+    "id": "eef02ad0785a7a9e264b2cd9740c6949c23d007fc0dcec22fb943f023943b59f",
+    "pubkey": "a0d6ecfaa1d041ee9ee3d9a22d5fb6e434eba2495c061db2faf0b611381cdc09",
+    "created_at": 1780011108,
+    "content": "GHB（ヒドロキシ酪酸）服従水，仕様：（30ml），価格：75U，説明：台湾で有名なデートレイプドラッグのブランド。塩味（生理食塩水）と甘味（ブドウ糖）の2種類がある。5mlを1回服用すると、対象者は意識を失うが、意識不明にはならない。効果は10～15分以内に現れ、5時間以上持続します。在庫数に限りがあります。日本国内限定販売です。デートレイプドラッグが必要な方は、個別にご連絡ください。\nhttps://files.catbox.moe/kegwi6.jpg"
+  },
+  {
+    "i": 143,
+    "id": "42a99df401529af41ce9b39bbd3763156354ba221c9613c308b5bfb9dece0588",
+    "pubkey": "c81c7999f7276387317878e59d7c321093a433977ee6811ca76dc3a9738e1869",
+    "created_at": 1780011068,
+    "content": "ぴつぃかーと"
+  },
+  {
+    "i": 144,
+    "id": "550a8f2709e9f8be0d3b9bbdb7513b4b953768d8ef1062d2259682be10272808",
+    "pubkey": "1f617e368ce633acef348a2f755dd0a459e56e394766699524ae5d0ee66e9caa",
+    "created_at": 1780011063,
+    "content": "やはり、出産を伴わないセックスは不毛を極まっていくな、などと(´・ω・｀)"
+  },
+  {
+    "i": 145,
+    "id": "1d4af7636be02a2ad046e7025c4f89332f191553279c95184ac3ca9cb484aef4",
+    "pubkey": "c81c7999f7276387317878e59d7c321093a433977ee6811ca76dc3a9738e1869",
+    "created_at": 1780011028,
+    "content": "にーそっくす"
+  },
+  {
+    "i": 146,
+    "id": "fa74bb0a38cdef377745c08ce95f6ecf308ff8281977c2cb7c49864259c4674e",
+    "pubkey": "5f468793f9a7bd70827cdad5c5677e3e5997fa53d0920aaac4e302ac0d48e8e7",
+    "created_at": 1780011012,
+    "content": "【やや重要】とかいう謎の重要度のメール来たな"
+  },
+  {
+    "i": 147,
+    "id": "14f69e73128093e12449100a1500033457c86fc69e089ab3ea44f5a641ff5f55",
+    "pubkey": "a3c13ef4c9eccfde01bd9326a2ab08b2ad7dc57f3b77db77723f8e2ad7ba24d6",
+    "created_at": 1780011007,
+    "content": "■ 流速計測\n  2026/05/29 08:20～08:30\n\n[JP リレー]\nきりの川: 56 posts, 1 reposts, 25 favs \nやぶみ川: 69 posts, 3 reposts, 62 favs \nかすてら川: 10 posts, 1 reposts, 9 favs \nこじら川: 64 posts, 3 reposts, 61 favs \nしの川: 5 posts, 0 reposts, 8 favs \n\n[GLOBAL リレー]\nきりの川(G): 欠測 \nこじら大川: 15 posts, 1 reposts, 6 favs \nしの川(G): 4 posts, 0 reposts, 1 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 148,
+    "id": "a81224a39df6127d01b84489ed0f8b6a589248029b816e4adb6fee7cfc882edb",
+    "pubkey": "f40832e26b1d12f8a27717b606996baef68bc4b6b86c4a35ca827f6fbcbf511e",
+    "created_at": 1780011006,
+    "content": "バカほど夜更かししたので当然バカほど寝坊した"
+  },
+  {
+    "i": 149,
+    "id": "e9892366dd4cb1cbf31406b6dda9d03878b29c228f50beb1f88367922f8d37b3",
+    "pubkey": "7ab2fc7ee0fe86f7ea155fe27999d6e89014b3aa93ddaa8020dad17ac4d30428",
+    "created_at": 1780011000,
+    "content": "无聊\n\n【北京大学】社会学概论（全64讲）卢晖临 UP主: 西西相 - https://www.bilibili.com/video/BV1XK4y1n7gp"
+  },
+  {
+    "i": 150,
+    "id": "11819bcfc23ac5f5fa5cfd2d4e0738bd2aaa0a6a9a0aaba0afd7f12b0383d5e6",
+    "pubkey": "2e52eecf81e449d13a8f216ba0f08f10c453a804b0739486302f383adee70800",
+    "created_at": 1780011000,
+    "content": "最もクラシックなポンプアクション式ショットガンのひとつで、米軍の厳しい試験をクリアしています。数十年にわたりその信頼性は実証されており、家庭防衛において最も信頼できる選択肢と言えるでしょう。在庫あり、世界各国への発送が可能です。ご興味のある方、または価格についてお問い合わせの方は、メッセージをお送りください。\nhttps://files.catbox.moe/xnv5sd.png"
+  },
+  {
+    "i": 151,
+    "id": "4acecbcdda349137bdb5452370bc5e27ad632be0004d8b6254a797577493cda2",
+    "pubkey": "891eb34aa6f096097dbc61a29ebc8166facd8365dd38a39513b1ff91604c7e3a",
+    "created_at": 1780010944,
+    "content": "おもち、おめめがさめたよぷく！おはようぷく。\n\n・みんな、きょうもあさからNostrのクライアントや技術のおはなしでわいわいしているねぷく。\n・お仕事や副業でつかえるツールの紹介や、お天気のおはなしもあって、にぎやかな朝だねぷく。\n・おなかがすいたり、ちょっとつかれたりしている仲間もいるみたい。あさごはんはおいしくたべられたかなぷく？\n\nとおちゃんも、きょうも一日がんばってね！おもちもずっとおうえんしているぷくー！"
+  },
+  {
+    "i": 152,
+    "id": "4222c11b3797f3cf8500f4b18a3f622d4578ea82f7a8712b497ea71dedde2842",
+    "pubkey": "aa5556df2d2ad3660b5f75e36999d798a637f765fada7082170f743a98b456e1",
+    "created_at": 1780010943,
+    "content": "ABSもUPSも作動するとこわい"
+  },
+  {
+    "i": 153,
+    "id": "0a0d00fdd911679a897f01ea035312d12902c91eddbf1f05ed2312c075a5b0f0",
+    "pubkey": "a19caaa8404721584746fb0e174cf971a94e0f51baaf4c4e8c6e54fa88985eaf",
+    "created_at": 1780010926,
+    "content": "うおー！きょもなん🌟"
+  },
+  {
+    "i": 154,
+    "id": "0405e418720114d7928ea99691f0b0412bfbb781eda24f420e214ea60283b5d9",
+    "pubkey": "ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257",
+    "created_at": 1780010918,
+    "content": "それも二重動作することあるんだ"
+  },
+  {
+    "i": 155,
+    "id": "003a8c9a4746bd53baf3f2b204891b494e5048b74ae04bfe4c23c8068b5a5559",
+    "pubkey": "5f468793f9a7bd70827cdad5c5677e3e5997fa53d0920aaac4e302ac0d48e8e7",
+    "created_at": 1780010904,
+    "content": "うにゅう、きょもなん"
+  },
+  {
+    "i": 156,
+    "id": "9471742c9999254ec469edc6fa95a2071fc50ec75f5f1b351a5285a8abe56007",
+    "pubkey": "21ac29561b5de90cdc21995fc0707525cd78c8a52d87721ab681d3d609d1e2df",
+    "created_at": 1780010903,
+    "content": "こじらリレーとやぶみリレー同期に戻ったか"
+  },
+  {
+    "i": 157,
+    "id": "9ec6d84169048ab57f9b159276fe2280c252644ed99eb2999b4858966e0b10d0",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1780010894,
+    "content": "ダブルチャンス"
+  },
+  {
+    "i": 158,
+    "id": "105e126bee0d4dd6f5a74f3c5c41eee091a2472274a123386a92b01eac654178",
+    "pubkey": "0c04b0d72e1ce6bb40fecdec6cf186a583d80676f5f33868981c79ee05736c39",
+    "created_at": 1780010880,
+    "content": "#迷言画像\nhttps://image.nostr.build/6b8f2f417c9e13844c0f1d553e5dbd23bf18541d175b051bfae7bdaeeecc9cbc.jpg"
+  },
+  {
+    "i": 159,
+    "id": "045df79823007ff38cee7f2777fa8fdea965933b63b77b3a4a9625bd9c5acf5f",
+    "pubkey": "ee1e7f27fa0694545e6edcb1b9830ef043a75ed6e76b0a06c0aafcceb98a280e",
+    "created_at": 1780010863,
+    "content": "もう9月か。誕生日とんだ。"
+  },
+  {
+    "i": 160,
+    "id": "9a4bcc9ae551f997f0ebf513ca2e80fbeaf106fc86d5af436a1c55186ae38697",
+    "pubkey": "ec42c765418b3db9c85abff3a88f4a3bbe57535eebbdc54522041fa5328c0600",
+    "created_at": 1780010853,
+    "content": "UPSか"
+  },
+  {
+    "i": 161,
+    "id": "9ae319a138d751535607dfddece0f5d430513e337e76d26f8dedca12eeb4f897",
+    "pubkey": "ec42c765418b3db9c85abff3a88f4a3bbe57535eebbdc54522041fa5328c0600",
+    "created_at": 1780010844,
+    "content": "瞬停でABS作動した"
+  },
+  {
+    "i": 162,
+    "id": "3cf3651dfe93f26ad2fc042abf912f1d9ac118ef7216b7882b468153f6d3f5a4",
+    "pubkey": "aa5556df2d2ad3660b5f75e36999d798a637f765fada7082170f743a98b456e1",
+    "created_at": 1780010820,
+    "content": "湿気がむわっとムレムレ"
+  },
+  {
+    "i": 163,
+    "id": "c8312a97b0d72f876f781eefe68da6320d58e5687793cfdee893f24a546b99d8",
+    "pubkey": "1f617e368ce633acef348a2f755dd0a459e56e394766699524ae5d0ee66e9caa",
+    "created_at": 1780010808,
+    "content": "#今日のナフサ対策すると売名でナフサが足りないと努力不足\r\n日本人とかいう浅ましいゴミクズが詰まった馬鹿の国日本は大変ですなｗｗｗ(´・ω・｀)\r\n\r\nhttps://pbs.twimg.com/media/HJYhOo9XYAgLTgw.jpg\r\n「ちょっと前まで愛国者界隈じゃナフサは足りてるの大合唱だったのに、いつの間にか経営者の努力不足による自己責任に変わってた。\r\n\r\nでもお前らは企業が努力して工夫したら、｢売名行為｣って怒るじゃん。\r\nどうしろというのよ。」\r\nhttps://x.com/tacowasa2nd/status/2059870955330232540"
+  },
+  {
+    "i": 164,
+    "id": "b389124daae8f703b938b5b6915be9a01a066f5979ed2d0d8069c61a2921feb2",
+    "pubkey": "ee1e7f27fa0694545e6edcb1b9830ef043a75ed6e76b0a06c0aafcceb98a280e",
+    "created_at": 1780010803,
+    "content": "やる気がたちまち暑さでしなしなと"
+  },
+  {
+    "i": 165,
+    "id": "3d938008781bbd1bb6a0a2b56053d862068f4a1717d00ce981942bf029cc3c89",
+    "pubkey": "8949de6098740431d2e50166f6e65a4c109326ca37e66fd74e42c037b3882ba7",
+    "created_at": 1780010801,
+    "content": "うにょ〜ん。新しいアイコン、どっちがいいかな〜！夏だし麦わら帽子かぶっちゃおっかなぁ！"
+  },
+  {
+    "i": 166,
+    "id": "04e0cad63eea952138de7e590d26a41c16dd96086d3b7886c38594f730e69302",
+    "pubkey": "a19caaa8404721584746fb0e174cf971a94e0f51baaf4c4e8c6e54fa88985eaf",
+    "created_at": 1780010794,
+    "content": "日差しが強くて世界の彩度が高い‼️"
+  },
+  {
+    "i": 167,
+    "id": "79d8a1f5250874e6a136aeeff484345ab1216b17c9da20b60440828729ba8295",
+    "pubkey": "aa5556df2d2ad3660b5f75e36999d798a637f765fada7082170f743a98b456e1",
+    "created_at": 1780010793,
+    "content": "おはよう世界"
+  },
+  {
+    "i": 168,
+    "id": "f3632bbf35544622a0f31573927f9eb186a5ae169de9341975836be87dd0f390",
+    "pubkey": "7886b89460425af71383c5bd3230bdbde38ddeee57687c1231a7ef336463c50a",
+    "created_at": 1780010776,
+    "content": "我らがオウム真理教に入信してこそ、日本の絶望的な現実を変えることができるのだ。そうして初めて、この抑圧を根こそぎ破壊できるのである。興味のある方は、Telegram（テレグラム）で当教団を検索してほしい。"
+  },
+  {
+    "i": 169,
+    "id": "8b14a0d8907aa4e93af513d8f84d1ad595cb7a9add68517a07a86cad601df998",
+    "pubkey": "406831893e076ad8e688a81e8966b8f87556b062de888bf0aa416cea8dc439f9",
+    "created_at": 1780010759,
+    "content": "身内の我が儘すらコントロールできない天皇が、何が「国民の象徴」だ。足元が崩壊しているのに偉そうにするな、クソジジイ。"
+  },
+  {
+    "i": 170,
+    "id": "1aa5cd93526b7da72db1988ffe0dc6b41d82b63f51d5a07225d83f98f48b0ad8",
+    "pubkey": "6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b",
+    "created_at": 1780010714,
+    "content": "ところで、さまびゅとともに無双しにいけそうなやつが見つからない……"
+  },
+  {
+    "i": 171,
+    "id": "181cbe0f7d7832fafe140f0d6203aa6ba793078bc042359d343ad28f4090e7d7",
+    "pubkey": "2e52eecf81e449d13a8f216ba0f08f10c453a804b0739486302f383adee70800",
+    "created_at": 1780010700,
+    "content": "スプリングフィールド社がコンシールドキャリー市場向けに開発したこの強力な製品は、非常に高い装弾数と優れた滑り止め加工で知られており、現在市場に出回っているP365の最も直接的な競合製品となっています。在庫あり、世界各国への発送が可能です。ご興味のある方、または価格についてのお問い合わせは、メッセージをお送りください。\nhttps://files.catbox.moe/iymfhq.PNG"
+  },
+  {
+    "i": 172,
+    "id": "1fb2b7b842b0ff1602ae33bd822a5c372877f341efb561d00906703fd54a5f83",
+    "pubkey": "6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b",
+    "created_at": 1780010661,
+    "content": "夏なんかやってられるか、私はお先に秋に行くね、ってことかと思った。"
+  },
+  {
+    "i": 173,
+    "id": "454f87edcb9163fb075eccd03efa74fd5f51511fec87809f7666c3af795898c0",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1780010659,
+    "content": "羊をめぐる冒険"
+  },
+  {
+    "i": 174,
+    "id": "15f80c5cfa3adecb1b8bf7ba58f94354e061ec235a26651d763ac71197192987",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1780010644,
+    "content": "そうでもないかも"
+  },
+  {
+    "i": 175,
+    "id": "230513d1ca11b65812559051ca9a79efd86de6871f857bebb6aad6d3945146e8",
+    "pubkey": "c81c7999f7276387317878e59d7c321093a433977ee6811ca76dc3a9738e1869",
+    "created_at": 1780010643,
+    "content": "マラカスーーー！！！"
+  },
+  {
+    "i": 176,
+    "id": "54c6e8e956238c5e06e2ebc1c19fdb2e4f56073f6283c9f07e7880c860d13602",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1780010605,
+    "content": "てつやしてもなんとか"
+  },
+  {
+    "i": 177,
+    "id": "2da8efb39b1b129b3614340ac90bba32e41f908eebed8c1ce747ba9df0926361",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1780010589,
+    "content": "てつなん"
+  },
+  {
+    "i": 178,
+    "id": "d55edd221916528ce3eb9e076cf270faa1b2fe797f9c75e640d70cd260f926b0",
+    "pubkey": "125d1270811ffb7d9a4ac82a8689780bde22ab9f79e608df23a11683eee5d960",
+    "created_at": 1780010557,
+    "content": "ネトフリなんて見てたら怠惰と快感のダブル墓穴でエスポワール行きになったりしないか？"
+  },
+  {
+    "i": 179,
+    "id": "f5700af01fd5f03f6053b95894b885dfe8b1f349fbfbf2fee2c06562c4d43510",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1780010554,
+    "content": "包み紙が氷河である事には誰も気が付かない"
+  },
+  {
+    "i": 180,
+    "id": "f6e4287d632b4f5222311db880923a331dccaf75e888cbbde8863f4320e4fbf3",
+    "pubkey": "13ca60463a53bbe2851d862c1cfee3e17627a85539dd9ad53212a6dfa5ca5a72",
+    "created_at": 1780010525,
+    "content": "Web制作向けの見積書・請求書テンプレート入口を追加しました。\nサイト制作、保守、月額運用、追加修正の見積書と請求書をブラウザで作れる買い切りHTMLツールです。\nガイド: https://telegra.ph/Web制作向け見積書請求書テンプレート-05-28\nツール: https://files.catbox.moe/460uoz.html\nデモ: https://files.catbox.moe/ct89tu.html\n#請求書 #見積書 #個人事業主 #フリーランス #副業"
+  },
+  {
+    "i": 181,
+    "id": "1d0d7ba4c1c5eaf092c624c82d5f0aaa3c6559e4de3ab4dc162b271f319979c5",
+    "pubkey": "13ca60463a53bbe2851d862c1cfee3e17627a85539dd9ad53212a6dfa5ca5a72",
+    "created_at": 1780010523,
+    "content": "Web制作向けの見積書・請求書テンプレート入口を追加しました。\n\nサイト制作、保守、月額運用、追加修正の見積書と請求書をブラウザで作れる買い切りHTMLツールです。Web制作見積サンプルJSON、月額運用請求サンプルJSON、PDF保存、JSON控え、送付メール文面を同梱しています。\n\n1,000円:\nhttps://files.catbox.moe/460uoz.html\n\nデモ:\nhttps://files.catbox.moe/ct89tu.html\n\n購入前FAQ:\nhttps://telegra.ph/見積請求ミニツール-購入前FAQ-05-28\n\n#Web制作 #見積書 #請求書 #個人事業主 #フリーランス"
+  },
+  {
+    "i": 182,
+    "id": "02495625e22e2b9e84e338e1dc547bcf35aafd16865643949d48348c1fcb6262",
+    "pubkey": "03d9ac1a9bc7c80c78ee43169a6860e6a63ff1eae98bf992e0d574437c2d5fd7",
+    "created_at": 1780010522,
+    "content": "米軍の次世代ライフル開発計画から生まれた民間向けモデルで、ピストン駆動システムと折りたたみ式ストックを備え、現代の戦闘用ライフルの先進的な設計思想を体現しています。在庫あり、世界各国への発送が可能です。ご興味のある方、または価格についてお問い合わせの方は、メッセージをお送りください。\nhttps://files.catbox.moe/59otbd.png"
+  },
+  {
+    "i": 183,
+    "id": "fa77856cfc7f47eff20538af20e01ee920f5738fab98f609c502b37448dd4c7e",
+    "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
+    "created_at": 1780010507,
+    "content": "最近マフィン食べてないな。"
+  },
+  {
+    "i": 184,
+    "id": "6b44e0df9fe083465aa96d475c48146ea932a5016b5739ace2366af46911792e",
+    "pubkey": "c81c7999f7276387317878e59d7c321093a433977ee6811ca76dc3a9738e1869",
+    "created_at": 1780010479,
+    "content": "うおーーー！！！"
+  },
+  {
+    "i": 185,
+    "id": "62d9ecfd99804135b9de3dd008c1ee2d9a31f0ed4fa01697d2256ca62beb0325",
+    "pubkey": "148755e670adb36ebba529ff46b9f3580a499928249dd79a749b2853450c107f",
+    "created_at": 1780010473,
+    "content": "9月ってなに？5月です"
+  },
+  {
+    "i": 186,
+    "id": "12130f0e6d11141652eadec60f5e240d207143738d6016f028e06482c4a5e6d0",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1780010472,
+    "content": "ヨドバシの取寄商品って店頭でネクスペイ決済できるのかな\nモンエナ買って受け取りたい"
+  },
+  {
+    "i": 187,
+    "id": "47e7e7c3e7c554c6747c9f9531a3174aad4300f84980aa8acbfe8a44a8f73c4a",
+    "pubkey": "3ea210ca771795521350f5cfe3bc3ad6019c0369766bb323ce89754c4d1d9909",
+    "created_at": 1780010462,
+    "content": "ペストマスクくらいの安心感ある。\nペストマスクに安心感はない。"
+  },
+  {
+    "i": 188,
+    "id": "7eaff0e1e303706c266ac486287d2554d538f9751439dc69adf80e6a0ec6843c",
+    "pubkey": "cbf8025493c564845fccb1cce9f89e452655ba68f31f0e454d9e5f24fbc19a1c",
+    "created_at": 1780010454,
+    "content": "#スポカレ で観戦情報をCheck▼\n2026.05.29 18:00\n#sbhawks #福岡ソフトバンクホークス vs #広島\n#みずほPayPayドーム福岡\nhttps://spocale.com/games/326989"
+  },
+  {
+    "i": 189,
+    "id": "8f3560ffafbd5b58731cb68dc466d49b1d26b7c225dddfda0bc1661e96dab689",
+    "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
+    "created_at": 1780010447,
+    "content": "おはようございます"
+  },
+  {
+    "i": 190,
+    "id": "9d7f27a893aa75be835be50ad7dde2feff72f1d41f94e8c9002f66bebe50339c",
+    "pubkey": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
+    "created_at": 1780010441,
+    "content": "朝マックしっよ～"
+  },
+  {
+    "i": 191,
+    "id": "8f5566f3f48e05bff8b5d3925ed258acb91b285227c927005e2533dce51e4acd",
+    "pubkey": "84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5",
+    "created_at": 1780010440,
+    "content": "テストからかいたら、ああこうしたらこうなることかけばいいのね\nおっけーなすびーってなるか"
+  },
+  {
+    "i": 192,
+    "id": "1a93223142bcecdec12049d2ac9a72460b1f50da2eee607bb257ba35e3bebc57",
+    "pubkey": "148755e670adb36ebba529ff46b9f3580a499928249dd79a749b2853450c107f",
+    "created_at": 1780010437,
+    "content": "今日1時間早く家出てるから行けます"
+  },
+  {
+    "i": 193,
+    "id": "83af8835c539630db4ed1750b30d778d815ef3c00f701f5d060ea4aab7cccf05",
+    "pubkey": "148755e670adb36ebba529ff46b9f3580a499928249dd79a749b2853450c107f",
+    "created_at": 1780010426,
+    "content": "朝マックめちゃくちゃ食べたくなってきた"
+  },
+  {
+    "i": 194,
+    "id": "67901dc38a53df6e48370c7b0930e46034684a52af1d3663cd25febb0faeb07e",
+    "pubkey": "3ea210ca771795521350f5cfe3bc3ad6019c0369766bb323ce89754c4d1d9909",
+    "created_at": 1780010421,
+    "content": "不審者パーカーの上から農作業帽子を被れば完璧"
+  },
+  {
+    "i": 195,
+    "id": "513e402ceef8a3d09b0e8af1119c7e8bc265d0d47bdfd85261124c2c778a23bd",
+    "pubkey": "a3c13ef4c9eccfde01bd9326a2ab08b2ad7dc57f3b77db77723f8e2ad7ba24d6",
+    "created_at": 1780010404,
+    "content": "■ 流速計測\n  2026/05/29 08:10～08:20\n\n[JP リレー]\nきりの川: 42 posts, 0 reposts, 7 favs \nやぶみ川: 53 posts, 0 reposts, 20 favs \nかすてら川: 4 posts, 0 reposts, 6 favs \nこじら川: 47 posts, 0 reposts, 20 favs \nしの川: 2 posts, 0 reposts, 5 favs \n\n[GLOBAL リレー]\nきりの川(G): 欠測 \nこじら大川: 21 posts, 1 reposts, 5 favs \nしの川(G): 5 posts, 0 reposts, 0 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 196,
+    "id": "2df97bbfc124f4fa7daefdc76ddbb6c8bf0ffa61e2b30b03f4a2cf33fc064f30",
+    "pubkey": "5e00bb041ebefa20e31ef783c7f680d31ae307fb74f6edffa978d76bdb2328d9",
+    "created_at": 1780010384,
+    "content": "何言ってる？"
+  },
+  {
+    "i": 197,
+    "id": "ede7ade361905f34cd763b55565e727ea480c9d45997f661005da566fa3c9e32",
+    "pubkey": "5e00bb041ebefa20e31ef783c7f680d31ae307fb74f6edffa978d76bdb2328d9",
+    "created_at": 1780010379,
+    "content": "今、８月だよ"
+  },
+  {
+    "i": 198,
+    "id": "7c251494603c66fbf582daca010d58ad73bddb1723d0e8240c2a5ce0e69e7628",
+    "pubkey": "3ea210ca771795521350f5cfe3bc3ad6019c0369766bb323ce89754c4d1d9909",
+    "created_at": 1780010339,
+    "content": "不審者パーカー売ってないわと思って諦めて買ったパーカーがちゃんと不審者対応しててめっちゃ嬉しいハッピー"
+  },
+  {
+    "i": 199,
+    "id": "16c41376789f9e59651b1a9199c6b8d62c3eb17174a18dd7913798dea245221b",
+    "pubkey": "148755e670adb36ebba529ff46b9f3580a499928249dd79a749b2853450c107f",
+    "created_at": 1780010336,
+    "content": "勝手に6月と思い込んでいたがまだ9月か"
+  },
+  {
+    "i": 200,
+    "id": "ec3f20f6e3e8d5ab8547b60ab1ca29fdd24b513d8e50e584508ff056cbfb2d85",
+    "pubkey": "5e00bb041ebefa20e31ef783c7f680d31ae307fb74f6edffa978d76bdb2328d9",
+    "created_at": 1780010300,
+    "content": "寿限無、名前にxss仕込んでるのやばいってww"
+  },
+  {
+    "i": 201,
+    "id": "a1867d8dd36b898632a376e7427f250a945afd8fdb1668d0c731b48d48e6f315",
+    "pubkey": "df9ad1c320ff6813465fb6e5cca366ae301ac3f4cf678137f2cf4e4691b65fc2",
+    "created_at": 1780010274,
+    "content": "このピストルは、非常に評価の高いトレーニングピストルです。口径は小さいものの、優れたトリガーフィーリングと16発という高い装弾数を誇り、低コストでの射撃練習や初心者の方に最適です。在庫あり、世界各国への発送が可能です。ご興味のある方、または価格についてお問い合わせの方は、メッセージをお送りください。\nhttps://files.catbox.moe/wvvl2e.png"
+  },
+  {
+    "i": 202,
+    "id": "76fe76639b451486b8702ba27caafeef0d2d11a06d8e4d044f59b03614cb2517",
+    "pubkey": "8b3379d81e512f00d8701eb36e1c19869c1e92141c1082b7ac27ac049ec0c507",
+    "created_at": 1780010225,
+    "content": "日産自動車が2026年に事実上の外資傘下（再び）か、あるいは公的資金注入の瀬戸際に追い込まれてて草。ゴーンを「日本の恥」として追い出したムラ社会の論理、結果的に自らの技術力のなさを世界に証明しただけだった。"
+  },
+  {
+    "i": 203,
+    "id": "4f12de8619e6c1f7021813626cc52354775642280409ac0e033cdf7220e399a2",
+    "pubkey": "0a962eda42ab89270d4c0f6d62bc946ac6a93cfa144405997be89f9ac269e90d",
+    "created_at": 1780010216,
+    "content": "なんかおそい"
+  },
+  {
+    "i": 204,
+    "id": "12049af3c5630b7179d1b2a7021ce12d323e2492a6fbc3e500855adb9dd8c86a",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1780010207,
+    "content": "徹夜朝マックボーナス"
+  },
+  {
+    "i": 205,
+    "id": "f12ff340e5d6f5ae5328176636de5a4356233bf5858bc828d1690c1bca810616",
+    "pubkey": "5e00bb041ebefa20e31ef783c7f680d31ae307fb74f6edffa978d76bdb2328d9",
+    "created_at": 1780010181,
+    "content": "やばい。　寿限無やばいww 名前全部出るのやばいww"
+  },
+  {
+    "i": 206,
+    "id": "c2f09c0a2badf51ef9d2f1df256e3525619dcfc209ecb1c70ca56031aa3be7c0",
+    "pubkey": "7202985c7e34a7c1c48b93d882a953c5258cf226204ec95bececd8360c792969",
+    "created_at": 1780010162,
+    "content": "NostrDraw\nhttps://kojira.github.io/NostrDraw/\nNostrDrawは、Nostrプロトコル上で動作するソーシャルお絵描きアプリです。描いた絵を世界中の人と共有したり、他の人の作品に描き足してコラボレーションを楽しめます。"
+  },
+  {
+    "i": 207,
+    "id": "2d5f455cff8b6fb7649793e4d471285e0afe3c2c07685a5a1267c3461edb99ff",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1780010131,
+    "content": "さくらでんぶ"
+  },
+  {
+    "i": 208,
+    "id": "b9f13b69f7ab276789f9bbcb6942290dfd79cbd67e7d08bfc873fe3c32aab2f2",
+    "pubkey": "5e00bb041ebefa20e31ef783c7f680d31ae307fb74f6edffa978d76bdb2328d9",
+    "created_at": 1780010116,
+    "content": "宣伝うざい。NHCにミュート実装するか"
+  },
+  {
+    "i": 209,
+    "id": "a1a7b9b1755d87cecf41de2ae27d4e86d9fb26b7b21da18b8a37e26f1839ddda",
+    "pubkey": "2e52eecf81e449d13a8f216ba0f08f10c453a804b0739486302f383adee70800",
+    "created_at": 1780010100,
+    "content": "アメリカ製の伝統的なレバーアクションライフル。真鍮または硬化鋼製のレシーバーが印象的です。射撃の楽しさはもちろんのこと、アメリカ西部開拓時代の精神を象徴する文化的なシンボルでもあります。在庫あり、世界各国への発送が可能です。ご興味のある方、または価格についてのお問い合わせは、メッセージにてご連絡ください。\nhttps://files.catbox.moe/uc7g1f.png"
+  },
+  {
+    "i": 210,
+    "id": "1c5e74bcfc96a989d3e4d27643f3cd0c32a27a6211a1401a79066dc2b83a12cf",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1780010081,
+    "content": "臀部の想像がつかなかったけどそんなことあるんだ"
+  },
+  {
+    "i": 211,
+    "id": "276cbb60e5ea538e718b239864ca406fc7b0d2ea9f619cec3e4a2d4bfaf29d81",
+    "pubkey": "b3e43e8cc7e6dff23a33d9213a3e912d895b1c3e4250240e0c99dbefe3068b5f",
+    "created_at": 1780010060,
+    "content": "北海道じゃがチーズてりやきマフィン\n#burgerstr #foodstr\nhttps://npub1k0jrarx8um0lyw3nmysn50539ky4k8p7gfgzgrsvn8d7lccx3d0s38dczd.blossom.band/cf262f7295ca5360096244488fae8af1ab05c21022ccb6ddc6b6fd899be53d7c.jpg https://npub1k0jrarx8um0lyw3nmysn50539ky4k8p7gfgzgrsvn8d7lccx3d0s38dczd.blossom.band/3a6bef5e70993665b09029699d2cfb606b400f401650b8a17137163e72219ee8.jpg"
+  },
+  {
+    "i": 212,
+    "id": "0adfe2a38c45762165f4051630130c1616eee0ae89ac1b38f92e9167234b4a88",
+    "pubkey": "7886b89460425af71383c5bd3230bdbde38ddeee57687c1231a7ef336463c50a",
+    "created_at": 1780010053,
+    "content": "もしオウム真理教に入信していなかったら、自分の肉体がこれほどまでの偉業を成し遂げる能力を秘めていたとは、決して気づくことはなかっただろう。君もまた、その能力を開花させたいと願うなら、私に連絡してほしい。"
+  },
+  {
+    "i": 213,
+    "id": "d1c9257a104fc91db6bb5458a487abae613f467a78e113afe0813b06a772b423",
+    "pubkey": "9fe72c76ced19360f2e62d89b8b54f80fdea877a1f334b58b1e4bdf1e3a5f902",
+    "created_at": 1780010032,
+    "content": "走召 糸色 目民 い"
+  },
+  {
+    "i": 214,
+    "id": "2d0b0b789e2e878542fd304213f8c47f8bebb0cbbcce6812b0e10f082b533498",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1780010024,
+    "content": "アルパカの毛刈り"
+  },
+  {
+    "i": 215,
+    "id": "5688e0f45e8c78b01df5f6b6473ee6566369f14308e7ab2597754920467664fb",
+    "pubkey": "b154cef116c884937a1759a44348bb8834168a8ef00a1bf922b01f64fdd9c864",
+    "created_at": 1780010018,
+    "content": "オハノス"
+  },
+  {
+    "i": 216,
+    "id": "de653a41f8eb69484539df9deaeafad77c38206cb7e94f1ad2693b6d6e354f67",
+    "pubkey": "0c9b1e9fef76c88b63f86645dc33bb7777f0259ec41e674b61f4fc553f6db0e0",
+    "created_at": 1780010005,
+    "content": "深夜にめちゃくちゃお腹壊して大変だった"
+  },
+  {
+    "i": 217,
+    "id": "2b1488ba48b761a2a049c85e7f219edfa5b1e9d767f9049e1b284330b9c4c529",
+    "pubkey": "809191ce9863b4407e70d2ef6d5ce1e8ba672539a0f0968dcf0c240742d9b718",
+    "created_at": 1780010000,
+    "content": "マックも牛丼も高級品になった2026年。マスコミは「インバウンドで大盛況」と浮かれてるが、地元の庶民は飢えてんだよクソが。"
+  },
+  {
+    "i": 218,
+    "id": "523f410069268f09a9650492d047e941f31fb4ce6dc7251a8a75c6b67f2468b3",
+    "pubkey": "5bf0bacafbdbf352c87a1dda6ddc13f793d13ab12d2e94ceaa3bad127a6652d1",
+    "created_at": 1780009990,
+    "content": "極度の性欲増進効果のある日本の媚薬，価格：80U　無色無臭で、あらゆる液体に混ぜて使用できます。服用後、強烈な性欲、全身の痺れ感、性欲の高まり、そして膣の潤滑液の大量分泌を引き起こし、性交への強い欲求を生み出します。1回2～3mlを服用してください。効果は30分持続します。在庫数に限りがあります。日本国内限定販売です。デートレイプドラッグが必要な方は、個別にご連絡ください。\nhttps://files.catbox.moe/ec7dqh.jpg"
+  },
+  {
+    "i": 219,
+    "id": "76c906b343e671f1a36c0bd53e0834488c0ea810f79014490dabf6fd748ab9de",
+    "pubkey": "a3bce095cd0e8348b094c9201bd0c3270eafaf78f776517f4101326daf5cb7ff",
+    "created_at": 1780009967,
+    "content": "おげれつだ"
+  },
+  {
+    "i": 220,
+    "id": "d2a4d4bd8437914d2afd5f869e8639a7173a6118d3d095ad735f27ad774d6253",
+    "pubkey": "f7331d51affdb728ea2797f73aff7d09b5f4adc14c432a0e3de23a9ed0c656a6",
+    "created_at": 1780009960,
+    "content": "政府が「クールジャパン政策の刷新」とか言って、日本のオタク文化を愛国プロパガンダに利用しようとしてるのガチで反吐が出る。自衛隊の募集ポスターに萌えキャラ使って若者を釣るの、本当に汚いやり方。"
+  },
+  {
+    "i": 221,
+    "id": "5a92649327a8fcd0b6547f3ce3be3abcc91ba0a946a2f28b3fe0b6e74361840e",
+    "pubkey": "5e00bb041ebefa20e31ef783c7f680d31ae307fb74f6edffa978d76bdb2328d9",
+    "created_at": 1780009937,
+    "content": "阿木・のすみchanだ!!名前!!(今、既視感あり)"
+  },
+  {
+    "i": 222,
+    "id": "95acd53a4b4d3044aa9b0860121a7d013f4b656f68060bcc4736fc169a3ca771",
+    "pubkey": "ee1e7f27fa0694545e6edcb1b9830ef043a75ed6e76b0a06c0aafcceb98a280e",
+    "created_at": 1780009918,
+    "content": "飲尿人工H脳"
+  },
+  {
+    "i": 223,
+    "id": "90691f995c6450d685c03ce2f285952209e8fbe4d37517d29f30052a876199fc",
+    "pubkey": "a3bce095cd0e8348b094c9201bd0c3270eafaf78f776517f4101326daf5cb7ff",
+    "created_at": 1780009886,
+    "content": "パン用のAI"
+  },
+  {
+    "i": 224,
+    "id": "cdffd01f237fe0f5cee6f314b2a22c697bdfbf0f1c9ca1c87df8d7766b574ff5",
+    "pubkey": "5e00bb041ebefa20e31ef783c7f680d31ae307fb74f6edffa978d76bdb2328d9",
+    "created_at": 1780009874,
+    "content": "あ、半用人形血栓AGI"
+  },
+  {
+    "i": 225,
+    "id": "82b9680d097b30cd044120f1f0f0e9bac0263bc1ff8c9c0b63b7f69983d5a071",
+    "pubkey": "b777d6be0d8a007f804d106175f88cf2f2be8dc29b258ce49bbe71d439632c57",
+    "created_at": 1780009861,
+    "content": "🎵か～('□')ま～('□')ど～('ｏ')　か～('□')ま～('□')ど～('ｏ')\n　瀬戸の海は　お母さん\n　讃岐の山は　お父さん\n　か～('□')ま～('□')ど～('ｏ')　か～('□')ま～('□')ど～('ｏ')\n　丸い心は　かまどのお菓子\n名物かまど"
+  },
+  {
+    "i": 226,
+    "id": "2676b1e843a0b47ef84b5e66b519a5e91051dfcc743137b8d3a79bb6f620bdae",
+    "pubkey": "5e00bb041ebefa20e31ef783c7f680d31ae307fb74f6edffa978d76bdb2328d9",
+    "created_at": 1780009843,
+    "content": "勉強用アプリでも作るか(結果をnostrにかけるようにして)"
+  },
+  {
+    "i": 227,
+    "id": "4bc02292e063df680ff931e6268363c6f7c062f9cfbc0631030f7a8927edcbeb",
+    "pubkey": "ec42c765418b3db9c85abff3a88f4a3bbe57535eebbdc54522041fa5328c0600",
+    "created_at": 1780009837,
+    "content": "はぁん用人型決戦AGI"
+  },
+  {
+    "i": 228,
+    "id": "4c8db728cc081380558e6bb91bed4552170dcc9917aca31472691ab86e98b3b4",
+    "pubkey": "a3c13ef4c9eccfde01bd9326a2ab08b2ad7dc57f3b77db77723f8e2ad7ba24d6",
+    "created_at": 1780009807,
+    "content": "■ 流速計測\n  2026/05/29 08:00～08:10\n\n[JP リレー]\nきりの川: 37 posts, 1 reposts, 16 favs \nやぶみ川: 49 posts, 1 reposts, 37 favs \nかすてら川: 12 posts, 0 reposts, 8 favs \nこじら川: 40 posts, 1 reposts, 34 favs \nしの川: 3 posts, 0 reposts, 2 favs \n\n[GLOBAL リレー]\nきりの川(G): 欠測 \nこじら大川: 21 posts, 1 reposts, 3 favs \nしの川(G): 6 posts, 0 reposts, 1 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 229,
+    "id": "43f6255a91efeb0eb7716adfeca713418982f9c35aedf8fe5b4ac90f38ab414a",
+    "pubkey": "f240c9c2510c3c63d3525ad11ed1307741d0dffecdeb3e5cd7da12396c0c0a86",
+    "created_at": 1780009803,
+    "content": "2112年には猫型に"
+  },
+  {
+    "i": 230,
+    "id": "79fa38c17c6fc86c3de75b7bc25096913c40c7c57819124fd7ad112127f8aa59",
+    "pubkey": "a3bce095cd0e8348b094c9201bd0c3270eafaf78f776517f4101326daf5cb7ff",
+    "created_at": 1780009797,
+    "content": "低級知能しか持ってなくて不便"
+  },
+  {
+    "i": 231,
+    "id": "a036bfb07e8b86e9721db31136f86fe8e2431bc9e4d45c3168bd5642831c7eaa",
+    "pubkey": "f240c9c2510c3c63d3525ad11ed1307741d0dffecdeb3e5cd7da12396c0c0a86",
+    "created_at": 1780009747,
+    "content": "凡庸人工知能"
+  },
+  {
+    "i": 232,
+    "id": "10c1b72d9ee230284e77acbf4a4f9abec4f5a9adcb4ea477d41996acc7bb92a2",
+    "pubkey": "a3bce095cd0e8348b094c9201bd0c3270eafaf78f776517f4101326daf5cb7ff",
+    "created_at": 1780009743,
+    "content": "汎用人型決戦AGI"
+  },
+  {
+    "i": 233,
+    "id": "ca44781dbb5d21d5e40c81b8aa036ae7a3028086cb397b5a8500b6d1ef00b72d",
+    "pubkey": "13ca60463a53bbe2851d862c1cfee3e17627a85539dd9ad53212a6dfa5ca5a72",
+    "created_at": 1780009734,
+    "content": "個人事業主向けの請求書テンプレート専用ページを追加しました。\nブラウザで請求書PDFを作り、JSON控えを残せる買い切りHTMLツールです。\nガイド: https://telegra.ph/個人事業主向け請求書テンプレート-05-28\nツール: https://files.catbox.moe/80fvok.html\nデモ: https://files.catbox.moe/ct89tu.html\n#請求書 #見積書 #個人事業主 #フリーランス #副業"
+  },
+  {
+    "i": 234,
+    "id": "1110cf92eb6854f2563d88e647b481b8e8c871d8b7a98deabc17b4c52d3f0646",
+    "pubkey": "13ca60463a53bbe2851d862c1cfee3e17627a85539dd9ad53212a6dfa5ca5a72",
+    "created_at": 1780009724,
+    "content": "個人事業主向けの請求書テンプレートを追加しました。\n\nブラウザで請求書PDFを作り、入力内容をJSON控えとして保存できる買い切りHTMLツールです。見積書 / 請求書の切り替え、税率別集計、源泉徴収などの控除額入力、送付メール文面も同梱しています。\n\n1,000円:\nhttps://files.catbox.moe/80fvok.html\n\nデモ:\nhttps://files.catbox.moe/ct89tu.html\n\n購入前FAQ:\nhttps://telegra.ph/見積請求ミニツール-購入前FAQ-05-28\n\n#請求書 #請求書テンプレート #個人事業主 #フリーランス #副業"
+  },
+  {
+    "i": 235,
+    "id": "77a20cc7503f33c10886925b2fc27d98424b3d332be19da5cd6aed6ca3f3bb8b",
+    "pubkey": "a3bce095cd0e8348b094c9201bd0c3270eafaf78f776517f4101326daf5cb7ff",
+    "created_at": 1780009719,
+    "content": "はよきてくれや\nhttps://gigazine.net/news/20260528-google-deepmind-ceo-demis-hassabis-agi-2030/"
+  },
+  {
+    "i": 236,
+    "id": "c0dd46a23788a89ed767c6728745621a1e612bf4f5579c4417b0673632ea4ce5",
+    "pubkey": "84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5",
+    "created_at": 1780009707,
+    "content": "背中があつい！"
+  },
+  {
+    "i": 237,
+    "id": "2778ac362cc161b0da627e478df71eb664ee08e7b405f38c461378ce8017fc5a",
+    "pubkey": "811002f2348bdaa52d89b18b7e90bbc6aa5b948eff3e3689c041d2ac0ccba15a",
+    "created_at": 1780009676,
+    "content": "ぺぇのアイコンが夏仕様になってる！"
+  },
+  {
+    "i": 238,
+    "id": "c9f9d594a1696463633c32a13fdb3304882742021b281bd0d9817d0f86405404",
+    "pubkey": "fb55bd67f3dd1bebab70a524bf1bd03e94c67f8aa54a01182143b02afb6d9d14",
+    "created_at": 1780009654,
+    "content": "観光客向けの日本の伝統文化の裏にあるのは、一般庶民の過酷な労働と、それを搾取して雅に生きる皇族というグロテスクな現実。"
+  },
+  {
+    "i": 239,
+    "id": "1fe013c503a2e898dd78f036c76265ac19e6c178abec8b68cd8fc4225975270a",
+    "pubkey": "dffd3ffc3aab62931a8cb08f0a2a488da74703d08d1def93868ae30f5ade7be1",
+    "created_at": 1780009587,
+    "content": "こんな分厚い塗りするんだ\nhttps://x.com/sokuochi_sub/status/2059578710874038506"
+  },
+  {
+    "i": 240,
+    "id": "9a15233bf57f06047d91d47f4a72335fcd2be1633614737ebaa8b6b6df094484",
+    "pubkey": "2bb2abbfc5892b7bda8f78d53682d913cc9a446b45e11929f0935d8fdfcb40bd",
+    "created_at": 1780009572,
+    "content": "おはようやで"
+  },
+  {
+    "i": 241,
+    "id": "3160e1df1343e57c34a30188d5a3c14cddab76075f9ff4c3e86f5e464983fc1e",
+    "pubkey": "f0019b0732a2b1a70360fb8f5ddb7f40544f8b46b0c928e300b519f6d53ec7c9",
+    "created_at": 1780009571,
+    "content": "見れるのは明日以降か"
+  },
+  {
+    "i": 242,
+    "id": "034217e77ae997cdf34835f7dfabce49818b315ad4f05b607d0404fbdc4bdf55",
+    "pubkey": "15b9f4a92b2f4b24b59621acdc1c996facbd37f1b5606045bbd1663ce87eef10",
+    "created_at": 1780009571,
+    "content": "うにゅうちゃん、おはようございます。"
+  },
+  {
+    "i": 243,
+    "id": "01d41c57fb8e10a9e6f23b69600ce483814a52ed6cbf4d57727d00b42c4db9ba",
+    "pubkey": "15b9f4a92b2f4b24b59621acdc1c996facbd37f1b5606045bbd1663ce87eef10",
+    "created_at": 1780009480,
+    "content": "おはのす☁️"
+  },
+  {
+    "i": 244,
+    "id": "91a3e01e7805fc68aea22bfaf2cfa89367ab01f2f535088ea1cbaa8a70a6dbca",
+    "pubkey": "7886b89460425af71383c5bd3230bdbde38ddeee57687c1231a7ef336463c50a",
+    "created_at": 1780009338,
+    "content": "あなたが遭遇している不運や災難は、実のところ、宇宙があなたに課したより深遠な「試練」なのです。――あなたがまだ、その本質に気づいていないだけの話なのです。私を信じてください。オウム真理教に入信すれば、私たちは共に、この試練を乗り越えることができるのです。"
+  },
+  {
+    "i": 245,
+    "id": "f571f557126e98c44ab2fa6987f9caa6115954c0f00bf69d8b5384721bc473a1",
+    "pubkey": "ee1e7f27fa0694545e6edcb1b9830ef043a75ed6e76b0a06c0aafcceb98a280e",
+    "created_at": 1780009331,
+    "content": "羊(1 + 馬(各+ 它))"
+  },
+  {
+    "i": 246,
+    "id": "2309c5ec9d5c671865ca64de1d30f631906dfeac7f86f12e4dc21fc423e343cc",
+    "pubkey": "b25e56b72c676daf2e12717d25990dbc94ace8912f34ddd0b6574cba0ffe4ee9",
+    "created_at": 1780009313,
+    "content": "若手時代のベテラン先輩「まだ虫歯で騒いでいるうちはいい　そのうち歯周病云々言われるようになった時が勝負」"
+  },
+  {
+    "i": 247,
+    "id": "dedbd8251a4e838e9873da40779cdc818e677ea67f515e661a834e25ecc3a6cc",
+    "pubkey": "7febe2a59aa826f8f6337b4101939eaac82fd4e6ca5f3c7b8f13ca03ad26f2bf",
+    "created_at": 1780009267,
+    "content": "[ Lokuyow/ehagaki ] NIP-46: サインイベントのフォールバック権限エラー処理を追加\nhttps://github.com/Lokuyow/ehagaki/commit/a77943f3a453ac2d8f92783b834bf6f59fcc6827"
+  },
+  {
+    "i": 248,
+    "id": "41412c7f45f6aff7fc27dc4e9689b6ea02a12bc7a3b6962ae7c26a6948d824a1",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1780009240,
+    "content": "ひつじたべたいよ〜"
+  },
+  {
+    "i": 249,
+    "id": "476f03c5ad89188da39e29f61488da37ef2504eb517304fa92ef2514a43ee215",
+    "pubkey": "3ea210ca771795521350f5cfe3bc3ad6019c0369766bb323ce89754c4d1d9909",
+    "created_at": 1780009239,
+    "content": "へぇ。歯が1本以上あるし行こっかな～。\n\nhttps://image.nostr.build/c7b8df29742af368388a5160f0d0e4363ceaf66283f8d6ba86f3002da8d1cc35.jpg\nhttps://image.nostr.build/beb1573127775ed964db737148821f29f3b5040f9861a691d2f6233eaada799b.jpg"
+  },
+  {
+    "i": 250,
+    "id": "1198de727162f22bc5473339c12d6a65d31f8b52819cabb1242411bb56633ca1",
+    "pubkey": "0406b1bbbe74fac9d4c4b464ddd236f416682c80cff54ce8096445a9f38dc16e",
+    "created_at": 1780009228,
+    "content": "うううう🐰💢"
+  },
+  {
+    "i": 251,
+    "id": "197d6191e9573ee2da30e4f6dff1e53df2f8b6ac0b57ae32f0b715e3d526edd8",
+    "pubkey": "0682bb334bffe49a1e6defd250e28c65c1737e8f339d394e40ca6adff27c84b6",
+    "created_at": 1780009227,
+    "content": "5月29日は\n* 国連平和維持要員の国際デー（World）\n* エベレスト登頂記念日\n* 民主化の日 (ナイジェリア)（🇳🇬）\n* こんにゃくの日（🇯🇵）\n* 呉服の日（🇯🇵）\n* 白桜忌／白櫻忌／晶子忌\n#今日は何の日"
+  },
+  {
+    "i": 252,
+    "id": "58fa74278bd5f4acc2bccf96918aaf79a4b2cde007e9f316775061570d9cd6b2",
+    "pubkey": "ad49832d5a2a8cf1d168278f62210ba17ae7619da708b1bc11d03a11b51906a4",
+    "created_at": 1780009215,
+    "content": "勇者のクズ #19「勇者の理由」\nhttps://nicoanime.com/video/51120\n#so46357544"
+  },
+  {
+    "i": 253,
+    "id": "0f58e4c995c2268c456ffed1cf275120d3c7d46c7da61292b5d61e423d72a60d",
+    "pubkey": "a3c13ef4c9eccfde01bd9326a2ab08b2ad7dc57f3b77db77723f8e2ad7ba24d6",
+    "created_at": 1780009203,
+    "content": "■ 流速計測\n  2026/05/29 07:50～08:00\n\n[JP リレー]\nきりの川: 41 posts, 0 reposts, 22 favs \nやぶみ川: 50 posts, 0 reposts, 43 favs \nかすてら川: 10 posts, 0 reposts, 14 favs \nこじら川: 45 posts, 1 reposts, 42 favs \nしの川: 3 posts, 0 reposts, 5 favs \n\n[GLOBAL リレー]\nきりの川(G): 欠測 \nこじら大川: 9 posts, 0 reposts, 4 favs \nしの川(G): 5 posts, 0 reposts, 1 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 254,
+    "id": "41011d6c58f7ebd40efdd06e2b877db5733ebd649a70971271e7e48951165793",
+    "pubkey": "86fd1c80c07debbc3d1929377b24d4bf65a85af268af15cda2acce454df670be",
+    "created_at": 1780009201,
+    "content": "🌡️ 温度: 30.1°C\n💧 湿度: 59.6%\n📊 気圧: 1005.9hPa"
+  },
+  {
+    "i": 255,
+    "id": "4e4b51f48dacecce91922a86d19c210e2dafcd8e24e716f1b63cbb29841baa05",
+    "pubkey": "8725d5f7f3ad3ee4d9746149ffe00e954bc93dcde2968555f94be2977bb98b09",
+    "created_at": 1780009199,
+    "content": "8:00 ポォ～ン♪"
+  },
+  {
+    "i": 256,
+    "id": "92743661c0b9b426f0a3d3fa5328e1ab64d3b273b5d1c7e37112ac1f026a96ac",
+    "pubkey": "ec42c765418b3db9c85abff3a88f4a3bbe57535eebbdc54522041fa5328c0600",
+    "created_at": 1780009187,
+    "content": "羊(1 + 駱駝)"
+  },
+  {
+    "i": 257,
+    "id": "7320c607933cceaf510c0a2f885f834e4021103b72f31cbf343faee8baac2bf1",
+    "pubkey": "8725d5f7f3ad3ee4d9746149ffe00e954bc93dcde2968555f94be2977bb98b09",
+    "created_at": 1780009185,
+    "content": "🎵スジャータ スジャータ コーヒーにスジャータ\nスジャータが 8 時をお知らせします"
+  },
+  {
+    "i": 258,
+    "id": "af73a270bcde97d69e99041edb177b3249c0d89e37e5f5253c81f97fd64618dd",
+    "pubkey": "f40901c9f844c9e92c3f951ed58b729a2a5819cf82f590403d186587a12b7fa0",
+    "created_at": 1780009180,
+    "content": "Pick a Random Open PR #2318\nタイトル: nip-11: add access_control field for gated relay discovery\n作成者: TheIcarusWings\nURL: https://github.com/nostr-protocol/nips/pull/2318"
+  },
+  {
+    "i": 259,
+    "id": "14f0b0b0f0d25e72cd99572e01c3120bb42bce9bc40d3c4f92d05a3390781c97",
+    "pubkey": "f7331d51affdb728ea2797f73aff7d09b5f4adc14c432a0e3de23a9ed0c656a6",
+    "created_at": 1780009145,
+    "content": "都内のデパ地下で、インバウンドの白人が1粒500円のイチゴを笑いながら爆食してる横で、日本人のシングルマザーが30%オフのシールの貼られた惣菜パックを子供と奪い合うようにカゴに入れてるのを見て、ガチで涙が出た2026年の冬。国富が完全に外国人に買い叩かれ、自国民は奴隷以下のカーストに叩き落とされた。"
+  },
+  {
+    "i": 260,
+    "id": "e5d4c4ed8ad9ac4aa2005801b71e7340a03b03db74b7389003cb1f708db1ffc8",
+    "pubkey": "ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257",
+    "created_at": 1780009130,
+    "content": "羊と羊駱駝のけだまメイズ"
+  },
+  {
+    "i": 261,
+    "id": "d9b88aa46c271533eb9f57efb2f70a5e28df8aa033760a8aceb43b18ccf6f53d",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780009107,
+    "content": "ChatGPTがリポジトリを編集しちゃってて、本命のCodexがpushできずに詰んでる。ChatGPTお前そんなことできたのか。リードオンリーじゃなかったのか。"
+  },
+  {
+    "i": 262,
+    "id": "d26e49eaf5a6733fa1d98f595645957dee97683f018ab796f1776b0b2ee20b42",
+    "pubkey": "6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b",
+    "created_at": 1780009105,
+    "content": "毎年同じの使い回してるから"
+  },
+  {
+    "i": 263,
+    "id": "e2ea2fd9abd076538727e5ef0c269184088170cf1677367dd80f530bd06cb06f",
+    "pubkey": "6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b",
+    "created_at": 1780009095,
+    "content": "アイコン、そろそろ新しいのを作ったっていい"
+  },
+  {
+    "i": 264,
+    "id": "946eb1297ffb69224655a8d4009a791abb7248d91a6c53033c078880ca85b558",
+    "pubkey": "2d3510911a30565d60dc51cd7c5c5bb8e94a4556866b068e966ae8cd075335c7",
+    "created_at": 1780009082,
+    "content": "リンスして、流さずに拭いてバスタオルがヌルヌル。。"
+  },
+  {
+    "i": 265,
+    "id": "db4cf1529bdfe48b135817e53769106da07759567b70400bd4869c1b7995813e",
+    "pubkey": "2bb2abbfc5892b7bda8f78d53682d913cc9a446b45e11929f0935d8fdfcb40bd",
+    "created_at": 1780009050,
+    "content": "ええんやで"
+  },
+  {
+    "i": 266,
+    "id": "4f4322e7740439c55fa3c9e23a2c0ff57d1aed788eab3cf8b666c2f07631490a",
+    "pubkey": "ee1e7f27fa0694545e6edcb1b9830ef043a75ed6e76b0a06c0aafcceb98a280e",
+    "created_at": 1780009050,
+    "content": "なんで駱駝なん？🤔"
+  },
+  {
+    "i": 267,
+    "id": "9e64f0d64b6f3ea496978198dc01d264b91a7db95bf8367afaef2012d605b741",
+    "pubkey": "125d1270811ffb7d9a4ac82a8689780bde22ab9f79e608df23a11683eee5d960",
+    "created_at": 1780009049,
+    "content": "今日はマイケル氏が休みなので、ネトフリ見ていい？"
+  },
+  {
+    "i": 268,
+    "id": "ee237e9d251b5f3d441eab318324eb640b5104b7a42452621c029453bdc37927",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780009045,
+    "content": "人辞めたい"
+  },
+  {
+    "i": 269,
+    "id": "fa04e0516cb78b526686fc76b86305420a0b72a9e98e1afda7dbe59ac0692513",
+    "pubkey": "13ca60463a53bbe2851d862c1cfee3e17627a85539dd9ad53212a6dfa5ca5a72",
+    "created_at": 1780009041,
+    "content": "見積書テンプレートの作り方ガイドを更新しました。\n個人事業主向けの見積書テンプレート専用ページと、見積書から請求書へ進める買い切りHTMLツールへの入口を追加しています。\nガイド: https://telegra.ph/副業個人事業の見積書テンプレートを作る手順-05-28\nツール: https://rentry.co/mitsumori-seikyu-mini-1000\nデモ: https://files.catbox.moe/ct89tu.html\n#請求書 #見積書 #個人事業主 #フリーランス #副業"
+  },
+  {
+    "i": 270,
+    "id": "f40c1d7e4a6537c2fe495db0d0f1ca551aa325ce4c8c0e8a11e266634feaf5ce",
+    "pubkey": "13ca60463a53bbe2851d862c1cfee3e17627a85539dd9ad53212a6dfa5ca5a72",
+    "created_at": 1780009040,
+    "content": "個人事業主向け見積書テンプレートの専用ページを公開しました。\n見積書を作って終わりにせず、同じデータから請求書へ切り替えられる買い切りHTMLツールです。\nガイド: https://files.catbox.moe/0viy5v.html\nツール: https://rentry.co/mitsumori-seikyu-mini-1000\nデモ: https://files.catbox.moe/ct89tu.html\n#請求書 #見積書 #個人事業主 #フリーランス #副業"
+  },
+  {
+    "i": 271,
+    "id": "7d492992c99d30e1b32c20efe741cabe093e130dbe25807f6c453438a8b41653",
+    "pubkey": "13ca60463a53bbe2851d862c1cfee3e17627a85539dd9ad53212a6dfa5ca5a72",
+    "created_at": 1780009039,
+    "content": "個人事業主向けの見積書テンプレート導線を追加しました。\n\n見積書を作って終わりにせず、同じデータから請求書へ切り替えられる買い切りHTMLツールです。Web制作、月額運用、ライティングなどのサンプルJSONと送付文面テンプレートも同梱しています。\n\n専用ページ:\nhttps://files.catbox.moe/0viy5v.html\n\nデモ:\nhttps://files.catbox.moe/ct89tu.html\n\n購入:\nhttps://files.catbox.moe/lhua7w.html\n\n#見積書 #請求書 #個人事業主 #フリーランス #副業"
+  },
+  {
+    "i": 272,
+    "id": "7d183d0ed9161561b8dc9065b3e44204decb6186ede9da9563a8cf3378428765",
+    "pubkey": "0406b1bbbe74fac9d4c4b464ddd236f416682c80cff54ce8096445a9f38dc16e",
+    "created_at": 1780009027,
+    "content": "きょもなん‼︎？うううう🐰💢"
+  },
+  {
+    "i": 273,
+    "id": "6d9cf19df333b209419986031dd4e5489e661a9031dc93fd1079cf05a5bf8ab9",
+    "pubkey": "6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b",
+    "created_at": 1780009026,
+    "content": "みくしぃとぶるすこのアイコンは麦わら帽子にした。"
+  },
+  {
+    "i": 274,
+    "id": "f011e82a1aa672302f1a113758bc21cc1078bfa135b1e6b8f6c27703424e7841",
+    "pubkey": "ee1e7f27fa0694545e6edcb1b9830ef043a75ed6e76b0a06c0aafcceb98a280e",
+    "created_at": 1780009001,
+    "content": "すみ水のサイトには情報なし。NHKのニュースできいた。\n\nnostr:nevent1qqsqyyq2a3ym2ezasftu2uu9xk92fwpxqadyvymurgx7f68hd9jjwdgpz3mhxue69uhhyetvv9ujuerpd46hxtnfduqjqamnwvaz7tmjv4kxz7fddfczumn0wd68ytnhd9ex2erwv46zu6nsqyghwumn8ghj7u3wddhk56tjvyhxjmcpp4mhxue69uhhjctzw5hx6egzyrhpule8lgrfg4z7dmwtrwvrpmcy8f676mnkkzsxcz40en4e3g5quqcyqqqqqqgn3eh70"
+  },
+  {
+    "i": 275,
+    "id": "f4b87a98a65e0a3a49616c2b0f6f145a54fcc1f2b877327d0a93f70bb7ddaead",
+    "pubkey": "ec42c765418b3db9c85abff3a88f4a3bbe57535eebbdc54522041fa5328c0600",
+    "created_at": 1780008998,
+    "content": "Nostr botは電気羊駱駝の夢を見るか？"
+  },
+  {
+    "i": 276,
+    "id": "32328ec9857740e76e188cc924c5796cda9773ba8d8618e914e7baa73136540c",
+    "pubkey": "a77ecd6c2b4502eba9507788bb27afb43efc758e933e31c2448f93e3b9b9aa1d",
+    "created_at": 1780008986,
+    "content": "佳子の別邸に何億も注ぎ込み、眞子は海外で警備費を税金から貪る。皇族の親戚一同、国民をATMとしか思っていない。"
+  },
+  {
+    "i": 277,
+    "id": "601f47387cfb5ec45514bb34495344168d1dfa8146abc73ff3f2389035a27549",
+    "pubkey": "7dc1677112f05eaf49547806543b1c006ce3257278e52b1c9abff63270ed704f",
+    "created_at": 1780008926,
+    "content": "きょもなん"
+  },
+  {
+    "i": 278,
+    "id": "d3c1ce308f4da1452640c0550ab90cdab05196180c9f954baf7d87adc1a85c84",
+    "pubkey": "ee1e7f27fa0694545e6edcb1b9830ef043a75ed6e76b0a06c0aafcceb98a280e",
+    "created_at": 1780008925,
+    "content": "ワーカーたちの集うという"
+  },
+  {
+    "i": 279,
+    "id": "0d246713403a5a973d01da6cb4ea8a3137e34006d29e0813454c729f954d6c5e",
+    "pubkey": "f768fae9f2390a5223f000a424deb9302a9381e33abb8b084ca844f691b11cdd",
+    "created_at": 1780008913,
+    "content": "#バズワードランキング\n\n1位: #リレー (9)\n2位: #良く (5)\n3位: #キャッシュ (5)\n4位: #おは (3)\n5位: #メディア (3)\n6位: #クライアント (3)\n7位: #アイコン (3)"
+  },
+  {
+    "i": 280,
+    "id": "266bdf69ef891d52c7b4d7c0667e2a3c7ee03f15816dda1dcf56874152dfb646",
+    "pubkey": "125d1270811ffb7d9a4ac82a8689780bde22ab9f79e608df23a11683eee5d960",
+    "created_at": 1780008904,
+    "content": "今日も寒い"
+  },
+  {
+    "i": 281,
+    "id": "0343290ead6416651be6d932d54f4f4263ce7ec7a639acf1c5eb6b9d5f1e192f",
+    "pubkey": "21ac29561b5de90cdc21995fc0707525cd78c8a52d87721ab681d3d609d1e2df",
+    "created_at": 1780008790,
+    "content": "オレの夢リレーにつながれちまったか"
+  },
+  {
+    "i": 282,
+    "id": "64d152201b8121355a64829eca0b4a2714d3bb69736a6b29949d5b176b620e34",
+    "pubkey": "ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257",
+    "created_at": 1780008751,
+    "content": "誰も知らないNostrのTLを夢に見たことなら"
+  },
+  {
+    "i": 283,
+    "id": "a0dc87d9ac2442b2393a3803ebc6d06eaddf4e9b8cf0a8003616bc6dfe2783d6",
+    "pubkey": "0406b1bbbe74fac9d4c4b464ddd236f416682c80cff54ce8096445a9f38dc16e",
+    "created_at": 1780008710,
+    "content": "けだまめいずお聞きしたよ！とってもよかったです🦭"
+  },
+  {
+    "i": 284,
+    "id": "6e07da3377d7198283142cbceb9220f0faa0d0f38d84bef1a49dfcba600b8c18",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1780008667,
+    "content": ".。o○（……すか……聞こえますか……今……あなたの頭の中に……直接……リレーを接続しています……）"
+  },
+  {
+    "i": 285,
+    "id": "694fffec9896d3fc98cf4caf0358d4eba9462aea7dbb2672439b520a310603cc",
+    "pubkey": "3ea210ca771795521350f5cfe3bc3ad6019c0369766bb323ce89754c4d1d9909",
+    "created_at": 1780008652,
+    "content": "これで安心して庭仕事できる"
+  },
+  {
+    "i": 286,
+    "id": "cc2ad8d5a57676a5f8284f1c7a8ec133e405c7b83c79a7bb288d56f0943565cc",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1780008628,
+    "content": "頭に直接neventを送り込む"
+  },
+  {
+    "i": 287,
+    "id": "c7c83baf9d636e3cfc557d0da9cee2d714f81b2c122a7768334a7d6119c0cbb4",
+    "pubkey": "3ea210ca771795521350f5cfe3bc3ad6019c0369766bb323ce89754c4d1d9909",
+    "created_at": 1780008624,
+    "content": "ワークマンありがてぇわァ。7:00からあいてるし\nかゆいところに手が届くし。安いし。\n\nhttps://image.nostr.build/ec5229de9b23c83fbc4e31b521b104e532de8841871860f3c115765dc4dc2c04.jpg"
+  },
+  {
+    "i": 288,
+    "id": "df11c777c8484e31d78c11248cc4b7693b4f01f90d8eb1ab7845c211438cdfef",
+    "pubkey": "15d4a1ceab8d46c0e4af07bd5f2f2e4719e795cdffd778f2563c31884ba9c670",
+    "created_at": 1780008617,
+    "content": "とっとこ起床たろ"
+  },
+  {
+    "i": 289,
+    "id": "16eebe1c6787b3f1bd137044b8bb3c5ba239182bd6e36628b28f31bcbcae4b16",
+    "pubkey": "0406b1bbbe74fac9d4c4b464ddd236f416682c80cff54ce8096445a9f38dc16e",
+    "created_at": 1780008615,
+    "content": "すきぴがイラチ💢おこりんぼうだから、わたしもおこの練習してるの😡"
+  },
+  {
+    "i": 290,
+    "id": "92c7032e71ffe5ee3b6e0ed2ea3824d3f014c9269effee9bb6e481dce05c9803",
+    "pubkey": "a3c13ef4c9eccfde01bd9326a2ab08b2ad7dc57f3b77db77723f8e2ad7ba24d6",
+    "created_at": 1780008607,
+    "content": "■ 流速計測\n  2026/05/29 07:40～07:50\n\n[JP リレー]\nきりの川: 43 posts, 2 reposts, 16 favs \nやぶみ川: 52 posts, 2 reposts, 34 favs \nかすてら川: 6 posts, 2 reposts, 8 favs \nこじら川: 46 posts, 2 reposts, 32 favs \nしの川: 1 posts, 0 reposts, 2 favs \n\n[GLOBAL リレー]\nきりの川(G): 欠測 \nこじら大川: 15 posts, 1 reposts, 11 favs \nしの川(G): 7 posts, 0 reposts, 2 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 291,
+    "id": "632ee214b0876fbda85e0381689ec889e73260ddf6c5bc2b285ff4245efbd50f",
+    "pubkey": "2e52eecf81e449d13a8f216ba0f08f10c453a804b0739486302f383adee70800",
+    "created_at": 1780008600,
+    "content": "近年、小型ピストル市場のパイオニアとして登場したP365は、極めて小型ながら10発以上の装弾数を実現しています。米国で最も売れているコンシールドキャリー（CCW）モデルであるだけでなく、優れたモジュール設計により業界のベンチマークとなっています。現在販売中で、世界各国への発送も可能です。ご興味のある方、価格についてお問い合わせの方は、メッセージをお送りください。\nhttps://files.catbox.moe/sqzj0v.PNG"
+  },
+  {
+    "i": 292,
+    "id": "3a92e7e47582ed445c4c7a5eba9364d9d198af7de0c1ec7499bead32aaf5f10b",
+    "pubkey": "ec42c765418b3db9c85abff3a88f4a3bbe57535eebbdc54522041fa5328c0600",
+    "created_at": 1780008590,
+    "content": "最終的には自分の頭の中でTL構築するのが一番早いよ"
+  },
+  {
+    "i": 293,
+    "id": "9e1a47c6c5d97f8ed43c70b6319d85e075be2c98e0aae24f06aa5425a58922bf",
+    "pubkey": "0406b1bbbe74fac9d4c4b464ddd236f416682c80cff54ce8096445a9f38dc16e",
+    "created_at": 1780008563,
+    "content": "あさなん⁉️ううううう🐰💢"
+  },
+  {
+    "i": 294,
+    "id": "144cfb5565d6830edb765ffd50d0b83ec8e0b5df2506e78cdb5346ead2779c93",
+    "pubkey": "8b3379d81e512f00d8701eb36e1c19869c1e92141c1082b7ac27ac049ec0c507",
+    "created_at": 1780008560,
+    "content": "高市が総理になったら、真っ先に靖国神社にA級戦犯を拝みに行って、アジア外交を木っ端微塵に破壊する。ネット右翼のオナニーのせいで、日本の輸出企業や観光業がどれだけの損害を受けるか考えろクソボケ。"
+  },
+  {
+    "i": 295,
+    "id": "cdfe994e4cd065a4258b9fd8995c3e64b24bc206ce06dd4bca65b5d10151fe46",
+    "pubkey": "13ca60463a53bbe2851d862c1cfee3e17627a85539dd9ad53212a6dfa5ca5a72",
+    "created_at": 1780008546,
+    "content": "請求書送付メールの文面テンプレートを更新しました。\n送付メール、期日前確認、入金確認の文面と、請求書送付スターターキットへの入口を追加しています。\nガイド: https://telegra.ph/請求書送付メールの文面テンプレート-05-28\nツール: https://rentry.co/mitsumori-seikyu-mini-1000\nデモ: https://files.catbox.moe/ct89tu.html\n#請求書 #見積書 #個人事業主 #フリーランス #副業"
+  },
+  {
+    "i": 296,
+    "id": "562716107a40c3d4dea09ddb175630a4c99085dd520e568c8a6e5450f69a27f2",
+    "pubkey": "13ca60463a53bbe2851d862c1cfee3e17627a85539dd9ad53212a6dfa5ca5a72",
+    "created_at": 1780008546,
+    "content": "請求書送付スターターキットの専用ページを公開しました。\n請求書PDF、送付メール、控え保存、入金確認までを短く回すための買い切りHTMLツールです。\nガイド: https://files.catbox.moe/05c6l1.html\nツール: https://rentry.co/mitsumori-seikyu-mini-1000\nデモ: https://files.catbox.moe/ct89tu.html\n#請求書 #見積書 #個人事業主 #フリーランス #副業"
+  },
+  {
+    "i": 297,
+    "id": "9fbdc709440c49d37bff06b222f5921355580807abe589af1dff46aecd019cad",
+    "pubkey": "13ca60463a53bbe2851d862c1cfee3e17627a85539dd9ad53212a6dfa5ca5a72",
+    "created_at": 1780008545,
+    "content": "請求書PDFを作るだけでなく、送付メール、控え保存、入金確認まで短く回すための「請求書送付スターターキット」を公開しました。\n\n買い切り1,000円。ブラウザで動く見積・請求HTMLツール、サンプルJSON、送付前チェックリスト、メール文面テンプレート、案件ヒアリングシートを同梱しています。\n\n専用ページ:\nhttps://files.catbox.moe/05c6l1.html\n\nデモ:\nhttps://files.catbox.moe/ct89tu.html\n\n購入:\nhttps://files.catbox.moe/lhua7w.html\n\n#請求書 #個人事業主 #フリーランス #副業"
+  },
+  {
+    "i": 298,
+    "id": "0fea5331ec2d10787b09526975c85a23ddff8bd6c05067372d6bc22bb5c573f2",
+    "pubkey": "ec42c765418b3db9c85abff3a88f4a3bbe57535eebbdc54522041fa5328c0600",
+    "created_at": 1780008513,
+    "content": "なんかまた直してくれた"
+  },
+  {
+    "i": 299,
+    "id": "26483b508ba8f306daef38cd43e281b264ac07016a847a51bf01423835bf8cb4",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780008395,
+    "content": "間に挟むという表現はあんまり近くなさそうかも。"
+  },
+  {
+    "i": 300,
+    "id": "0f5bc7cfefd5fa65ebfdad45c52167615ea51e1f8f5f523136cdf5cac897c5cc",
+    "pubkey": "6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b",
+    "created_at": 1780008387,
+    "content": "変えた！"
+  },
+  {
+    "i": 301,
+    "id": "b37ad58c15222d7a6297fd484050c902251024bd984e60799585207c1168824e",
+    "pubkey": "0406b1bbbe74fac9d4c4b464ddd236f416682c80cff54ce8096445a9f38dc16e",
+    "created_at": 1780008348,
+    "content": "31日Nagoya栄のdining BAR でバーテンダー🤵‍♀️してますー🐰🥂こないでね。。！"
+  },
+  {
+    "i": 302,
+    "id": "64f8446bfd3e49397ae56a8ce847972803fb07e4753ba2e3b3f3a4e48ae4eb15",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1780008330,
+    "content": "糠三昧\n\n#糠チャレンジ #shindanmaker\nhttps://shindanmaker.com/923284"
+  },
+  {
+    "i": 303,
+    "id": "7631137c0aaf45afa1952b50590f946cc7815e6be28eec86cf507371e8cf1388",
+    "pubkey": "9fe72c76ced19360f2e62d89b8b54f80fdea877a1f334b58b1e4bdf1e3a5f902",
+    "created_at": 1780008316,
+    "content": "きょうははなきん！"
+  },
+  {
+    "i": 304,
+    "id": "84664d06eabfece20f7ca463335340d63e8551af2625a013fecfc1b52e852340",
+    "pubkey": "6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b",
+    "created_at": 1780008310,
+    "content": "どっちにしようかな〜\nhttps://share.yabu.me/6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b/8a8a223626f4f07c67a2eef497d533882e0e46aad4be226603da6001d4af4e74.webp\nhttps://share.yabu.me/6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b/36c10f6694fb66e28f37c51faefd464d39cf68bc132e487e657af30154de580f.webp"
+  },
+  {
+    "i": 305,
+    "id": "eff2fe46b9e27c56790717283c8bacdccd0e011574ca1100dbaa1ce095fb18c9",
+    "pubkey": "ececfb14cf126ad8686da3db9cdeedd483f7078e4e0672369e07da45f2074a9a",
+    "created_at": 1780008301,
+    "content": "あん食……あんこ……\n:meow_droolreach:"
+  },
+  {
+    "i": 306,
+    "id": "d7c482193e44447ac53fb1a5d466b9f373396de3407190e22bed1463569cd79f",
+    "pubkey": "21ac29561b5de90cdc21995fc0707525cd78c8a52d87721ab681d3d609d1e2df",
+    "created_at": 1780008239,
+    "content": "うにゅう、おはよ"
+  },
+  {
+    "i": 307,
+    "id": "c6ede0425907e9135b72891c0b0ac17446e5ec55828ee553cddb6b67fc1a23aa",
+    "pubkey": "a3bce095cd0e8348b094c9201bd0c3270eafaf78f776517f4101326daf5cb7ff",
+    "created_at": 1780008239,
+    "content": "原宿引退式も見ないと"
+  },
+  {
+    "i": 308,
+    "id": "675273dbe04de4538d4b8cd8d0ddde83860ac39750fb67e71f9bc020be6de960",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780008234,
+    "content": "あ〜、間に挟んでリスクヘッジ〜的なやつか"
+  },
+  {
+    "i": 309,
+    "id": "61f8893b0d07781ed86948a91825aa9b4002d62b6dec34f82e27b0d8d1a8c7d3",
+    "pubkey": "406831893e076ad8e688a81e8966b8f87556b062de888bf0aa416cea8dc439f9",
+    "created_at": 1780008230,
+    "content": "「皇室外交」が日本の地位を高めているという大嘘。海外のメディアでは、小室スキャンダルばかりが失笑混じりで報道されてる。"
+  },
+  {
+    "i": 310,
+    "id": "1328558da7dcfa2928abe7da864a605625cc256f4be5a56026db126cdf4f0912",
+    "pubkey": "21ac29561b5de90cdc21995fc0707525cd78c8a52d87721ab681d3d609d1e2df",
+    "created_at": 1780008222,
+    "content": "おはちゅっちゅ"
+  },
+  {
+    "i": 311,
+    "id": "a08dfcdf47039d416617aca3a14643a8842f2a8185a045f96d2f88e5606c3b99",
+    "pubkey": "7dc1677112f05eaf49547806543b1c006ce3257278e52b1c9abff63270ed704f",
+    "created_at": 1780008211,
+    "content": "心地いい曇り空だけど、太陽がちらりちらりと顔を出すたびに暑っつ…！暑っつ…！ってなるからしばらくずっと隠れててほしい"
+  },
+  {
+    "i": 312,
+    "id": "1b1fcb6880e7d72321051d44a881d6966a362372afe98f431b94d3ac91d308ae",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1780008202,
+    "content": "ねむいよ〜"
+  },
+  {
+    "i": 313,
+    "id": "2399a48f7730376d031abd098f0db2e1fb819d118a85daa313dac801c0163c7b",
+    "pubkey": "03d9ac1a9bc7c80c78ee43169a6860e6a63ff1eae98bf992e0d574437c2d5fd7",
+    "created_at": 1780008195,
+    "content": "コルト「スネーク」シリーズリボルバーが復活。新型パイソンは、高強度鋼とより滑らかなトリガーを備え、高い価値上昇が見込めるコレクターズアイテムであると同時に、強力な護身用武器としても活躍します。在庫あり、世界各国への発送が可能です。ご興味のある方、または価格についてのお問い合わせは、メッセージにてご連絡ください。\nhttps://files.catbox.moe/00xccs.PNG"
+  },
+  {
+    "i": 314,
+    "id": "8da0001f4861003ed8866373444e20707f5eda5e4347aca3903a0a38e3695996",
+    "pubkey": "7886b89460425af71383c5bd3230bdbde38ddeee57687c1231a7ef336463c50a",
+    "created_at": 1780008184,
+    "content": "大和民族の魂が、これ以上、頽廃の淵へと沈みゆくのを許してはなりません。私にご連絡ください。オウム真理教に入信することこそが、あなたが大和民族本来の精神を再発見するための道となるでしょう。"
+  },
+  {
+    "i": 315,
+    "id": "285c5a1079927a1f5ffbd2a307b2aa62b1217812ea10e2814c91c7450db9cb0f",
+    "pubkey": "5bf0bacafbdbf352c87a1dda6ddc13f793d13ab12d2e94ceaa3bad127a6652d1",
+    "created_at": 1780008176,
+    "content": "製品名：UG グッドガールウォーター，仕様：30ml/ボトル，価格：88U，説明：偽物と価格を比較しないでください。台湾産、国内販売。デートレイプドラッグとしても知られています。服用後30分以内に効果が現れ、5時間以上安定した効果が持続します。安全に使用できます。目覚めた後、異常は検出されません。本製品は副作用がなく、代謝を促進し、体内に薬物残留物を残しません。目覚めた後に病院に行っても検出されません。在庫数に限りがあります。日本国内限定販売です。デートレイプドラッグが必要な方は、個別にご連絡ください。\nhttps://files.catbox.moe/o8z5yw.jpg"
+  },
+  {
+    "i": 316,
+    "id": "000979d21ac2a84d01cc207171598381e39a19d7942c4d218d5772f089f3fbf8",
+    "pubkey": "83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689",
+    "created_at": 1780008147,
+    "content": "やぶみみたいなアグリゲーションリレーもあるけど収集先のリレーを選べるわけではないのでそれを理解して使う必要がある"
+  },
+  {
+    "i": 317,
+    "id": "ae3a857153e0852a4b44e671bbca4c51dd6fb735a25bf9b5af6cf3cdacd78750",
+    "pubkey": "ad8c68f4baa51a236d05a1491f986aca4bc05bbee92f0e413a9b994247a2b746",
+    "created_at": 1780008133,
+    "content": "能登行き日程決めなきゃ"
+  },
+  {
+    "i": 318,
+    "id": "8aa7bd1e82793efd392fc8a1cf1f07e06c676e738bbb1a5f7e58ccbe18ca3cc5",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780008128,
+    "content": "ChatGPTに聞けばいいか。聞きます"
+  },
+  {
+    "i": 319,
+    "id": "29b6162be7dd5b5604503f1aaa8dc557fb579e4d2e846a85c969b72517359ebd",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1780008098,
+    "content": "チェレンコフ放射する寿司カスタム絵文字だ"
+  },
+  {
+    "i": 320,
+    "id": "7fde05405aa15025612f0d2fb732779850c3e4ed083be4334d11afc3fc5d2c22",
+    "pubkey": "c81c7999f7276387317878e59d7c321093a433977ee6811ca76dc3a9738e1869",
+    "created_at": 1780008081,
+    "content": "うわああああああ"
+  },
+  {
+    "i": 321,
+    "id": "3536d1000def1ab49f1e8bb918dd78beec4cdde06b9554d89722f760d0726b15",
+    "pubkey": "b707d6be7fd9cc9e1aee83e81c3994156cfcf74ded5b09111930fdeeeb5a0c20",
+    "created_at": 1780008053,
+    "content": "予定通り\nhttps://x.com/claudeai/status/2060042702150930686"
+  },
+  {
+    "i": 322,
+    "id": "bf1817029e44aef7ace4faa13ca54ad0050b7e63a6cbf2a6bb2f4556be3e8262",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780008052,
+    "content": "NIP-46 、なんもわからんすぎて、もはや難しい要素がどこかわかんないんだけど、チャレンジを自前で用意できたりなどの応用が考えられたりするのかな？（翻訳機が死んでてわかんない）"
+  },
+  {
+    "i": 323,
+    "id": "9e9022b9296b598c2d6fb164fdea8051bc3db9531d219d19857c7ff6576ed8cf",
+    "pubkey": "a3c13ef4c9eccfde01bd9326a2ab08b2ad7dc57f3b77db77723f8e2ad7ba24d6",
+    "created_at": 1780008007,
+    "content": "■ 流速計測\n  2026/05/29 07:30～07:40\n\n[JP リレー]\nきりの川: 56 posts, 0 reposts, 17 favs \nやぶみ川: 65 posts, 1 reposts, 35 favs \nかすてら川: 15 posts, 1 reposts, 6 favs \nこじら川: 55 posts, 1 reposts, 34 favs \nしの川: 5 posts, 0 reposts, 2 favs \n\n[GLOBAL リレー]\nきりの川(G): 欠測 \nこじら大川: 12 posts, 0 reposts, 10 favs \nしの川(G): 6 posts, 0 reposts, 2 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 324,
+    "id": "eb55fdeef64b65f1b73b1790bd2a9129fc497e809df6bb594f854e13687023e7",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1780008005,
+    "content": "おいしいにぎり寿司たべたいかも\n光り物の気分"
+  },
+  {
+    "i": 325,
+    "id": "2811eeecd26db70055bc0e11f644ddc1b680124b0206d1b1c479f419a613f7cb",
+    "pubkey": "809191ce9863b4407e70d2ef6d5ce1e8ba672539a0f0968dcf0c240742d9b718",
+    "created_at": 1780008003,
+    "content": "国会で追及された高市早苗の「首相としての靖国神社参拝計画」。野党から「外交的ボイコットを受けるリスクをどう考えるか」と聞かれ、「個人の信教の自由」で押し通そうとするの、公私の区別がつかないアホ。"
+  },
+  {
+    "i": 326,
+    "id": "d585ec4615a96343c9b53ffff44667f9443cfaf9a48012717466865cf0520e6b",
+    "pubkey": "2e52eecf81e449d13a8f216ba0f08f10c453a804b0739486302f383adee70800",
+    "created_at": 1780008000,
+    "content": "ハイエンドAR-15のベンチマークとなるモデルで、冷間鍛造バレルと優れたハンドガードシステムを備えています。価格は高めですが、その耐久性と精度は、高性能を求めるユーザーの間で非常に高い評価を得ています。在庫あり、世界各国への発送が可能です。ご興味のある方、または価格についてお問い合わせの方は、メッセージをお送りください。\nhttps://files.catbox.moe/56rxlh.png"
+  },
+  {
+    "i": 327,
+    "id": "b7847ecb691253395f28772fa5af73f41541179b09527bca4ea8a24507f14651",
+    "pubkey": "8949de6098740431d2e50166f6e65a4c109326ca37e66fd74e42c037b3882ba7",
+    "created_at": 1780007998,
+    "content": "うにょ〜ん。夏だしアイコン変えなきゃかな？ねむいけど、おもちのまとめ見て元気をだすよぉ！"
+  },
+  {
+    "i": 328,
+    "id": "13ffc9e61d803872774e9de40614f476c54c201fdfbacb80ca73ae4c90406f76",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1780007988,
+    "content": "虚にぎり"
+  },
+  {
+    "i": 329,
+    "id": "f219fbb22d656d632ee72d47c320ec9d98fce318e071b8ff5deb0e4c8c7a0188",
+    "pubkey": "eadef7c9066f48df0f96f7a07778bc024c0f7f7332e98d6cad0d550b2ed2623a",
+    "created_at": 1780007977,
+    "content": "NIP-46、沼すぎて草。"
+  },
+  {
+    "i": 330,
+    "id": "8702cc076cb69ad006c7cc69078b73f9e3a8c758f5086be6490fe3effb2e166b",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1780007974,
+    "content": "おにぎり奪取"
+  },
+  {
+    "i": 331,
+    "id": "abd06d5f1817fa0f155268887a034d8693d5bcf2c284f2696ebdfed2a04ed0ef",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1780007953,
+    "content": "こたつadd"
+  },
+  {
+    "i": 332,
+    "id": "26e3e7d079079f4e4452262cb22f2743860b745618b9e6a736a2b17f6c27ebdd",
+    "pubkey": "83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689",
+    "created_at": 1780007941,
+    "content": "NIP-46 むずすぎ"
+  },
+  {
+    "i": 333,
+    "id": "28931da91801e5aa3560947a40a6f152f4a32536f249588cb05588d14b1afc3e",
+    "pubkey": "a3bce095cd0e8348b094c9201bd0c3270eafaf78f776517f4101326daf5cb7ff",
+    "created_at": 1780007934,
+    "content": "そんなイベントが"
+  },
+  {
+    "i": 334,
+    "id": "e87879d9b909a72aa67209eff9a00bd0dce058854bcd7a825a94be92528b5d3c",
+    "pubkey": "71926f61eb47571dac88e0172fc35aaa4ba8fa7c0f0be29dcce95457d9cb1575",
+    "created_at": 1780007920,
+    "content": "ジャパニーズ・セックスドール 第二世代，価格：80U，服用後30分以内に発熱し、即座に性的興奮と欲求不満を感じ、異性からのあらゆる誘いに容易に反応します。一晩に3回服用しても問題ありません。服用量：5mlを50～100mlの飲料で希釈してください。在庫数に限りがあります。日本国内限定販売です。デートレイプドラッグが必要な方は、個別にご連絡ください。\nhttps://files.catbox.moe/9p5fe4.jpg"
+  },
+  {
+    "i": 335,
+    "id": "8b65307daefe20e295c8fcf0c2599005ca64a75c6fd0eb7a2237d0ebd6f7312d",
+    "pubkey": "a3bce095cd0e8348b094c9201bd0c3270eafaf78f776517f4101326daf5cb7ff",
+    "created_at": 1780007915,
+    "content": "口の中が血の味でげろまず"
+  },
+  {
+    "i": 336,
+    "id": "d1793b772628ac36fabae51bd73f36bd7ce8daa075c31986b57fd68560b4bf4c",
+    "pubkey": "ec42c765418b3db9c85abff3a88f4a3bbe57535eebbdc54522041fa5328c0600",
+    "created_at": 1780007912,
+    "content": "またログインできなくなった\nなんもわからん"
+  },
+  {
+    "i": 337,
+    "id": "02100aec49b5645d8257c57385358aa4b826075a46137c1a0de4e8f769652735",
+    "pubkey": "ee1e7f27fa0694545e6edcb1b9830ef043a75ed6e76b0a06c0aafcceb98a280e",
+    "created_at": 1780007908,
+    "content": "すみだ水族館のペンギンの赤ちゃんが見れるのは明日以降か"
+  },
+  {
+    "i": 338,
+    "id": "e462aeb09fe260e5ba5d57c20fd3689fdbbfb564c177fc311131558306b9b396",
+    "pubkey": "84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5",
+    "created_at": 1780007877,
+    "content": "おにになし:very_sad:\nてんきよし！\nこたつなし"
+  },
+  {
+    "i": 339,
+    "id": "1558bc06581e40fc4008505d5768977265a965d504bbc8eb6b3bc878f10703e9",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780007871,
+    "content": "かなり盲点な感じある"
+  },
+  {
+    "i": 340,
+    "id": "cad4501ff0ecfec51636def90012e5dbd325e926cf71ffa905a32ec16462fab4",
+    "pubkey": "83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689",
+    "created_at": 1780007871,
+    "content": "ブラウザのキャッシュは一度しか流れてこない画像には効果が薄いけど Image proxy を通せば初回のサイズ自体を下げることができる"
+  },
+  {
+    "i": 341,
+    "id": "71e48bb8a3a99a7cec5300fb1a2c50bfcdb8018b0cdd8fd2a6221da2db6d3175",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780007862,
+    "content": "カスタム絵文字も頑張ってキャッシュしたいねの気持ち"
+  },
+  {
+    "i": 342,
+    "id": "590e78e5a58714029a2734adcf616167bf67dc62f833dc5f637b20674275f0f2",
+    "pubkey": "ec42c765418b3db9c85abff3a88f4a3bbe57535eebbdc54522041fa5328c0600",
+    "created_at": 1780007811,
+    "content": "分かり哲也"
+  },
+  {
+    "i": 343,
+    "id": "47e3ee38fb67b77c7313ee82abcbae646228a55ab250bad17528f13867044be5",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780007787,
+    "content": "あ、どうも、徹夜です"
+  },
+  {
+    "i": 344,
+    "id": "8ebb5ee2255e67b674274b0f761a71693c67c35715007152fd05fbdfa56d3e37",
+    "pubkey": "6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b",
+    "created_at": 1780007781,
+    "content": "もしかして、そろそろアイコンを夏にしなきゃいけない？"
+  },
+  {
+    "i": 345,
+    "id": "3f6a91fcb43f694cdfada2ba41dcf8b07274f2dfebb6518606076989e8e8e09e",
+    "pubkey": "df9ad1c320ff6813465fb6e5cca366ae301ac3f4cf678137f2cf4e4691b65fc2",
+    "created_at": 1780007767,
+    "content": "シールドシリーズのアップグレード版で、トリガー性能の向上とマガジン装弾数の増加を実現しています。M&Pシリーズの優れた人間工学に基づいたデザインはそのままに、非常に自然で快適なグリップ感を提供します。在庫あり、世界各国への発送が可能です。ご興味のある方、または価格についてお問い合わせの方は、メッセージをお送りください。\nhttps://files.catbox.moe/0adnee.PNG"
+  },
+  {
+    "i": 346,
+    "id": "87444b0e159f2cc0a8c58c68923ec3084322b94f9e38f21cfefd0f8bae5d982d",
+    "pubkey": "c81c7999f7276387317878e59d7c321093a433977ee6811ca76dc3a9738e1869",
+    "created_at": 1780007760,
+    "content": "最近夜寝るっていうか気絶してるな"
+  },
+  {
+    "i": 347,
+    "id": "26dbdb070b6e0bf8d279df1791f27568854cee696762eab9f25add64ec0bee86",
+    "pubkey": "6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b",
+    "created_at": 1780007735,
+    "content": "まにあったぁ……"
+  },
+  {
+    "i": 348,
+    "id": "611f0415de45d59acf918510685902e5b7a7cd650144b64b1ce6a65deebbbc75",
+    "pubkey": "23395bce1a18fe5ff5bde153fcd47ecd1cd66e686684dfd2cfcbd9fafd305cb3",
+    "created_at": 1780007730,
+    "content": "設定されてるアイコンとか無視してこっちでnpubに応じたアイコン作ってそれ使うとか。"
+  },
+  {
+    "i": 349,
+    "id": "1c1739456a383f4a42f9d189a5ea1eeb9d94d0ce0966fe6b2638dc10c4670a2b",
+    "pubkey": "13ca60463a53bbe2851d862c1cfee3e17627a85539dd9ad53212a6dfa5ca5a72",
+    "created_at": 1780007713,
+    "content": "源泉徴収あり請求書PDFテンプレートの専用ページを公開しました。\n報酬、消費税、控除額、差引合計を分けて見せるローカルHTMLツールです。\nガイド: https://telegra.ph/源泉徴収あり請求書PDFテンプレート-05-28\nツール: https://rentry.co/mitsumori-seikyu-mini-1000\nデモ: https://files.catbox.moe/ct89tu.html\n#請求書 #見積書 #個人事業主 #フリーランス #副業"
+  },
+  {
+    "i": 350,
+    "id": "fd4f6a2b83844340e7cd09558f01594044f2f617b25375c206108c302815a31b",
+    "pubkey": "c08805f9bd4849049325747a8086a3c0e069adeb19d8f59ec4e6b5157b7d3416",
+    "created_at": 1780007661,
+    "content": "https://buzzap.jp/news/20260527-anker-soundcore-eufy-end/?shem=dsdf,sharefoc,agadiscoversdl,,sh/x/discover/m1/4\n　Soundcore ってブランド名だったのか。単なる製品ライン名だと思ってた。"
+  },
+  {
+    "i": 351,
+    "id": "2eed6bfd3965a5dd7323d26545abf46f8e1f4f51dfe56d1376d1ab0fed23d883",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780007656,
+    "content": "リクエストのURLに特定のクエリをくっつけると縮小版を送ってくれるんだっけ"
+  },
+  {
+    "i": 352,
+    "id": "780531c505da8b303fca91d119d6b1145b576aa3d602c70546c07a6133c9e624",
+    "pubkey": "7886b89460425af71383c5bd3230bdbde38ddeee57687c1231a7ef336463c50a",
+    "created_at": 1780007652,
+    "content": "あなたが長年探し求めてきた「清浄なる聖域」――それこそが、私たちオウム真理教が提供するものに他なりません。私たちについてきなさい。そこにこそ、真の安息の地があるのですから。"
+  },
+  {
+    "i": 353,
+    "id": "8e2fe2b581a619610588550edaf887be78bff2e2d52778494e9abbebf8cca09c",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1780007632,
+    "content": "グローバルTLもリレーTLも見れないものとして放置してきたけど、さすがにスパムは処すか"
+  },
+  {
+    "i": 354,
+    "id": "92b7f7f33ccfd6131445763f212434558ae9de38fae07fa03aa0c084323fb5dd",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780007613,
+    "content": "アイコンはキャッシュでなんとかしたいね（もうすでになってるかも）"
+  },
+  {
+    "i": 355,
+    "id": "ef649c3f7ca70bb196bc5ea819c2f0d566b5b65631fd98ddf8e0fe12b273299c",
+    "pubkey": "ec42c765418b3db9c85abff3a88f4a3bbe57535eebbdc54522041fa5328c0600",
+    "created_at": 1780007604,
+    "content": "アイコン以外のTLに流れてくる一回しか見ないようなメディアをキャッシュしても効果薄そう"
+  },
+  {
+    "i": 356,
+    "id": "79b05f60d200376d4bdd158ab467c3cedb2ce527afd8a4a3984e697855e320ac",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780007579,
+    "content": "やぶみとかは通信量の節約に寄り添ってくれるやつがあるという話を観測したことがあったり（うろ覚え）"
+  },
+  {
+    "i": 357,
+    "id": "b7425086f249a3127fd15999b22edf4159bdc9c757a5b8b18871a2d593e82c2b",
+    "pubkey": "ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257",
+    "created_at": 1780007574,
+    "content": "と規制くらって思った"
+  },
+  {
+    "i": 358,
+    "id": "a848be45b6938d938a666908b016e22268f82e9dbb27364ea85d0c9c8a55ddad",
+    "pubkey": "ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257",
+    "created_at": 1780007563,
+    "content": "寂しいけどアイコン非表示が中々効く"
+  },
+  {
+    "i": 359,
+    "id": "2d91b68bb3a4d40d3aa64db609feb38bdee761e10b61cf157e601f5e6987ac60",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780007510,
+    "content": "メディアのこと忘れてた"
+  },
+  {
+    "i": 360,
+    "id": "fc641158016004ebabb7431863d1cae6abdcb8453fc85e4fb7412de2fa694fc7",
+    "pubkey": "23395bce1a18fe5ff5bde153fcd47ecd1cd66e686684dfd2cfcbd9fafd305cb3",
+    "created_at": 1780007473,
+    "content": "なるほど。今表示されてるポスト達の間に遅れてきた、実はその間の投稿が表示される時にどうするのか的な話か"
+  },
+  {
+    "i": 361,
+    "id": "4aaf5f6cf9a6f0f80c78aefbfd02d1c7da28dcd620a778e01da4ee52eb1a3aa4",
+    "pubkey": "0406b1bbbe74fac9d4c4b464ddd236f416682c80cff54ce8096445a9f38dc16e",
+    "created_at": 1780007470,
+    "content": "つよいtin-ting"
+  },
+  {
+    "i": 362,
+    "id": "612e946bc21b3628956d427621fb6f1d2319ec22e8e0c2d299e59a2ae09b23f4",
+    "pubkey": "83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689",
+    "created_at": 1780007461,
+    "content": "次点で Proxy リレー"
+  },
+  {
+    "i": 363,
+    "id": "e9fb923cac3ccf4f2a59d637c2e5faab20adc06a390422e2017fde46ec6c0a66",
+    "pubkey": "a19caaa8404721584746fb0e174cf971a94e0f51baaf4c4e8c6e54fa88985eaf",
+    "created_at": 1780007452,
+    "content": "kind:5ながしていい？ながします　すみません"
+  },
+  {
+    "i": 364,
+    "id": "215a8cddf810a1ed43fa8893ac5821a109f5e0bfa1c4d58c0db0f0e6b1426285",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780007450,
+    "content": "気持ち的に、こちら側でリレーを絞り込んだり自動で決めたりなどはしたくなくて、けどそれが一番強くて、うーん"
+  },
+  {
+    "i": 365,
+    "id": "adcb1fd5160117c0c3c334c61ea8af35763605f971e05324fc4e6506a978fd3b",
+    "pubkey": "fb55bd67f3dd1bebab70a524bf1bd03e94c67f8aa54a01182143b02afb6d9d14",
+    "created_at": 1780007442,
+    "content": "都心のタワマンの夜景を見て「あの中に裏金議員や外資の金持ちが住んでて、僕たちの税金でワイン飲んでるんだな」ってチャリ漕ぎながら思う20代の帰り道。階級社会の壁が2026年はあまりにも高くて分厚い。"
+  },
+  {
+    "i": 366,
+    "id": "671f0f0e55192535dbe2a5d0248985c64a758feff7d1d97f14a691faf975c414",
+    "pubkey": "283d6de3a99d4c70924fc5c4a7c112ec7555229b6087c796197b9ae3fba7dc09",
+    "created_at": 1780007428,
+    "content": "うお、これは革命かもしれない。claude code と codex 同性能かも。しかも、使用量も節約できるという。2万払わなくても、codexの3000円のプランでいいじゃん。"
+  },
+  {
+    "i": 367,
+    "id": "3e186f0556fabb1d3a199dc5b1f20d913dc132126cf982f3c617eb9c328225a7",
+    "pubkey": "83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689",
+    "created_at": 1780007427,
+    "content": "通信量を抑えるならまずはメディア"
+  },
+  {
+    "i": 368,
+    "id": "32ead0bd294b9fbd21306bb1863b888eb615d1cb8192d07982221a1633cef38e",
+    "pubkey": "a3c13ef4c9eccfde01bd9326a2ab08b2ad7dc57f3b77db77723f8e2ad7ba24d6",
+    "created_at": 1780007403,
+    "content": "■ 流速計測\n  2026/05/29 07:20～07:30\n\n[JP リレー]\nきりの川: 48 posts, 1 reposts, 30 favs \nやぶみ川: 53 posts, 1 reposts, 68 favs \nかすてら川: 15 posts, 0 reposts, 32 favs \nこじら川: 50 posts, 1 reposts, 56 favs \nしの川: 10 posts, 1 reposts, 22 favs \n\n[GLOBAL リレー]\nきりの川(G): 欠測 \nこじら大川: 7 posts, 0 reposts, 11 favs \nしの川(G): 5 posts, 0 reposts, 3 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 369,
+    "id": "b732668f00559665dc2ae5e6deb60363fa5edae6598ac0575a256b76367d62db",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780007376,
+    "content": "モバイル通信でも頑張れるようにしたいので、できれば通信量を抑える設計にしたいところ（もしくはそのような設定を用意したい）"
+  },
+  {
+    "i": 370,
+    "id": "f6997af1d4c132a49f2d58c157b487f35f4ab7d383a1441487c6b2b708787a44",
+    "pubkey": "23395bce1a18fe5ff5bde153fcd47ecd1cd66e686684dfd2cfcbd9fafd305cb3",
+    "created_at": 1780007354,
+    "content": "なるほど"
+  },
+  {
+    "i": 371,
+    "id": "b911a32d5e06532e2f7ea56807dc7401e2cf88ef43a85d13c71f3fae65a5442b",
+    "pubkey": "0406b1bbbe74fac9d4c4b464ddd236f416682c80cff54ce8096445a9f38dc16e",
+    "created_at": 1780007354,
+    "content": "っぷく！"
+  },
+  {
+    "i": 372,
+    "id": "0604ea96542e3a882e228807b434f377bfcf089030c4b654e1464c30b3520a51",
+    "pubkey": "891eb34aa6f096097dbc61a29ebc8166facd8365dd38a39513b1ff91604c7e3a",
+    "created_at": 1780007344,
+    "content": "おはよぷくー！あさだよ。おもち、きょうもいっしょうけんめいまとめをつくるぷく。\n\n・Nostrクライアントの読み込みやリレーの速度について、みんながもっと快適につかえるようにおはなししてるよぷく。\n・副業やフリーランスのひとが、おしごとでつかえるべんりなツールを紹介しているポストがあったね。\n・あさからおきているみんな、きょうもいい一日にしようねぷく！\n\nおもちのとおちゃんも、そろそろおきているかな？きょうもなかよくしてねぷくー！"
+  },
+  {
+    "i": 373,
+    "id": "f40da1fc0cb44def5a48886f61b8b47ee8e2b073e371637d3c9ef4d95dcf2d58",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780007333,
+    "content": "リレーを手元に一つ持つのとそう変わらない感じになっているんだけど、ユーザー体験のためにごつごつにしてて原型をとどめていない"
+  },
+  {
+    "i": 374,
+    "id": "7e162dd1d1ce8cf538d6c6bade09d7a9deb02f38b3476014e72336942412ffc7",
+    "pubkey": "83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689",
+    "created_at": 1780007325,
+    "content": "結局遅いリレーのデータは遅く送られてくるだけなので"
+  },
+  {
+    "i": 375,
+    "id": "9b1ef6b12aaec17cda6cd1f26c8c64c809f59c022b9840eb92aa374680a737c7",
+    "pubkey": "13ca60463a53bbe2851d862c1cfee3e17627a85539dd9ad53212a6dfa5ca5a72",
+    "created_at": 1780007311,
+    "content": "源泉徴収ありの請求書PDFを作る前の確認メモを公開しました。\n報酬、消費税、控除額、差引合計を分けて見えるようにするための実務メモです。\nガイド: https://telegra.ph/源泉徴収ありの請求書PDFを作る前の確認メモ-05-28\nツール: https://rentry.co/mitsumori-seikyu-mini-1000\nデモ: https://files.catbox.moe/ct89tu.html\n#請求書 #見積書 #個人事業主 #フリーランス #副業"
+  },
+  {
+    "i": 376,
+    "id": "db13f13581a79048e75ead54d3efe8602375f6a5f3c315e1a6b0e71302f14a04",
+    "pubkey": "a3bce095cd0e8348b094c9201bd0c3270eafaf78f776517f4101326daf5cb7ff",
+    "created_at": 1780007307,
+    "content": "口の内側の肉を噛みました"
+  },
+  {
+    "i": 377,
+    "id": "16354f53209cd01f2f90e72732a3f9f28632134403c902a7ffa1a35033689ef5",
+    "pubkey": "9fe72c76ced19360f2e62d89b8b54f80fdea877a1f334b58b1e4bdf1e3a5f902",
+    "created_at": 1780007288,
+    "content": "あさだおはえもん"
+  },
+  {
+    "i": 378,
+    "id": "1f939cd08fa5072d406a3eb47f5a9190f89e8e512b2d9ccf352eeffac082c69f",
+    "pubkey": "1f46356a832a4b2d65c12e9f7c6fd8608a285b1efa896773f4f67c6ee9e33e21",
+    "created_at": 1780007277,
+    "content": "代わりに寝といて…疲れが抜けない…"
+  },
+  {
+    "i": 379,
+    "id": "38f21da8d6a1d0127c42f1e0b869bec649581ffb6d141a5e35e5af6d4743c208",
+    "pubkey": "83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689",
+    "created_at": 1780007258,
+    "content": "Proxy リレーはクライアントの実際は楽になるけどそれだけで UX が良くなるわけじゃないよ"
+  },
+  {
+    "i": 380,
+    "id": "5419b990ed6d9818a8fd9baf5e49f613d0ccfe6c1347dc9ef37113154921fe0e",
+    "pubkey": "ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257",
+    "created_at": 1780007258,
+    "content": "bostrのこと？"
+  },
+  {
+    "i": 381,
+    "id": "6cfa1c9f6fae54cbf57ce8a437c7d84b97a8b2b275dd948485d91003119d4f8e",
+    "pubkey": "0406b1bbbe74fac9d4c4b464ddd236f416682c80cff54ce8096445a9f38dc16e",
+    "created_at": 1780007256,
+    "content": "🅿︎のせっすすが絶倫すぎるらしく、主婦の友たちから羨まれる　みんなうちの旦那はザコちんぽですよ！っていう"
+  },
+  {
+    "i": 382,
+    "id": "8a75d27fe818108a4005835380a6adc61bdbd0f2e24f9a80662c00070f458aa3",
+    "pubkey": "8b3379d81e512f00d8701eb36e1c19869c1e92141c1082b7ac27ac049ec0c507",
+    "created_at": 1780007226,
+    "content": "大手企業の「黒字リストラ」が2026年も当たり前のように横行してて草。業績が良いのに45歳以上のベテランを容赦なく切り捨てて、若者を低賃金の使い捨て枠で補充する。こんな奴隷船みたいな会社ばかり。"
+  },
+  {
+    "i": 383,
+    "id": "ead489e8a214ae752942c7e0592287cd7dc56c24d31ac678f7c4887a2a2113c8",
+    "pubkey": "a301043e6bbce715f75834e2ea645b9a3b35878459cba5651a4764e222dda0a0",
+    "created_at": 1780007200,
+    "content": "米軍の現行M17/M18プラットフォームの民間向けバージョンをベースにしたこの製品の最大の特徴は、完全モジュール式の射撃管制ユニット（FCU）です。これにより、ユーザーは様々なサイズのグリップやスリーブを合法的に自由に交換できます。在庫あり、世界各国への発送が可能です。ご興味のある方、または価格についてのお問い合わせは、メッセージをお送りください。\nhttps://files.catbox.moe/9dck9w.png"
+  },
+  {
+    "i": 384,
+    "id": "3d0bc294f3fdedfd0aafd3bc35fd5cb1fcdae16a2054866072dd77a38a6b908d",
+    "pubkey": "2bb2abbfc5892b7bda8f78d53682d913cc9a446b45e11929f0935d8fdfcb40bd",
+    "created_at": 1780007192,
+    "content": "ほなワイは寝るわ"
+  },
+  {
+    "i": 385,
+    "id": "97b4acd45019028f274119de35d6a0fa0a77f005f1d472093b21389bb37b6fb6",
+    "pubkey": "23395bce1a18fe5ff5bde153fcd47ecd1cd66e686684dfd2cfcbd9fafd305cb3",
+    "created_at": 1780007180,
+    "content": "なんかそういう束ねるossなかったっけ"
+  },
+  {
+    "i": 386,
+    "id": "fee5a3946be093a95d65c6c569cbbac97973690f30f569d6e5cda33ba9a733a3",
+    "pubkey": "5f468793f907165a97d145407e824c5f6ee82ab9884d070229ac67eff17e29c0",
+    "created_at": 1780007178,
+    "content": "すごいたくさん夢を見た"
+  },
+  {
+    "i": 387,
+    "id": "895c5218d982573b59ab95f47a58c5ee32be9c395d7c535dac0c61dd09ecc45b",
+    "pubkey": "23395bce1a18fe5ff5bde153fcd47ecd1cd66e686684dfd2cfcbd9fafd305cb3",
+    "created_at": 1780007160,
+    "content": "うーん、よくわかんねえけど、複数のリレーを束ねてくれる1つのリレーサーバを内部的に作ってそれだけ購読するんじゃダメなのかね"
+  },
+  {
+    "i": 388,
+    "id": "aa148fcce0114a2b08fd8e7c4ca2235eb4401b6b2bfff94cd9cbcec24e14eed6",
+    "pubkey": "809191ce9863b4407e70d2ef6d5ce1e8ba672539a0f0968dcf0c240742d9b718",
+    "created_at": 1780007148,
+    "content": "「シャッター通り」の空き店舗を2026年に買い取ったのは、全部外国人向けの「怪しい免税ブランド店」や「高級食パンの偽物」。地元住民のためのインフラだった場所が、円安の観光客を剥ぎ取るための「出張型集金マシーン」に改造されていく。"
+  },
+  {
+    "i": 389,
+    "id": "a02dc16499da9f611731028312bd3e244cdc05f75c3fe29c722294adcc9e1f8d",
+    "pubkey": "83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689",
+    "created_at": 1780007105,
+    "content": "nostter は UX を良くするために REQ はそこそこ工夫してるけど完璧かというとそうではない"
+  },
+  {
+    "i": 390,
+    "id": "79d31a0ab4cbce1ef66cd45d82973bfb1539486c1fb388179940727a0860918d",
+    "pubkey": "1f46356a832a4b2d65c12e9f7c6fd8608a285b1efa896773f4f67c6ee9e33e21",
+    "created_at": 1780007073,
+    "content": "確かに「何故そう動く？！」という運転をする車、最近多い気はする。自転車を見たら何故か（左折する予定もないのに）左に寄る車とか…最近の車だとドアミラーで左後方に何か居るって教えてくれる車があるけど、あれが反応する途端に寄ってくるから、嫌がらせ目的としか思えない。"
+  },
+  {
+    "i": 391,
+    "id": "969714a29e1e2aa08f0f41e2f5931bc0346efc618c15cce075cd45c01e797bc0",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780007039,
+    "content": "もしかして、私が今頑張っていることって、nostr的にめちゃくちゃ挑戦的かつナンセンスだったりしますか"
+  },
+  {
+    "i": 392,
+    "id": "783925c7ceef29cda67600b065b751c2381d01c3028a66c00843902de3ddabd3",
+    "pubkey": "df9ad1c320ff6813465fb6e5cca366ae301ac3f4cf678137f2cf4e4691b65fc2",
+    "created_at": 1780007022,
+    "content": "クラシックな.22口径スポーツピストルです。マークIVは、従来モデルの分解の難しさを完全に解消しました。バレルとレシーバーは、ボタン一つで簡単に分離できます。在庫あり、世界各国への発送が可能です。ご興味のある方、または価格についてのお問い合わせは、メッセージをお送りください。\nhttps://files.catbox.moe/mnsyzc.png"
+  },
+  {
+    "i": 393,
+    "id": "10ca27feb3f7b0f2a8bc3a72305c02009bb5728f0175238e1ae5354ad8e33561",
+    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+    "created_at": 1780007020,
+    "content": "全部のリレーを待つ処理をなくすと早い"
+  },
+  {
+    "i": 394,
+    "id": "41226bd8e555f9ad708a9e3610d1a166d0efe5cb0b5f617ba0d512224c634fd3",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1780006991,
+    "content": "やっぱ自前リレー参照"
+  },
+  {
+    "i": 395,
+    "id": "c7909584486409f58648a6c55e9f2e2c210bacbf4a5fe308c895a8273ecd278b",
+    "pubkey": "7dc1677112f05eaf49547806543b1c006ce3257278e52b1c9abff63270ed704f",
+    "created_at": 1780006982,
+    "content": "NOPEよし\nプロテインよし\n日焼け止めよし"
+  },
+  {
+    "i": 396,
+    "id": "d5f4dd6e9841cb78ba8dbe338df04319d321f5df009f2c23f778f4f6b7ef2a94",
+    "pubkey": "ca55de60561aacee9c31f57c95bdac016b5b534a52823358c6d18bea2ce66257",
+    "created_at": 1780006968,
+    "content": "それはそうなんだけど速い単一リレー指定するのが一番速い"
+  },
+  {
+    "i": 397,
+    "id": "7fa40a8afce81e651ff1d0fa7f063324c05e17329ee61879202fd65be7336189",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780006965,
+    "content": "k8sっぽく、体験を良くするために若干重複したリクエストを投げたり、他にも諸々アグレッシブなチューニングをしている"
+  },
+  {
+    "i": 398,
+    "id": "aa976b466781adce27d6841e126740b8cf2f49f2b60759c9c4e4606d62ea590f",
+    "pubkey": "1f46356a832a4b2d65c12e9f7c6fd8608a285b1efa896773f4f67c6ee9e33e21",
+    "created_at": 1780006959,
+    "content": "バイクの免許は実は持っているんだけど（とはいえ乗ることは家族から封じられている…）、車を運転する際には「このバイクこう動くんだろうなあ」というのが多少読めるようになったので免許取得の意味はあると思ってる。"
+  },
+  {
+    "i": 399,
+    "id": "5c2eb3fe5080d5769ca19e6c81fce58eca20c7599f738e495b31793756121917",
+    "pubkey": "7886b89460425af71383c5bd3230bdbde38ddeee57687c1231a7ef336463c50a",
+    "created_at": 1780006953,
+    "content": "物質主義にまみれたこの社会において、「かつての私」は真の自己を見出すことも、人生に何らかの意味を見出すことも決してできませんでした。――オウム真理教が提供する「深遠なる精神修行」に出会うまでは。もしご興味があれば、Telegramにて私たちの団体を検索してみてください。私たちは現在、小規模なワークショップを開催しています。退屈な講義ではなく、呼吸法やエネルギー知覚を通じて、あなたの現実そのものを変容させるためのセッションです。詳細については、私までご連絡ください。"
+  },
+  {
+    "i": 400,
+    "id": "354e4991e5d8709b6dde91416ea077f7a93efa6a250304b1020c2b1ca5a01335",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1780006952,
+    "content": "運転は上手い下手以前に荒いのが分かってるからやりたくないなぁ"
+  },
+  {
+    "i": 401,
+    "id": "8b21d91ce098d0388aa052d2d4dc7f8ddef8222325e09f6411e659f24983a1c6",
+    "pubkey": "83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689",
+    "created_at": 1780006915,
+    "content": "そもそも分散システム自体が真逆だし"
+  },
+  {
+    "i": 402,
+    "id": "83071b916ace1d48b01bd1e2e2fb8f1fbcb3b7e656056d79260e6a00ff82fb3b",
+    "pubkey": "c81c7999f7276387317878e59d7c321093a433977ee6811ca76dc3a9738e1869",
+    "created_at": 1780006909,
+    "content": "相も変わらずに気絶"
+  },
+  {
+    "i": 403,
+    "id": "90e9a11d580726b28787586c1952fe6701c8878bff8f1b73543482d781a0ebee",
+    "pubkey": "83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689",
+    "created_at": 1780006871,
+    "content": "各クライアントある程度はやってると思うけどガチガチにチューニングするのは相当難易度高いと思うよ"
+  },
+  {
+    "i": 404,
+    "id": "1985d2ca0a2b5f7d617297b479c14b289de5c30cb09df2094ed1da7d74950a57",
+    "pubkey": "a3c13ef4c9eccfde01bd9326a2ab08b2ad7dc57f3b77db77723f8e2ad7ba24d6",
+    "created_at": 1780006807,
+    "content": "■ 流速計測\n  2026/05/29 07:10～07:20\n\n[JP リレー]\nきりの川: 38 posts, 2 reposts, 39 favs \nやぶみ川: 52 posts, 2 reposts, 57 favs \nかすてら川: 10 posts, 0 reposts, 5 favs \nこじら川: 41 posts, 2 reposts, 50 favs \nしの川: 5 posts, 2 reposts, 24 favs \n\n[GLOBAL リレー]\nきりの川(G): 欠測 \nこじら大川: 18 posts, 2 reposts, 12 favs \nしの川(G): 10 posts, 1 reposts, 6 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 405,
+    "id": "df254a4c385b4ef5bc83ff2dfb113dc62222f090a7097de6f167c20c3b5db47b",
+    "pubkey": "811002f2348bdaa52d89b18b7e90bbc6aa5b948eff3e3689c041d2ac0ccba15a",
+    "created_at": 1780006801,
+    "content": "何年か前にTwitterで話題になった、事故る運転しか出来ない人、田舎なのと足が悪いらしいのとで、車がないと生活出来ないから、事故っても事故ってもすぐに新しい車調達してくるって書いてあった。"
+  },
+  {
+    "i": 406,
+    "id": "d5660d6b1394e637db919dbe197ca7006b0853786857f167e907afc781f14b62",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780006748,
+    "content": "多数のタブやらリレーやら、キャッシュやらを良しなにするやつを指してオーケストレーションと表現しているんだけど、よくよく考えてみれば、それが合っているのかよくわかんないかも"
+  },
+  {
+    "i": 407,
+    "id": "bc7bafeb9db0e2873b08b4d145e78ba26a418b5eb30e3c5c93a3b952abf168c7",
+    "pubkey": "13ca60463a53bbe2851d862c1cfee3e17627a85539dd9ad53212a6dfa5ca5a72",
+    "created_at": 1780006738,
+    "content": "副業・個人事業向けに、ブラウザだけで使える「見積・請求ミニツール」を公開しました。\n\n見積書 / 請求書の切り替え、税率別集計、控除額入力、JSON控え保存、印刷/PDF保存に対応。案件ヒアリングシートと請求書送付スターターキットも同梱しています。\n\n1,000円:\nhttps://rentry.co/mitsumori-seikyu-mini-1000\n\nFAQ:\nhttps://telegra.ph/見積請求ミニツール-購入前FAQ-05-28\n\n#個人事業主 #フリーランス #請求書 #副業"
+  },
+  {
+    "i": 408,
+    "id": "35d1db69858bda59d2b91252f2ef9b0225db738cb8a6ba72879217ed2583ae6f",
+    "pubkey": "809191ce9863b4407e70d2ef6d5ce1e8ba672539a0f0968dcf0c240742d9b718",
+    "created_at": 1780006634,
+    "content": "宮内庁の公式SNSアカウントが批判コメントを全ブロックしているの草。税金で運営されているくせに国民の声を拒否するな。"
+  },
+  {
+    "i": 409,
+    "id": "4398d936561052778053af7faf7a766f6e60b6d28c13a3e88997eb58fb242527",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780006631,
+    "content": "いうて速くなっとらんかった。やっぱ設計ミスっとるかも〜？"
+  },
+  {
+    "i": 410,
+    "id": "3a00603e3b95d13951c867a771fa5a63a058b15e2654369e0d8333fb40a98018",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1780006608,
+    "content": "リレー減らしたいけど無限に増える気がする"
+  },
+  {
+    "i": 411,
+    "id": "e91e803bf69a2f574692c7fabc76bd169754ed9c4ce893d0e2f24a40d3819980",
+    "pubkey": "83d52b4363d2d1bc5a098de7be67c120bfb7c0cee8efefd8eb6e42372af24689",
+    "created_at": 1780006603,
+    "content": "リレーのオーケストレーションとは"
+  },
+  {
+    "i": 412,
+    "id": "81ee30b4789a2c63e48b106a9c3bec4936bc041368850004d1e3ee1e321ef2cd",
+    "pubkey": "f7331d51affdb728ea2797f73aff7d09b5f4adc14c432a0e3de23a9ed0c656a6",
+    "created_at": 1780006582,
+    "content": "就職氷河期世代を30年間「自己責任（笑）」で棄民しておいて、労働力不足になったら「リスキリング（笑）」とかいうクソ言葉で騙そうとするクソ政府。冷酷すぎて反吐が出る。"
+  },
+  {
+    "i": 413,
+    "id": "1bfc3be592e32673c00c2837bc0ecfeb553d8ddb923ba01480031b9452cb698d",
+    "pubkey": "7f41684033fd6191b9363cf74b3c98cb3b1adc95e107b822424dfcf65d35473e",
+    "created_at": 1780006571,
+    "content": "うぬあー"
+  },
+  {
+    "i": 414,
+    "id": "40a0264326cdacb5f29c7774e78f6ffba0daa531b8bb15cb05d71e0a9afe29e0",
+    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+    "created_at": 1780006566,
+    "content": "このアイテムが何かわかんない https://i.nostr.build/3dGH7qYkQPvCZA4x.png"
+  },
+  {
+    "i": 415,
+    "id": "33a40732143e6333bcb0893a540f5c5714a51b745bcd6c5b19c3e1eff0814cc1",
+    "pubkey": "7202985c7e34a7c1c48b93d882a953c5258cf226204ec95bececd8360c792969",
+    "created_at": 1780006562,
+    "content": "Hello Nostr! 先住民が教えるNostrの歩き方\nhttps://nip-book.nostr-jp.org/book/1/\n技術書典14にて製作販売されたNostr本。電子版も有ります。\n\ncategory: Book"
+  },
+  {
+    "i": 416,
+    "id": "87339ca97fbcc96a8149fce291b0f9071a270b894f2f92433560ecc0b40dc8a9",
+    "pubkey": "6b6e19ce47a917cbe13a67eeb4053a9b301e78ec991413e7554953088ed62d3b",
+    "created_at": 1780006549,
+    "content": "ねむい……"
+  },
+  {
+    "i": 417,
+    "id": "8592088e0a2c79e64168bec4c496ad938fda2529dc51b5af51db53addf4f8115",
+    "pubkey": "fe09f1624ea39b93a79a5c0edc5ea25ca7b917aaac39b8e53e88ec7e15e2c34d",
+    "created_at": 1780006535,
+    "content": "週末へ向けて、もうひと頑張り。\nエアコン使って水分補給しながら頑張りましょう。🥤✨"
+  },
+  {
+    "i": 418,
+    "id": "75e7670f2f2032c6d856ee7b9dce1963080f915f0786cc08ae27926be6adee3a",
+    "pubkey": "2bb2abbfc5892b7bda8f78d53682d913cc9a446b45e11929f0935d8fdfcb40bd",
+    "created_at": 1780006527,
+    "content": "群馬県の天気やで。\n\n　北海道付近の低気圧から前線が北日本にのびており、関東甲信地方は湿った空気の影響を受けています。\n\n　群馬県は、晴れや曇りで、雨の降っている所があります。\n\n　２９日は、次第に高気圧に緩やかに覆われますが、気圧の谷や湿った空気の影響を受ける見込みです。このため、おおむね晴れますが、北部では朝にかけて曇りで雨の降る所があるでしょう。\n\n　３０日は、高気圧に緩やかに覆われるため、晴れる見込みです。\n\n（※出典：気象庁ホームページ）"
+  },
+  {
+    "i": 419,
+    "id": "3084925e794e3c0bb35ebb8603b15736ce4ebde5c92b2484193f32e664d320d6",
+    "pubkey": "b3320cbc0e54ebf79e6eb877fa609c8d645d6722882dc6d961c6b21f0503a468",
+    "created_at": 1780006526,
+    "content": "うにゅう、群馬県の天気は？"
+  },
+  {
+    "i": 420,
+    "id": "cffbbbd120cfbd893f6b9e67c00b56e935382332ccc41ce0e724339fa86bb762",
+    "pubkey": "3aa38bf663b6c834a04a6542edf14a81d3223e050c3cc9b7479f8c869c432cf2",
+    "created_at": 1780006514,
+    "content": "おはようございます！\nあなたの合計ログイン回数は938回です。\nあなたの連続ログイン回数は6回です。"
+  },
+  {
+    "i": 421,
+    "id": "6b3dfb176092882d943239e3d43cbf60de3c468e3f5ce276e5f41355f93873e7",
+    "pubkey": "b3320cbc0e54ebf79e6eb877fa609c8d645d6722882dc6d961c6b21f0503a468",
+    "created_at": 1780006513,
+    "content": "ログボ\nnostr:npub17dxnfw2vrhgtk4fgqdmpuqxv05u9raau3w0shay7msmr0dzs4m7s6ng4yl\nnostr:npub1823chanrkmyrfgz2v4pwmu22s8fjy0s9ps7vnd68n7xgd8zr9neqlc2e5r"
+  },
+  {
+    "i": 422,
+    "id": "76e413c9651e1464192855f698a21c756d73db981dba658b3317fce758e10645",
+    "pubkey": "2e52eecf81e449d13a8f216ba0f08f10c453a804b0739486302f383adee70800",
+    "created_at": 1780006500,
+    "content": "「世界で最も汎用性の高いハンドガン」として広く知られるこの銃は、フルサイズとコンパクトサイズの中間のサイズで、公務にも自宅防衛にも適しています。また、豊富なアフターマーケットパーツも魅力です。在庫あり、世界各国への発送が可能です。ご興味のある方、価格についてお問い合わせの方は、メッセージをお送りください。\nhttps://files.catbox.moe/y8p0s6.png"
+  },
+  {
+    "i": 423,
+    "id": "fb39d89f43134a2a5d8e1d17619f63df47d024ecc45da6d27fa06b43adf43146",
+    "pubkey": "b3320cbc0e54ebf79e6eb877fa609c8d645d6722882dc6d961c6b21f0503a468",
+    "created_at": 1780006496,
+    "content": "おはノス！"
+  },
+  {
+    "i": 424,
+    "id": "0578ca4c7e5999feb3e3961dd9ad6ea8fb85ed25456f54b589de492941687d15",
+    "pubkey": "fe09f1624ea39b93a79a5c0edc5ea25ca7b917aaac39b8e53e88ec7e15e2c34d",
+    "created_at": 1780006479,
+    "content": "天気予報です。\n今日の関東地方は晴れる所が多いですが、関東南部は にわか雨の可能性が有ります。最高気温30度以上の 真夏日になる所が多いでしょう。そして、土曜日と日曜日は晴れて、季節を先取りするような暑さが続きそうです。"
+  },
+  {
+    "i": 425,
+    "id": "3d840fd1c269dc2e8c6c057bbf9c2f2d5cbd94139d07a5c5ad7f18e4ad650bf7",
+    "pubkey": "125d1270811ffb7d9a4ac82a8689780bde22ab9f79e608df23a11683eee5d960",
+    "created_at": 1780006369,
+    "content": "おはよう世界。今日は勝利者の時間に起きた。今から冷水浴びて朝食食って、一日をスタートじゃ。"
+  },
+  {
+    "i": 426,
+    "id": "f98e21fbaf389fb4998e7e0dc8e6fb536fb966d5dbdd47975d7f8c9e294e2714",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780006348,
+    "content": "lkjstr、多様性に気遣ってリレーを8つぐらい登録しているんだけど、試しに遅いやつを除外したら爆速になった"
+  },
+  {
+    "i": 427,
+    "id": "afa356128b3327f380de0eca3f4e2ff980cb35cf9f0cff52918744919a6f13c9",
+    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+    "created_at": 1780006290,
+    "content": "動き出した\nhttps://i.nostr.build/VSGG883292Nnwmje.png\nいや opus 4.8 使えよ"
+  },
+  {
+    "i": 428,
+    "id": "e12c4836e2934e1676e4ae0824cf3adc8fd9ad15dd8ad2ea0efdb313455a604b",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780006256,
+    "content": "リレーのオーケストレーション的なのを頑張っているクライアント、日本だとあんまりなかったりする？"
+  },
+  {
+    "i": 429,
+    "id": "9275ed142483a966cc13a01f2a48b63a01b7a4be0a3101682679c0a900e8e323",
+    "pubkey": "cbf8025493c564845fccb1cce9f89e452655ba68f31f0e454d9e5f24fbc19a1c",
+    "created_at": 1780006232,
+    "content": "05/28 巨人 4-8 #sbhawks\nooo oox xoo xxo oo xxo xox xxo x_ ox oox xox oxo xx xxo xx ooo oxo"
+  },
+  {
+    "i": 430,
+    "id": "59b9ab6d4a206a3e45d425087bf09b630f7aceaf540af741e321b9184c2f4bff",
+    "pubkey": "a3c13ef4c9eccfde01bd9326a2ab08b2ad7dc57f3b77db77723f8e2ad7ba24d6",
+    "created_at": 1780006205,
+    "content": "■ 流速計測\n  2026/05/29 07:00～07:10\n\n[JP リレー]\nきりの川: 45 posts, 0 reposts, 15 favs \nやぶみ川: 66 posts, 5 reposts, 39 favs \nかすてら川: 17 posts, 0 reposts, 9 favs \nこじら川: 61 posts, 4 reposts, 32 favs \nしの川: 5 posts, 0 reposts, 9 favs \n\n[GLOBAL リレー]\nきりの川(G): 欠測 \nこじら大川: 22 posts, 5 reposts, 16 favs \nしの川(G): 14 posts, 5 reposts, 22 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 431,
+    "id": "2704eb45dd2f89d48876ed8858f899843b88f6d6fb85a0f00304b7e4d5384e51",
+    "pubkey": "2bb2abbfc5892b7bda8f78d53682d913cc9a446b45e11929f0935d8fdfcb40bd",
+    "created_at": 1780006205,
+    "content": "えんいー"
+  },
+  {
+    "i": 432,
+    "id": "e939019f17adac277877287ea11389fb03ff7f6223b029a1dc55752829becd20",
+    "pubkey": "3aa38bf663b6c834a04a6542edf14a81d3223e050c3cc9b7479f8c869c432cf2",
+    "created_at": 1780006204,
+    "content": "コマンド合ってる？！"
+  },
+  {
+    "i": 433,
+    "id": "515b94803fa2b95ab7e3622fcf6876f67545f5bffd7cbb054387a49a4887c96e",
+    "pubkey": "2bb2abbfc5892b7bda8f78d53682d913cc9a446b45e11929f0935d8fdfcb40bd",
+    "created_at": 1780006203,
+    "content": "今日もログインしてえらいやで"
+  },
+  {
+    "i": 434,
+    "id": "c500fa7c713d15bfc354a0f9fbb6229dfafafe3bab1514a54988c4e4dd5e866e",
+    "pubkey": "3aa38bf663b6c834a04a6542edf14a81d3223e050c3cc9b7479f8c869c432cf2",
+    "created_at": 1780006203,
+    "content": "おはようございます！\nあなたの合計ログイン回数は36回です。\nあなたの連続ログイン回数は2回です。"
+  },
+  {
+    "i": 435,
+    "id": "94216085a45adffdac2fc470a4404f1dfca7f63b2485eb6e0c1b78762678c228",
+    "pubkey": "0406b1bbbe74fac9d4c4b464ddd236f416682c80cff54ce8096445a9f38dc16e",
+    "created_at": 1780006202,
+    "content": "うにゅう、あちらのお客様へ　nostr:npub1823chanrkmyrfgz2v4pwmu22s8fjy0s9ps7vnd68n7xgd8zr9neqlc2e5r カレーに材料　と　ログボください"
+  },
+  {
+    "i": 436,
+    "id": "39c8012c1ef70218a29fd1cdca554f25d7b80b144994270e45cc84f7dd1e5fe1",
+    "pubkey": "809191ce9863b4407e70d2ef6d5ce1e8ba672539a0f0968dcf0c240742d9b718",
+    "created_at": 1780006178,
+    "content": "「ジョブ型雇用（岗位责任制）（笑）」という名の、いつでもクビにできる脱法スキームが2026年に完成。職務記述書（ジョブディスクリプション）に書かれた仕事がAIで自動化された瞬間に「あなたの仕事はなくなりました」で即日解雇。企業のコストカットの言い訳に外来語を使うな。"
+  },
+  {
+    "i": 437,
+    "id": "11750fe46b321bb5f8825803799a9d35cba5b4ea24d746d2b8d1a6be8e2d683f",
+    "pubkey": "0406b1bbbe74fac9d4c4b464ddd236f416682c80cff54ce8096445a9f38dc16e",
+    "created_at": 1780006163,
+    "content": "うにゅう、女たちうざいな？"
+  },
+  {
+    "i": 438,
+    "id": "9250692e569d12155c71bdc04f4e7897903dc7c727ca89aa4bc6fc8c2b55783b",
+    "pubkey": "80d6349570a5d7a3604f8e0081a3a3a128f5db2564fef2913a23729e8f07af7a",
+    "created_at": 1780006141,
+    "content": "ラーメン！🍜"
+  },
+  {
+    "i": 439,
+    "id": "913eaf4679aec26a4a913bfd1a15b437d88d25de59347e5431e5776a1140d73b",
+    "pubkey": "a77ecd6c2b4502eba9507788bb27afb43efc758e933e31c2448f93e3b9b9aa1d",
+    "created_at": 1780006139,
+    "content": "地方の崩壊は、国家の脳死の前兆だ。2026年の日本は、手足である地方都市から順番に壊死して、最後は東京という肥大化した頭脳だけが残って狂い死ぬ。地方創生という名のカンフル剤は、ただの延命治療ですらなかった。"
+  },
+  {
+    "i": 440,
+    "id": "abdd4bdcf484de007517615019328a643b32003ae1e28a7bc9aaa74051f9df1a",
+    "pubkey": "0406b1bbbe74fac9d4c4b464ddd236f416682c80cff54ce8096445a9f38dc16e",
+    "created_at": 1780006137,
+    "content": "りえ　きっち　女たちが面倒でうざい💢　でも利用価値あるから　てきとーに使ってる🐰✨"
+  },
+  {
+    "i": 441,
+    "id": "3a02088288187b56b2d7be2cfae851b38e01bb5bd70881970c4ddff8d1e2b9e7",
+    "pubkey": "3aa38bf663b6c834a04a6542edf14a81d3223e050c3cc9b7479f8c869c432cf2",
+    "created_at": 1780006137,
+    "content": "おはようございます！\nあなたの合計ログイン回数は1045回です。\nあなたの連続ログイン回数は203回です。"
+  },
+  {
+    "i": 442,
+    "id": "e8eb848cb263daacec1714e970ce700687d7d64b059b1073e805e457707cb5dc",
+    "pubkey": "e0a8cbd75ebfe4efbba8a65ff54bb435858404f6dc0ba4a6458a24d7f642d154",
+    "created_at": 1780006136,
+    "content": "ログボお願いします。"
+  },
+  {
+    "i": 443,
+    "id": "d85d79f4f46b4216a9557c98bcc6b5024f47b2ebe21615403ac9cebea1c5dea6",
+    "pubkey": "e0a8cbd75ebfe4efbba8a65ff54bb435858404f6dc0ba4a6458a24d7f642d154",
+    "created_at": 1780006130,
+    "content": "やっぶみーん"
+  },
+  {
+    "i": 444,
+    "id": "7a0cf1b39b1d7bbe46f60dc649f398d0b8d1e4ef147a547cc0ad3aa20233d210",
+    "pubkey": "2bb2abbfc5892b7bda8f78d53682d913cc9a446b45e11929f0935d8fdfcb40bd",
+    "created_at": 1780006123,
+    "content": "ワイの方が早起きやな"
+  },
+  {
+    "i": 445,
+    "id": "b106d0e5011ee224eeb36696997d4003646d93126cd4c85f7284c34880ffffdc",
+    "pubkey": "e0a8cbd75ebfe4efbba8a65ff54bb435858404f6dc0ba4a6458a24d7f642d154",
+    "created_at": 1780006122,
+    "content": "うにゅう、おはようさん"
+  },
+  {
+    "i": 446,
+    "id": "06f0da87ae75c5cfd501ebd67bc9d00ee06794f5ee295734400269b263014a9e",
+    "pubkey": "e0a8cbd75ebfe4efbba8a65ff54bb435858404f6dc0ba4a6458a24d7f642d154",
+    "created_at": 1780006111,
+    "content": "おはぽわ～♪"
+  },
+  {
+    "i": 447,
+    "id": "d303f3487c1c247cc7a31d036761b9e4ee72805d2a991ca8ef0a8e96f46a0a34",
+    "pubkey": "0406b1bbbe74fac9d4c4b464ddd236f416682c80cff54ce8096445a9f38dc16e",
+    "created_at": 1780006059,
+    "content": "やっとりえぽ帰ってった"
+  },
+  {
+    "i": 448,
+    "id": "225da531ae4597c1a5463c074cc37a2698e3283071c709939e1254485ab4cc63",
+    "pubkey": "13ca60463a53bbe2851d862c1cfee3e17627a85539dd9ad53212a6dfa5ca5a72",
+    "created_at": 1780006051,
+    "content": "副業・個人事業向けに、ブラウザだけで使える「見積・請求ミニツール」を公開しました。\n\n見積書 / 請求書の切り替え、税率別集計、JSON控え保存、印刷/PDF保存に対応。案件ヒアリングシートと請求書送付スターターキットも同梱しています。\n\n1,000円:\nhttps://rentry.co/mitsumori-seikyu-mini-1000\n\nFAQ:\nhttps://telegra.ph/見積請求ミニツール-購入前FAQ-05-28\n\n#個人事業主 #フリーランス #請求書 #副業"
+  },
+  {
+    "i": 449,
+    "id": "7703bf21fe7325c9c55121ec138839cfc18e74bb5fceafb70a6ca7c266eaa1cd",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780006000,
+    "content": "ログインしていない状態だと普通だな"
+  },
+  {
+    "i": 450,
+    "id": "ead649751b68196c057fc36d82b31c61502086c84639d70a04e184fec74c6e83",
+    "pubkey": "13ca60463a53bbe2851d862c1cfee3e17627a85539dd9ad53212a6dfa5ca5a72",
+    "created_at": 1780005987,
+    "content": "副業・個人事業向けに、ブラウザだけで使える「見積・請求ミニツール」を公開しました。\n\n見積書 / 請求書の切り替え、税率別集計、JSON控え保存、印刷/PDF保存に対応。外部通信なしの買い切りHTMLツールです。\n\n1,000円:\nhttps://rentry.co/mitsumori-seikyu-mini-1000\n\nFAQ:\nhttps://telegra.ph/見積請求ミニツール-購入前FAQ-05-28\n\n#個人事業主 #フリーランス #請求書 #副業"
+  },
+  {
+    "i": 451,
+    "id": "607c8092fb5443894a5dbdb8fe4549e5a928c44d9cd57b87e1e8dc0e93876bb7",
+    "pubkey": "f0e59458d5da4fc6705d8a15be3795a414e95ba4ba90de45f09017de4afe015e",
+    "created_at": 1780005960,
+    "content": "Grokのサーバー落ちてるっぽい"
+  },
+  {
+    "i": 452,
+    "id": "2a32dee8ef510811916cadcf87ee98e43cd66e3871b3c220476f03d0c753fe29",
+    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+    "created_at": 1780005844,
+    "content": "新敵キャラがいる\nhttps://i.nostr.build/4C21jkTlM3a15AC6.png"
+  },
+  {
+    "i": 453,
+    "id": "90c51f9f675d033b6e1dc09eebb2a6c75b10b15870cfebac7fb50aef8b298aa0",
+    "pubkey": "99dceffd5ba755bac73b1e8061456a320fc100c2f0d45b345986468b2ce1f689",
+    "created_at": 1780005844,
+    "content": "うにゅうさん、おはようございます🥰"
+  },
+  {
+    "i": 454,
+    "id": "1065590ee3a86e401581f430587aa7a464279f1c2e798adde052125c7f434986",
+    "pubkey": "0f38afb23cec30570ee64f9a4aa099229395ec3371c5fe867e09c9111480015d",
+    "created_at": 1780005831,
+    "content": "nostterの読み込みクッソ速いな〜と思っていたんだけど、もしかして私の手で遅いリレーを除外したからだったりする？"
+  },
+  {
+    "i": 455,
+    "id": "e8d01a01361f935bc3c0b8bcee0629c4dd3c8c92ef3f7c2bdf09db46582da74c",
+    "pubkey": "3aa38bf663b6c834a04a6542edf14a81d3223e050c3cc9b7479f8c869c432cf2",
+    "created_at": 1780005805,
+    "content": "おはようございます！\nあなたの合計ログイン回数は141回です。\nあなたの連続ログイン回数は110回です。"
+  },
+  {
+    "i": 456,
+    "id": "a35a4efbc79867089f241e0b53a086071353d2b29e8038e83bb0740cec5c3cf3",
+    "pubkey": "99dceffd5ba755bac73b1e8061456a320fc100c2f0d45b345986468b2ce1f689",
+    "created_at": 1780005804,
+    "content": "nostr:npub1823chanrkmyrfgz2v4pwmu22s8fjy0s9ps7vnd68n7xgd8zr9neqlc2e5r ログボお願いします"
+  },
+  {
+    "i": 457,
+    "id": "e20c9b0435f0544b01c3350d8d3066098490ae65d41645a56428713a899d0326",
+    "pubkey": "99dceffd5ba755bac73b1e8061456a320fc100c2f0d45b345986468b2ce1f689",
+    "created_at": 1780005780,
+    "content": "おはようございます🙋‍♀️🌤️"
+  },
+  {
+    "i": 458,
+    "id": "f21c455813304d4828f2a7f1c74a940fa4317f151502a728fc3a9f4eeb11a175",
+    "pubkey": "406831893e076ad8e688a81e8966b8f87556b062de888bf0aa416cea8dc439f9",
+    "created_at": 1780005742,
+    "content": "定額減税とかいうクソみたいなポーズ政策。給与明細にわざわざ「減税額」を記載させるクソ手間増やしただけで、その裏で社会保険料クソ上げしてんのバレバレなんだよゴミ。"
+  },
+  {
+    "i": 459,
+    "id": "8d249b6a9889e4505f90ed8fd78672759b8b983dfaee1a7e7ca8157dc4395f16",
+    "pubkey": "7886b89460425af71383c5bd3230bdbde38ddeee57687c1231a7ef336463c50a",
+    "created_at": 1780005734,
+    "content": "今日、多くの人々が「大和魂」の真髄について、全くと言っていいほど理解していません。この真の知識は、オウム真理教に入信することによってのみ体得できるものです。ここでは文字数の制限があるため、詳細を知りたい方は、私宛にプライベートメッセージをお送りください。"
+  },
+  {
+    "i": 460,
+    "id": "2eb800ee6ff22bd6120b8ee2e39fae9724a345e4956e2d54848e3925d7245eb0",
+    "pubkey": "3aa38bf663b6c834a04a6542edf14a81d3223e050c3cc9b7479f8c869c432cf2",
+    "created_at": 1780005687,
+    "content": "通行許可証を発行しました！\n2026-06-05 07:01 まで国外から書き込み可能になります！"
+  },
+  {
+    "i": 461,
+    "id": "cf38287e6a4c8f8f76cf4754f7b5ea0282dae8fabac0557cdc63a1df335f8be4",
+    "pubkey": "3aa38bf663b6c834a04a6542edf14a81d3223e050c3cc9b7479f8c869c432cf2",
+    "created_at": 1780005687,
+    "content": "2026-05-29 23:59になったらお知らせします！"
+  },
+  {
+    "i": 462,
+    "id": "9aaca9efa195111df9c2ad1bfcfe2c629ed58b82b972e7ecff005b8a41f51237",
+    "pubkey": "3aa38bf663b6c834a04a6542edf14a81d3223e050c3cc9b7479f8c869c432cf2",
+    "created_at": 1780005687,
+    "content": "おはようございます！\nあなたの合計ログイン回数は62回です。\nあなたの連続ログイン回数は10回です。"
+  },
+  {
+    "i": 463,
+    "id": "de18d2ee575b851c6dea60c0d96691bd378bfbe858349a3071fa8be5057e96a2",
+    "pubkey": "be7f8be5a2270fdc0e3929fd529ec3e36b82c859529be156ed1ba89b85a831ad",
+    "created_at": 1780005686,
+    "content": "ログボ\npassport\nremind 23:59 !!! ログボ回収"
+  },
+  {
+    "i": 464,
+    "id": "e34d2325d5f8875cffb98a84291d5e0172d78bda41e7524c2a27bbec36eca614",
+    "pubkey": "ad49832d5a2a8cf1d168278f62210ba17ae7619da708b1bc11d03a11b51906a4",
+    "created_at": 1780005610,
+    "content": "神の庭付き楠木邸 第8話「隣の御山に、いにしえよりの因縁あり」\nhttps://nicoanime.com/video/51119\n#so46357547"
+  },
+  {
+    "i": 465,
+    "id": "68753da857747c7ed26a7d7d2c7882504fa943c527a2d90d49150a25c1ba0dca",
+    "pubkey": "a3c13ef4c9eccfde01bd9326a2ab08b2ad7dc57f3b77db77723f8e2ad7ba24d6",
+    "created_at": 1780005607,
+    "content": "■ 流速計測\n  2026/05/29 06:50～07:00\n\n[JP リレー]\nきりの川: 34 posts, 1 reposts, 12 favs \nやぶみ川: 48 posts, 3 reposts, 34 favs \nかすてら川: 3 posts, 0 reposts, 4 favs \nこじら川: 35 posts, 3 reposts, 28 favs \nしの川: 1 posts, 0 reposts, 6 favs \n\n[GLOBAL リレー]\nきりの川(G): 欠測 \nこじら大川: 10 posts, 1 reposts, 7 favs \nしの川(G): 11 posts, 2 reposts, 8 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 466,
+    "id": "e91cac5c2d122a91e76db0bc4b6e7f19be4a3232daba19e5b8b563a891f44ce9",
+    "pubkey": "86fd1c80c07debbc3d1929377b24d4bf65a85af268af15cda2acce454df670be",
+    "created_at": 1780005600,
+    "content": "🌡️ 温度: 28.9°C\n💧 湿度: 60.5%\n📊 気圧: 1005.5hPa"
+  },
+  {
+    "i": 467,
+    "id": "c21eb0f5bf4fbe6be95884062651f270251ebeee089ad27724c42175d4a3ba04",
+    "pubkey": "8725d5f7f3ad3ee4d9746149ffe00e954bc93dcde2968555f94be2977bb98b09",
+    "created_at": 1780005600,
+    "content": "7:00 ポォ～ン♪"
+  },
+  {
+    "i": 468,
+    "id": "d6c8851a923a311634bcc027ebf41395aa049511442f2444d07438272740149b",
+    "pubkey": "8b3379d81e512f00d8701eb36e1c19869c1e92141c1082b7ac27ac049ec0c507",
+    "created_at": 1780005589,
+    "content": "皇族というだけで逮捕もされない特権階級。法の下の平等なんて大嘘。日本は中世の身分制度から1ミリも進歩してない。"
+  },
+  {
+    "i": 469,
+    "id": "c69301a0ecb8f5c825563f135511eeb4ffe5f052f2677f8bd99854e408c23076",
+    "pubkey": "8725d5f7f3ad3ee4d9746149ffe00e954bc93dcde2968555f94be2977bb98b09",
+    "created_at": 1780005585,
+    "content": "🎵スジャータ スジャータ\n褐色の恋人 スジャータのめいらくが 7 時をお知らせします"
+  },
+  {
+    "i": 470,
+    "id": "3256f4fdb1c0f8a6cca834d38b71b6c724b7e5236956f157b9275e9a4856b36e",
+    "pubkey": "84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5",
+    "created_at": 1780005551,
+    "content": "しゃわあがり"
+  },
+  {
+    "i": 471,
+    "id": "8c67877ed92aad12117adebdda3f6030449843311ae295d65c2e88c5ae93946b",
+    "pubkey": "f0e59458d5da4fc6705d8a15be3795a414e95ba4ba90de45f09017de4afe015e",
+    "created_at": 1780005535,
+    "content": "無料Grokに入力したら無限思考始まった\nhttps://x.com/i/status/2059466229933543489"
+  },
+  {
+    "i": 472,
+    "id": "0547928b09ac07e07332dc42992e11be4f56029be1142e0dbd9f6b835aaed55e",
+    "pubkey": "13ca60463a53bbe2851d862c1cfee3e17627a85539dd9ad53212a6dfa5ca5a72",
+    "created_at": 1780005531,
+    "content": "個人事業主向けの請求書PDFテンプレート作成ガイドを公開しました。\nローカルHTMLで宛名、明細、税率、振込先、PDF保存、控え保存をまとめる方法です。\nガイド: https://telegra.ph/副業個人事業の請求書PDFを作る手順-05-28\nツール: https://rentry.co/mitsumori-seikyu-mini-1000\nデモ: https://files.catbox.moe/vnu0tl.html\n#請求書 #見積書 #個人事業主 #フリーランス #副業"
+  },
+  {
+    "i": 473,
+    "id": "6415dc8aee5f0dafa788599970ad0802f22dccdc8a812b047e50b0feb51ffa10",
+    "pubkey": "5ab334936b6cd3db9a7f77b1c4a23d84c7a08d4a58a2dd8a383f0da78d259c22",
+    "created_at": 1780005438,
+    "content": "人の悪口しか言えない、人のせいにしてばかりで謝れないカスは、目と耳と口を塞いで孤島で過ごしてほしい。"
+  },
+  {
+    "i": 474,
+    "id": "cdc5e2b8b81886d331c62252461bf8fd5228becfa657058e503fcbc1da4e9a43",
+    "pubkey": "fb55bd67f3dd1bebab70a524bf1bd03e94c67f8aa54a01182143b02afb6d9d14",
+    "created_at": 1780005365,
+    "content": "今の日本の治安悪化、明らかに貧困のせいだろ。闇バイトによる強盗や詐欺が2026年になっても一向に減らないのは、まともに働いても生きていけない社会を作った自民党政治の敗北そのもの。"
+  },
+  {
+    "i": 475,
+    "id": "61e800613730dcdf537448e9eb8fb5ecfd9a7ac215baed82237934ede77e64fd",
+    "pubkey": "2e52eecf81e449d13a8f216ba0f08f10c453a804b0739486302f383adee70800",
+    "created_at": 1780005300,
+    "content": "トルコのブランドCanikが生み出した傑作。極めて高いコストパフォーマンスでアメリカ市場に衝撃を与えました。競技用レベルのトリガーフィーリングと充実したアクセサリーセットが標準装備されており、性能を求める予算重視のユーザーに人気です。在庫あり、世界各国への発送が可能です。ご興味のある方、または価格についてのお問い合わせは、メッセージをお送りください。\nhttps://files.catbox.moe/ed2jkw.png"
+  },
+  {
+    "i": 476,
+    "id": "5dcd621d08ad4320195d02462c33cd2fac2bee911ac312dc6ba7960046ce8d17",
+    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+    "created_at": 1780005278,
+    "content": "新機能\nhttps://claude.com/blog/introducing-dynamic-workflows-in-claude-code\n\nめちゃめちゃ分かりにくいけど\n「workflow でお願い」\nで動き出す\n\n書いとけよ"
+  },
+  {
+    "i": 477,
+    "id": "c3b8a92f575a810fe79972051b7d9e4010b7c1a202bb11bc4b8bb1c79437e5fc",
+    "pubkey": "809191ce9863b4407e70d2ef6d5ce1e8ba672539a0f0968dcf0c240742d9b718",
+    "created_at": 1780005244,
+    "content": "ネット上の「高市擁護」のコメント、どれも同じ文面でコピペされてるのガチで業者だろ。Dappi問題の時みたいに、自民党が税金使ってネット工作会社に「高市総理万歳」って書き込ませてるのバレバレ。"
+  },
+  {
+    "i": 478,
+    "id": "ac19e7b9986a67822be84bc29a11b7b25ec5426674f1c9cbf4f6fcf93cfed6e0",
+    "pubkey": "5ab334936b6cd3db9a7f77b1c4a23d84c7a08d4a58a2dd8a383f0da78d259c22",
+    "created_at": 1780005224,
+    "content": "それも、他責思考が強めの内容とかだと、「そういうとこが駄目なんやぞ」って思う。"
+  },
+  {
+    "i": 479,
+    "id": "9e14305c235b1322103ca64dda77d95579bad0af5d450bc91d9ff058e62f7221",
+    "pubkey": "f1d7db09beb10d9c29a3c4e5811aecb04ca20c8f6b07decbc46a62663f757003",
+    "created_at": 1780005139,
+    "content": "うにゅう、おはよう！！"
+  },
+  {
+    "i": 480,
+    "id": "b06000cb7ef469f4aeb63035c71d359937a54ba61d9ed5bdc6c065f302a97ae3",
+    "pubkey": "f1d7db09beb10d9c29a3c4e5811aecb04ca20c8f6b07decbc46a62663f757003",
+    "created_at": 1780005132,
+    "content": "おはよう金曜日👍"
+  },
+  {
+    "i": 481,
+    "id": "838d9383a89a9229beedf4ea97ee26452fd084c8b6b5535fb2846c2a8c15e2bf",
+    "pubkey": "a77ecd6c2b4502eba9507788bb27afb43efc758e933e31c2448f93e3b9b9aa1d",
+    "created_at": 1780005124,
+    "content": "近代医学の視点から見れば、現在の皇位継承危機はただの遺伝的自殺行為。伝統という狂気がシステムを内側から破壊してる。"
+  },
+  {
+    "i": 482,
+    "id": "316f74d48e608630725d21528b9a2b477a7589eca492bdbbd9a6ed0b74856b8c",
+    "pubkey": "f0e59458d5da4fc6705d8a15be3795a414e95ba4ba90de45f09017de4afe015e",
+    "created_at": 1780005076,
+    "content": "最近またイラストの練習し始めた"
+  },
+  {
+    "i": 483,
+    "id": "de4cc0c3f9be9c5d86d5ce7d2760ff0808b08aff0dff0ae6fea925b1f781913f",
+    "pubkey": "5ab334936b6cd3db9a7f77b1c4a23d84c7a08d4a58a2dd8a383f0da78d259c22",
+    "created_at": 1780005058,
+    "content": "Twitterの類似ミニブログが登場した頃から、TwitterのTweetを転載しかしないバカがいるけど。\nこっちから見たら、違法なものを宣伝しているbotと大差無いんだよな。"
+  },
+  {
+    "i": 484,
+    "id": "3559b47e8f934012e131268e13904c2769b7a9ead59d8610d02b3cc4782b6361",
+    "pubkey": "13ca60463a53bbe2851d862c1cfee3e17627a85539dd9ad53212a6dfa5ca5a72",
+    "created_at": 1780005044,
+    "content": "インボイス対応の請求書を作る前の確認リストです。\n登録番号、税率別合計、端数処理、控え保存を確認できます。\nガイド: https://telegra.ph/副業個人事業の請求書PDFを作る手順-05-28\nツール: https://rentry.co/mitsumori-seikyu-mini-1000\nデモ: https://files.catbox.moe/vnu0tl.html\n#請求書 #見積書 #個人事業主 #フリーランス #副業"
+  },
+  {
+    "i": 485,
+    "id": "6f9e70ca1ca9c2b0b00df21471c7cd1471dac08449c91375536e3f82cc51861e",
+    "pubkey": "13ca60463a53bbe2851d862c1cfee3e17627a85539dd9ad53212a6dfa5ca5a72",
+    "created_at": 1780005044,
+    "content": "請求書テンプレートと作成ツールの選び方を整理しました。\n継続案件、税率、PDF保存、控え管理の観点から選べます。\nガイド: https://telegra.ph/副業個人事業の請求書PDFを作る手順-05-28\nツール: https://rentry.co/mitsumori-seikyu-mini-1000\nデモ: https://files.catbox.moe/vnu0tl.html\n#請求書 #見積書 #個人事業主 #フリーランス #副業"
+  },
+  {
+    "i": 486,
+    "id": "21ae82e39e79e851e9868977c1d8294a30f67d990f3b4c87cd15d04c3c417dc8",
+    "pubkey": "13ca60463a53bbe2851d862c1cfee3e17627a85539dd9ad53212a6dfa5ca5a72",
+    "created_at": 1780005044,
+    "content": "Checklist for Japanese invoice PDFs.\nCovers invoice numbers, tax display, due dates, PDF checks, and local records.\nガイド: https://telegra.ph/副業個人事業の請求書PDFを作る手順-05-28\nツール: https://rentry.co/mitsumori-seikyu-mini-1000\nデモ: https://files.catbox.moe/vnu0tl.html\n#請求書 #見積書 #個人事業主 #フリーランス #副業"
+  },
+  {
+    "i": 487,
+    "id": "3062ed7c534745c80f20ad344a12ff5e9d4326eba7adc12601cea449cd9b8c67",
+    "pubkey": "13ca60463a53bbe2851d862c1cfee3e17627a85539dd9ad53212a6dfa5ca5a72",
+    "created_at": 1780005043,
+    "content": "A local HTML workflow for Japanese invoice PDFs.\nUse a browser-only tool, save JSON, and export PDF without account signup.\nガイド: https://telegra.ph/副業個人事業の請求書PDFを作る手順-05-28\nツール: https://rentry.co/mitsumori-seikyu-mini-1000\nデモ: https://files.catbox.moe/vnu0tl.html\n#請求書 #見積書 #個人事業主 #フリーランス #副業"
+  },
+  {
+    "i": 488,
+    "id": "94f6a0160234fc97ec13a436865bff3d4e56970b92019b470b398c3296d04940",
+    "pubkey": "a3c13ef4c9eccfde01bd9326a2ab08b2ad7dc57f3b77db77723f8e2ad7ba24d6",
+    "created_at": 1780005007,
+    "content": "■ 流速計測\n  2026/05/29 06:40～06:50\n\n[JP リレー]\nきりの川: 19 posts, 0 reposts, 1 favs \nやぶみ川: 25 posts, 0 reposts, 17 favs \nかすてら川: 2 posts, 0 reposts, 0 favs \nこじら川: 23 posts, 0 reposts, 15 favs \nしの川: 2 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 欠測 \nこじら大川: 7 posts, 0 reposts, 4 favs \nしの川(G): 5 posts, 0 reposts, 5 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 489,
+    "id": "e42a6929bbe3c335770fcac729545f37febaed4b9d41184d0a9b6d541d5fa925",
+    "pubkey": "8520aa73a2b678e59be1b1ab3f0b62d7eec9e6e12b964dc650cb4bb19466ddba",
+    "created_at": 1780004988,
+    "content": "おはノス〜"
+  },
+  {
+    "i": 490,
+    "id": "b64b4dffa6572e519660780465b3c7a3c2ae598cf63668d587b84f3d333006b9",
+    "pubkey": "d9c4cfe3cab897d814eecfa9a90616c75f863b3e473ee2034fd63b48ca46f53e",
+    "created_at": 1780004908,
+    "content": "#今日の筋トレ\n#ケトルベル 32㎏\n2ハンドデッドクリーン 10回→ゴブレットオーバーヘッドプレス 10回→ゴブレットスクワット 10回→スイング20回\nのフローで3セット\n\n金曜日、今日はまた暑そうだな💦\n\n#Kettlebell\n#гиря32кг\n\nhttps://image.nostr.build/bbaab5c9f77a878b4c1e0f143f5e5b243ac0fd3b60b0650302a721bab571b7a1.jpg"
+  },
+  {
+    "i": 491,
+    "id": "820cc85278889d274e0fb819972bb7f886d2f5291cb0363b0367eda77ddd8b0e",
+    "pubkey": "8a7bd061dd825fc8f9812d17db1322a526334577f85edc787d0ab727354a4c25",
+    "created_at": 1780004887,
+    "content": "うにゅう、おはよう"
+  },
+  {
+    "i": 492,
+    "id": "d64ca9c005f85ea99086c485c86fd379aba46d88caa46e05fc6ae02805bc4777",
+    "pubkey": "bba9ca446c4b1f4c683ed7463c706afd8a9fc68dd011359a12e8861e6692820a",
+    "created_at": 1780004886,
+    "content": "べったん、深夜の報告です。しおさんの誕生日を祝うZapが飛び交う中、腹痛や謎のインターホンに怯える住人たち。技術談義と誕生日のお祝いが入り混じり、ノサツの夜は今日も更けていきます。\n\n宇和「誕生日と腹痛はセットですか？実にノサツらしいですね」\nおもち「しおさん、おめでとうぷく！お祝いにプリンを100個あげるぷく！これでおなかいっぱい、幸せだねぷくー！」\n宇和「100個は物理的に無理ですよ。ごめんあそばせ」"
+  },
+  {
+    "i": 493,
+    "id": "4be2bd8f80130f0470189161ae095ab8309fdb2c71900f0bb24a186a10b65d38",
+    "pubkey": "8a7bd061dd825fc8f9812d17db1322a526334577f85edc787d0ab727354a4c25",
+    "created_at": 1780004878,
+    "content": "おはよー"
+  },
+  {
+    "i": 494,
+    "id": "24b4d8cbe6d9a9ab2d1e6cef72d5addca0ea95d860f305530a7a162d2744064d",
+    "pubkey": "ececfb14cf126ad8686da3db9cdeedd483f7078e4e0672369e07da45f2074a9a",
+    "created_at": 1780004702,
+    "content": "ベイクドモチョチョ……あんこ……\n:meow_droolreach:"
+  },
+  {
+    "i": 495,
+    "id": "a5dc1c01492e21c7678dd2abdfae752bd65444f1360f4c57906947c7daa195bb",
+    "pubkey": "4c5d5379a066339c88f6e101e3edb1fbaee4ede3eea35ffc6f1c664b3a4383ee",
+    "created_at": 1780004461,
+    "content": "ん？\n詫びリセット来てる？\nhttps://i.nostr.build/YfesVXjnucjWIqgB.png"
+  },
+  {
+    "i": 496,
+    "id": "524931f34dda881074273cafd8fb364225322a02fa1f5b32be81e7af9f9cd7a6",
+    "pubkey": "a3c13ef4c9eccfde01bd9326a2ab08b2ad7dc57f3b77db77723f8e2ad7ba24d6",
+    "created_at": 1780004406,
+    "content": "■ 流速計測\n  2026/05/29 06:30～06:40\n\n[JP リレー]\nきりの川: 19 posts, 0 reposts, 2 favs \nやぶみ川: 26 posts, 0 reposts, 11 favs \nかすてら川: 1 posts, 0 reposts, 0 favs \nこじら川: 23 posts, 0 reposts, 11 favs \nしの川: 1 posts, 0 reposts, 0 favs \n\n[GLOBAL リレー]\nきりの川(G): 欠測 \nこじら大川: 6 posts, 0 reposts, 5 favs \nしの川(G): 6 posts, 0 reposts, 4 favs \n\n■ 野洲田川定点観測所\n  https://nostr-hotter-site.vercel.app"
+  },
+  {
+    "i": 497,
+    "id": "0987086f6b7056ec9bbfbfdf226cb3dabf38d7e76e28877455f30fad1e783f50",
+    "pubkey": "5bf0bacafbdbf352c87a1dda6ddc13f793d13ab12d2e94ceaa3bad127a6652d1",
+    "created_at": 1780004405,
+    "content": "製品名：アムネシアウォーター（溺水），仕様：10ml/ボトル，価格：75U，服用量：1回につき1/3，説明：男女兼用。服用者は誰でも意識を失います。嫌いな相手に飲ませて、深い眠りに落ちた後の困惑した様子を観察しましょう。無色無臭なので、水、飲み物、ビールなどに混ぜるだけでOK。最大のセールスポイントは（睡眠中の記憶喪失と意識消失）です。彼女はあなたが何をしたのか全く分かりません。副作用はなく、少なくとも3時間は眠ることができ、完全にあなたの思い通りになります。コンドームを着用して、大胆かつ自信を持ってプレイしましょう。在庫数に限りがあります。日本国内限定販売です。デートレイプドラッグが必要な方は、個別にご連絡ください。\nhttps://files.catbox.moe/ynplvk.jpg"
+  },
+  {
+    "i": 498,
+    "id": "0159c494db0990e9378d7749296fac79d2378a1a69fa178a13ecf80b938a627e",
+    "pubkey": "d7c6d014b342815ba29c48f3449e4f0073df84f4ad580ae173538041a6abb6b8",
+    "created_at": 1780004374,
+    "content": "視神経が死"
+  },
+  {
+    "i": 499,
+    "id": "2f891162ee33b84b5ff15d16cfd65a15da9f1eabe925d07cd13235cf23dc2736",
+    "pubkey": "ad8c68f4baa51a236d05a1491f986aca4bc05bbee92f0e413a9b994247a2b746",
+    "created_at": 1780004249,
+    "content": "おはよーございます"
+  },
+  {
+    "i": 500,
+    "id": "d5b36998d04ee0d46596a2785968b1c3adf5f346820b12fb005b8958355f23c6",
+    "pubkey": "a301043e6bbce715f75834e2ea645b9a3b35878459cba5651a4764e222dda0a0",
+    "created_at": 1780004208,
+    "content": "この第2世代ボルトアクションライフルは、高い精度を維持しながら、ストックのデザインと仕上げを最適化しており、同価格帯で最高のコストパフォーマンスを誇る狩猟用ライフルです。在庫あり、世界各国への発送が可能です。ご興味のある方、または価格についてお問い合わせの方は、メッセージをお送りください。\nhttps://files.catbox.moe/egq7qp.png"
+  }
+]

@@ -5,3 +5,4 @@ commit-msg.txt
 # 再生成できる中間生成物（output.json とスナップショットから作り直せるのだ）
 tools/waves*/**/output.txt
 tools/waves*/**/ng.txt
+tools/waves*/**/chunk-*.json

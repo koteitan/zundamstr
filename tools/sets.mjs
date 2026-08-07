@@ -41,7 +41,7 @@ export const SETS = {
   // --- ラウンド制の訓練/測定セット（毎ラウンド新規データ） ---
   // r<N>train でチューニングし、r<N>test で測る。test の結果は改善側に渡さないのだ。
   ...Object.fromEntries(
-    [1, 2, 3, 4, 5, 6, 7, 8, 9, 10].flatMap((r) => [
+    [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16].flatMap((r) => [
       [`r${r}train`, {
         samples: path.join(here, `samples-r${r}-train.json`),
         waves: path.join(here, `waves-r${r}train`),

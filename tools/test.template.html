@@ -274,18 +274,20 @@ function draw() {
     }
     for (const p of ps) {
       // 実力測定は中抜きの大きい丸、調整後の値は塗りつぶしの小さい丸で区別するのだ
+      // 実力測定の丸は常に --series-2 の1色なのだ。セットごとに色を変えると、
+      // 同じ意味の点（未使用データでの測定）が毎回違う色になって読めないのだ
       s += p.blind
-        ? `<circle cx="${p.x}" cy="${p.y}" r="7" fill="${C("--surface-1")}" stroke="${C(set.color)}" stroke-width="3"/>`
-        : `<circle cx="${p.x}" cy="${p.y}" r="5" fill="${C(set.color)}" stroke="${C("--surface-1")}" stroke-width="2"/>`;
+        ? `<circle cx="${p.x}" cy="${p.y}" r="4.5" fill="${C("--surface-1")}" stroke="${C("--series-2")}" stroke-width="2.5"/>`
+        : `<circle cx="${p.x}" cy="${p.y}" r="3" fill="${C(set.color)}" stroke="${C("--surface-1")}" stroke-width="1.5"/>`;
     }
-    const last = ps[ps.length - 1];
-    s += `<text x="${last.x + 12}" y="${last.y + 4}" font-size="12" font-weight="600" fill="${C("--text-primary")}">${last.h.rate}%</text>`;
   }
 
-  // 実力測定には値を直接添える（これがいちばん読まれるべき数字なのだ）
-  for (const p of bp) {
-    s += `<text x="${p.x}" y="${p.y + 22}" text-anchor="middle" font-size="11" font-weight="600"
-            fill="${C("--text-secondary")}">${p.h.rate}%</text>`;
+  // ★ 数字は最新の実力測定に1つだけ添えるのだ。全部の点に付けると数字だらけで
+  // かえって読めないのだ。途中の値はホバーで出るのだ
+  const lastBlind = bp[bp.length - 1];
+  if (lastBlind) {
+    s += `<text x="${lastBlind.x}" y="${lastBlind.y - 16}" text-anchor="middle" font-size="15" font-weight="700"
+            fill="${C("--series-2")}">${lastBlind.h.rate}%</text>`;
   }
 
   s += `<g id="cross" style="opacity:0"><line y1="${M.t}" y2="${M.t + ih}" stroke="${C("--text-muted")}" stroke-width="1" stroke-dasharray="3 3"/></g>`;
@@ -333,13 +335,16 @@ function draw() {
 // --- legend --------------------------------------------------------------
 function legend() {
   const el = document.getElementById("legend");
-  const parts = ALL.map(
-    (s) => `<span><i style="border-top-color:var(${s.color})"></i>${s.label}</span>`,
-  );
-  parts.push(
-    `<span><b class="mk-blind"></b><b>◯ = 未使用データでの測定（実力）</b></span>`,
-    `<span><b class="mk-tuned"></b>● = そのデータで調整した後の値</span>`,
-  );
+  // ★ 凡例に出すのは折れ線になっているセットだけなのだ。
+  // 1点しかないセット（毎ラウンドの測定）は12個あって、名前を並べても読めないのだ。
+  // それらは全部 ◯ の1項目にまとまるのだ——同じ意味の点だからなのだ
+  const parts = [
+    `<span><i style="border-top-color:var(--text-muted);border-top-style:dashed"></i><b style="color:var(--series-2)">◯ 未使用データでの測定（実力）</b></span>`,
+  ];
+  for (const s of ALL) {
+    if (s.history.length < 2) continue;
+    parts.push(`<span><i style="border-top-color:var(${s.color})"></i>● ${s.label}（調整に使ったデータ）</span>`);
+  }
   el.innerHTML = parts.join("");
 }
 
